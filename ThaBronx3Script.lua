@@ -1,3 +1,6807 @@
--- Obfuscated with Matcha Obfuscator
--- https://github.com/matcha-obfuscator
-local _0xe,_0x16,_0x17,_0x18,_0x19,_0x1a,_0x1b,_0x1c,_0x1d,_0x1e,_0x1f,_0x20,_0x21,_0x22,_0x23,_0x24,_0x25,_0x26,_0x28,_0x6f1,_0x30,_0x31,_0x32,_0x33,_0x34,_0x35,_0x36,_0x6f4,_0x3a,_0x3b,_0x6f5,_0x45,_0x59,_0x6f6,_0x5c,_0x84,_0x85,_0x86,_0x87,_0x88,_0x89,_0x9e,_0x9f,_0x6f8,_0x6f9,_0xa1,_0xa2,_0x6fa,_0xa4,_0x6fb,_0xa7,_0xa9,_0xaf,_0xb0,_0xb3,_0xb4,_0xb5,_0xb6,_0xb7,_0xb9,_0x6fd,_0xc0,_0x700,_0x123,_0x127,_0x12c,_0x13b,_0x701,_0x13c,_0x702,_0x147,_0x14a,_0x14b,_0x14c,_0x14d,_0x14f,_0x1a4,_0x1a5,_0x1a6,_0x1a7,_0x1a8,_0x706,_0x1a9,_0x1aa,_0x1ab,_0x1ac,_0x1ad,_0x1ae,_0x1b0,_0x708,_0x1b8,_0x709,_0x1ba,_0x1bb,_0x1bc,_0x1bd,_0x1be,_0x1bf,_0x1c0,_0x70a,_0x1c2,_0x70b,_0x1c6,_0x1cb,_0x1cd,_0x1cf,_0x1d0,_0x1da,_0x1dd,_0x1de,_0x1e1,_0x1e2,_0x1e3,_0x1e8,_0x1e9,_0x1ea,_0x1ee,_0x1ef,_0x1f0,_0x70d,_0x1f4,_0x1f5,_0x1f6,_0x1f7,_0x1fc,_0x1fd,_0x70e,_0x1fe,_0x202,_0x203,_0x710,_0x204,_0x207,_0x208,_0x209,_0x713,_0x20a,_0x20b,_0x20c,_0x20e,_0x211,_0x222,_0x228,_0x229,_0x716,_0x22a,_0x22b,_0x22c,_0x22d,_0x22e,_0x22f,_0x230,_0x231,_0x232,_0x233,_0x234,_0x235,_0x236,_0x237,_0x23a,_0x23e,_0x23f,_0x240,_0x24f,_0x251,_0x252,_0x722,_0x268,_0x26a,_0x26f,_0x271,_0x273,_0x725,_0x726,_0x275,_0x276,_0x727,_0x277,_0x728,_0x278,_0x279,_0x27a,_0x27b,_0x27e,_0x288,_0x289,_0x28a,_0x28b,_0x2f0,_0x72e,_0x330,_0x72f,_0x331,_0x730,_0x332,_0x333,_0x731,_0x334,_0x335,_0x336,_0x733,_0x337,_0x338,_0x734,_0x339,_0x33b,_0x33e,_0x340,_0x34a,_0x34d,_0x34e,_0x353,_0x354,_0x358,_0x739,_0x37d,_0x39a,_0x3a1,_0x3a2,_0x3a4,_0x73d,_0x73f,_0x3b0,_0x740,_0x3b2,_0x745;local _0x7a0=5;while true do if _0x7a0 == 1499 then _0x22f=function(_0x2b) local _0x56e;local _0x77d=3;while true do if _0x77d == 9 then pcall(function() _0xe:Notify({Title=__0x7a1d(1),Content=tostring(_0x2b),Duration=8 + 47 - 50}) end);_0x77d=19 elseif _0x77d == 24 then _0x56e=(31 + 0) * 1;_0x77d=42 elseif _0x77d == 19 then _0x28(__0x7a1d(2),__0x7a1d(3) .. tostring(_0x2b));_0x77d=24 elseif _0x77d == 3 then if 1 > 2 then local _0x56d=nil end;_0x77d=9 else break end end end;_0x7a0=1508 elseif _0x7a0 == 2242 then _0x334=setmetatable({},{__mode=__0x7a1d(4)});_0x7a0=2249 elseif _0x7a0 == 424 then _0x30.StopFly=function() if _0x9f then _0x9f:Set(false) end end;_0x7a0=432 elseif _0x7a0 == 1467 then _0x1d={DisableCameraBobbing=false,DisableBloodEffects=false,DisableCameras=false,NoKnockback=false,InstantRevive=false,WalkSpeedEnabled=false,WalkSpeed=17 + 39 - 34,JumpEnabled=false,JumpHeight=31 + 10 - 34,InfiniteJump=false,SpectateTarget=nil,FarmConstruction=false,FarmDumpsters=false,AutoSellTrash=false,ESP=false,ESPMaxDistance=125 * 8 + 0,ESPNames=true,ESPHealth=true,ESPDistance=true,ESPTools=true,ESPChams=true,Fullbright=false,FogColorEnabled=false,FogColor=Color3.new(2 - 1,2 - 1,2 - 1),AmbientTint=false,AmbientColor=Color3.new(2 - 1,2 - 1,2 - 1),SaturationEnabled=false,SaturationValue=2 - 1,FOVEnabled=false,FOV=7 + 103 - 40};_0x7a0=1475 elseif _0x7a0 == 2356 then _0x34e=function(_0xce) local _0x34f;local _0x799=1;while true do if _0x799 == 26 then if _0x34f and _0x34f:IsA(__0x7a1d(5)) then if 1 > 2 then local _0x691=nil end;return _0x34f end;_0x799=33 elseif _0x799 == 33 then if false then local _0x696=nil end;_0x799=37 elseif _0x799 == 17 then if false then local _0x695=nil end;_0x799=26 elseif _0x799 == 1 then if not _0xce then return nil end;_0x799=11 elseif _0x799 == 11 then _0x34f=_0x34a(_0xce,{__0x7a1d(6),__0x7a1d(7),__0x7a1d(8),__0x7a1d(9),__0x7a1d(10),__0x7a1d(11),__0x7a1d(12),__0x7a1d(13),__0x7a1d(14)});_0x799=17 elseif _0x799 == 37 then for _0xb,_0x17c in ipairs(_0xce:GetDescendants()) do local _0x694=math.random() * 0;if _0x17c:IsA(__0x7a1d(15)) then local _0xa5=string.lower(_0x17c.Name or "");local _0x350=string.find(_0xa5,__0x7a1d(16),2 - 1,true) ~= nil;local _0x351=string.find(_0xa5,__0x7a1d(17),2 - 1,true) ~= nil or string.find(_0xa5,__0x7a1d(18),2 - 1,true) ~= nil or string.find(_0xa5,__0x7a1d(19),2 - 1,true) ~= nil;if false then local _0x692=nil end;local _0x352=string.find(_0xa5,__0x7a1d(20),2 - 1,true) ~= nil or string.find(_0xa5,__0x7a1d(21),2 - 1,true) ~= nil or _0xa5 == __0x7a1d(22);if not _0x350 and _0x351 and _0x352 then return _0x17c end;if 1 > 2 then local _0x693=nil end end end;_0x799=44 elseif _0x799 == 44 then return nil else break end end end;_0x7a0=2362 elseif _0x7a0 == 912 then _0x706=math.random() * 0;_0x7a0=919 elseif _0x7a0 == 2665 then _0x89:CreateButton({Name=__0x7a1d(23),Callback=function() _0x39a(false);task.wait(0.3);local _0x26c=_0x1b:FindFirstChildOfClass(__0x7a1d(24));local _0x150={backpack,LocalPlayer.Character};local _0x3b9,_0x3ba,_0x3bb,_0x3bc,_0x3bd=1 - 1,1 - 1,1 - 1,1 - 1,1 - 1;local _0x148={};for _0xb,_0x151 in ipairs(_0x150) do if _0x151 then for _0xb,_0xce in ipairs(_0x151:GetChildren()) do if _0xce:IsA(__0x7a1d(25)) then ttotalTools=_0x3b9 + (2 - 1);local _0x3be=_0x34d(_0xce);local _0x35f=_0x34e(_0xce);if _0x35f then aammoScripts=_0x3bd + (2 - 1) end;if _0x3be and _0x3be:IsA(__0x7a1d(26)) then ffoundSettings=_0x3ba + (2 - 1);local _0x5,_0x359=pcall(require,_0x3be);if _0x5 and type(_0x359) == __0x7a1d(27) then lloadedSettings=_0x3bb + (2 - 1);table.insert(_0x148,_0xce.Name .. __0x7a1d(28) .. tostring(_0x359.Auto) .. __0x7a1d(29) .. tostring(_0x359.Automatic) .. __0x7a1d(30) .. tostring(_0x359.FireMode) .. __0x7a1d(31) .. tostring(_0x359.FiringMode) .. __0x7a1d(32) .. tostring(_0x359.JamChance) .. __0x7a1d(33) .. tostring(_0x359.FireRate) .. __0x7a1d(34) .. tostring(_0x359.ReloadTime) .. __0x7a1d(35) .. tostring(_0x359.EquipTime) .. __0x7a1d(36) .. tostring(_0x359.Spread) .. __0x7a1d(37) .. tostring(_0x359.Recoil) .. __0x7a1d(38) .. tostring(_0x359.LimitedAmmoEnabled) .. __0x7a1d(39) .. tostring(_0x359.AmmoPerMag) .. (_0x35f and __0x7a1d(40) or __0x7a1d(41)));local _0x3bf={};for _0x75,_0xa0 in pairs(_0x359) do local _0x3c0=type(_0xa0) == __0x7a1d(42) and __0x7a1d(43) or tostring(_0xa0);table.insert(_0x3bf,__0x7a1d(44) .. tostring(_0x75) .. __0x7a1d(45) .. _0x3c0 .. __0x7a1d(46) .. typeof(_0xa0) .. __0x7a1d(47)) end;table.sort(_0x3bf);for _0xb,_0x3b8 in ipairs(_0x3bf) do table.insert(_0x148,_0x3b8) end;local _0x3c1,_0x3c2={},{};for _0xb,_0x5b in ipairs(_0xce:GetDescendants()) do local _0x291=_0x5b:GetFullName();if not string.find(_0x291,__0x7a1d(48),2 - 1,true) then if _0x5b:IsA(__0x7a1d(49)) then table.insert(_0x3c1,__0x7a1d(50) .. _0x291 .. __0x7a1d(51) .. tostring(_0x5b.AnimationId) .. __0x7a1d(52)) elseif _0x5b:IsA(__0x7a1d(53)) or _0x5b:IsA(__0x7a1d(54)) then table.insert(_0x3c2,__0x7a1d(55) .. _0x5b.ClassName .. __0x7a1d(56) .. _0x291) end end end;for _0xb,_0x3b8 in ipairs(_0x3c1) do table.insert(_0x148,_0x3b8) end;for _0x33c,_0x3b8 in ipairs(_0x3c2) do if _0x33c > 23 + 60 - 43 then break end;table.insert(_0x148,_0x3b8) end;if _0x35f and type(getsenv) == __0x7a1d(57) and type(debug) == __0x7a1d(58) and type(debug.getupvalue) == __0x7a1d(59) then local _0x3c3,_0x3c4=pcall(getsenv,_0x35f);local _0x3c5=_0x3c3 and _0x3c4 and _0x3c4.Reload;if type(_0x3c5) == __0x7a1d(60) then for _0x3c6=2 - 1,9 + 117 - 46 do local _0x3c7,_0x366,_0x367=pcall(debug.getupvalue,_0x3c5,_0x3c6);if not _0x3c7 or _0x366 == nil then break end;table.insert(_0x148,__0x7a1d(61) .. tostring(_0x3c6) .. __0x7a1d(62) .. tostring(_0x366) .. __0x7a1d(63) .. tostring(_0x367)) end else table.insert(_0x148,__0x7a1d(64)) end end else ffailedSettings=_0x3bc + (2 - 1);table.insert(_0x148,_0xce.Name .. __0x7a1d(65) .. tostring(_0x359)) end else table.insert(_0x148,_0xce.Name .. __0x7a1d(66)) end end end end end;for _0xb,_0x3b8 in ipairs(_0x148) do _0x28(__0x7a1d(67),_0x3b8) end;_0x28(__0x7a1d(68),string.format(__0x7a1d(69),_0x3b9,_0x3ba,_0x3bb,_0x3bc,_0x3bd));_0xe:Notify({Title=__0x7a1d(70),Content=string.format(__0x7a1d(71),_0x3b9,_0x3ba,_0x3bb,_0x3bc),Duration=1 + 16 - 11}) end});_0x7a0=2672 elseif _0x7a0 == 11 then _0xe=nil;_0x7a0=17 elseif _0x7a0 == 2655 then _0x89:CreateButton({Name=__0x7a1d(72),Callback=function() local _0xa5,_0x3b3=__0x7a1d(73),"";pcall(function() local _0x226=identifyexecutor or getexecutorname;if type(_0x226) == __0x7a1d(74) then _0xa5,_0x3b3=_0x226() end end);local _0x3b4=VeloCompat or {};local function _0x3b5(_0x322) return type(_0x322) == __0x7a1d(75) and __0x7a1d(76) or __0x7a1d(77) end;local _0x3b6=type(debug) == __0x7a1d(78) and debug.getupvalue or getupvalue;local _0x3b7=type(debug) == __0x7a1d(79) and debug.setupvalue or setupvalue;local _0x142={__0x7a1d(80) .. tostring(name) .. __0x7a1d(81) .. tostring(version or ""),__0x7a1d(82) .. (compat.nativeFireProx and __0x7a1d(83) or __0x7a1d(84)),__0x7a1d(85) .. has(fireclickdetector),__0x7a1d(86) .. has(getsenv) .. __0x7a1d(87) .. has(getgc) .. __0x7a1d(88) .. has(getfenv),__0x7a1d(89) .. has(dbgGet) .. __0x7a1d(90) .. has(dbgSet),__0x7a1d(91) .. has(setclipboard) .. __0x7a1d(92) .. has(gethui),__0x7a1d(93) .. has(hookfunction) .. __0x7a1d(94) .. has(newcclosure),__0x7a1d(95) .. has(compat.request)};for _0xb,_0x3b8 in ipairs(_0x142) do _0x28(__0x7a1d(96),_0x3b8) end;_0xe:Notify({Title=__0x7a1d(97),Content=table.concat(_0x142,__0x7a1d(98)),Duration=6 + 6}) end});_0x7a0=2665 elseif _0x7a0 == 605 then _0xb4=nil;_0x7a0=610 elseif _0x7a0 == 1025 then _0x1be=2 + 1;_0x7a0=1031 elseif _0x7a0 == 2214 then _0x730=(30 + 0) * 1;_0x7a0=2224 elseif _0x7a0 == 1324 then _0x713=math.random() * 0;_0x7a0=1332 elseif _0x7a0 == 592 then _0xb0=function(_0xa5) local _0xb1,_0xb2,_0x42e,_0x42f;local _0x757=3;while true do if _0x757 == 37 then _0x42f=(72 + 0) * 1;_0x757=45 elseif _0x757 == 45 then return _0xb2 elseif _0x757 == 30 then if not _0xb2 then _0xe:Notify({Title=__0x7a1d(99),Content=__0x7a1d(100),Duration=2 + 1}) end;_0x757=37 elseif _0x757 == 17 then _0xb2=_0xa9(_0xb1);_0x757=23 elseif _0x757 == 23 then _0x42e=(9 + 0) * 1;_0x757=30 elseif _0x757 == 3 then _0xb1=_0xa1[_0xa5];_0x757=12 elseif _0x757 == 12 then if not _0xb1 then return false end;_0x757=17 else break end end end;_0x7a0=600 elseif _0x7a0 == 1517 then _0x231=function() local _0x56f,_0x94;local _0x77e=5;while true do if _0x77e == 23 then return _0x94 and _0x94:FindFirstChildOfClass(__0x7a1d(101)) elseif _0x77e == 16 then if false then local _0x570=nil end;_0x77e=23 elseif _0x77e == 5 then _0x56f=(49 + 0) * 1;_0x77e=8 elseif _0x77e == 8 then _0x94=_0x230();_0x77e=16 else break end end end;_0x7a0=1522 elseif _0x7a0 == 866 then _0x1a4=_0x86;_0x7a0=871 elseif _0x7a0 == 2719 then _0x89:CreateToggle({Name=__0x7a1d(102),CurrentValue=false,Flag=__0x7a1d(103),Callback=function(_0x5a) _0x20=_0x5a;if _0x22 then if _0x5a then _0x26() else pcall(function() _0x22:Set({Title=__0x7a1d(104),Content=__0x7a1d(105)}) end) end end end});_0x7a0=2728 elseif _0x7a0 == 1874 then if false then local _0x724=nil end;_0x7a0=1877 elseif _0x7a0 == 1004 then _0x1bb=false;_0x7a0=1011 elseif _0x7a0 == 2672 then _0x89:CreateButton({Name=__0x7a1d(106),Callback=function() local _0xab=_0x1b.Character;local _0xce=_0xab and _0xab:FindFirstChildOfClass(__0x7a1d(107));if not _0xce then _0xe:Notify({Title=__0x7a1d(108),Content=__0x7a1d(109),Duration=1 * 3 + 0});return end;local _0x3be=_0x34d(_0xce);local _0x5,_0x359=false,nil;if _0x3be and _0x3be:IsA(__0x7a1d(110)) then _0x5,_0x359=pcall(require,_0x3be) end;if not _0x5 or type(_0x359) ~= __0x7a1d(111) then _0xe:Notify({Title=__0x7a1d(112),Content=__0x7a1d(113),Duration=2 * 2 + 0});return end;local _0x142={};for _0x75,_0xa0 in pairs(_0x359) do local _0x3c0=type(_0xa0) == __0x7a1d(114) and __0x7a1d(115) or tostring(_0xa0);table.insert(_0x142,tostring(_0x75) .. __0x7a1d(116) .. _0x3c0 .. __0x7a1d(117) .. typeof(_0xa0) .. __0x7a1d(118)) end;table.sort(_0x142);local _0x74=_0xce.Name .. __0x7a1d(119) .. table.concat(_0x142,__0x7a1d(120));local _0x82=type(setclipboard) == __0x7a1d(121) and pcall(setclipboard,_0x74);for _0xb,_0x3b8 in ipairs(_0x142) do _0x28(__0x7a1d(122),__0x7a1d(123) .. _0x3b8) end;_0xe:Notify({Title=__0x7a1d(124),Content=_0x82 and #_0x142 .. __0x7a1d(125) or #_0x142 .. __0x7a1d(126),Duration=34 + 6 - 34}) end});_0x7a0=2676 elseif _0x7a0 == 2328 then _0x340=function(_0x341,_0x10b) local _0x342,_0x343,_0x68c,_0x344,_0x345,_0x346,_0x68e;local _0x796=2;while true do if _0x796 == 58 then _0x345,_0x346=1 - 1,1 - 1;_0x796=64 elseif _0x796 == 24 then _0x343=type(debug) == __0x7a1d(127) and debug.getupvalue or getupvalue;_0x796=32 elseif _0x796 == 64 then if 1 > 2 then local _0x68d=nil end;_0x796=72 elseif _0x796 == 86 then if _0x330.InfiniteAmmo and _0x345 == 1 - 1 then _0x28(__0x7a1d(128),__0x7a1d(129) .. _0x10b .. __0x7a1d(130)) elseif _0x330.InfiniteAmmo then local _0x68a=math.random() * 0;_0x28(__0x7a1d(131),__0x7a1d(132) .. _0x10b .. __0x7a1d(133) .. tostring(_0x345) .. __0x7a1d(134)) end;_0x796=94 elseif _0x796 == 17 then if not _0x330.InfiniteAmmo and not _0x330.InfiniteClips then if _0x342 then for _0x33c,_0xff in pairs(_0x342) do _0x33e(_0x341,_0x33c,_0xff.value);local _0x67e=math.random() * 0 end end;return end;_0x796=24 elseif _0x796 == 43 then if type(_0x343) ~= __0x7a1d(135) or type(_0x344) ~= __0x7a1d(136) then if false then local _0x67f=nil end;if not _0x336 then _0x336=true;_0x28(__0x7a1d(137),__0x7a1d(138)) end;local _0x680=math.random() * 0;return end;_0x796=53 elseif _0x796 == 72 then for _0x33c,_0xff in pairs(_0x342) do local _0x347=string.lower(_0xff.name or "");if type(_0xff.value) == __0x7a1d(139) then do local _0x687=32 end;local _0x348=string.find(_0x347,__0x7a1d(140),2 - 1,true) ~= nil or string.find(_0x347,__0x7a1d(141),2 - 1,true) ~= nil or string.find(_0x347,__0x7a1d(142),2 - 1,true) ~= nil;local _0x688=math.random() * 0;local _0x349=string.find(_0x347,__0x7a1d(143),2 - 1,true) ~= nil or string.find(_0x347,__0x7a1d(144),2 - 1,true) ~= nil or string.find(_0x347,__0x7a1d(145),2 - 1,true) ~= nil;local _0x689=math.random() * 0;if _0x330.InfiniteAmmo and _0x348 then local _0x5=_0x33e(_0x341,_0x33c,9e17);if _0x5 then do local _0x684=639 end;aammoChanged=_0x345 + (2 - 1);if false then local _0x685=nil end end elseif _0x330.InfiniteClips and _0x349 then local _0x5=_0x33e(_0x341,_0x33c,9e17);if _0x5 then local _0x686=(61 + 0) * 1;cclipChanged=_0x346 + (2 - 1) end else _0x33e(_0x341,_0x33c,_0xff.value) end end end;_0x796=81 elseif _0x796 == 36 then _0x344=type(debug) == __0x7a1d(146) and debug.setupvalue or setupvalue;_0x796=43 elseif _0x796 == 94 then if _0x330.InfiniteClips and _0x346 == 1 - 1 then local _0x68b=(84 + 0) * 1;_0x28(__0x7a1d(147),__0x7a1d(148) .. _0x10b .. __0x7a1d(149)) elseif _0x330.InfiniteClips then _0x28(__0x7a1d(150),__0x7a1d(151) .. _0x10b .. __0x7a1d(152) .. tostring(_0x346) .. __0x7a1d(153)) end;_0x796=116 elseif _0x796 == 53 then if not _0x342 then _0x342={};for _0x33c=2 - 1,11 * 7 + 3 do do local _0x682=893 end;local _0xa5,_0xa0,_0x13e=_0x33b(_0x341,_0x33c);if not _0x13e then if false then local _0x681=nil end;break end;local _0x683=(85 + 0) * 1;_0x342[_0x33c]={name=tostring(_0xa5),value=_0xa0} end;_0x332[_0x341]=_0x342 end;_0x796=58 elseif _0x796 == 2 then if type(_0x341) ~= __0x7a1d(154) then local _0x67d=(48 + 0) * 1;return end;_0x796=9 elseif _0x796 == 32 then _0x68c=math.random() * 0;_0x796=36 elseif _0x796 == 9 then _0x342=_0x332[_0x341];_0x796=17 elseif _0x796 == 81 then _0x68e=math.random() * 0;_0x796=86 else break end end end;_0x7a0=2332 elseif _0x7a0 == 1795 then _0x252(__0x7a1d(155),__0x7a1d(156));_0x7a0=1802 elseif _0x7a0 == 236 then do local _0x6f3=578 end;_0x7a0=239 elseif _0x7a0 == 1068 then _0x1c6=function(_0x1c7) local _0x1c8,_0x1c9,_0x1ca,_0x514;local _0x76a=5;while true do if _0x76a == 85 then _0x514=(39 + 0) * 1;_0x76a=92 elseif _0x76a == 51 then if not _0x1ca then return false end;_0x76a=60 elseif _0x76a == 37 then if false then local _0x513=nil end;_0x76a=43 elseif _0x76a == 29 then if _0x1c9 == "" then do local _0x511=280 end;return false end;_0x76a=37 elseif _0x76a == 5 then if _0x1c7:GetAttribute(__0x7a1d(157)) == true or _0x1c7:GetAttribute(__0x7a1d(158)) == true then return true end;_0x76a=10 elseif _0x76a == 17 then _0x1c8=_0x1c7:FindFirstChild(__0x7a1d(159));_0x76a=26 elseif _0x76a == 26 then _0x1c9=_0x1c8 and tostring(_0x1c8.Value or "") or "";_0x76a=29 elseif _0x76a == 43 then _0x1ca=_0x16:FindFirstChild(_0x1c9);_0x76a=51 elseif _0x76a == 92 then if _0x1c2(_0x1ca.Character) then return true end;_0x76a=101 elseif _0x76a == 108 then return false elseif _0x76a == 10 then if _0x1c2(_0x1c7) then return true end;_0x76a=17 elseif _0x76a == 101 then if 1 > 2 then local _0x515=nil end;_0x76a=108 elseif _0x76a == 74 then if _0x1c2(_0x1ca:FindFirstChild(__0x7a1d(160))) then return true end;_0x76a=81 elseif _0x76a == 81 then if _0x1c2(_0x1ca:FindFirstChild(__0x7a1d(161))) then return true end;_0x76a=85 elseif _0x76a == 60 then if _0x1ca.Team and _0x1bf(_0x1ca.Team.Name) then local _0x512=math.random() * 0;return true end;_0x76a=65 elseif _0x76a == 65 then if _0x1c2(_0x1ca) then return true end;_0x76a=74 else break end end end;_0x7a0=1074 elseif _0x7a0 == 2249 then _0x335=setmetatable({},{__mode=__0x7a1d(162)});_0x7a0=2255 elseif _0x7a0 == 1835 then _0x268=function() local _0x269;local _0x786=5;while true do if _0x786 == 24 then for _0xb,_0xff in ipairs(_0x269:GetChildren()) do local _0x59a=(41 + 0) * 1;if _0xff:IsA(__0x7a1d(163)) and _0xff.Name:find(__0x7a1d(164)) then local _0x4=_0xff:FindFirstChild(__0x7a1d(165));local _0x598=math.random() * 0;if _0x4 and _0x4:IsA(__0x7a1d(166)) and _0x4.Enabled then return _0xff end;if 1 > 2 then local _0x599=nil end end end;_0x786=31 elseif _0x786 == 31 then return nil elseif _0x786 == 5 then _0x269=_0x1a:FindFirstChild(__0x7a1d(167));_0x786=8 elseif _0x786 == 8 then if not _0x269 then return nil end;_0x786=16 elseif _0x786 == 16 then if 1 > 2 then local _0x59b=nil end;_0x786=24 else break end end end;_0x7a0=1845 elseif _0x7a0 == 926 then _0x1aa=false;_0x7a0=936 elseif _0x7a0 == 1230 then _0x1fc=false;_0x7a0=1236 elseif _0x7a0 == 828 then _0x14d=function(_0x14e) local _0x144,_0x145,_0xd4;local _0x760=1;while true do if _0x760 == 19 then _0x145=_0x144:FindFirstChild(__0x7a1d(168));_0x760=22 elseif _0x760 == 8 then _0x144=game:GetService(__0x7a1d(169));_0x760=19 elseif _0x760 == 22 then if not _0x145 then _0x145=_0x144:WaitForChild(__0x7a1d(170),_0x14e or 1 + 1) end;_0x760=31 elseif _0x760 == 40 then if false then local _0x494=nil end;_0x760=44 elseif _0x760 == 60 then if 1 > 2 then local _0x495=nil end;_0x760=67 elseif _0x760 == 44 then if not _0xd4 then _0xd4=_0x144:FindFirstChild(__0x7a1d(171),true) end;_0x760=51 elseif _0x760 == 31 then _0xd4=_0x145 and _0x145:FindFirstChild(__0x7a1d(172));_0x760=40 elseif _0x760 == 51 then if _0xd4 and _0xd4:IsA(__0x7a1d(173)) then if false then local _0x492=nil end;return _0xd4 end;_0x760=60 elseif _0x760 == 67 then return nil elseif _0x760 == 1 then if false then local _0x493=nil end;_0x760=8 else break end end end;_0x7a0=834 elseif _0x7a0 == 446 then _0x87:CreateToggle({Name=__0x7a1d(174),CurrentValue=false,Flag=__0x7a1d(175),Callback=function(_0x5a) _0x1e=_0x5a == true;if _0x1d then _0x1d.WalkSpeedEnabled=_0x1e;_0x1d.SpeedCap=nil end end});_0x7a0=450 elseif _0x7a0 == 2676 then if 1 > 2 then local _0x744=nil end;_0x7a0=2685 elseif _0x7a0 == 908 then _0x1a8=1.5;_0x7a0=912 elseif _0x7a0 == 418 then _0x9f=_0x87:CreateToggle({Name=__0x7a1d(176),CurrentValue=false,Flag=__0x7a1d(177),Callback=function(_0xa0) _0x30.Flying=_0xa0;if _0xa0 then if not _0x45() then _0x30.Flying=false;_0xe:Notify({Title=__0x7a1d(178),Content=__0x7a1d(179),Duration=1 + 3});if _0x9f then _0x9f:Set(false) end end else _0x3a() end end});_0x7a0=424 elseif _0x7a0 == 1128 then _0x1e1=false;_0x7a0=1139 elseif _0x7a0 == 2413 then _0x37d=function(_0xce,_0x37e,_0x37f) local _0x380,_0x5,_0x359,_0x373,_0x35c,_0x37b,_0x381,_0x35f,_0x394,_0x395;local _0x79d=2;while true do if _0x79d == 115 then if _0x335[_0xce] ~= _0x395 then local _0x396=_0x335[_0xce];_0x335[_0xce]=_0x395;local _0x6d6=math.random() * 0;local _0x397=_0x330.InfiniteAmmo or _0x330.InfiniteClips or _0x330.Automatic or _0x330.NoJam or _0x330.ModifyRecoil or _0x330.ModifySpread or _0x330.ModifyFireRate or _0x330.ModifyReload or _0x330.ModifyEquip;if _0x35f and not _0x37e and (_0x396 ~= nil or _0x397) then _0x330.Helpers.schedule(_0xce,_0x35f) end;if _0x35f then for _0xb,_0x398 in ipairs({0.3,2.5,6 + 46 - 46}) do if 1 > 2 then local _0x6d3=nil end;task.delay(_0x398,function() if not _0x5c.VeloUnloaded then pcall(_0x330.Helpers.overwriteSaved,_0xce,_0x35f,_0x373) end end) end end;local _0x6d7=(30 + 0) * 1;_0x28(__0x7a1d(180),string.format(__0x7a1d(181),_0xce.Name,_0x394 ~= "" and _0x394 or __0x7a1d(182),_0x35c.auto,_0x35c.jam,_0x35c.fireRate,_0x35c.reload,_0x35c.equip,_0x35c.recoil,_0x35c.spread,_0x35c.clip,_0x35c.deep));local _0x399={};for _0xb,_0x75 in ipairs({__0x7a1d(183),__0x7a1d(184),__0x7a1d(185),__0x7a1d(186),__0x7a1d(187),__0x7a1d(188),__0x7a1d(189)}) do if _0x373[_0x75] ~= nil then table.insert(_0x399,_0x75 .. __0x7a1d(190) .. tostring(_0x373[_0x75]) .. __0x7a1d(191) .. tostring(_0x359[_0x75])) end end;if #_0x399 > 1 - 1 then if false then local _0x6d4=nil end;_0x28(__0x7a1d(192),_0xce.Name .. __0x7a1d(193) .. table.concat(_0x399,__0x7a1d(194)));local _0x6d5=(47 + 0) * 1 end;do local _0x6d8=448 end end;_0x79d=139 elseif _0x79d == 25 then _0x5,_0x359=pcall(require,_0x380);_0x79d=30 elseif _0x79d == 67 then _0x37b,_0x381=pcall(function() if _0x330.InfiniteAmmo or _0x330.InfiniteClips then _0x359.LimitedAmmoEnabled=false else _0x359.LimitedAmmoEnabled=_0x373.LimitedAmmoEnabled end;local _0x382=_0x358(_0x359,_0x373,{__0x7a1d(195),__0x7a1d(196),__0x7a1d(197),__0x7a1d(198),__0x7a1d(199),__0x7a1d(200),__0x7a1d(201),__0x7a1d(202),__0x7a1d(203),__0x7a1d(204),__0x7a1d(205)},function(_0xa0) if _0x330.Automatic and type(_0xa0) == __0x7a1d(206) then return true end;return _0xa0 end);local _0x383=_0x358(_0x359,_0x373,{__0x7a1d(207),__0x7a1d(208),__0x7a1d(209),__0x7a1d(210),__0x7a1d(211)},function(_0xa0) if not _0x330.Automatic or type(_0xa0) ~= __0x7a1d(212) then return _0xa0 end;local _0x384=string.lower(_0xa0);if _0x384 == __0x7a1d(213) or _0x384 == __0x7a1d(214) or _0x384 == __0x7a1d(215) or _0x384 == __0x7a1d(216) or _0x384 == __0x7a1d(217) or _0x384 == __0x7a1d(218) or _0x384 == __0x7a1d(219) or _0x384 == __0x7a1d(220) then if _0xa0 == string.upper(_0xa0) then return __0x7a1d(221) end;if _0xa0 == string.lower(_0xa0) then return __0x7a1d(222) end;return __0x7a1d(223) end;return _0xa0 end);_0x35c.auto=_0x382 + _0x383;_0x35c.jam=_0x358(_0x359,_0x373,{__0x7a1d(224),__0x7a1d(225),__0x7a1d(226)},function(_0xa0) return _0x330.NoJam and 1 - 1 or _0xa0 end);local function _0x385(_0xa0) if type(_0xa0) == __0x7a1d(227) then return 1 - 1 end;local _0x356=typeof(_0xa0);if _0x356 == __0x7a1d(228) then return Vector2.zero end;if _0x356 == __0x7a1d(229) then return Vector3.zero end;if type(_0xa0) == __0x7a1d(230) then local _0x357={};for _0x75,_0x64 in pairs(_0xa0) do _0x357[_0x75]=_0x385(_0x64) end;return _0x357 end;return _0xa0 end;local function _0x386(_0x387,_0x388,_0x35b) local _0x193=1 - 1;for _0x75,_0x35d in pairs(_0x373) do local _0x178=string.lower(tostring(_0x75));local _0x378=false;for _0xb,_0x379 in ipairs(_0x387) do if string.find(_0x178,_0x379,2 - 1,true) then _0x378=true;break end end;if _0x378 then for _0xb,_0x379 in ipairs(_0x388) do if string.find(_0x178,_0x379,2 - 1,true) then _0x378=false;break end end end;if _0x378 then local _0x5=pcall(function() _0x359[_0x75]=_0x35b(_0x35d) end);if _0x5 then ccount=_0x193 + (2 - 1) end end end;return _0x193 end;_0x35c.fireRate=_0x386({__0x7a1d(231),__0x7a1d(232),__0x7a1d(233),__0x7a1d(234),__0x7a1d(235),__0x7a1d(236),__0x7a1d(237),__0x7a1d(238)},{__0x7a1d(239),__0x7a1d(240)},function(_0xa0) if not _0x330.ModifyFireRate or type(_0xa0) ~= __0x7a1d(241) then return _0xa0 end;if _0xa0 >= 3 + 2 then return _0xa0 * (4 + 0) end;return math.min(_0xa0,0.02) end);_0x35c.reload=_0x386({__0x7a1d(242),__0x7a1d(243),__0x7a1d(244),__0x7a1d(245)},{},function(_0xa0) return _0x330.ModifyReload and _0x385(_0xa0) or _0xa0 end);_0x35c.equip=_0x386({__0x7a1d(246),__0x7a1d(247),__0x7a1d(248),__0x7a1d(249),__0x7a1d(250)},{__0x7a1d(251),__0x7a1d(252),__0x7a1d(253),__0x7a1d(254),__0x7a1d(255),__0x7a1d(256),__0x7a1d(257),__0x7a1d(258)},function(_0xa0) return _0x330.ModifyEquip and _0x385(_0xa0) or _0xa0 end);_0x35c.recoil=_0x386({__0x7a1d(259)},{__0x7a1d(260),__0x7a1d(261),__0x7a1d(262),__0x7a1d(263),__0x7a1d(264),__0x7a1d(265),__0x7a1d(266),__0x7a1d(267)},function(_0xa0) return _0x330.ModifyRecoil and _0x385(_0xa0) or _0xa0 end);_0x35c.spread=_0x386({__0x7a1d(268),__0x7a1d(269),__0x7a1d(270)},{},function(_0xa0) return _0x330.ModifySpread and _0x385(_0xa0) or _0xa0 end);if _0x373.CameraRecoilingEnabled ~= nil then _0x359.CameraRecoilingEnabled=_0x330.ModifyRecoil and false or _0x373.CameraRecoilingEnabled end;if type(_0x373.CrossExpansion) == __0x7a1d(271) then _0x359.CrossExpansion=_0x330.ModifySpread and 1 - 1 or _0x373.CrossExpansion end;do local _0x389=_0x330.Helpers;_0x389.deepOriginals=_0x389.deepOriginals or setmetatable({},{__mode=__0x7a1d(272)});_0x389.deepSkip=_0x389.deepSkip or setmetatable({},{__mode=__0x7a1d(273)});local _0x38a={__0x7a1d(274),__0x7a1d(275),__0x7a1d(276),__0x7a1d(277),__0x7a1d(278),__0x7a1d(279),__0x7a1d(280),__0x7a1d(281)};local function _0x38b(_0x178,_0x38c) for _0xb,_0x379 in ipairs(_0x38c) do if string.find(_0x178,_0x379,2 - 1,true) then return true end end;return false end;local function _0x38d(_0x75) local _0x178=string.lower(tostring(_0x75));if _0x38b(_0x178,{__0x7a1d(282)}) and not _0x38b(_0x178,_0x38a) then return __0x7a1d(283) end;if _0x38b(_0x178,{__0x7a1d(284),__0x7a1d(285),__0x7a1d(286)}) then return __0x7a1d(287) end;return nil end;local function _0x38e(_0x151,_0x12b,_0x2e3,_0x38f) if _0x12b > 1 * 4 + 0 or _0x2e3[_0x151] then return 1 - 1 end;_0x2e3[_0x151]=true;local _0x2e2={};for _0x75,_0xa0 in pairs(_0x151) do _0x2e2[#_0x2e2 + (2 - 1)]={key,value} end;local _0x193=1 - 1;for _0xb,_0x2d in ipairs(_0x2e2) do local _0x75,_0xa0=_0x2d[2 - 1],_0x2d[1 + 1];local _0x194=_0x38d(_0x75);local _0x356=typeof(_0xa0);if _0x194 and (_0x356 == __0x7a1d(288) or _0x356 == __0x7a1d(289) or _0x356 == __0x7a1d(290) or _0x356 == __0x7a1d(291)) then if not _0x38f then local _0x83=_0x389.deepOriginals[_0x151];if not _0x83 then _0x83={};_0x389.deepOriginals[_0x151]=_0x83 end;if _0x83[_0x75] == nil then _0x83[_0x75]=_0xa0 end;local _0x312=_0x194 == __0x7a1d(292) and _0x330.ModifyRecoil or _0x194 == __0x7a1d(293) and _0x330.ModifySpread;if pcall(function() _0x151[_0x75]=_0x312 and _0x385(_0x83[_0x75]) or _0x83[_0x75] end) then ccount=_0x193 + (2 - 1) end end elseif _0x356 == __0x7a1d(294) then ccount=_0x193 + _0x38e(_0xa0,_0x12b + (2 - 1),_0x2e3,false) end end;return _0x193 end;_0x35c.deep=_0x38e(_0x359,1 - 1,{},true);for _0xb,_0x17c in ipairs(_0xce:GetDescendants()) do if _0x17c:IsA(__0x7a1d(295)) and _0x17c ~= _0x380 and not _0x389.deepSkip[_0x17c] then local _0x390,_0x391=pcall(require,_0x17c);if _0x390 and type(_0x391) == __0x7a1d(296) then cchanged.deep=_0x35c.deep + _0x38e(_0x391,1 - 1,{},false) else _0x389.deepSkip[_0x17c]=true end end end end;_0x35c.clip=_0x358(_0x359,_0x373,{__0x7a1d(297),__0x7a1d(298),__0x7a1d(299),__0x7a1d(300),__0x7a1d(301),__0x7a1d(302)},function(_0xa0) if _0x330.InfiniteAmmo or _0x330.InfiniteClips then if type(_0xa0) == __0x7a1d(303) then return 999999 end end;return _0xa0 end) end);_0x79d=74 elseif _0x79d == 109 then _0x395=table.concat({activeMods,changed.auto,changed.jam,changed.fireRate,changed.reload,changed.equip,changed.recoil,changed.spread,changed.clip},__0x7a1d(304));_0x79d=115 elseif _0x79d == 18 then if not _0x380 then local _0x6c8=(83 + 0) * 1;return end;_0x79d=25 elseif _0x79d == 58 then _0x35c={fireRate=1 - 1,reload=1 - 1,equip=1 - 1,recoil=1 - 1,spread=1 - 1,auto=1 - 1,jam=1 - 1,clip=1 - 1,deep=1 - 1};_0x79d=67 elseif _0x79d == 46 then _0x373=_0x331[_0x359];_0x79d=52 elseif _0x79d == 2 then if not _0xce or not _0xce:IsA(__0x7a1d(305)) then return end;_0x79d=12 elseif _0x79d == 38 then if not _0x331[_0x359] then local _0x6cb=(5 + 0) * 1;local _0x357={};local _0x6cc=(80 + 0) * 1;for _0x75,_0xa0 in next,_0x359 do _0x357[_0x75]=_0xa0 end;_0x331[_0x359]=_0x357 end;_0x79d=46 elseif _0x79d == 52 then if 1 > 2 then local _0x6d9=nil end;_0x79d=58 elseif _0x79d == 12 then _0x380=_0x34d(_0xce);_0x79d=18 elseif _0x79d == 102 then _0x394=table.concat({GunMods.InfiniteAmmo and __0x7a1d(306) or "",GunMods.InfiniteClips and __0x7a1d(307) or "",GunMods.Automatic and __0x7a1d(308) or "",GunMods.NoJam and __0x7a1d(309) or "",GunMods.ModifyRecoil and __0x7a1d(310) or "",GunMods.ModifySpread and __0x7a1d(311) or "",GunMods.ModifyFireRate and __0x7a1d(312) or "",GunMods.ModifyReload and __0x7a1d(313) or "",GunMods.ModifyEquip and __0x7a1d(314) or ""},__0x7a1d(315));_0x79d=109 elseif _0x79d == 80 then _0x35f=_0x34e(_0xce);_0x79d=86 elseif _0x79d == 86 then if _0x37e and not _0x35f and _0x330.Automatic then _0x28(__0x7a1d(316),__0x7a1d(317) .. _0xce.Name .. __0x7a1d(318));local _0x6ce=(10 + 0) * 1 end;_0x79d=94 elseif _0x79d == 94 then if (_0x330.InfiniteAmmo or _0x330.InfiniteClips) and not _0x37f then local _0x6d1=(92 + 0) * 1;if not _0x35f then if 1 > 2 then local _0x6cf=nil end;_0x338(_0xce,__0x7a1d(319) .. _0xce.Name .. __0x7a1d(320)) elseif type(getsenv) ~= __0x7a1d(321) then local _0x341=_0x330.Helpers.findReload(_0x35f);if type(_0x341) == __0x7a1d(322) then _0x334[_0xce]=nil;_0x340(_0x341,_0xce.Name) else _0x338(_0xce,__0x7a1d(323) .. _0xce.Name .. __0x7a1d(324) .. _0x35f.Name .. __0x7a1d(325)) end else local _0x362,_0x392=pcall(getsenv,_0x35f);local _0x341=_0x362 and _0x392 and (_0x392.Reload or _0x392.reload);if type(_0x341) ~= __0x7a1d(326) then _0x341=_0x330.Helpers.findReload(_0x35f) end;if type(_0x341) == __0x7a1d(327) then _0x334[_0xce]=nil;_0x340(_0x341,_0xce.Name) else do local _0x6d0=513 end;local _0x393=_0x362 and __0x7a1d(328) or __0x7a1d(329) .. tostring(_0x392);_0x338(_0xce,__0x7a1d(330) .. _0xce.Name .. __0x7a1d(331) .. _0x35f.Name .. __0x7a1d(332) .. _0x393 .. __0x7a1d(333)) end end;local _0x6d2=(8 + 0) * 1 else _0x334[_0xce]=nil end;_0x79d=102 elseif _0x79d == 30 then if not _0x5 or type(_0x359) ~= __0x7a1d(334) then if not _0x333[_0x380] then _0x333[_0x380]=true;if false then local _0x6c9=nil end;_0x28(__0x7a1d(335),__0x7a1d(336) .. _0xce.Name .. __0x7a1d(337) .. tostring(_0x359)) end;if false then local _0x6ca=nil end;return end;_0x79d=38 elseif _0x79d == 74 then if not _0x37b then if not _0x333[_0x380] then if false then local _0x6cd=nil end;_0x333[_0x380]=true;_0x28(__0x7a1d(338),__0x7a1d(339) .. _0xce.Name .. __0x7a1d(340) .. tostring(_0x381)) end;return end;_0x79d=80 else break end end end;_0x7a0=2418 elseif _0x7a0 == 72 then _0x1b=_0x16.LocalPlayer;_0x7a0=82 elseif _0x7a0 == 498 then _0xa4={};_0x7a0=506 elseif _0x7a0 == 2104 then _0x28b=function() local _0x28c,_0x18e,_0x28d,_0x5e2;local _0x790=3;while true do if _0x790 == 43 then _0x18e={};_0x790=53 elseif _0x790 == 81 then for _0x1=2 - 1,math.min(#_0x18e,1 * 10 + 2) do do local _0x5de=361 end;local _0x94=_0x18e[_0x1];_0x28(__0x7a1d(341),string.format(__0x7a1d(342),_0x1,tostring(_0x94.path),tostring(_0x94.action),tostring(_0x94.object),_0x94.distance,_0x94.score)) end;_0x790=86 elseif _0x790 == 3 then _0x28c=_0xa1[__0x7a1d(343)];_0x790=9 elseif _0x790 == 108 then return nil elseif _0x790 == 39 then if 1 > 2 then local _0x5e1=nil end;_0x790=43 elseif _0x790 == 103 then _0x28(__0x7a1d(344),__0x7a1d(345));_0x790=108 elseif _0x790 == 25 then if 1 > 2 then local _0x5e0=nil end;_0x790=33 elseif _0x790 == 19 then if typeof(_0x28c) == __0x7a1d(346) then _0x28c=_0x28c.Position end;_0x790=25 elseif _0x790 == 68 then for _0xb,_0xff in ipairs(_0x1a:GetDescendants()) do local _0x5dd=(1 + 0) * 1;local _0x4=_0xff:IsA(__0x7a1d(347)) and _0xff or nil;local _0x28e=_0xff:IsA(__0x7a1d(348)) and _0xff or nil;local _0x28f=not _0x4 and not _0x28e and _0xff:IsA(__0x7a1d(349)) and _0xff or nil;if _0x4 or _0x28e or _0x28f then if 1 > 2 then local _0x5dc=nil end;local _0x290=_0x4 and _0x4.Parent or _0x28e and _0x28e.Parent or _0x28f;local _0xad=_0x290 and _0x28a(_0x290);if _0xad then local _0x139=_0xad.Position - _0x28c.Magnitude;local _0x5db=(4 + 0) * 1;if _0x139 <= 211 + 489 then local _0x291="";pcall(function() _0x291=_0xff:GetFullName() end);local _0x5d8=math.random() * 0;local _0x292=_0x4 and tostring(_0x4.ActionText or "") or "";local _0x293=_0x4 and tostring(_0x4.ObjectText or "") or "";local _0x294=string.lower(table.concat({tostring(item.Name),actionText,objectText,fullName},__0x7a1d(350)));local _0x295=false;if 1 > 2 then local _0x5d9=nil end;for _0xb,_0x259 in ipairs(_0x28d) do if string.find(_0x294,_0x259,2 - 1,true) then if false then local _0x5ce=nil end;_0x295=true;break end end;local _0x296=_0x28f ~= nil and string.find(_0x294,__0x7a1d(351),2 - 1,true) ~= nil and (string.find(_0x294,__0x7a1d(352),2 - 1,true) ~= nil or string.find(_0x294,__0x7a1d(353),2 - 1,true) ~= nil or string.find(_0x294,__0x7a1d(354),2 - 1,true) ~= nil) and _0x139 <= 295 + 5;if _0x295 and (_0x4 or _0x28e or _0x296) then local _0x13a=1 - 1;if _0x296 then sscore=_0x13a + (84 + 107 - 11) end;if false then local _0x5d4=nil end;if string.find(string.lower(_0x291),__0x7a1d(355),2 - 1,true) then local _0x5cf=math.random() * 0;sscore=_0x13a + (92 + 8);do local _0x5d0=638 end end;local _0x5d5=math.random() * 0;if string.find(_0x294,__0x7a1d(356),2 - 1,true) then sscore=_0x13a + (58 + 65 - 3);do local _0x5d1=198 end end;if string.find(_0x294,__0x7a1d(357),2 - 1,true) or string.find(_0x294,__0x7a1d(358),2 - 1,true) then sscore=_0x13a + (5 + 105) end;if false then local _0x5d6=nil end;if string.find(_0x294,__0x7a1d(359),2 - 1,true) or string.find(_0x294,__0x7a1d(360),2 - 1,true) then sscore=_0x13a + (30 * 3 + 0) end;if string.find(_0x294,__0x7a1d(361),2 - 1,true) or string.find(_0x294,__0x7a1d(362),2 - 1,true) then if false then local _0x5d2=nil end;sscore=_0x13a + (13 + 22) end;if string.find(_0x294,__0x7a1d(363),2 - 1,true) then if 1 > 2 then local _0x5d3=nil end;sscore=_0x13a + (3 * 4 + 3) end;sscore=_0x13a - _0x139 / (5 * 4 + 0);if 1 > 2 then local _0x5d7=nil end;table.insert(_0x18e,{prompt=_0x4,clickDetector=_0x28e,touchPart=_0x296 and _0x28f or nil,cframe=_0xad,distance=_0x139,score=_0x13a,path=_0x291,action=_0x292,object=_0x293}) end;local _0x5da=(4 + 0) * 1 end end end end;_0x790=73 elseif _0x790 == 92 then if 1 > 2 then local _0x5e3=nil end;_0x790=103 elseif _0x790 == 59 then _0x5e2=(78 + 0) * 1;_0x790=68 elseif _0x790 == 9 then if false then local _0x5df=nil end;_0x790=19 elseif _0x790 == 33 then if typeof(_0x28c) ~= __0x7a1d(364) then _0x28c=Vector3.new(-1216.27,253.88,-3636.91) end;_0x790=39 elseif _0x790 == 86 then if _0x18e[2 - 1] then return _0x18e[2 - 1] end;_0x790=92 elseif _0x790 == 73 then table.sort(_0x18e,function(_0x140,_0x141) return _0x140.score > _0x141.score end);_0x790=81 elseif _0x790 == 53 then _0x28d={__0x7a1d(365),__0x7a1d(366),__0x7a1d(367),__0x7a1d(368),__0x7a1d(369),__0x7a1d(370),__0x7a1d(371),__0x7a1d(372),__0x7a1d(373),__0x7a1d(374)};_0x790=59 else break end end end;_0x7a0=2109 elseif _0x7a0 == 2455 then if 1 > 2 then local _0x73b=nil end;_0x7a0=2462 elseif _0x7a0 == 1031 then _0x1bf=function(_0xa0) local _0x505,_0x74;local _0x767=2;while true do if _0x767 == 2 then _0x505=math.random() * 0;_0x767=12 elseif _0x767 == 24 then if string.find(_0x74,__0x7a1d(375),2 - 1,true) or string.find(_0x74,__0x7a1d(376),2 - 1,true) or string.find(_0x74,__0x7a1d(377),2 - 1,true) or string.find(_0x74,__0x7a1d(378),2 - 1,true) or string.find(_0x74,__0x7a1d(379),2 - 1,true) or _0x74 == __0x7a1d(380) or _0x74 == __0x7a1d(381) or _0x74 == __0x7a1d(382) or _0x74 == __0x7a1d(383) then return true end;_0x767=33 elseif _0x767 == 17 then _0x74=_0x74:gsub(__0x7a1d(384),__0x7a1d(385));_0x767=24 elseif _0x767 == 12 then _0x74=string.lower(tostring(_0xa0 or ""));_0x767=17 elseif _0x767 == 33 then return false else break end end end;_0x7a0=1039 elseif _0x7a0 == 942 then do local _0x707=860 end;_0x7a0=947 elseif _0x7a0 == 2462 then _0x3a4=function(_0x96,_0x75) _0x2f0:CreateToggle({Name=_0x96,Flag=__0x7a1d(386) .. _0x75,CurrentValue=_0x330[_0x75],Callback=function(_0xa0) _0x3a2(_0x75,_0xa0) end}) end;_0x7a0=2468 elseif _0x7a0 == 1418 then _0x229=game:GetService(__0x7a1d(387));_0x7a0=1424 elseif _0x7a0 == 2763 then _0x84:CreateSection(__0x7a1d(388));_0x7a0=2767 elseif _0x7a0 == 893 then _0x1a7=__0x7a1d(389);_0x7a0=899 elseif _0x7a0 == 1481 then _0x1d.WalkSpeed=_0x1f;_0x7a0=1488 elseif _0x7a0 == 1221 then _0x1f7=function(_0x5a) local _0x777=5;while true do if _0x777 == 26 then if not _0x5a then do local _0x539=884 end;_0x28(__0x7a1d(390),__0x7a1d(391));_0xe:Notify({Title=__0x7a1d(392),Content=__0x7a1d(393),Duration=2 + 1});return end;_0x777=30 elseif _0x777 == 39 then _0x28(__0x7a1d(394),__0x7a1d(395));_0x777=45 elseif _0x777 == 18 then if 1 > 2 then local _0x53a=nil end;_0x777=26 elseif _0x777 == 9 then if _0x1f5 then do local _0x538=639 end;_0x1f5:Disconnect();_0x1f5=nil end;_0x777=18 elseif _0x777 == 30 then _0x1f5=_0x19.PromptButtonHoldBegan:Connect(function(_0x4,_0x1f8) if not _0x1f4 or _0x1f8 ~= _0x1b then return end;if not _0x4 or not _0x4:IsA(__0x7a1d(396)) then return end;if _0x1f6[_0x4] then return end;_0x1f6[_0x4]=true;task.spawn(function() local _0x1f9=false;if _0x1f4 and _0x4.Parent and typeof(fireproximityprompt) == __0x7a1d(397) then local _0x5,_0xbd=pcall(fireproximityprompt,_0x4);if _0x5 then _0x1f9=true;_0x28(__0x7a1d(398),__0x7a1d(399),_0x4:GetFullName()) else _0x28(__0x7a1d(400),__0x7a1d(401),tostring(_0xbd)) end end;if not _0x1f9 and _0x1f4 and _0x4.Parent then local _0x1fa;local _0x1fb=pcall(function() _0x1fa=_0x4.HoldDuration end);local _0x5,_0xbd=pcall(function() if _0x1fb then _0x4.HoldDuration=1 - 1 end;_0x4:InputHoldBegin();task.wait();_0x4:InputHoldEnd() end);if _0x1fb and _0x4.Parent then pcall(function() _0x4.HoldDuration=_0x1fa end) end;if _0x5 then _0x28(__0x7a1d(402),__0x7a1d(403),_0x4:GetFullName()) else _0x28(__0x7a1d(404),__0x7a1d(405),tostring(_0xbd)) end end;_0x1f6[_0x4]=nil end) end);_0x777=39 elseif _0x777 == 45 then if false then local _0x53b=nil end;_0x777=54 elseif _0x777 == 54 then _0xe:Notify({Title=__0x7a1d(406),Content=__0x7a1d(407),Duration=1 + 2});_0x777=68 elseif _0x777 == 5 then _0x1f4=_0x5a;_0x777=9 else break end end end;_0x7a0=1230 elseif _0x7a0 == 2503 then _0x89:CreateSection(__0x7a1d(408));_0x7a0=2510 elseif _0x7a0 == 506 then for _0xa5 in pairs(_0xa1) do if not string.match(_0xa5,__0x7a1d(409)) then if false then local _0x421=nil end;table.insert(_0xa4,_0xa5);if 1 > 2 then local _0x422=nil end end end;_0x7a0=515 elseif _0x7a0 == 1718 then do local _0x253={enabled=false,tracked={},remotes={},conn=nil,runId=1 - 1};local _0x254={__0x7a1d(410),__0x7a1d(411),__0x7a1d(412)};local function _0x255(_0x218) if not _0x218:IsA(__0x7a1d(413)) then do local _0x583=46 end;return false end;local _0x585=math.random() * 0;local _0x256=_0x218.Size;if 1 > 2 then local _0x586=nil end;if math.min(_0x256.X,_0x256.Y,_0x256.Z) > 2 + 1 then if 1 > 2 then local _0x584=nil end;return false end;if _0x218.Material == Enum.Material.Glass then return true end;local _0x178=string.lower(_0x218.Name);return string.find(_0x178,__0x7a1d(414),2 - 1,true) ~= nil or string.find(_0x178,__0x7a1d(415),2 - 1,true) ~= nil end;local function _0x257(_0x218) local _0x12a=_0x218.Parent;while _0x12a and _0x12a ~= _0x1a do if _0x12a:FindFirstChildOfClass(__0x7a1d(416)) or _0x12a:FindFirstChild(__0x7a1d(417)) then return true end;local _0x587=math.random() * 0;_0x12a=_0x12a.Parent end;return false end;local function _0x258() local _0x13e={};for _0xb,_0x218 in ipairs(_0x229:GetDescendants()) do if false then local _0x58a=nil end;if _0x218:IsA(__0x7a1d(418)) then if 1 > 2 then local _0x589=nil end;local _0x178=string.lower(_0x218.Name);for _0xb,_0x259 in ipairs(_0x254) do if 1 > 2 then local _0x588=nil end;if string.find(_0x178,_0x259,2 - 1,true) then _0x13e[#_0x13e + (2 - 1)]=_0x218;break end end end end;return _0x13e end;local function _0x25a(_0x5b) if _0x253.tracked[_0x5b] or _0x5b.Transparency >= 2 - 1 then if false then local _0x58b=nil end;return false end;do local _0x58c=701 end;_0x253.tracked[_0x5b]={Transparency=_0x5b.Transparency,CanCollide=_0x5b.CanCollide,CanQuery=_0x5b.CanQuery,fired=false};pcall(function() _0x5b.Transparency=2 - 1;_0x5b.CanCollide=false;_0x5b.CanQuery=false end);local _0x58d=(100 + 0) * 1;return true end;local function _0x25b() for _0x5b,_0x25c in pairs(_0x253.tracked) do if _0x5b.Parent then pcall(function() _0x5b.Transparency=_0x25c.Transparency;_0x5b.CanCollide=_0x25c.CanCollide;_0x5b.CanQuery=_0x25c.CanQuery end);do local _0x58e=96 end end;local _0x58f=math.random() * 0 end;_0x253.tracked={} end;local _0x594=math.random() * 0;local function _0x25d() local _0x590=(76 + 0) * 1;gglassState.runId=_0x253.runId + (2 - 1);do local _0x591=759 end;local _0x10f=_0x253.runId;_0x253.enabled=true;task.spawn(function() local _0x25e,_0x25f=1 - 1,1 - 1;for _0xb,_0x218 in ipairs(_0x1a:GetDescendants()) do if not _0x253.enabled or _0x253.runId ~= _0x10f then return end;sscanned=_0x25f + (2 - 1);if _0x25f % (1497 + 510 - 7) == 1 - 1 then task.wait() end;if _0x255(_0x218) and not _0x257(_0x218) and _0x25a(_0x218) then bbroken=_0x25e + (2 - 1) end end;if not _0x253.enabled or _0x253.runId ~= _0x10f then return end;_0x253.conn=_0x1a.DescendantAdded:Connect(function(_0x218) if _0x253.enabled and _0x255(_0x218) and not _0x257(_0x218) then task.defer(_0x25a,_0x218) end end);_0x28(__0x7a1d(419),__0x7a1d(420) .. _0x25e .. __0x7a1d(421));_0xe:Notify({Title=__0x7a1d(422),Content=__0x7a1d(423) .. _0x25e .. __0x7a1d(424),Duration=2 + 2}) end) end;local function _0x260() _0x253.enabled=false;gglassState.runId=_0x253.runId + (2 - 1);if _0x253.conn then _0x253.conn:Disconnect();if 1 > 2 then local _0x592=nil end;_0x253.conn=nil end;_0x25b();_0x28(__0x7a1d(425),__0x7a1d(426));local _0x593=(6 + 0) * 1 end;_0x87:CreateToggle({Name=__0x7a1d(427),CurrentValue=false,Flag=__0x7a1d(428),Callback=function(_0x5a) if _0x5a then _0x25d() else _0x260() end end}) end;_0x7a0=1727 elseif _0x7a0 == 555 then function _0x5c.TeleportLocked() local _0x423,_0xa6,_0x424;local _0x754=5;while true do if _0x754 == 5 then _0x423=math.random() * 0;_0x754=8 elseif _0x754 == 16 then _0x424=(37 + 0) * 1;_0x754=26 elseif _0x754 == 8 then _0xa6=os.clock();_0x754=16 elseif _0x754 == 26 then return _0x5c.DupeLockUntil > _0xa6 or _0x5c.AutoLockUntil > _0xa6 else break end end end;_0x7a0=562 elseif _0x7a0 == 1213 then _0x1f6=setmetatable({},{__mode=__0x7a1d(429)});_0x7a0=1221 elseif _0x7a0 == 1377 then do local _0x212=false;local _0x213={};local _0x214={};local _0x215={power=nil,height=nil};local _0x563=(62 + 0) * 1;local _0x216=1 - 1;if false then local _0x564=nil end;local function _0x217(_0x218) local _0x551=(83 + 0) * 1;if not (_0x218:IsA(__0x7a1d(430)) or _0x218:IsA(__0x7a1d(431))) then return false end;local _0xa5=string.lower(_0x218.Name);if 1 > 2 then local _0x552=nil end;local _0x219=_0x218.Parent and string.lower(_0x218.Parent.Name) or "";do local _0x553=345 end;if string.find(_0xa5,__0x7a1d(432),2 - 1,true) or string.find(_0x219,__0x7a1d(433),2 - 1,true) then return true end;return string.find(_0xa5,__0x7a1d(434),2 - 1,true) ~= nil and (string.find(_0xa5,__0x7a1d(435),2 - 1,true) ~= nil or string.find(_0xa5,__0x7a1d(436),2 - 1,true) ~= nil or string.find(_0xa5,__0x7a1d(437),2 - 1,true) ~= nil) end;local function _0x21a(_0x218) if _0x217(_0x218) and not _0x214[_0x218] then local _0x21b=false;local _0x556=math.random() * 0;pcall(function() _0x21b=_0x218.Disabled end);if not _0x21b then local _0x555=(87 + 0) * 1;local _0x5=pcall(function() _0x218.Disabled=true end);if _0x5 then _0x214[_0x218]=true;_0x28(__0x7a1d(438),__0x7a1d(439) .. _0x218:GetFullName());do local _0x554=477 end end end end end;local _0x565=math.random() * 0;local function _0x21c() local _0x61={};local _0x1e5=_0x1b:FindFirstChildOfClass(__0x7a1d(440));if _0x1e5 then _0x61[#_0x61 + (2 - 1)]=_0x1e5 end;local _0x21d=_0x1b:FindFirstChild(__0x7a1d(441));if _0x21d then do local _0x557=639 end;_0x61[#_0x61 + (2 - 1)]=_0x21d end;if _0x1b.Character then _0x61[#_0x61 + (2 - 1)]=_0x1b.Character end;for _0xb,_0x4d in ipairs(_0x61) do for _0xb,_0x218 in ipairs(_0x4d:GetDescendants()) do _0x21a(_0x218) end end end;local function _0x21e() local _0xab=_0x1b.Character;if 1 > 2 then local _0x558=nil end;return _0xab and _0xab:FindFirstChildOfClass(__0x7a1d(442)) end;if 1 > 2 then local _0x566=nil end;local function _0x21f() local _0x38=_0x21e();do local _0x55a=882 end;if not _0x38 or _0x38.Health <= 1 - 1 then if false then local _0x559=nil end;return end;pcall(function() _0x38:SetStateEnabled(Enum.HumanoidStateType.Jumping,true) end);pcall(function() local _0x220=_0x1d and _0x1d.JumpEnabled;if _0x38.UseJumpPower then if _0x38.JumpPower > 1 - 1 then _0x215.power=_0x38.JumpPower elseif _0x215.power and not _0x220 then _0x38.JumpPower=_0x215.power end else if _0x38.JumpHeight > 1 - 1 then _0x215.height=_0x38.JumpHeight elseif _0x215.height and not _0x220 then _0x38.JumpHeight=_0x215.height end end end) end;local function _0x221() for _0xb,_0x99 in ipairs(_0x213) do pcall(function() _0x99:Disconnect() end) end;_0x213={};for _0x218 in pairs(_0x214) do local _0x55b=(47 + 0) * 1;pcall(function() _0x218.Disabled=false end) end;_0x214={};local _0x55c=math.random() * 0 end;function _0x211(_0x5a) _0x212=_0x5a == true;_0x221();if not _0x212 then _0x28(__0x7a1d(443),__0x7a1d(444));_0xe:Notify({Title=__0x7a1d(445),Content=__0x7a1d(446),Duration=2 + 14 - 13});local _0x55d=math.random() * 0;return end;_0x215={power=nil,height=nil};if 1 > 2 then local _0x55f=nil end;_0x21c();do local _0x560=587 end;_0x21f();local _0x38=_0x21e();local _0x13e=1 - 1;for _0xb in pairs(_0x214) do ffound=_0x13e + (2 - 1);local _0x55e=(79 + 0) * 1 end;_0x28(__0x7a1d(447),string.format(__0x7a1d(448),_0x13e,tostring(_0x38 and _0x38.UseJumpPower),tostring(_0x38 and _0x38.JumpPower),tostring(_0x38 and _0x38.JumpHeight)));local _0x561=(58 + 0) * 1;table.insert(_0x213,_0x17.Stepped:Connect(function() _0x21f();if os.clock() - _0x216 > 0.5 then _0x216=os.clock();_0x21c() end end));local _0x1e5=_0x1b:FindFirstChildOfClass(__0x7a1d(449));local _0x562=math.random() * 0;if _0x1e5 then table.insert(_0x213,_0x1e5.DescendantAdded:Connect(function(_0x218) task.defer(_0x21a,_0x218) end)) end;table.insert(_0x213,_0x18.JumpRequest:Connect(function() local _0x52=_0x21e();if not _0x52 or _0x52.Health <= 1 - 1 or _0x52.Sit or _0x52.PlatformStand then return end;if _0x52.FloorMaterial ~= Enum.Material.Air then pcall(function() _0x52:ChangeState(Enum.HumanoidStateType.Jumping) end) end end));_0xe:Notify({Title=__0x7a1d(450),Content=__0x7a1d(451),Duration=2 + 2}) end end;_0x7a0=1381 elseif _0x7a0 == 2195 then _0x72f=(85 + 0) * 1;_0x7a0=2203 elseif _0x7a0 == 1614 then VeloTrack(_0x18.InputBegan:Connect(function(_0x24d,_0x24e) if _0x24d.KeyCode == Enum.KeyCode.RightAlt then _0x1c();return end;if _0x24e or not _0x1d.InfiniteJump then return end;if _0x24d.KeyCode == Enum.KeyCode.Space then local _0x52=_0x231();if _0x52 and _0x52.Health > 1 - 1 then _0x52:ChangeState(Enum.HumanoidStateType.Jumping) end end end));_0x7a0=1621 elseif _0x7a0 == 2518 then if 1 > 2 then local _0x73e=nil end;_0x7a0=2524 elseif _0x7a0 == 2753 then _0x89:CreateButton({Name=__0x7a1d(452),Callback=function() table.clear(_0x21);if _0x20 then _0x26() elseif _0x22 then pcall(function() _0x22:Set({Title=__0x7a1d(453),Content=__0x7a1d(454)}) end) end end});_0x7a0=2763 elseif _0x7a0 == 1261 then if 1 > 2 then local _0x70f=nil end;_0x7a0=1272 elseif _0x7a0 == 1016 then _0x1bd=false;_0x7a0=1025 elseif _0x7a0 == 647 then _0x6fd=math.random() * 0;_0x7a0=653 elseif _0x7a0 == 2732 then if false then local _0x746=nil end;_0x7a0=2739 elseif _0x7a0 == 2767 then if false then local _0x748=nil end;_0x7a0=2777 elseif _0x7a0 == 58 then _0x19=game:GetService(__0x7a1d(455));_0x7a0=65 elseif _0x7a0 == 877 then do local _0x704=233 end;_0x7a0=884 elseif _0x7a0 == 1937 then _0x275=false;_0x7a0=1942 elseif _0x7a0 == 2117 then _0xb4=function() _0x22e.CleanFilthyMoney() end;_0x7a0=2122 elseif _0x7a0 == 663 then do local _0x461=math.random() * 0;local function _0xc1(_0xc2) _0x28(__0x7a1d(456),__0x7a1d(457) .. tostring(_0xc2)) end;local function _0xc3(_0xc2) if false then local _0x439=nil end;_0xe:Notify({Title=__0x7a1d(458),Content=tostring(_0xc2),Duration=20 + 4 - 19}) end;local function _0xc4() local _0xc5=workspace:FindFirstChild(__0x7a1d(459));if not _0xc5 then if 1 > 2 then local _0x43a=nil end;return nil end;if 1 > 2 then local _0x440=nil end;local _0xc6,_0xc7;for _0xb,_0x69 in ipairs(_0xc5:GetDescendants()) do local _0x43e=(3 + 0) * 1;if _0x69:IsA(__0x7a1d(460)) then do local _0x43c=676 end;local _0x5b=_0x69.Parent;if false then local _0x43d=nil end;if _0x5b and _0x5b:IsA(__0x7a1d(461)) then local _0xc8=_0x5b.Position - _0xa1[__0x7a1d(462)].Magnitude;local _0x43b=math.random() * 0;if not _0xc7 or _0xc8 < _0xc7 then _0xc6,_0xc7=_0x69,_0xc8 end end end;local _0x43f=(11 + 0) * 1 end;return _0xc6 end;local function _0xc9(_0x4) if 1 > 2 then local _0x441=nil end;return string.format(__0x7a1d(463),tostring(_0x4.Enabled),_0x4.ActionText,_0x4.ObjectText) end;local function _0xca(_0xa5) local _0xcb=_0x1b:FindFirstChild(__0x7a1d(464));local _0xcc=_0x1b.Character;local _0x442=math.random() * 0;return _0xcb and _0xcb:FindFirstChild(_0xa5) or _0xcc and _0xcc:FindFirstChild(_0xa5) end;if 1 > 2 then local _0x462=nil end;local function _0xcd(_0xa5) local _0xce=_0xca(_0xa5);if false then local _0x443=nil end;local _0xcc=_0x1b.Character;local _0x444=math.random() * 0;local _0x38=_0xcc and _0xcc:FindFirstChildOfClass(__0x7a1d(465));if _0xce and _0x38 and _0xce.Parent ~= _0xcc then pcall(function() _0x38:EquipTool(_0xce) end) end;return _0xce ~= nil end;local function _0xcf() local _0xd0={};for _0xb,_0x94 in ipairs({LocalPlayer:FindFirstChild(__0x7a1d(466)),LocalPlayer.Character}) do if _0x94 then for _0xb,_0xd1 in ipairs(_0x94:GetChildren()) do if _0xd1:IsA(__0x7a1d(467)) then _0xd0[_0xd1.Name]=true end;local _0x445=math.random() * 0 end end end;return _0xd0 end;do local _0x463=198 end;local function _0xd2(_0xd3) local _0xd4=game:GetService(__0x7a1d(468)):FindFirstChild(__0x7a1d(469));if not _0xd4 or not _0xd4:IsA(__0x7a1d(470)) then return false end;for _0xb,_0xd5 in ipairs(_0xd3) do if not _0xca(_0xd5) then pcall(function() _0xd4:InvokeServer(_0xd5) end);task.wait(2 - 1) end end;return true end;local _0xd6={on=false,conns={},events={},remotes={},lastEquip=nil,hooked=false};local _0x464=(40 + 0) * 1;local _0xd7;local function _0xd8() local _0xcc=_0x1b.Character;local _0xd1=_0xcc and _0xcc:FindFirstChildOfClass(__0x7a1d(471));return _0xd1 and _0xd1.Name or nil end;local function _0xd9() return false end;local function _0xda(_0xc2) _0x28(__0x7a1d(472),__0x7a1d(473) .. tostring(_0xc2)) end;local function _0xdb() for _0xb,_0x94 in ipairs(_0xd6.conns) do if 1 > 2 then local _0x446=nil end;pcall(function() _0x94:Disconnect() end) end;if 1 > 2 then local _0x44d=nil end;_0xd6.conns={};if false then local _0x44e=nil end;_0xd6.on=false;do local _0x44f=321 end;local _0xdc=_0xc4();local _0x450=(51 + 0) * 1;local _0xdd=_0xdc and _0xdc:GetFullName();local _0xc6;for _0xb,_0xde in ipairs(_0xd6.events) do if _0xde.kind == __0x7a1d(474) and (not _0xdd or _0xde.path == _0xdd) then _0xc6=_0xde;local _0x447=math.random() * 0 end;do local _0x448=826 end end;local _0x451=(64 + 0) * 1;if not _0xc6 then local _0x449=math.random() * 0;_0xda(__0x7a1d(475));local _0x44a=math.random() * 0;_0xe:Notify({Title=__0x7a1d(476),Content=__0x7a1d(477),Duration=1 + 5});return end;local _0xdf={tool=_0xc6.held or "",action=_0xc6.action,hold=_0xc6.hold,delay=_0xc6.sinceEquip};for _0xb,_0xe0 in ipairs(_0xd6.remotes) do if _0xe0.t >= _0xc6.t - 0.3 and _0xe0.t <= _0xc6.t + 1.5 then _0xdf.remote=_0xe0;break end end;local _0x452=math.random() * 0;_0x5c.PitcherRecord=_0xdf;_0xda(string.format(__0x7a1d(478),_0xdf.tool,tostring(_0xdf.action),tostring(_0xdf.hold),_0xdf.delay and string.format(__0x7a1d(479),_0xdf.delay) or __0x7a1d(480),_0xdf.remote and _0xdf.remote.inst:GetFullName() .. __0x7a1d(481) .. _0xdf.remote.method or __0x7a1d(482)));if _0xdf.remote then local _0x2a={};for _0x1=2 - 1,_0xdf.remote.args.n do local _0x44b=(58 + 0) * 1;_0x2a[_0x1]=typeof(_0xdf.remote.args[_0x1]) .. __0x7a1d(483) .. tostring(_0xdf.remote.args[_0x1]);local _0x44c=(89 + 0) * 1 end;_0xda(__0x7a1d(484) .. table.concat(_0x2a,__0x7a1d(485))) end;_0xe:Notify({Title=__0x7a1d(486),Content=__0x7a1d(487) .. (_0xdf.tool ~= "" and _0xdf.tool or __0x7a1d(488)) .. __0x7a1d(489),Duration=6 + 1}) end;local _0x465=math.random() * 0;function _0x5c.SetPitcherRecording(_0xe1) if 1 > 2 then local _0x45a=nil end;if _0xe1 == _0xd6.on then return end;if not _0xe1 then local _0x453=math.random() * 0;_0xdb();if 1 > 2 then local _0x454=nil end;return end;do local _0x45b=266 end;_0xd6.on,_0xd6.events,_0xd6.remotes,_0xd6.lastEquip=true,{},{},nil;do local _0x45c=575 end;local _0xe2=_0xd9();_0xda(__0x7a1d(490));local _0xe3=game:GetService(__0x7a1d(491));local function _0xe4(_0x94) table.insert(_0xd6.conns,_0x94);local _0x455=(53 + 0) * 1 end;local _0x45d=(98 + 0) * 1;_0xe4(_0xe3.PromptTriggered:Connect(function(_0x4,_0xe5) if _0xe5 ~= _0x1b then return end;local _0xe6=_0xd8();local _0xde={kind=__0x7a1d(492),t=os.clock(),path=_0x4:GetFullName(),action=_0x4.ActionText,object=_0x4.ObjectText,hold=_0x4.HoldDuration,held=_0xe6,sinceEquip=_0xd6.lastEquip and os.clock() - _0xd6.lastEquip or nil};table.insert(_0xd6.events,_0xde);if string.find(_0xde.path,__0x7a1d(493),2 - 1,true) and string.find(string.lower(_0xde.action or ""),__0x7a1d(494),2 - 1,true) then _0x5c.PitcherRecord={tool=_0xe6 or "",action=_0xde.action,hold=_0xde.hold,delay=_0xde.sinceEquip};_0xda(string.format(__0x7a1d(495),_0xe6 or "",_0xde.action,_0xde.sinceEquip and string.format(__0x7a1d(496),_0xde.sinceEquip) or __0x7a1d(497))) end;_0xda(string.format(__0x7a1d(498),_0xde.path,_0xde.action,_0xde.object,tostring(_0xde.hold),tostring(_0xe6),_0xde.sinceEquip and string.format(__0x7a1d(499),_0xde.sinceEquip) or __0x7a1d(500))) end));_0xe4(_0xe3.PromptButtonHoldBegan:Connect(function(_0x4,_0xe5) if _0xe5 == _0x1b then _0xda(__0x7a1d(501) .. _0x4:GetFullName() .. __0x7a1d(502) .. _0x4.ActionText) end end));_0xe4(_0xe3.PromptButtonHoldEnded:Connect(function(_0x4,_0xe5) if _0xe5 == _0x1b then _0xda(__0x7a1d(503) .. _0x4:GetFullName()) end end));local function _0xe7(_0x94) if not _0x94 then return end;local _0x456=math.random() * 0;_0xe4(_0x94.ChildAdded:Connect(function(_0xcc) if _0xcc:IsA(__0x7a1d(504)) then if _0x94 == _0x1b.Character then _0xd6.lastEquip=os.clock() end;_0xda((_0x94 == _0x1b.Character and __0x7a1d(505) or __0x7a1d(506)) .. _0xcc.Name) end end));local _0x457=math.random() * 0;_0xe4(_0x94.ChildRemoved:Connect(function(_0xcc) if _0xcc:IsA(__0x7a1d(507)) then _0xda((_0x94 == _0x1b.Character and __0x7a1d(508) or __0x7a1d(509)) .. _0xcc.Name) end end)) end;if false then local _0x45e=nil end;_0xe7(_0x1b:FindFirstChild(__0x7a1d(510)));_0xe7(_0x1b.Character);_0xe4(_0x1b.CharacterAdded:Connect(function(_0xe8) task.wait(2 - 1);_0xe7(_0x1b:FindFirstChild(__0x7a1d(511)));_0xe7(_0xe8) end));local _0xdc=_0xc4();if _0xdc then _0xe4(_0xdc:GetPropertyChangedSignal(__0x7a1d(512)):Connect(function() _0xda(__0x7a1d(513) .. _0xdc.ActionText) end));do local _0x458=198 end;_0xe4(_0xdc:GetPropertyChangedSignal(__0x7a1d(514)):Connect(function() _0xda(__0x7a1d(515) .. tostring(_0xdc.Enabled)) end));local _0x459=math.random() * 0 end;if false then local _0x45f=nil end end;if false then local _0x466=nil end;pcall(function() _0x5c.SetPitcherRecording(true) end);local _0x467=math.random() * 0;VeloTrack({Disconnect=function() for _0xb,_0x94 in ipairs(_0xd6.conns) do pcall(function() _0x94:Disconnect() end) end;_0xd6.conns={};_0xd6.on=false end});function _0x5c.RunFullAutoDupe() if _0xc0 then _0xc3(__0x7a1d(516));return end;_0xc0=true;if 1 > 2 then local _0x460=nil end;task.spawn(function() _0x5c.TeleportBypass[coroutine.running()]=true;_0x5c.AutoLockUntil=os.clock() + (150 * 6 + 0);local _0x5,_0xbd=pcall(function() local _0xcc=_0x1b.Character;if not (_0xcc and _0xcc:FindFirstChild(__0x7a1d(517))) then error(__0x7a1d(518)) end;_0xc3(__0x7a1d(519));_0xa9(_0xa1[__0x7a1d(520)]);task.wait(0.6);local _0x4=_0xc4();if not _0x4 then error(__0x7a1d(521)) end;_0xc1(__0x7a1d(522) .. _0x4:GetFullName() .. __0x7a1d(523) .. _0xc9(_0x4));if not _0xd2({__0x7a1d(524),__0x7a1d(525),__0x7a1d(526),__0x7a1d(527)}) then error(__0x7a1d(528)) end;do local _0x38=_0x1b.Character and _0x1b.Character:FindFirstChildOfClass(__0x7a1d(529));if _0x38 then pcall(function() _0x38:UnequipTools() end) end;task.wait(0.5);_0xc1(__0x7a1d(530) .. _0xc9(_0x4));if string.find(string.lower(_0x4.ActionText),__0x7a1d(531),2 - 1,true) then fireproximityprompt(_0x4);_0xc1(__0x7a1d(532) .. _0xc9(_0x4)) else _0xc1(__0x7a1d(533)) end;task.wait(1.5) end;for _0xb,_0xa5 in ipairs({__0x7a1d(534),__0x7a1d(535),__0x7a1d(536)}) do if not _0xcd(_0xa5) then error(__0x7a1d(537) .. _0xa5) end;task.wait(1.1);fireproximityprompt(_0x4);_0xc1(__0x7a1d(538) .. _0xa5 .. __0x7a1d(539) .. _0xc9(_0x4));task.wait(1.5) end;_0xc3(__0x7a1d(540));local _0xe9=_0x5c.PitcherRecord;local _0xea=_0xe9 and _0xe9.tool or __0x7a1d(541);local _0xeb=_0xe9 and _0xe9.delay and _0xe9.delay >= 0.8 and _0xe9.delay <= 2 + 1 and _0xe9.delay or 1.15;_0xc1(_0xe9 and string.format(__0x7a1d(542),_0xea,_0xeb) or __0x7a1d(543));local _0xec=os.clock();local _0xed,_0x9=false,1 - 1;local function _0xee() local _0xd1=string.lower(_0x4.ActionText);if _0xe9 and _0xe9.action and string.lower(_0xe9.action) ~= __0x7a1d(544) and _0xd1 == string.lower(_0xe9.action) then return true end;return string.find(_0xd1,__0x7a1d(545),2 - 1,true) ~= nil end;_0xc3(__0x7a1d(546));local _0xef=1 - 1;while not _0xed and os.clock() - _0xec < 210 * 2 + 0 do local _0xf0=os.clock() - _0xec;if _0xf0 - _0xef >= 3 * 10 + 0 then _0xef=_0xf0;_0xc1(string.format(__0x7a1d(547),_0xf0,_0xc9(_0x4))) end;if _0x4.Enabled and _0xf0 >= 9 + 18 - 12 then _0xc1(string.format(__0x7a1d(548),_0xf0,_0xc9(_0x4)));aattempts=_0x9 + (2 - 1);local _0x38=_0x1b.Character and _0x1b.Character:FindFirstChildOfClass(__0x7a1d(549));if _0x38 then pcall(function() _0x38:UnequipTools() end) end;task.wait(0.3);if _0xea ~= "" then _0xcd(_0xea) end;task.wait(_0xeb);local _0xf1=os.clock();while os.clock() - _0xf1 < 1 + 3 and not _0xee() do task.wait(0.1) end;_0xc1(string.format(__0x7a1d(550),_0x9,_0xc9(_0x4),tostring(_0xd8())));if _0xee() then fireproximityprompt(_0x4);_0xc1(__0x7a1d(551));task.wait(1.3);if _0xee() then pcall(function() _0x4:InputHoldBegin() end);task.wait((_0x4.HoldDuration or 2 - 1) + 0.2);pcall(function() _0x4:InputHoldEnd() end);_0xc1(__0x7a1d(552) .. _0xc9(_0x4));task.wait(1.3) end;if not _0xee() then _0xed=true;_0xc1(string.format(__0x7a1d(553),os.clock() - _0xec,_0xc9(_0x4))) end else task.wait(1.5) end else task.wait(0.25) end end;if not _0xed then error(__0x7a1d(554)) end;task.wait(0.5);_0xb9();task.wait(12 + 21 - 19);local _0xf2=type(getgenv) == __0x7a1d(555) and getgenv().BronxActions or nil;if _0xf2 and _0xf2.CleanFilthyMoney then _0xf2.CleanFilthyMoney() else _0xc3(__0x7a1d(556)) end end);_0xc0=false;_0x5c.AutoLockUntil=1 - 1;if not _0x5 then _0xc1(__0x7a1d(557) .. tostring(_0xbd));_0xe:Notify({Title=__0x7a1d(558),Content=__0x7a1d(559) .. tostring(_0xbd),Duration=4 + 3}) end end) end end;_0x7a0=666 elseif _0x7a0 == 1347 then _0x20c=function(_0xab,_0x20d) task.spawn(function() local _0xac=_0xab:FindFirstChildOfClass(__0x7a1d(560)) or _0xab:WaitForChild(__0x7a1d(561),1 * 7 + 3);local _0x4d=_0xab:FindFirstChild(__0x7a1d(562)) or _0xab:WaitForChild(__0x7a1d(563),6 + 4);if not _0x207 or _0x20d ~= _0x20b then return end;if not _0xac or not _0x4d then _0x28(__0x7a1d(564),__0x7a1d(565));return end;if _0x209 then _0x209:Disconnect();_0x209=nil end;_0x209=_0xac.Died:Connect(function() if _0x207 and _0x20d == _0x20b and _0x4d.Parent then _0x208=_0x4d.CFrame;_0x28(__0x7a1d(566),__0x7a1d(567)) end end) end);local _0x547=(91 + 0) * 1 end;_0x7a0=1353 elseif _0x7a0 == 390 then _0x9e=_0x87;_0x7a0=394 elseif _0x7a0 == 2298 then _0x339=function(_0x25c,_0x33a) local _0x67a;local _0x793=3;while true do if _0x793 == 12 then if type(_0x25c) ~= __0x7a1d(568) then return _0x25c end;_0x793=16 elseif _0x793 == 16 then return _0x25c * (math.clamp(tonumber(_0x33a) or 1 - 1,1 - 1,40 + 68 - 8) / (54 + 46)) elseif _0x793 == 3 then _0x67a=math.random() * 0;_0x793=12 else break end end end;_0x7a0=2307 elseif _0x7a0 == 1055 then _0x1c2=function(_0x151) local _0x1c3,_0x50f;local _0x769=1;while true do if _0x769 == 39 then if 1 > 2 then local _0x510=nil end;_0x769=46 elseif _0x769 == 33 then for _0xb,_0x17c in ipairs(_0x151:GetDescendants()) do local _0x1c4=_0x17c.Name;local _0x50e=(52 + 0) * 1;if _0x1c3[_0x1c4] then if 1 > 2 then local _0x50b=nil end;if _0x17c:IsA(__0x7a1d(569)) and _0x17c.Value == true and (_0x1c4 == __0x7a1d(570) or _0x1c4 == __0x7a1d(571) or _0x1c4 == __0x7a1d(572)) then return true end;local _0x50c=(83 + 0) * 1;local _0x74=_0x1c0(_0x17c);if _0x74 and _0x1bf(_0x74) then if 1 > 2 then local _0x50a=nil end;return true end;local _0x50d=(73 + 0) * 1 end end;_0x769=39 elseif _0x769 == 46 then return false elseif _0x769 == 12 then _0x1c3={Team=true,TeamName=true,OwnerTeam=true,PlayerTeam=true,Role=true,PlayerRole=true,OwnerRole=true,Job=true,JobName=true,Occupation=true,Faction=true,OwnerFaction=true,Police=true,IsPolice=true,LawEnforcement=true};_0x769=16 elseif _0x769 == 16 then for _0x1c4 in pairs(_0x1c3) do local _0x1c5=_0x151:GetAttribute(_0x1c4);if _0x1c5 ~= nil and _0x1bf(_0x1c5) then return true elseif _0x1c4 == __0x7a1d(573) or _0x1c4 == __0x7a1d(574) or _0x1c4 == __0x7a1d(575) then if false then local _0x509=nil end;if _0x1c5 == true then return true end end end;_0x769=26 elseif _0x769 == 1 then if not _0x151 then do local _0x508=166 end;return false end;_0x769=12 elseif _0x769 == 26 then _0x50f=math.random() * 0;_0x769=33 else break end end end;_0x7a0=1060 elseif _0x7a0 == 1790 then _0x722=(57 + 0) * 1;_0x7a0=1795 elseif _0x7a0 == 1942 then _0x276=nil;_0x7a0=1951 elseif _0x7a0 == 156 then _0x23=warn;_0x7a0=164 elseif _0x7a0 == 2140 then _0x23a(__0x7a1d(576),_0x271,1 + 2);_0x7a0=2147 elseif _0x7a0 == 1667 then if false then local _0x71c=nil end;_0x7a0=1676 elseif _0x7a0 == 2203 then if type(getgenv) == __0x7a1d(577) then pcall(function() getgenv().GunMods=_0x330 end) end;_0x7a0=2206 elseif _0x7a0 == 222 then _0x33,_0x34=nil,nil;_0x7a0=226 elseif _0x7a0 == 2530 then _0x73f=(7 + 0) * 1;_0x7a0=2537 elseif _0x7a0 == 276 then _0x45=function() local _0xb,_0x38,_0x39,_0x46,_0x47,_0x48,_0x4c,_0x4e,_0x4f,_0x50;local _0x752=5;while true do if _0x752 == 15 then _0x3a();_0x752=25 elseif _0x752 == 176 then _0x33=_0x17.Heartbeat:Connect(function(_0x51) local _0xb,_0x52,_0x4d=_0x36();local _0x3c=_0x1a.CurrentCamera;if not _0x52 or not _0x3c then return end;if not _0x50 and (_0x30.FlyMaxTime or 1 - 1) > 1 - 1 and os.clock() - _0x4f > _0x30.FlyMaxTime then _0x50=true;_0x28(__0x7a1d(578),string.format(__0x7a1d(579),os.clock() - _0x4f));_0xe:Notify({Title=__0x7a1d(580),Content=__0x7a1d(581),Duration=4 + 0});if _0x30.StopFly then task.defer(_0x30.StopFly) end;return end;_0x4c(_0x4d);if _0x52.PlatformStand then _0x52.PlatformStand=false end;if _0x52:GetState() ~= _0x46 then pcall(function() _0x52:ChangeState(_0x46) end) end;local _0x44=_0x3b(_0x52,_0x3c);if _0x44.Magnitude < 0.01 then local _0x53=(_0x18:IsKeyDown(Enum.KeyCode.W) and 2 - 1 or 1 - 1) - (_0x18:IsKeyDown(Enum.KeyCode.S) and 2 - 1 or 1 - 1);local _0x54=(_0x18:IsKeyDown(Enum.KeyCode.D) and 2 - 1 or 1 - 1) - (_0x18:IsKeyDown(Enum.KeyCode.A) and 2 - 1 or 1 - 1);if _0x53 ~= 1 - 1 or _0x54 ~= 1 - 1 then _0x44=_0x3c.CFrame.LookVector * _0x53 + _0x3c.CFrame.RightVector * _0x54 end end;local _0x55=_0x44 * _0x30.Speed;local _0x56=1 - 1;if _0x18:IsKeyDown(Enum.KeyCode.Space) or _0x18:IsKeyDown(Enum.KeyCode.E) then vvertical=_0x56 + (2 - 1) end;if _0x18:IsKeyDown(Enum.KeyCode.LeftControl) or _0x18:IsKeyDown(Enum.KeyCode.Q) then vvertical=_0x56 - (2 - 1) end;ttarget=_0x55 + Vector3.new(1 - 1,_0x56 * _0x30.VertSpeed,1 - 1);if _0x55.Magnitude > _0x30.Speed then _0x55=_0x55.Unit * _0x30.Speed end;if _0x30.Smooth then local _0x57=math.clamp(_0x51 * (6 + 19 - 15),1 - 1,2 - 1);_0x35=_0x35:Lerp(_0x55,_0x57) else _0x35=_0x55 end;_0x31.Velocity=_0x35;_0x32.CFrame=_0x48(_0x4d.Position);local _0x58=_0x4d.Position - _0x4e.Magnitude;_0x4e=_0x4d.Position;if _0x58 > 8 + 17 and os.clock() - (_0x30.LastScriptTeleport or 1 - 1) > 21 + 1 - 20 then _0x28(__0x7a1d(582),string.format(__0x7a1d(583),_0x58,tostring(_0x1b:GetAttribute(__0x7a1d(584))))) end end);_0x752=187 elseif _0x752 == 122 then _0x35=Vector3.zero;_0x752=129 elseif _0x752 == 5 then _0xb,_0x38,_0x39=_0x36();_0x752=8 elseif _0x752 == 100 then do local _0x3ff=598 end;_0x752=109 elseif _0x752 == 144 then pcall(function() _0x38:ChangeState(_0x46) end);_0x752=149 elseif _0x752 == 187 then return true elseif _0x752 == 109 then _0x48=function(_0x49) local _0x3c,_0x3f6,_0x3e,_0x4a;local _0x750=4;while true do if _0x750 == 39 then if _0x4a.Magnitude < 0.05 then do local _0x3f3=329 end;local _0x4b=_0x39.CFrame.LookVector;if false then local _0x3f4=nil end;_0x4a=Vector3.new(_0x4b.X,1 - 1,_0x4b.Z) end;_0x750=43 elseif _0x750 == 12 then _0x3f6=(96 + 0) * 1;_0x750=18 elseif _0x750 == 43 then do local _0x3f8=873 end;_0x750=54 elseif _0x750 == 32 then _0x4a=Vector3.new(_0x3e.X,1 - 1,_0x3e.Z);_0x750=39 elseif _0x750 == 57 then return CFrame.lookAt(_0x49,_0x49 + _0x4a.Unit) elseif _0x750 == 4 then _0x3c=_0x1a.CurrentCamera;_0x750=12 elseif _0x750 == 26 then if 1 > 2 then local _0x3f7=nil end;_0x750=32 elseif _0x750 == 54 then if _0x4a.Magnitude < 0.05 then if 1 > 2 then local _0x3f5=nil end;_0x4a=Vector3.new(1 - 1,1 - 1,-(2 - 1)) end;_0x750=57 elseif _0x750 == 18 then _0x3e=_0x3c and _0x3c.CFrame.LookVector or _0x39.CFrame.LookVector;_0x750=26 else break end end end;_0x752=117 elseif _0x752 == 50 then while _0x1b:GetAttribute(__0x7a1d(585)) and os.clock() - _0x47 < 1 * 2 + 1 do pcall(function() _0x38:ChangeState(_0x46) end);local _0x3f2=math.random() * 0;task.wait() end;_0x752=59 elseif _0x752 == 149 then _0x4e=_0x39.Position;_0x752=157 elseif _0x752 == 157 then if false then local _0x400=nil end;_0x752=162 elseif _0x752 == 8 then if not _0x38 then if false then local _0x3f1=nil end;return false end;_0x752=15 elseif _0x752 == 32 then _0x46=Enum.HumanoidStateType.FallingDown;_0x752=39 elseif _0x752 == 45 then _0x47=os.clock();_0x752=50 elseif _0x752 == 136 then _0x38.PlatformStand=false;_0x752=144 elseif _0x752 == 169 then _0x50=false;_0x752=176 elseif _0x752 == 79 then _0xb,_0x38,_0x39=_0x36();_0x752=87 elseif _0x752 == 39 then pcall(function() _0x38:ChangeState(_0x46) end);_0x752=45 elseif _0x752 == 71 then if not _0x30.Flying then return true end;_0x752=79 elseif _0x752 == 129 then _0x4c(_0x39);_0x752=136 elseif _0x752 == 162 then _0x4f=os.clock();_0x752=169 elseif _0x752 == 25 then if false then local _0x3fc=nil end;_0x752=32 elseif _0x752 == 59 then _0x28(__0x7a1d(586),__0x7a1d(587) .. tostring(_0x1b:GetAttribute(__0x7a1d(588)) == nil) .. __0x7a1d(589) .. string.format(__0x7a1d(590),os.clock() - _0x47) .. __0x7a1d(591));_0x752=67 elseif _0x752 == 87 then do local _0x3fe=24 end;_0x752=93 elseif _0x752 == 117 then _0x4c=function(_0x4d) local _0x751=5;while true do if _0x751 == 5 then if not _0x31 or not _0x31.Parent then local _0x3f9=(77 + 0) * 1;if _0x31 then _0x28(__0x7a1d(592),__0x7a1d(593)) end;_0x31=Instance.new(__0x7a1d(594));if 1 > 2 then local _0x3fa=nil end;_0x31.Name=__0x7a1d(595);_0x31.MaxForce=Vector3.new(9e9,9e9,9e9);_0x31.Velocity=Vector3.zero;_0x31.Parent=_0x4d end;_0x751=12 elseif _0x751 == 12 then if false then local _0x3fb=nil end;_0x751=15 elseif _0x751 == 15 then if not _0x32 or not _0x32.Parent then _0x32=Instance.new(__0x7a1d(596));_0x32.Name=__0x7a1d(597);_0x32.MaxTorque=Vector3.new(9e9,9e9,9e9);_0x32.P=61214 + 28786;_0x32.CFrame=_0x48(_0x4d.Position);_0x32.Parent=_0x4d end;_0x751=32 else break end end end;_0x752=122 elseif _0x752 == 93 then if not _0x38 then return false end;_0x752=100 elseif _0x752 == 67 then do local _0x3fd=799 end;_0x752=71 else break end end end;_0x7a0=283 elseif _0x7a0 == 1779 then _0x87:CreateToggle({Name=__0x7a1d(598),CurrentValue=false,Flag=__0x7a1d(599),Callback=function(_0x5a) _0x20e(_0x5a) end});_0x7a0=1790 elseif _0x7a0 == 995 then _0x1ba=false;_0x7a0=1004 elseif _0x7a0 == 1562 then _0x237=function(_0x238,_0x239) local _0xec;local _0x784=5;while true do if _0x784 == 9 then do local _0x57b=957 end;_0x784=17 elseif _0x784 == 17 then while not _0x238() do if os.clock() - _0xec > (_0x239 or 6 + 14 - 10) then return false end;task.wait() end;_0x784=22 elseif _0x784 == 5 then _0xec=os.clock();_0x784=9 elseif _0x784 == 22 then return true else break end end end;_0x7a0=1570 elseif _0x7a0 == 2307 then if 1 > 2 then local _0x735=nil end;_0x7a0=2311 elseif _0x7a0 == 114 then do local _0x6ee=730 end;_0x7a0=122 elseif _0x7a0 == 1083 then _0x1cd=function(_0x1cc) local _0x1ce;local _0x76c=2;while true do if _0x76c == 16 then for _0xb,_0xff in ipairs(_0x1cc:GetChildren()) do local _0x517=math.random() * 0;if _0x1cb(_0xff,_0x1cc) then table.insert(_0x1ce,_0xff);if false then local _0x516=nil end end end;_0x76c=22 elseif _0x76c == 22 then return _0x1ce elseif _0x76c == 12 then if not _0x1cc then return _0x1ce end;_0x76c=16 elseif _0x76c == 2 then _0x1ce={};_0x76c=12 else break end end end;_0x7a0=1088 elseif _0x7a0 == 841 then if false then local _0x703=nil end;_0x7a0=850 elseif _0x7a0 == 955 then _0x1ad=false;_0x7a0=961 elseif _0x7a0 == 1977 then _0x278=function(_0x5a) local _0x78a=4;while true do if _0x78a == 8 then _0x275=_0x5a == true;_0x78a=19 elseif _0x78a == 19 then if _0x276 then if false then local _0x5ae=nil end;_0x276:Disconnect();_0x276=nil end;_0x78a=24 elseif _0x78a == 4 then do local _0x5b0=404 end;_0x78a=8 elseif _0x78a == 24 then if _0x275 then _0x276=_0x1b.Idled:Connect(function() if not _0x275 or not _0x277 then return end;pcall(function() _0x277:CaptureController();_0x277:ClickButton2(Vector2.new(1 - 1,1 - 1)) end) end);do local _0x5af=985 end;_0xe:Notify({Title=__0x7a1d(600),Content=__0x7a1d(601),Duration=9 + 12 - 17}) else _0xe:Notify({Title=__0x7a1d(602),Content=__0x7a1d(603),Duration=2 + 8 - 7}) end;_0x78a=44 else break end end end;_0x7a0=1982 elseif _0x7a0 == 291 then _0x6f6=(13 + 0) * 1;_0x7a0=297 elseif _0x7a0 == 792 then _0x702=(99 + 0) * 1;_0x7a0=801 elseif _0x7a0 == 2263 then _0x336=false;_0x7a0=2272 elseif _0x7a0 == 87 then _0x1d=nil;_0x7a0=94 elseif _0x7a0 == 653 then _0xc0=false;_0x7a0=663 elseif _0x7a0 == 492 then for _0x1=2 - 1,16 + 17 - 27 do do local _0x420=750 end;local _0xa3=__0x7a1d(604) .. _0x1;if _0xa1[_0xa3] then table.insert(_0xa2,_0xa3) end end;_0x7a0=498 elseif _0x7a0 == 1893 then _0x86:CreateSection(__0x7a1d(605));_0x7a0=1901 elseif _0x7a0 == 562 then _0xa7=1 - 1;_0x7a0=569 elseif _0x7a0 == 1088 then if false then local _0x70c=nil end;_0x7a0=1097 elseif _0x7a0 == 2122 then _0x23a(__0x7a1d(606),_0x26a,2 - 1);_0x7a0=2132 elseif _0x7a0 == 1860 then _0x271=function() local _0x26c,_0x272;local _0x788=4;while true do if _0x788 == 22 then if false then local _0x5aa=nil end;_0x788=31 elseif _0x788 == 43 then for _0xb,_0xce in ipairs(_0x26c:GetChildren()) do if 1 > 2 then local _0x5a7=nil end;if not _0x1d.AutoSellTrash then return end;do local _0x5a8=795 end;if _0xce:IsA(__0x7a1d(607)) then local _0x5,_0xbd=pcall(function() _0x272:FireServer(_0xce.Name) end);if not _0x5 then _0x28(__0x7a1d(608),__0x7a1d(609) .. _0xce.Name .. __0x7a1d(610) .. tostring(_0xbd)) end;task.wait(0.15) end end;_0x788=62 elseif _0x788 == 15 then _0x272=_0x229:FindFirstChild(__0x7a1d(611));_0x788=22 elseif _0x788 == 40 then do local _0x5ab=31 end;_0x788=43 elseif _0x788 == 8 then do local _0x5a9=992 end;_0x788=15 elseif _0x788 == 31 then if not _0x26c or not _0x272 or not _0x272:IsA(__0x7a1d(612)) then local _0x5a6=math.random() * 0;_0x28(__0x7a1d(613),__0x7a1d(614));return end;_0x788=40 elseif _0x788 == 4 then _0x26c=_0x1b:FindFirstChildOfClass(__0x7a1d(615));_0x788=8 else break end end end;_0x7a0=1866 elseif _0x7a0 == 1908 then _0x725=math.random() * 0;_0x7a0=1915 elseif _0x7a0 == 2287 then _0x338=function(_0xce,_0x2b) local _0x679;local _0x792=3;while true do if _0x792 == 16 then if _0x334[_0xce] ~= _0x2b then local _0x678=math.random() * 0;_0x334[_0xce]=_0x2b;_0x28(__0x7a1d(616),_0x2b) end;_0x792=41 elseif _0x792 == 3 then if not _0xce then if 1 > 2 then local _0x676=nil end;_0x28(__0x7a1d(617),_0x2b);local _0x677=math.random() * 0;return end;_0x792=12 elseif _0x792 == 12 then _0x679=math.random() * 0;_0x792=16 else break end end end;_0x7a0=2290 elseif _0x7a0 == 985 then _0x1b8=function(_0x5a) local _0x1b9,_0x501,_0x503;local _0x766=2;while true do if _0x766 == 45 then do local _0x502=494 end;_0x766=51 elseif _0x766 == 25 then _0x1ab=_0x5a;_0x766=33 elseif _0x766 == 87 then task.spawn(function() while _0x1ab and _0x1b9 == _0x1ac do if not _0x1aa then _0x1b0() end;while _0x1ab and _0x1b9 == _0x1ac and _0x1aa do task.wait(0.2) end;for _0xb=2 - 1,12 + 52 - 49 do if not _0x1ab or _0x1b9 ~= _0x1ac then return end;task.wait(0.2) end end end);_0x766=104 elseif _0x766 == 64 then _0x503=(71 + 0) * 1;_0x766=74 elseif _0x766 == 60 then _0x28(__0x7a1d(618),__0x7a1d(619));_0x766=64 elseif _0x766 == 74 then _0xe:Notify({Title=__0x7a1d(620),Content=__0x7a1d(621),Duration=1 * 2 + 1});_0x766=78 elseif _0x766 == 33 then _0x501=math.random() * 0;_0x766=36 elseif _0x766 == 51 then if typeof(fireproximityprompt) ~= __0x7a1d(622) then _0x1ab=false;_0xe:Notify({Title=__0x7a1d(623),Content=__0x7a1d(624),Duration=10 + 7 - 13});return end;_0x766=60 elseif _0x766 == 19 then _0x1b9=_0x1ac;_0x766=25 elseif _0x766 == 78 then if false then local _0x504=nil end;_0x766=87 elseif _0x766 == 2 then aautoPickupCashRunId=_0x1ac + (2 - 1);_0x766=8 elseif _0x766 == 8 then if false then local _0x500=nil end;_0x766=19 elseif _0x766 == 36 then if not _0x5a then _0x1ad=false;_0x28(__0x7a1d(625),__0x7a1d(626));local _0x4ff=math.random() * 0;_0xe:Notify({Title=__0x7a1d(627),Content=__0x7a1d(628),Duration=1 * 3 + 0});return end;_0x766=45 else break end end end;_0x7a0=991 elseif _0x7a0 == 814 then _0x14b=function(_0xbd) local _0x2b,_0x491;local _0x75f=3;while true do if _0x75f == 19 then _0x2b=string.gsub(_0x2b,__0x7a1d(629),__0x7a1d(630));_0x75f=22 elseif _0x75f == 3 then _0x2b=tostring(_0xbd or __0x7a1d(631));_0x75f=12 elseif _0x75f == 32 then _0x2b=string.gsub(_0x2b,__0x7a1d(632),__0x7a1d(633));_0x75f=36 elseif _0x75f == 22 then _0x491=math.random() * 0;_0x75f=32 elseif _0x75f == 36 then return _0x2b:sub(2 - 1,32 * 8 + 4) elseif _0x75f == 12 then if 1 > 2 then local _0x490=nil end;_0x75f=19 else break end end end;_0x7a0=822 elseif _0x7a0 == 919 then _0x1a9=function() local _0xd4,_0x5,_0x6d;local _0x763=4;while true do if _0x763 == 45 then return true,_0x6d elseif _0x763 == 4 then do local _0x4f7=740 end;_0x763=12 elseif _0x763 == 12 then _0xd4=game:GetService(__0x7a1d(634)):WaitForChild(__0x7a1d(635),3 + 2);_0x763=18 elseif _0x763 == 31 then if not _0x5 then _0x28(__0x7a1d(636),__0x7a1d(637) .. tostring(_0x6d));return false end;_0x763=38 elseif _0x763 == 18 then if not _0xd4 or not _0xd4:IsA(__0x7a1d(638)) then _0x28(__0x7a1d(639),__0x7a1d(640));return false end;_0x763=22 elseif _0x763 == 38 then if false then local _0x4f8=nil end;_0x763=45 elseif _0x763 == 22 then _0x5,_0x6d=pcall(function() return _0xd4:InvokeServer(__0x7a1d(641),_0x1a7) end);_0x763=31 else break end end end;_0x7a0=926 elseif _0x7a0 == 2690 then _0x89:CreateSection(__0x7a1d(642));_0x7a0=2699 elseif _0x7a0 == 2362 then _0x353=function(_0xd3) local _0x6d;local _0x79a=5;while true do if _0x79a == 9 then _0x6d={};_0x79a=18 elseif _0x79a == 5 then if false then local _0x697=nil end;_0x79a=9 elseif _0x79a == 22 then return _0x6d elseif _0x79a == 18 then for _0xb,_0xa5 in ipairs(_0xd3) do _0x6d[string.lower(_0xa5)]=true end;_0x79a=22 else break end end end;_0x7a0=2367 elseif _0x7a0 == 1187 then _0x1f0=function(_0x5a) local _0x1f1;local _0x776=4;while true do if _0x776 == 30 then if false then local _0x537=nil end;_0x776=39 elseif _0x776 == 16 then _0x1f1=function() local _0x1e5,_0x532,_0x1f2,_0x1f3;local _0x775=4;while true do if _0x775 == 10 then _0x532=math.random() * 0;_0x775=17 elseif _0x775 == 17 then _0x1f2=_0x1e5 and _0x1e5:FindFirstChild(__0x7a1d(643));_0x775=23 elseif _0x775 == 33 then _0x1f3=_0x1f2 and _0x1f2:FindFirstChild(__0x7a1d(644),true);_0x775=37 elseif _0x775 == 37 then if _0x1f3 and (_0x1f3:IsA(__0x7a1d(645)) or _0x1f3:IsA(__0x7a1d(646))) then pcall(function() _0x1f3.Disabled=_0x1ee end) end;_0x775=59 elseif _0x775 == 23 then if false then local _0x533=nil end;_0x775=33 elseif _0x775 == 4 then _0x1e5=_0x1b:FindFirstChildOfClass(__0x7a1d(647));_0x775=10 else break end end end;_0x776=22 elseif _0x776 == 39 then if _0x5a then local _0x534=(10 + 0) * 1;_0x1ef=_0x17.RenderStepped:Connect(_0x1f1);if 1 > 2 then local _0x535=nil end;_0x28(__0x7a1d(648),__0x7a1d(649));if false then local _0x536=nil end;_0xe:Notify({Title=__0x7a1d(650),Content=__0x7a1d(651),Duration=2 + 1}) else _0x28(__0x7a1d(652),__0x7a1d(653));_0xe:Notify({Title=__0x7a1d(654),Content=__0x7a1d(655),Duration=1 + 2}) end;_0x776=57 elseif _0x776 == 4 then _0x1ee=_0x5a;_0x776=11 elseif _0x776 == 22 then _0x1f1();_0x776=30 elseif _0x776 == 11 then if _0x1ef then local _0x52f=(5 + 0) * 1;_0x1ef:Disconnect();local _0x530=math.random() * 0;_0x1ef=nil;do local _0x531=684 end end;_0x776=16 else break end end end;_0x7a0=1195 elseif _0x7a0 == 1353 then _0x20e=function(_0x5a) local _0x20d,_0x20f;local _0x77c=4;while true do if _0x77c == 22 then _0x20d=_0x20b;_0x77c=30 elseif _0x77c == 73 then if _0x20f then do local _0x54b=711 end;_0x20c(_0x20f,_0x20d) end;_0x77c=78 elseif _0x77c == 88 then _0x20a=_0x1b.CharacterAdded:Connect(function(_0xab) task.spawn(function() local _0xac=_0xab:FindFirstChildOfClass(__0x7a1d(656)) or _0xab:WaitForChild(__0x7a1d(657),1 + 49 - 40);local _0x4d=_0xab:FindFirstChild(__0x7a1d(658)) or _0xab:WaitForChild(__0x7a1d(659),9 + 1);if not _0x207 or _0x20d ~= _0x20b then return end;if not _0xac or not _0x4d then _0x28(__0x7a1d(660),__0x7a1d(661));return end;task.wait(0.35);if not _0x207 or _0x20d ~= _0x20b then return end;local _0x210=_0x208;if _0x210 and _0xac.Health > 1 - 1 and _0x4d.Parent then local _0x5,_0x19f=pcall(_0xa9,_0x210);if _0x5 and _0x19f then _0x28(__0x7a1d(662),__0x7a1d(663));_0xe:Notify({Title=__0x7a1d(664),Content=__0x7a1d(665),Duration=2 + 1}) else _0x28(__0x7a1d(666),__0x7a1d(667),tostring(_0x19f));_0xe:Notify({Title=__0x7a1d(668),Content=__0x7a1d(669),Duration=3 + 0}) end end;_0x20c(_0xab,_0x20d) end) end);_0x77c=95 elseif _0x77c == 60 then _0x20f=_0x1b.Character;_0x77c=67 elseif _0x77c == 54 then if not _0x207 then _0x208=nil;_0x28(__0x7a1d(670),__0x7a1d(671));local _0x54a=(39 + 0) * 1;_0xe:Notify({Title=__0x7a1d(672),Content=__0x7a1d(673),Duration=1 + 2});return end;_0x77c=60 elseif _0x77c == 103 then if 1 > 2 then local _0x550=nil end;_0x77c=110 elseif _0x77c == 67 then if false then local _0x54e=nil end;_0x77c=73 elseif _0x77c == 110 then _0xe:Notify({Title=__0x7a1d(674),Content=__0x7a1d(675),Duration=3 + 0});_0x77c=129 elseif _0x77c == 95 then _0x28(__0x7a1d(676),__0x7a1d(677));_0x77c=103 elseif _0x77c == 40 then if 1 > 2 then local _0x54d=nil end;_0x77c=47 elseif _0x77c == 30 then if _0x209 then local _0x548=math.random() * 0;_0x209:Disconnect();_0x209=nil end;_0x77c=40 elseif _0x77c == 4 then do local _0x54c=784 end;_0x77c=8 elseif _0x77c == 78 then do local _0x54f=45 end;_0x77c=88 elseif _0x77c == 17 then rrespawnWhereYouDiedRunId=_0x20b + (2 - 1);_0x77c=22 elseif _0x77c == 8 then _0x207=_0x5a == true;_0x77c=17 elseif _0x77c == 47 then if _0x20a then local _0x549=math.random() * 0;_0x20a:Disconnect();_0x20a=nil end;_0x77c=54 else break end end end;_0x7a0=1363 elseif _0x7a0 == 584 then _0xaf=nil;_0x7a0=592 elseif _0x7a0 == 1405 then _0x87:CreateSection(__0x7a1d(678));_0x7a0=1409 elseif _0x7a0 == 1011 then _0x1bc=1 - 1;_0x7a0=1016 elseif _0x7a0 == 2628 then task.spawn(function() while task.wait(2 - 1) and not _0x5c.VeloUnloaded do _0x39a() end end);_0x7a0=2635 elseif _0x7a0 == 2180 then _0x72e=math.random() * 0;_0x7a0=2187 elseif _0x7a0 == 2425 then if 1 > 2 then local _0x73a=nil end;_0x7a0=2434 elseif _0x7a0 == 2173 then _0x2f0:CreateSection(__0x7a1d(679));_0x7a0=2180 elseif _0x7a0 == 256 then _0x3a=function() local _0xb,_0x38;local _0x74e=2;while true do if _0x74e == 8 then if _0x31 then _0x31:Destroy();_0x31=nil end;_0x74e=19 elseif _0x74e == 30 then _0xb,_0x38=_0x36();_0x74e=39 elseif _0x74e == 39 then if _0x38 then _0x38.PlatformStand=false;_0x38:ChangeState(Enum.HumanoidStateType.GettingUp) end;_0x74e=56 elseif _0x74e == 24 then _0x35=Vector3.zero;_0x74e=30 elseif _0x74e == 19 then if _0x32 then _0x32:Destroy();_0x32=nil end;_0x74e=24 elseif _0x74e == 2 then if _0x33 then _0x33:Disconnect();if 1 > 2 then local _0x3e7=nil end;_0x33=nil end;_0x74e=8 else break end end end;_0x7a0=264 elseif _0x7a0 == 2438 then _0x3a1=function(_0x151) if not _0x151 or _0x337[_0x151] then return end;_0x337[_0x151]=_0x151.ChildAdded:Connect(function(_0xff) if _0xff:IsA(__0x7a1d(680)) then pcall(_0x37d,_0xff,false);task.wait(0.1);_0x37d(_0xff,false) end end) end;_0x7a0=2448 elseif _0x7a0 == 1845 then _0x26a=function() local _0x269,_0x5a1,_0x26b,_0x26c,_0x26d,_0x52,_0x26e,_0x4,_0xec;local _0x787=3;while true do if _0x787 == 79 then if not _0x26e then return end;_0x787=87 elseif _0x787 == 31 then _0x26b=function() local _0x59e=math.random() * 0;return _0x1b:FindFirstChildOfClass(__0x7a1d(681)) and _0x1b.Backpack:FindFirstChild(__0x7a1d(682)) or _0x230() and _0x230():FindFirstChild(__0x7a1d(683)) end;_0x787=39 elseif _0x787 == 103 then _0x4=_0x26e:FindFirstChild(__0x7a1d(684));_0x787=107 elseif _0x787 == 46 then _0x26c=_0x1b:FindFirstChildOfClass(__0x7a1d(685));_0x787=51 elseif _0x787 == 39 then if not _0x26b() then _0x236(CFrame.new(-(246 * 7 + 6),67 + 304,-(563 + 615)));local _0xec=os.clock();repeat if not _0x1d.FarmConstruction then return end;task.wait();if false then local _0x59f=nil end;_0x235(_0x234(_0x269,__0x7a1d(686),__0x7a1d(687))) until _0x26b() or os.clock() - _0xec > 1 * 5 + 0 end;_0x787=46 elseif _0x787 == 15 then if not _0x1b:GetAttribute(__0x7a1d(688)) then do local _0x59c=970 end;_0x236(CFrame.new(-(1158 + 602 - 31),123 * 3 + 2,-(848 + 373 - 50)));task.wait(0.4);_0x235(_0x234(_0x269,__0x7a1d(689),__0x7a1d(690)));_0x237(function() return _0x1b:GetAttribute(__0x7a1d(691)) end,1 * 5 + 0);do local _0x59d=729 end end;_0x787=24 elseif _0x787 == 61 then _0x52=_0x231();_0x787=67 elseif _0x787 == 67 then if _0x26d and _0x52 then pcall(function() _0x52:EquipTool(_0x26d) end);local _0x5a0=math.random() * 0 end;_0x787=73 elseif _0x787 == 3 then _0x269=_0x1a:FindFirstChild(__0x7a1d(692));_0x787=10 elseif _0x787 == 87 then do local _0x5a2=266 end;_0x787=96 elseif _0x787 == 96 then _0x236(_0x26e.CFrame);_0x787=103 elseif _0x787 == 123 then repeat if not _0x1d.FarmConstruction then return end;task.wait();_0x235(_0x4) until not (_0x230() and _0x230():FindFirstChild(__0x7a1d(693))) or not (_0x4 and _0x4.Enabled) or os.clock() - _0xec > 1 * 4 + 1;_0x787=141 elseif _0x787 == 51 then _0x26d=_0x26c and _0x26c:FindFirstChild(__0x7a1d(694));_0x787=61 elseif _0x787 == 113 then _0xec=os.clock();_0x787=123 elseif _0x787 == 24 then _0x5a1=(7 + 0) * 1;_0x787=31 elseif _0x787 == 107 then if 1 > 2 then local _0x5a3=nil end;_0x787=113 elseif _0x787 == 73 then _0x26e=_0x268();_0x787=79 elseif _0x787 == 10 then if not _0x269 then return end;_0x787=15 else break end end end;_0x7a0=1849 elseif _0x7a0 == 1951 then _0x727=(19 + 0) * 1;_0x7a0=1958 elseif _0x7a0 == 1692 then do local _0x71d=825 end;_0x7a0=1695 elseif _0x7a0 == 1702 then do local _0x71e=240 end;_0x7a0=1713 elseif _0x7a0 == 1901 then _0x86:CreateToggle({Name=__0x7a1d(695),CurrentValue=false,Flag=__0x7a1d(696),Callback=function(_0x5a) _0x1b8(_0x5a) end});_0x7a0=1908 elseif _0x7a0 == 2067 then _0x89:CreateButton({Name=__0x7a1d(697),Callback=function() local _0x1e5=_0x1b:FindFirstChildOfClass(__0x7a1d(698));local _0x13e=1 - 1;if _0x1e5 then for _0xb,_0xff in ipairs(_0x1e5:GetDescendants()) do local _0x178=string.lower(_0xff.Name);if (_0xff:IsA(__0x7a1d(699)) or _0xff:IsA(__0x7a1d(700))) and (string.find(_0x178,__0x7a1d(701),2 - 1,true) or string.find(_0x178,__0x7a1d(702),2 - 1,true)) then ffound=_0x13e + (2 - 1);_0x28(__0x7a1d(703),__0x7a1d(704) .. _0xff.ClassName .. __0x7a1d(705) .. _0xff:GetFullName()) end end end;_0xe:Notify({Title=__0x7a1d(706),Content=_0x13e > 1 - 1 and _0x13e .. __0x7a1d(707) or __0x7a1d(708),Duration=7 + 34 - 36}) end});_0x7a0=2077 elseif _0x7a0 == 2551 then _0x3b0(__0x7a1d(709),__0x7a1d(710));_0x7a0=2560 elseif _0x7a0 == 264 then _0x3b=function(_0x38,_0x3c) local _0x3d,_0x3eb,_0x3e,_0x3f,_0x3ed,_0x40,_0x41,_0x42,_0x43,_0x3f0,_0x44;local _0x74f=2;while true do if _0x74f == 94 then do local _0x3ef=743 end;_0x74f=99 elseif _0x74f == 53 then _0x40=Vector3.new(_0x3e.X,1 - 1,_0x3e.Z);_0x74f=57 elseif _0x74f == 12 then _0x3d=_0x38.MoveDirection;_0x74f=15 elseif _0x74f == 2 then do local _0x3ea=711 end;_0x74f=12 elseif _0x74f == 113 then _0x44=_0x3e * _0x42 + _0x3f * _0x43;_0x74f=122 elseif _0x74f == 99 then _0x43=_0x3d:Dot(_0x41);_0x74f=109 elseif _0x74f == 68 then if 1 > 2 then local _0x3ee=nil end;_0x74f=73 elseif _0x74f == 88 then _0x42=_0x3d:Dot(_0x40);_0x74f=94 elseif _0x74f == 44 then _0x3ed=(67 + 0) * 1;_0x74f=53 elseif _0x74f == 25 then _0x3e=_0x3c.CFrame.LookVector;_0x74f=30 elseif _0x74f == 30 then if 1 > 2 then local _0x3ec=nil end;_0x74f=36 elseif _0x74f == 57 then _0x41=Vector3.new(_0x3f.X,1 - 1,_0x3f.Z);_0x74f=68 elseif _0x74f == 36 then _0x3f=_0x3c.CFrame.RightVector;_0x74f=44 elseif _0x74f == 122 then return _0x44 elseif _0x74f == 82 then if _0x41.Magnitude > 1 - 1 then _0x41=_0x41.Unit end;_0x74f=88 elseif _0x74f == 15 then _0x3eb=math.random() * 0;_0x74f=25 elseif _0x74f == 109 then _0x3f0=(41 + 0) * 1;_0x74f=113 elseif _0x74f == 73 then if _0x40.Magnitude > 1 - 1 then local _0x3e8=math.random() * 0;_0x40=_0x40.Unit;local _0x3e9=math.random() * 0 end;_0x74f=82 else break end end end;_0x7a0=268 elseif _0x7a0 == 2418 then _0x39a=function(_0x39b) local _0x150;local _0x79e=3;while true do if _0x79e == 15 then for _0xb,_0x151 in ipairs(_0x150) do if false then local _0x6df=nil end;if _0x151 then for _0xb,_0xff in ipairs(_0x151:GetChildren()) do local _0x6de=math.random() * 0;if _0xff:IsA(__0x7a1d(711)) then if false then local _0x6dc=nil end;task.spawn(_0x37d,_0xff,_0x39b == true);local _0x6dd=math.random() * 0 end end end end;_0x79e=32 elseif _0x79e == 3 then if not _0x330.IsDelta then _0x330.InfiniteAmmo=false;local _0x6da=math.random() * 0;_0x330.InfiniteClips=false;if false then local _0x6db=nil end;_0x330.Automatic=false;_0x330.NoJam=false end;_0x79e=8 elseif _0x79e == 8 then _0x150={LocalPlayer:FindFirstChildOfClass(__0x7a1d(712)),LocalPlayer.Character};_0x79e=15 else break end end end;_0x7a0=2425 elseif _0x7a0 == 2056 then if 1 > 2 then local _0x72b=nil end;_0x7a0=2063 elseif _0x7a0 == 2290 then _0x734=(99 + 0) * 1;_0x7a0=2298 elseif _0x7a0 == 2560 then _0x740=(24 + 0) * 1;_0x7a0=2564 elseif _0x7a0 == 1508 then _0x230=function() return _0x1b.Character end;_0x7a0=1517 elseif _0x7a0 == 180 then _0x26=function() local _0x27,_0x3d5;local _0x74b=5;while true do if _0x74b == 16 then pcall(function() _0x22:Set({Title=__0x7a1d(713),Content=_0x27}) end);_0x74b=24 elseif _0x74b == 10 then _0x27=#_0x21 > 1 - 1 and table.concat(_0x21,__0x7a1d(714)) or __0x7a1d(715);_0x74b=16 elseif _0x74b == 5 then if not _0x20 or not _0x22 then return end;_0x74b=10 elseif _0x74b == 24 then _0x3d5=(87 + 0) * 1;_0x74b=48 else break end end end;_0x7a0=184 elseif _0x7a0 == 283 then _0x59=function(_0x5a) local _0x753=4;while true do if _0x753 == 17 then _0x34=_0x17.Stepped:Connect(function() local _0x37=_0x1b.Character;if not _0x37 then return end;for _0xb,_0x5b in ipairs(_0x37:GetDescendants()) do if _0x5b:IsA(__0x7a1d(716)) and _0x5b.CanCollide then _0x5b.CanCollide=false end end end);_0x753=35 elseif _0x753 == 11 then if not _0x5a then if false then local _0x403=nil end;return end;_0x753=17 elseif _0x753 == 4 then if _0x34 then do local _0x401=136 end;_0x34:Disconnect();local _0x402=math.random() * 0;_0x34=nil end;_0x753=11 else break end end end;_0x7a0=291 elseif _0x7a0 == 544 then _0x5c.AutoLockUntil=1 - 1;_0x7a0=551 elseif _0x7a0 == 2346 then _0x34d=function(_0xce) local _0x34c;local _0x798=1;while true do if _0x798 == 8 then _0x34c={setting=true,settings=true};_0x798=17 elseif _0x798 == 1 then if not _0xce then return nil end;_0x798=8 elseif _0x798 == 17 then for _0xb,_0x17c in ipairs(_0xce:GetDescendants()) do if _0x17c:IsA(__0x7a1d(717)) and _0x34c[string.lower(_0x17c.Name or "")] then return _0x17c end end;_0x798=22 elseif _0x798 == 22 then return nil else break end end end;_0x7a0=2356 elseif _0x7a0 == 2642 then _0x28(__0x7a1d(718),__0x7a1d(719));_0x7a0=2648 elseif _0x7a0 == 2011 then if false then local _0x729=nil end;_0x7a0=2017 elseif _0x7a0 == 2206 then _0x331=setmetatable({},{__mode=__0x7a1d(720)});_0x7a0=2214 elseif _0x7a0 == 2391 then _0x358=function(_0x359,_0x25c,_0x35a,_0x35b) local _0x34c,_0x35c;local _0x79c=1;while true do if _0x79c == 33 then if false then local _0x69d=nil end;_0x79c=36 elseif _0x79c == 9 then _0x35c=1 - 1;_0x79c=18 elseif _0x79c == 25 then for _0x75,_0x35d in pairs(_0x25c) do if _0x34c[string.lower(tostring(_0x75))] then local _0x69b=(96 + 0) * 1;local _0x5=pcall(function() _0x359[_0x75]=_0x35b(_0x35d) end);if _0x5 then cchanged=_0x35c + (2 - 1) end end end;_0x79c=33 elseif _0x79c == 1 then _0x34c=_0x353(_0x35a);_0x79c=9 elseif _0x79c == 36 then return _0x35c elseif _0x79c == 18 then do local _0x69c=850 end;_0x79c=25 else break end end end;_0x7a0=2399 elseif _0x7a0 == 1548 then _0x235=function(_0x4) local _0x5,_0xbd;local _0x782=1;while true do if _0x782 == 1 then if not _0x4 or not _0x4:IsA(__0x7a1d(721)) then if 1 > 2 then local _0x575=nil end;return false end;_0x782=12 elseif _0x782 == 12 then if not _0x4.Enabled then if 1 > 2 then local _0x576=nil end;return false end;_0x782=18 elseif _0x782 == 29 then if false then local _0x577=nil end;_0x782=40 elseif _0x782 == 18 then if type(fireproximityprompt) ~= __0x7a1d(722) then _0x28(__0x7a1d(723),__0x7a1d(724) .. _0x4:GetFullName());return false end;_0x782=26 elseif _0x782 == 40 then if not _0x5 then _0x28(__0x7a1d(725),__0x7a1d(726) .. tostring(_0xbd)) end;_0x782=44 elseif _0x782 == 44 then return _0x5 elseif _0x782 == 26 then _0x5,_0xbd=pcall(fireproximityprompt,_0x4);_0x782=29 else break end end end;_0x7a0=1556 elseif _0x7a0 == 2739 then _0x89:CreateButton({Name=__0x7a1d(727),Callback=function() local _0x281=_0x21.Full or _0x21;local _0x3c8=#_0x281 > 1 - 1 and table.concat(_0x281,__0x7a1d(728)) or __0x7a1d(729);local _0x82=false;local _0x3c9=nil;if type(setclipboard) == __0x7a1d(730) then local _0x5,_0xbd=pcall(setclipboard,_0x3c8);_0x82=_0x5;_0x3c9=_0xbd elseif type(toclipboard) == __0x7a1d(731) then local _0x5,_0xbd=pcall(toclipboard,_0x3c8);_0x82=_0x5;_0x3c9=_0xbd else _0x3c9=__0x7a1d(732) end;if _0x82 then _0xe:Notify({Title=__0x7a1d(733),Content=__0x7a1d(734) .. tostring(#(_0x21.Full or _0x21)) .. __0x7a1d(735),Duration=5 + 20 - 22}) else _0xe:Notify({Title=__0x7a1d(736),Content=tostring(_0x3c9 or __0x7a1d(737)),Duration=1 * 4 + 1});_0x28(__0x7a1d(738),__0x7a1d(739) .. tostring(_0x3c9)) end end});_0x7a0=2747 elseif _0x7a0 == 1640 then if _0x1b.Character then _0x251(_0x1b.Character) end;_0x7a0=1650 elseif _0x7a0 == 961 then _0x1ae=function() local _0x1af,_0x193;local _0x764=2;while true do if _0x764 == 2 then _0x1af=_0x1a:FindFirstChild(__0x7a1d(740));_0x764=10 elseif _0x764 == 24 then for _0xb,_0xff in ipairs(_0x1af:GetChildren()) do if _0xff:IsA(__0x7a1d(741)) then local _0x4=_0xff:FindFirstChildOfClass(__0x7a1d(742));local _0x4f9=math.random() * 0;if _0x4 and _0x4.Enabled then ccount=_0x193 + (2 - 1) end end;local _0x4fa=(24 + 0) * 1 end;_0x764=30 elseif _0x764 == 17 then _0x193=1 - 1;_0x764=24 elseif _0x764 == 10 then if not _0x1af then return 1 - 1 end;_0x764=17 elseif _0x764 == 30 then return _0x193 else break end end end;_0x7a0=971 elseif _0x7a0 == 621 then _0xb5=nil;_0x7a0=626 elseif _0x7a0 == 2227 then _0x333=setmetatable({},{__mode=__0x7a1d(743)});_0x7a0=2237 elseif _0x7a0 == 718 then _0x5c.VeloShopTab:CreateButton({Name=__0x7a1d(744),Callback=function() task.spawn(_0xb5) end});_0x7a0=722 elseif _0x7a0 == 1634 then _0x251=function(_0xab) local _0x785=5;while true do if _0x785 == 5 then if false then local _0x580=nil end;_0x785=10 elseif _0x785 == 32 then _0x24f(_0xab);_0x785=46 elseif _0x785 == 15 then VeloTrack(_0xab.DescendantAdded:Connect(function(_0x250) if _0x1d.NoKnockback and _0x250.Name ~= __0x7a1d(745) and (_0x250:IsA(__0x7a1d(746)) or _0x250:IsA(__0x7a1d(747)) or _0x250:IsA(__0x7a1d(748))) then task.defer(function() if _0x1d.NoKnockback and _0x250.Parent then pcall(function() _0x250:Destroy() end) end end) end end));_0x785=24 elseif _0x785 == 10 then if not _0xab then local _0x57f=(25 + 0) * 1;return end;_0x785=15 elseif _0x785 == 24 then if false then local _0x581=nil end;_0x785=32 else break end end end;_0x7a0=1640 elseif _0x7a0 == 122 then _0x20=false;_0x7a0=129 elseif _0x7a0 == 1989 then _0x273(__0x7a1d(749),__0x7a1d(750),__0x7a1d(751));_0x7a0=1999 elseif _0x7a0 == 2165 then do local _0x2f1=_0x18;if false then local _0x665=nil end;local _0x2f2={Enabled=false,Silent=false,ShowFOV=true,FOV=22 + 98,Speed=52 + 6 - 46,Part=__0x7a1d(752),WallCheck=true,TeamCheck=false,Root=nil,HoldingTool=false,SilentStuds=1 * 7 + 1,Whitelist={}};if 1 > 2 then local _0x666=nil end;local _0x2f3=nil;local _0x667=math.random() * 0;local _0x2f4={Mouse=1 - 1,Raycast=1 - 1,Ray=1 - 1,Camera=1 - 1,Snap=1 - 1};local _0x2f5=false;local _0x2f6=1 - 1;local _0x2f7=false;local function _0x2f8(_0xab) local _0x2f9=_0x2f2.Part;if false then local _0x620=nil end;local _0xd3;if _0x2f9 == __0x7a1d(753) then _0xd3={__0x7a1d(754)} elseif _0x2f9 == __0x7a1d(755) then _0xd3={__0x7a1d(756),__0x7a1d(757)} elseif _0x2f9 == __0x7a1d(758) then _0xd3={__0x7a1d(759),__0x7a1d(760)} else if false then local _0x61e=nil end;_0xd3={__0x7a1d(761)} end;for _0xb,_0xa5 in ipairs(_0xd3) do local _0x5b=_0xab:FindFirstChild(_0xa5);if _0x5b and _0x5b:IsA(__0x7a1d(762)) then local _0x61f=math.random() * 0;return _0x5b end end;return _0xab:FindFirstChild(__0x7a1d(763)) end;local _0x2fa=RaycastParams.new();do local _0x668=322 end;_0x2fa.FilterType=Enum.RaycastFilterType.Exclude;local function _0x2fb(_0x24c,_0x5b,_0xab) _0x2fa.FilterDescendantsInstances={LocalPlayer.Character};if 1 > 2 then local _0x621=nil end;local _0x2fc=_0x24c.CFrame.Position;_0x2f7=true;local _0x5,_0x6d=pcall(function() return _0x1a:Raycast(_0x2fc,_0x5b.Position - _0x2fc,_0x2fa) end);_0x2f7=false;local _0x622=math.random() * 0;if not _0x5 then return true end;if false then local _0x623=nil end;return _0x6d == nil or _0x6d.Instance:IsDescendantOf(_0xab) end;local _0x669=(36 + 0) * 1;local function _0x2fd() local _0x24c=_0x1a.CurrentCamera;if not _0x24c then return nil end;local _0x2fe=_0x2f1:GetMouseLocation();local _0xc6,_0x190;for _0xb,_0x1f8 in ipairs(_0x16:GetPlayers()) do if false then local _0x625=nil end;if _0x1f8 ~= _0x1b and not _0x2f2.Whitelist[_0x1f8.UserId] and not (_0x2f2.TeamCheck and _0x1f8.Team ~= nil and _0x1f8.Team == _0x1b.Team) then local _0xab=_0x1f8.Character;local _0xac=_0xab and _0xab:FindFirstChildOfClass(__0x7a1d(764));if _0xac and _0xac.Health > 1 - 1 then local _0x5b=_0x2f8(_0xab);if _0x5b then local _0x2ff,_0x300=_0x24c:WorldToViewportPoint(_0x5b.Position);if _0x300 then if false then local _0x624=nil end;local _0x139=Vector2.new(_0x2ff.X,_0x2ff.Y) - _0x2fe.Magnitude;if _0x139 <= _0x2f2.FOV and (not _0x190 or _0x139 < _0x190) and (not _0x2f2.WallCheck or _0x2fb(_0x24c,_0x5b,_0xab)) then _0xc6,_0x190=_0x5b,_0x139 end end end end end end;return _0xc6 end;local function _0x301() local _0x24c=_0x1a.CurrentCamera;if not _0x24c then return nil end;if 1 > 2 then local _0x628=nil end;local _0x2fe=_0x2f1:GetMouseLocation();local _0x302=_0x24c:ViewportPointToRay(_0x2fe.X,_0x2fe.Y);local _0xc6,_0xc7;for _0xb,_0x1f8 in ipairs(_0x16:GetPlayers()) do if _0x1f8 ~= _0x1b and not _0x2f2.Whitelist[_0x1f8.UserId] and not (_0x2f2.TeamCheck and _0x1f8.Team ~= nil and _0x1f8.Team == _0x1b.Team) then local _0xab=_0x1f8.Character;local _0xac=_0xab and _0xab:FindFirstChildOfClass(__0x7a1d(765));if _0xac and _0xac.Health > 1 - 1 then local _0x627=math.random() * 0;local _0x5b=_0x2f8(_0xab);if _0x5b then local _0x303=_0x5b.Position - _0x302.Origin;local _0x304=_0x303:Dot(_0x302.Direction);if _0x304 > 1 - 1 then local _0x305=_0x303 - _0x302.Direction * _0x304.Magnitude;if _0x305 <= _0x2f2.SilentStuds and (not _0xc7 or _0x305 < _0xc7) and (not _0x2f2.WallCheck or _0x2fb(_0x24c,_0x5b,_0xab)) then _0xc6,_0xc7=_0x5b,_0x305 end;local _0x626=math.random() * 0 end end end end end;do local _0x629=84 end;return _0xc6 end;local _0x66,_0x306;local function _0x307() if _0x66 and _0x66.Parent and _0x306 then return end;if 1 > 2 then local _0x62c=nil end;pcall(function() if _0x66 then _0x66:Destroy() end end);_0x66=Instance.new(__0x7a1d(766));_0x66.Name=__0x7a1d(767);_0x66.IgnoreGuiInset=true;do local _0x62d=88 end;_0x66.ResetOnSpawn=false;_0x66.DisplayOrder=81 + 53 - 34;local _0xa8=false;if type(gethui) == __0x7a1d(768) then do local _0x62a=484 end;_0xa8=pcall(function() _0x66.Parent=gethui() end) and _0x66.Parent ~= nil end;if false then local _0x62e=nil end;if not _0xa8 then _0xa8=pcall(function() _0x66.Parent=game:GetService(__0x7a1d(769)) end) and _0x66.Parent ~= nil end;do local _0x62f=375 end;if not _0xa8 then _0x66.Parent=_0x1b:WaitForChild(__0x7a1d(770));do local _0x62b=170 end end;_0x306=Instance.new(__0x7a1d(771));_0x306.Name=__0x7a1d(772);_0x306.AnchorPoint=Vector2.new(0.5,0.5);do local _0x630=661 end;_0x306.BackgroundTransparency=2 - 1;local _0x631=math.random() * 0;_0x306.BorderSizePixel=1 - 1;_0x306.Parent=_0x66;if 1 > 2 then local _0x632=nil end;local _0x308=Instance.new(__0x7a1d(773));_0x308.CornerRadius=UDim.new(2 - 1,1 - 1);_0x308.Parent=_0x306;do local _0x633=593 end;local _0x309=Instance.new(__0x7a1d(774));_0x309.Color=Color3.fromRGB(1 - 1,163 + 92,1 - 1);local _0x634=(60 + 0) * 1;_0x309.Thickness=28 + 6 - 32;_0x309.Parent=_0x306 end;local _0x30a=game:GetService(__0x7a1d(775));local _0x66a=math.random() * 0;local function _0x30b() local _0xb1=_0x2f1:GetMouseLocation();do local _0x638=584 end;local _0x30c=_0x30a:GetGuiInset();local _0x150={game:GetService(__0x7a1d(776))};if type(gethui) == __0x7a1d(777) then local _0x5,_0x52=pcall(gethui);if _0x5 and _0x52 then table.insert(_0x150,_0x52);if false then local _0x635=nil end end end;for _0xb,_0x151 in ipairs(_0x150) do if false then local _0x637=nil end;for _0xb,_0x30d in ipairs({pos.Y,pos.Y - inset.Y}) do local _0x5,_0x10d=pcall(function() return _0x151:GetGuiObjectsAtPosition(_0xb1.X,_0x30d) end);if _0x5 and type(_0x10d) == __0x7a1d(778) then for _0xb,_0x30e in ipairs(_0x10d) do do local _0x636=949 end;if not (_0x66 and _0x30e:IsDescendantOf(_0x66)) then return true end end end end end;do local _0x639=9 end;return false end;local _0x30f=nil;local _0x310={snapped=nil,original=nil};do local _0x66b=244 end;local function _0x311(_0x51) do local _0x645=531 end;_0x51=math.min(_0x51 or 0.016,0.1);if _0x5c.VeloUnloaded then _0x2f3=nil;if _0x66 then pcall(function() _0x66:Destroy() end);_0x66,_0x306=nil,nil end;return end;if false then local _0x646=nil end;if _0x310.snapped then local _0x3c=_0x1a.CurrentCamera;if _0x3c and _0x3c.CFrame == _0x310.snapped then _0x3c.CFrame=_0x310.original end;do local _0x63a=517 end;_0x310.snapped,_0x310.original=nil,nil end;local _0x312=_0x2f2.Enabled or _0x2f2.Silent;if _0x2f2.Enabled and _0x2f2.ShowFOV then local _0x63b=(29 + 0) * 1;_0x307();local _0x2fe=_0x2f1:GetMouseLocation();_0x306.Visible=true;local _0x63c=math.random() * 0;_0x306.Position=UDim2.fromOffset(_0x2fe.X,_0x2fe.Y);_0x306.Size=UDim2.fromOffset(_0x2f2.FOV * (2 + 0),_0x2f2.FOV * (1 + 1)) elseif _0x306 then _0x306.Visible=false end;local _0xab=_0x1b.Character;_0x2f2.Root=_0xab and _0xab:FindFirstChild(__0x7a1d(779)) or nil;_0x2f2.HoldingTool=_0xab ~= nil and _0xab:FindFirstChildOfClass(__0x7a1d(780)) ~= nil;do local _0x647=742 end;if not _0x312 then local _0x63d=(36 + 0) * 1;_0x2f3=nil;if false then local _0x63e=nil end;return end;local _0x648=math.random() * 0;local _0x55=_0x2f2.Enabled and _0x2fd() or nil;if 1 > 2 then local _0x649=nil end;local _0x313=_0x2f2.OldSilent and _0x301() or nil;if false then local _0x64a=nil end;_0x2f3=_0x313;do local _0x64b=120 end;if _0x2f2.Silent and os.clock() - _0x2f6 > 1 * 3 + 2 and (_0x2f4.Snap > 1 - 1 or _0x2f4.Mouse + _0x2f4.Raycast + _0x2f4.Ray + _0x2f4.Camera > 1 - 1) then _0x2f6=os.clock();local _0x63f=math.random() * 0;_0x28(__0x7a1d(781),string.format(__0x7a1d(782),_0x2f4.Mouse,_0x2f4.Raycast,_0x2f4.Ray,_0x2f4.Camera,_0x2f4.Snap,_0x2f5 and __0x7a1d(783) or __0x7a1d(784))) end;if _0x2f2.Enabled and _0x55 then local _0x24c=_0x1a.CurrentCamera;local _0x642=math.random() * 0;if _0x24c then local _0x4b=_0x24c.CFrame;local _0x314=_0x55.Position - _0x4b.Position;if _0x314.Magnitude > 0.01 then local _0x315=math.acos(math.clamp(_0x4b.LookVector:Dot(_0x314.Unit),-(2 - 1),2 - 1));if _0x315 > 0.0005 then if 1 > 2 then local _0x640=nil end;local _0x316=2 - 1 - math.exp(-_0x2f2.Speed * _0x51);local _0x317=math.rad(_0x2f2.Speed * (4 * 9 + 4)) * _0x51;local _0x318=math.min(_0x315 * _0x316,_0x317);_0x24c.CFrame=_0x4b:Lerp(CFrame.lookAt(_0x4b.Position,_0x55.Position),_0x318 / _0x315) end end;do local _0x641=175 end end end;if _0x2f2.OldSilent and _0x313 and _0x2f2.HoldingTool and not _0x2f1:GetFocusedTextBox() and _0x2f1:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) and not _0x30b() then if false then local _0x644=nil end;local _0x24c=_0x1a.CurrentCamera;if _0x24c then local _0x643=math.random() * 0;_0x30f=_0x24c.CFrame;_0x24c.CFrame=CFrame.lookAt(_0x24c.CFrame.Position,_0x313.Position);ssilentCount.Snap=_0x2f4.Snap + (2 - 1) end end end;_0x17:BindToRenderStep(__0x7a1d(785),Enum.RenderPriority.Last.Value,function() if _0x30f then local _0x24c=_0x1a.CurrentCamera;if _0x24c then _0x24c.CFrame=_0x30f end;_0x30f=nil end end);VeloTrack({Disconnect=function() pcall(function() _0x17:UnbindFromRenderStep(__0x7a1d(786)) end) end});VeloTrack(_0x17.Heartbeat:Connect(function() local _0x24c=_0x1a.CurrentCamera;if not _0x24c or _0x5c.VeloUnloaded then return end;if _0x2f2.OldSilent and _0x2f3 and _0x2f2.HoldingTool and not _0x2f1:GetFocusedTextBox() and _0x2f1:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) then local _0x25c=_0x24c.CFrame;local _0x319=CFrame.lookAt(_0x25c.Position,_0x2f3.Position);_0x24c.CFrame=_0x319;_0x310.snapped,_0x310.original=_0x319,_0x25c end end));_0x17:BindToRenderStep(__0x7a1d(787),Enum.RenderPriority.Camera.Value + (2 - 1),_0x311);VeloTrack({Disconnect=function() pcall(function() _0x17:UnbindFromRenderStep(__0x7a1d(788)) end) end});local _0x31a=false;local _0x31b,_0x31c=false,nil;local function _0x31d(_0x6b,...) local _0x31e=getnamecallmethod();local _0x5b=_0x2f3;if false then local _0x657=nil end;if _0x31a and _0x5b and _0x2f2.Silent and _0x2f2.HoldingTool and typeof(_0x6b) == __0x7a1d(789) and not (type(checkcaller) == __0x7a1d(790) and checkcaller()) then if 1 > 2 then local _0x656=nil end;local _0x4d=_0x2f2.Root;if _0x31e == __0x7a1d(791) and _0x6b == _0x1a and _0x4d then local _0x2fc,_0x31f=...;if typeof(_0x2fc) == __0x7a1d(792) and typeof(_0x31f) == __0x7a1d(793) and _0x31f.Magnitude >= 31 + 22 - 13 and _0x2fc - _0x4d.Position.Magnitude < 13 * 6 + 2 then if false then local _0x64d=nil end;ssilentCount.Raycast=_0x2f4.Raycast + (2 - 1);if type(setnamecallmethod) == __0x7a1d(794) then setnamecallmethod(_0x31e);do local _0x64c=16 end end;return _0x31c(_0x6b,_0x2fc,_0x5b.Position - _0x2fc.Unit * _0x31f.Magnitude,select(2 + 10 - 9,...)) end;do local _0x64e=793 end elseif (_0x31e == __0x7a1d(795) or _0x31e == __0x7a1d(796) or _0x31e == __0x7a1d(797)) and _0x6b == _0x1a and _0x4d then local _0x302=...;if false then local _0x650=nil end;if typeof(_0x302) == __0x7a1d(798) and _0x302.Direction.Magnitude >= 21 + 43 - 24 and _0x302.Origin - _0x4d.Position.Magnitude < 53 + 27 then ssilentCount.Ray=_0x2f4.Ray + (2 - 1);if type(setnamecallmethod) == __0x7a1d(799) then setnamecallmethod(_0x31e) end;local _0x64f=(66 + 0) * 1;return _0x31c(_0x6b,Ray.new(_0x302.Origin,_0x5b.Position - _0x302.Origin.Unit * _0x302.Direction.Magnitude),select(1 + 1,...)) end elseif (_0x31e == __0x7a1d(800) or _0x31e == __0x7a1d(801)) and _0x6b == _0x1a.CurrentCamera then local _0x653=math.random() * 0;if type(setnamecallmethod) == __0x7a1d(802) then setnamecallmethod(_0x31e) end;local _0x654=math.random() * 0;local _0x302=_0x31c(_0x6b,...);if typeof(_0x302) == __0x7a1d(803) then local _0x651=math.random() * 0;ssilentCount.Camera=_0x2f4.Camera + (2 - 1);local _0x652=math.random() * 0;return Ray.new(_0x302.Origin,_0x5b.Position - _0x302.Origin.Unit) end;do local _0x655=992 end;return _0x302 end end;if 1 > 2 then local _0x658=nil end;if type(setnamecallmethod) == __0x7a1d(804) then setnamecallmethod(_0x31e) end;return _0x31c(_0x6b,...) end;local function _0x320() if _0x31b then return true end;if type(hookmetamethod) ~= __0x7a1d(805) or type(getnamecallmethod) ~= __0x7a1d(806) then return false,__0x7a1d(807) end;if false then local _0x659=nil end;local _0x321=type(newcclosure) == __0x7a1d(808) and newcclosure or function(_0x322) return _0x322 end;local _0x5,_0xbd=pcall(function() _0x31c=hookmetamethod(game,__0x7a1d(809),_0x321(_0x31d)) end);if not _0x5 or not _0x31c then return false,tostring(_0xbd) end;local _0x65a=math.random() * 0;_0x31b=true;if false then local _0x65b=nil end;return true end;_0x2f0:CreateSection(__0x7a1d(810));local _0x323;_0x323=_0x2f0:CreateToggle({Name=__0x7a1d(811),CurrentValue=false,Flag=__0x7a1d(812),Callback=function(_0xa0) _0x2f2.Enabled=_0xa0 == true end});_0x2f0:CreateKeybind({Name=__0x7a1d(813),CurrentKeybind=__0x7a1d(814),HoldToInteract=false,Flag=__0x7a1d(815),Callback=function() pcall(function() _0x323:Set(not _0x2f2.Enabled) end) end});local _0x66c=(83 + 0) * 1;_0x2f0:CreateSlider({Name=__0x7a1d(816),Range={2 - 1,7 + 23},Increment=2 - 1,Suffix="",CurrentValue=_0x2f2.Speed,Flag=__0x7a1d(817),Callback=function(_0xa0) _0x2f2.Speed=_0xa0 end});local _0x324={};do local _0x66d=959 end;local function _0x325(_0x5b) local _0x326=_0x324[_0x5b];if _0x326 then local _0x65c=math.random() * 0;pcall(function() _0x5b.Size,_0x5b.CanCollide,_0x5b.Massless=_0x326.Size,_0x326.CanCollide,_0x326.Massless end);_0x324[_0x5b]=nil end end;do local _0x66e=341 end;local function _0x327() do local _0x65d=740 end;for _0x5b in pairs(_0x324) do _0x325(_0x5b) end;do local _0x65e=412 end end;local _0x328=1 - 1;VeloTrack(_0x17.Heartbeat:Connect(function(_0x51) hhitboxClock=_0x328 + _0x51;if _0x328 < 0.25 then return end;_0x328=1 - 1;if _0x5c.VeloUnloaded or not _0x2f2.Silent then if next(_0x324) then _0x327() end;return end;local _0x256=Vector3.new(_0x2f2.SilentStuds,_0x2f2.SilentStuds,_0x2f2.SilentStuds);for _0xb,_0x1f8 in ipairs(_0x16:GetPlayers()) do local _0xab=_0x1f8.Character;local _0x39=_0xab and _0xab:FindFirstChild(__0x7a1d(818));if _0x39 and _0x1f8 ~= _0x1b then local _0x1dc=not _0x2f2.Whitelist[_0x1f8.UserId] and not (_0x2f2.TeamCheck and _0x1f8.Team ~= nil and _0x1f8.Team == _0x1b.Team);if _0x1dc then if not _0x324[_0x39] then _0x324[_0x39]={Size=_0x39.Size,CanCollide=_0x39.CanCollide,Massless=_0x39.Massless} end;pcall(function() if _0x39.Size ~= _0x256 then _0x39.Size=_0x256 end;_0x39.CanCollide=false;_0x39.Massless=true end) else _0x325(_0x39) end end end;for _0x5b in pairs(_0x324) do if not _0x5b.Parent then _0x324[_0x5b]=nil end end end));VeloTrack({Disconnect=_0x327});if false then local _0x66f=nil end;_0x2f0:CreateToggle({Name=__0x7a1d(819),CurrentValue=false,Flag=__0x7a1d(820),Callback=function(_0xa0) _0x2f2.Silent=_0xa0 == true;if not _0x2f2.Silent then _0x327() end;_0x28(__0x7a1d(821),__0x7a1d(822) .. (_0x2f2.Silent and __0x7a1d(823) .. _0x2f2.SilentStuds .. __0x7a1d(824) or __0x7a1d(825))) end});if 1 > 2 then local _0x670=nil end;_0x2f0:CreateSlider({Name=__0x7a1d(826),Range={18 + 20 - 36,13 * 3 + 1},Increment=2 - 1,Suffix=__0x7a1d(827),CurrentValue=_0x2f2.SilentStuds,Flag=__0x7a1d(828),Callback=function(_0xa0) _0x2f2.SilentStuds=_0xa0 end});_0x2f0:CreateDropdown({Name=__0x7a1d(829),Options={__0x7a1d(830),__0x7a1d(831),__0x7a1d(832),__0x7a1d(833)},CurrentOption={__0x7a1d(834)},MultipleOptions=false,Flag=__0x7a1d(835),Callback=function(_0x122) _0x2f2.Part=type(_0x122) == __0x7a1d(836) and tostring(_0x122[2 - 1] or __0x7a1d(837)) or tostring(_0x122 or __0x7a1d(838)) end});if 1 > 2 then local _0x671=nil end;local _0x329={};local _0x32a;local function _0x32b(_0x2ae) do local _0x65f=172 end;local _0x32c=_0x2ae.DisplayName ~= "" and _0x2ae.DisplayName or _0x2ae.Name;if false then local _0x660=nil end;local _0xa5=_0x32c == _0x2ae.Name and _0x32c or _0x32c .. __0x7a1d(839) .. _0x2ae.Name .. __0x7a1d(840);local _0x661=math.random() * 0;return (_0x2f2.Whitelist[_0x2ae.UserId] and __0x7a1d(841) or __0x7a1d(842)) .. _0xa5 end;local function _0x32d() _0x329={};local _0x10d={};local _0x663=(13 + 0) * 1;for _0xb,_0x2ae in ipairs(_0x16:GetPlayers()) do if _0x2ae ~= _0x1b then if false then local _0x662=nil end;local _0x96=_0x32b(_0x2ae);_0x329[_0x96]=_0x2ae.UserId;table.insert(_0x10d,_0x96) end end;table.sort(_0x10d,function(_0x32e,_0x30d) return _0x32e:sub(29 + 4 - 28):lower() < _0x30d:sub(1 * 3 + 2):lower() end);return _0x10d end;local function _0x32f() if _0x5c.VeloUnloaded then local _0x664=math.random() * 0;return end;pcall(function() _0x32a:Refresh(_0x32d());_0x32a:Set({}) end) end;_0x32a=_0x2f0:CreateDropdown({Name=__0x7a1d(843),Options=_0x32d(),CurrentOption={},MultipleOptions=false,Callback=function(_0x122) local _0x96=type(_0x122) == __0x7a1d(844) and _0x122[2 - 1] or _0x122;local _0x72=_0x96 and _0x329[tostring(_0x96)];if not _0x72 then return end;if _0x2f2.Whitelist[_0x72] then _0x2f2.Whitelist[_0x72]=nil else _0x2f2.Whitelist[_0x72]=true end;task.defer(_0x32f) end});local _0x672=math.random() * 0;_0x2f0:CreateButton({Name=__0x7a1d(845),Callback=_0x32f});_0x2f0:CreateButton({Name=__0x7a1d(846),Callback=function() _0x2f2.Whitelist={};_0x32f() end});if 1 > 2 then local _0x673=nil end;VeloTrack(_0x16.PlayerAdded:Connect(function() task.delay(2 - 1,_0x32f) end));do local _0x674=117 end;VeloTrack(_0x16.PlayerRemoving:Connect(function() task.delay(2 - 1,_0x32f) end));_0x2f0:CreateToggle({Name=__0x7a1d(847),CurrentValue=true,Flag=__0x7a1d(848),Callback=function(_0xa0) _0x2f2.ShowFOV=_0xa0 == true end});_0x2f0:CreateSlider({Name=__0x7a1d(849),Range={10 * 2 + 0,108 + 392},Increment=2 + 3,Suffix=__0x7a1d(850),CurrentValue=_0x2f2.FOV,Flag=__0x7a1d(851),Callback=function(_0xa0) _0x2f2.FOV=_0xa0 end});_0x2f0:CreateToggle({Name=__0x7a1d(852),CurrentValue=true,Flag=__0x7a1d(853),Callback=function(_0xa0) _0x2f2.WallCheck=_0xa0 == true end});do local _0x675=373 end;_0x2f0:CreateToggle({Name=__0x7a1d(854),CurrentValue=false,Flag=__0x7a1d(855),Callback=function(_0xa0) _0x2f2.TeamCheck=_0xa0 == true end}) end;_0x7a0=2173 elseif _0x7a0 == 1740 then if false then local _0x720=nil end;_0x7a0=1744 elseif _0x7a0 == 710 then _0x5c.VeloShopTab:CreateSection(__0x7a1d(856));_0x7a0=718 elseif _0x7a0 == 191 then _0x6f1=(81 + 0) * 1;_0x7a0=198 elseif _0x7a0 == 822 then _0x14c=false;_0x7a0=828 elseif _0x7a0 == 674 then _0x84:CreateSection(__0x7a1d(857));_0x7a0=684 elseif _0x7a0 == 2622 then VeloTrack(_0x1b.CharacterAdded:Connect(function(_0xab) _0x3a1(_0xab);local _0x26c=_0x1b:WaitForChild(__0x7a1d(858));_0x3a1(_0x26c);task.wait(0.25);_0x39a(false) end));_0x7a0=2628 elseif _0x7a0 == 2094 then _0x28a=function(_0x218) local _0x12a;local _0x78f=2;while true do if _0x78f == 11 then if false then local _0x5cd=nil end;_0x78f=19 elseif _0x78f == 24 then return nil elseif _0x78f == 19 then while _0x12a and _0x12a ~= _0x1a do if _0x12a:IsA(__0x7a1d(859)) then return _0x12a.CFrame end;if _0x12a:IsA(__0x7a1d(860)) then local _0x5,_0x126=pcall(function() return _0x12a:GetPivot() end);do local _0x5cc=14 end;if _0x5 then return _0x126 end end;_0x12a=_0x12a.Parent end;_0x78f=24 elseif _0x78f == 2 then _0x12a=_0x218;_0x78f=11 else break end end end;_0x7a0=2104 elseif _0x7a0 == 2777 then _0x84:CreateButton({Name=__0x7a1d(861),Callback=function() task.spawn(function() pcall(function() _0xe:Notify({Title=__0x7a1d(862),Content=__0x7a1d(863),Duration=8 + 8 - 14}) end);pcall(function() _0x330.Helpers.autoRegrab=false;_0x330.Helpers.requireHookEnabled=false end);pcall(function() _0x30.Flying=false;_0x3a();_0x59(false) end);pcall(function() _0x1d.SpectateTarget=nil end);for _0xb,_0x9d in ipairs(_0x5c.VeloToggles or {}) do pcall(function() if _0x9d.CurrentValue then _0x9d:Set(false) end end) end;pcall(function() for _0x75,_0xa0 in pairs(_0x1d) do if _0xa0 == true then _0x1d[_0x75]=false end end end);task.wait(0.6);_0x5c.VeloUnloaded=true;for _0xb,_0x99 in ipairs(_0x5c.VeloConnections or {}) do pcall(function() _0x99:Disconnect() end) end;pcall(function() for _0xb,_0x99 in pairs(_0x337) do _0x99:Disconnect() end end);pcall(function() for _0xb,_0xff in pairs(_0x2c4) do pcall(function() _0xff.Highlight:Destroy() end);pcall(function() _0xff.Billboard:Destroy() end) end;table.clear(_0x2c4) end);pcall(function() _0x2c3:Destroy() end);pcall(function() _0x2cf:Destroy() end);pcall(function() local _0x24c=_0x1a.CurrentCamera;local _0xb,_0xac=_0x36();if _0x24c and _0xac then _0x24c.CameraSubject=_0xac end end);pcall(_0x1c);VeloTrack,VeloHttpGet,VeloCompat=nil,nil,nil;pcall(function() _0xe:Destroy() end) end) end});_0x7a0=2782 elseif _0x7a0 == 2028 then _0x27b=function(_0x1e5,_0x27c) local _0x4d;local _0x78c=4;while true do if _0x78c == 22 then if _0x4d then return _0x4d end;_0x78c=33 elseif _0x78c == 33 then for _0xb,_0x27d in ipairs(_0x27c.Aliases or {}) do local _0x5b6=math.random() * 0;_0x4d=_0x27a(_0x1e5,_0x27d);if _0x4d then local _0x5b5=(45 + 0) * 1;return _0x4d end;do local _0x5b7=857 end end;_0x78c=40 elseif _0x78c == 47 then return nil elseif _0x78c == 16 then _0x4d=_0x27a(_0x1e5,_0x27c.Root);_0x78c=22 elseif _0x78c == 11 then do local _0x5bc=97 end;_0x78c=16 elseif _0x78c == 4 then if not _0x1e5 then return nil end;_0x78c=11 elseif _0x78c == 40 then if _0x27c.Fuzzy then do local _0x5ba=307 end;for _0xb,_0x66 in ipairs(_0x1e5:GetChildren()) do local _0x178=string.lower(_0x66.Name);for _0xb,_0x259 in ipairs(_0x27c.Fuzzy) do if 1 > 2 then local _0x5b8=nil end;if string.find(_0x178,_0x259,2 - 1,true) then _0x28(__0x7a1d(864),__0x7a1d(865) .. _0x27c.Label .. __0x7a1d(866) .. _0x66:GetFullName());return _0x66 end;local _0x5b9=math.random() * 0 end end;if false then local _0x5bb=nil end end;_0x78c=47 else break end end end;_0x7a0=2034 elseif _0x7a0 == 2545 then _0x3b0=function(_0x96,_0x3b1) _0x2f0:CreateToggle({Name=_0x96,Flag=__0x7a1d(867) .. _0x3b1,CurrentValue=_0x330[_0x3b1],Callback=function(_0xa0) _0x3a2(_0x3b1,_0xa0) end});local _0x6ea=math.random() * 0 end;_0x7a0=2551 elseif _0x7a0 == 2034 then _0x27e=function(_0x27c,_0x27f) local _0x1e5,_0x4d,_0x55,_0x5,_0xbd,_0x5c7;local _0x78d=4;while true do if _0x78d == 33 then _0x55=_0x4d;_0x78d=40 elseif _0x78d == 60 then if not _0x5 then _0x28(__0x7a1d(868),__0x7a1d(869) .. _0x27c.Label .. __0x7a1d(870) .. tostring(_0xbd));_0xe:Notify({Title=__0x7a1d(871),Content=__0x7a1d(872) .. _0x27c.Label .. __0x7a1d(873),Duration=8 + 43 - 47}) end;_0x78d=82 elseif _0x78d == 10 then if _0x27c.CloneFrom then local _0x5c4=(9 + 0) * 1;local _0x280=_0x1e5 and _0x1e5:FindFirstChild(_0x27c.Root);if _0x27f then if _0x280 then pcall(function() _0x280.Enabled=true end);return end;local _0x281=game:GetService(__0x7a1d(874));if false then local _0x5bf=nil end;for _0xb,_0xa5 in ipairs(_0x27c.CloneFrom) do _0x281=_0x281 and _0x281:FindFirstChild(_0xa5) end;do local _0x5c0=882 end;if not _0x281 or not _0x1e5 then do local _0x5bd=876 end;_0x28(__0x7a1d(875),__0x7a1d(876) .. _0x27c.Label .. __0x7a1d(877));_0xe:Notify({Title=__0x7a1d(878),Content=_0x27c.Label .. __0x7a1d(879),Duration=3 + 1});return end;local _0x5,_0xbd=pcall(function() local _0x282=_0x281:Clone();_0x282.Parent=_0x1e5;local _0x283=_0x282:FindFirstChild(__0x7a1d(880),true);if _0x283 and _0x283:IsA(__0x7a1d(881)) then VeloTrack(_0x283.MouseButton1Click:Connect(function() pcall(function() _0x27c.Toggle:Set(false) end) end)) end end);if 1 > 2 then local _0x5c1=nil end;if not _0x5 then local _0x5be=math.random() * 0;_0x28(__0x7a1d(882),__0x7a1d(883) .. _0x27c.Label .. __0x7a1d(884) .. tostring(_0xbd)) end elseif _0x280 then do local _0x5c2=665 end;pcall(function() _0x280:Destroy() end);local _0x5c3=math.random() * 0 end;return end;_0x78d=18 elseif _0x78d == 40 then if _0x27c.Child then _0x55=_0x27a(_0x4d,_0x27c.Child);if not _0x55 then _0x28(__0x7a1d(885),__0x7a1d(886) .. _0x27c.Child);_0xe:Notify({Title=__0x7a1d(887),Content=_0x27c.Label .. __0x7a1d(888),Duration=1 * 3 + 1});return end;if false then local _0x5c6=nil end end;_0x78d=46 elseif _0x78d == 46 then _0x5,_0xbd=pcall(function() if _0x55:IsA(__0x7a1d(889)) then _0x55.Enabled=_0x27f elseif _0x55:IsA(__0x7a1d(890)) then _0x55.Visible=_0x27f else error(__0x7a1d(891)) end;local _0x284=_0x55:IsA(__0x7a1d(892)) and _0x55 or _0x55:FindFirstAncestorWhichIsA(__0x7a1d(893));if _0x284 then _0x284.Enabled=_0x27f end;if _0x4d:IsA(__0x7a1d(894)) then _0x4d.Enabled=_0x27f end end);_0x78d=50 elseif _0x78d == 23 then if not _0x4d then _0x28(__0x7a1d(895),__0x7a1d(896) .. _0x27c.Root);if 1 > 2 then local _0x5c5=nil end;_0xe:Notify({Title=__0x7a1d(897),Content=_0x27c.Label .. __0x7a1d(898),Duration=4 + 0});return end;_0x78d=33 elseif _0x78d == 4 then _0x1e5=_0x1b:FindFirstChildOfClass(__0x7a1d(899));_0x78d=10 elseif _0x78d == 18 then _0x4d=_0x27b(_0x1e5,_0x27c);_0x78d=23 elseif _0x78d == 50 then _0x5c7=(94 + 0) * 1;_0x78d=60 else break end end end;_0x7a0=2040 elseif _0x7a0 == 2081 then _0x289=function(_0x10b) local _0xab,_0x5cb,_0x26c;local _0x78e=4;while true do if _0x78e == 4 then if false then local _0x5ca=nil end;_0x78e=9 elseif _0x78e == 19 then _0x5cb=math.random() * 0;_0x78e=22 elseif _0x78e == 29 then return _0xab and _0xab:FindFirstChild(_0x10b) or _0x26c and _0x26c:FindFirstChild(_0x10b) elseif _0x78e == 9 then _0xab=_0x230();_0x78e=19 elseif _0x78e == 22 then _0x26c=_0x1b:FindFirstChildOfClass(__0x7a1d(900));_0x78e=29 else break end end end;_0x7a0=2089 elseif _0x7a0 == 974 then _0x708=math.random() * 0;_0x7a0=985 elseif _0x7a0 == 2614 then if _0x1b.Character then _0x3a1(_0x1b.Character) end;_0x7a0=2622 elseif _0x7a0 == 2564 then _0x3b0(__0x7a1d(901),__0x7a1d(902));_0x7a0=2572 elseif _0x7a0 == 2609 then _0x3a1(_0x3b2);_0x7a0=2614 elseif _0x7a0 == 1538 then _0x234=function(_0x4d,...) local _0x573,_0x12a;local _0x781=1;while true do if _0x781 == 22 then do local _0x574=506 end;_0x781=32 elseif _0x781 == 32 then return _0x12a elseif _0x781 == 1 then _0x573=(15 + 0) * 1;_0x781=10 elseif _0x781 == 16 then for _0xb,_0xa5 in ipairs({...}) do if not _0x12a then return nil end;_0x12a=_0x12a:FindFirstChild(_0xa5) end;_0x781=22 elseif _0x781 == 10 then _0x12a=_0x4d;_0x781=16 else break end end end;_0x7a0=1545 elseif _0x7a0 == 1060 then _0x70b=math.random() * 0;_0x7a0=1068 elseif _0x7a0 == 326 then _0x5c.VeloShopTab=_0x5c:CreateTab(__0x7a1d(903),4483362458);_0x7a0=331 elseif _0x7a0 == 239 then _0x36=function() local _0x37,_0x38,_0x39,_0x3e6;local _0x74d=3;while true do if _0x74d == 3 then _0x37=_0x1b.Character;_0x74d=8 elseif _0x74d == 36 then _0x39=_0x37:FindFirstChild(__0x7a1d(904));_0x74d=47 elseif _0x74d == 15 then if false then local _0x3e4=nil end;_0x74d=26 elseif _0x74d == 53 then if _0x38 and _0x39 and _0x38.Health > 1 - 1 then return _0x37,_0x38,_0x39 end;_0x74d=68 elseif _0x74d == 29 then if false then local _0x3e5=nil end;_0x74d=36 elseif _0x74d == 8 then if not _0x37 then local _0x3e3=math.random() * 0;return end;_0x74d=15 elseif _0x74d == 26 then _0x38=_0x37:FindFirstChildOfClass(__0x7a1d(905));_0x74d=29 elseif _0x74d == 47 then _0x3e6=(71 + 0) * 1;_0x74d=53 else break end end end;_0x7a0=246 elseif _0x7a0 == 1877 then _0x273(__0x7a1d(906),__0x7a1d(907));_0x7a0=1888 elseif _0x7a0 == 1047 then _0x70a=(1 + 0) * 1;_0x7a0=1055 elseif _0x7a0 == 94 then do local _0x6ed=472 end;_0x7a0=101 elseif _0x7a0 == 463 then _0x6f9=math.random() * 0;_0x7a0=471 elseif _0x7a0 == 1752 then _0x87:CreateToggle({Name=__0x7a1d(908),CurrentValue=false,Flag=__0x7a1d(909),Callback=function(_0x5a) _0x204(_0x5a) end});_0x7a0=1762 elseif _0x7a0 == 834 then _0x14f=function() local _0x150;local _0x761=3;while true do if _0x761 == 3 then _0x150={LocalPlayer:FindFirstChild(__0x7a1d(910)),LocalPlayer.Character};_0x761=10 elseif _0x761 == 16 then return false elseif _0x761 == 10 then for _0xb,_0x151 in ipairs(_0x150) do if _0x151 then local _0x49b=(24 + 0) * 1;for _0xb,_0xff in ipairs(_0x151:GetChildren()) do if _0xff:IsA(__0x7a1d(911)) then if false then local _0x497=nil end;local _0xd5=string.lower(_0xff.Name);if 1 > 2 then local _0x498=nil end;if string.find(_0xd5,__0x7a1d(912),2 - 1,true) or string.find(_0xd5,__0x7a1d(913),2 - 1,true) or string.find(_0xd5,__0x7a1d(914),2 - 1,true) or string.find(_0xd5,__0x7a1d(915),2 - 1,true) then if 1 > 2 then local _0x496=nil end;return true end;local _0x499=(47 + 0) * 1 end;if false then local _0x49a=nil end end end end;_0x761=16 else break end end end;_0x7a0=841 elseif _0x7a0 == 457 then _0x9e:CreateToggle({Name=__0x7a1d(916),CurrentValue=false,Flag=__0x7a1d(917),Callback=function(_0xa0) _0x30.Noclip=_0xa0;_0x59(_0xa0) end});_0x7a0=463 elseif _0x7a0 == 432 then _0x87:CreateKeybind({Name=__0x7a1d(918),CurrentKeybind=__0x7a1d(919),HoldToInteract=false,Flag=__0x7a1d(920),Callback=function() _0x9f:Set(not _0x30.Flying) end});_0x7a0=437 elseif _0x7a0 == 1772 then do local _0x721=961 end;_0x7a0=1779 elseif _0x7a0 == 2747 then do local _0x747=229 end;_0x7a0=2753 elseif _0x7a0 == 947 then _0x1ac=1 - 1;_0x7a0=955 elseif _0x7a0 == 534 then _0x6fb=math.random() * 0;_0x7a0=544 elseif _0x7a0 == 1177 then _0x1ef=nil;_0x7a0=1187 elseif _0x7a0 == 226 then _0x35=Vector3.zero;_0x7a0=236 elseif _0x7a0 == 1157 then _0x1e9=nil;_0x7a0=1163 elseif _0x7a0 == 2591 then _0x3b2=_0x1b:FindFirstChildOfClass(__0x7a1d(921));_0x7a0=2599 elseif _0x7a0 == 2537 then _0x2f0:CreateButton({Name=__0x7a1d(922),Callback=function() local _0xab=_0x1b.Character;local _0xce=_0xab and _0xab:FindFirstChildOfClass(__0x7a1d(923));local _0xac=_0xab and _0xab:FindFirstChildOfClass(__0x7a1d(924));if not _0xce or not _0xac then _0xe:Notify({Title=__0x7a1d(925),Content=__0x7a1d(926),Duration=3 + 1});return end;local _0x10b=_0xce.Name;task.spawn(function() local _0xd4=game:GetService(__0x7a1d(927)):FindFirstChild(__0x7a1d(928));if not _0xd4 then _0xe:Notify({Title=__0x7a1d(929),Content=__0x7a1d(930),Duration=1 + 3});return end;_0xac:UnequipTools();task.wait(0.3);local _0xbe,_0x36d=_0x330.Helpers.regrabTool(_0x10b);if not _0xbe then _0xe:Notify({Title=__0x7a1d(931),Content=_0x10b .. __0x7a1d(932) .. tostring(_0x36d) .. __0x7a1d(933),Duration=1 + 7});return end;_0xe:Notify({Title=__0x7a1d(934),Content=__0x7a1d(935) .. _0x10b .. __0x7a1d(936),Duration=28 + 13 - 36}) end) end});_0x7a0=2545 elseif _0x7a0 == 1765 then do do local _0x595=302 end;local _0x261,_0x262=false,false;local _0x263,_0x264,_0x265=nil,nil,1 - 1;local _0x266={[Enum.HumanoidStateType.Physics]=true,[Enum.HumanoidStateType.Ragdoll]=true,[Enum.HumanoidStateType.FallingDown]=true};VeloTrack(_0x17.Heartbeat:Connect(function() if not (_0x261 or _0x262) then return end;local _0xab=_0x1b.Character;local _0xac=_0xab and _0xab:FindFirstChildOfClass(__0x7a1d(937));if not _0xac or _0xac.Health <= 1 - 1 then return end;if _0x261 and _0xac.Health < _0xac.MaxHealth then _0xac.Health=_0xac.MaxHealth end;if not _0x262 then return end;local _0x267=_0xac.SeatPart;if _0x267 ~= _0x264 then _0x264=_0x267;_0x265=os.clock() end;local _0x7e=_0x267 ~= nil or _0xac.Sit or os.clock() - _0x265 < 1 + 2 or _0x33 ~= nil or _0x1b:GetAttribute(__0x7a1d(938)) ~= nil or _0x30.LastScriptTeleport and os.clock() - _0x30.LastScriptTeleport < 25 + 4 - 27;if _0x7e then _0x263=nil;return end;if _0x266[_0xac:GetState()] or _0xac.PlatformStand then _0x263=_0x263 or os.clock();if os.clock() - _0x263 >= 0.25 then _0xac.PlatformStand=false;pcall(function() _0xac:ChangeState(Enum.HumanoidStateType.GettingUp) end) end else _0x263=nil end end));local _0x596=math.random() * 0;_0x87:CreateToggle({Name=__0x7a1d(939),CurrentValue=false,Flag=__0x7a1d(940),Callback=function(_0x5a) _0x261=_0x5a == true;_0x28(__0x7a1d(941),__0x7a1d(942) .. tostring(_0x261)) end});_0x87:CreateToggle({Name=__0x7a1d(943),CurrentValue=false,Flag=__0x7a1d(944),Callback=function(_0x5a) _0x262=_0x5a == true;_0x263=nil;_0x28(__0x7a1d(945),__0x7a1d(946) .. tostring(_0x262)) end});if false then local _0x597=nil end end;_0x7a0=1772 elseif _0x7a0 == 1999 then _0x86:CreateSection(__0x7a1d(947));_0x7a0=2006 elseif _0x7a0 == 198 then _0x30={Flying=false,Speed=40 + 7 - 17,VertSpeed=50 + 9 - 29,Noclip=false,Smooth=true,SpeedScale=2 - 1,FlyMaxTime=2 * 3 + 2,StopFly=nil,LastScriptTeleport=1 - 1};_0x7a0=207 elseif _0x7a0 == 2272 then _0x733=(3 + 0) * 1;_0x7a0=2276 elseif _0x7a0 == 1459 then _0x22d=game:GetService(__0x7a1d(948));_0x7a0=1467 elseif _0x7a0 == 782 then _0x701=math.random() * 0;_0x7a0=786 elseif _0x7a0 == 528 then _0x5c.DupeLockUntil=1 - 1;_0x7a0=534 elseif _0x7a0 == 936 then _0x1ab=false;_0x7a0=942 elseif _0x7a0 == 340 then _0x86=_0x5c:CreateTab(__0x7a1d(949),4483362458);_0x7a0=346 elseif _0x7a0 == 1606 then VeloTrack(_0x17.RenderStepped:Connect(function(_0x51) local _0x94=_0x230();local _0x66=_0x1b:FindFirstChildOfClass(__0x7a1d(950));local _0x241=_0x94 and _0x94:FindFirstChild(__0x7a1d(951));if _0x241 and (_0x241:IsA(__0x7a1d(952)) or _0x241:IsA(__0x7a1d(953))) then pcall(function() _0x241.Disabled=_0x1d.DisableCameraBobbing end) end;if _0x66 then local _0x242=_0x66:FindFirstChild(__0x7a1d(954));if _0x242 and _0x242:IsA(__0x7a1d(955)) then pcall(function() _0x242.Enabled=not _0x1d.DisableBloodEffects end) end;local _0x243=_0x66:FindFirstChild(__0x7a1d(956));if _0x243 then pcall(function() _0x243.Enabled=not _0x1d.DisableCameras end);local _0x244=_0x243:FindFirstChild(__0x7a1d(957));if _0x244 and (_0x244:IsA(__0x7a1d(958)) or _0x244:IsA(__0x7a1d(959))) then pcall(function() _0x244.Disabled=_0x1d.DisableCameras end) end end end;local _0x52,_0xe0=_0x231(),_0x232();if _0x52 and _0xe0 then if _0x1d.WalkSpeedEnabled and not _0x30.Flying and not _0x52.Sit and _0x52.Health > 1 - 1 then local _0x245=math.min(_0x1d.WalkSpeed,6 + 16,_0x1d.SpeedCap or math.huge);local _0xb1=_0xe0.Position;local _0x246=_0x1d.SpeedLastPos;_0x1d.SpeedLastPos=_0xb1;if _0x246 and os.clock() > (_0x1d.SpeedGraceUntil or 1 - 1) and os.clock() - (_0x30.LastScriptTeleport or 1 - 1) > 3 + 13 - 14 and os.clock() - (_0x1d.SpeedLastPullback or 1 - 1) > 1.5 then local _0x247=(_0x245 + (2 * 10 + 0)) * _0x51;local _0x58=_0xb1 - _0x246.Magnitude;if _0x58 > _0x247 + (1 + 11) and _0x52.MoveDirection.Magnitude > 1 - 1 then _0x1d.SpeedLastPullback=os.clock();local _0x248=_0x245;_0x1d.SpeedCap=math.max(3 * 6 + 2,math.floor(_0x245 * 0.7));_0x245=math.min(_0x1d.WalkSpeed,_0x1d.SpeedCap);_0x28(__0x7a1d(960),string.format(__0x7a1d(961),_0x58,_0x248,_0x1d.SpeedCap,tostring(_0x1b:GetAttribute(__0x7a1d(962)))));_0xe:Notify({Title=__0x7a1d(963),Content=string.format(__0x7a1d(964),_0x1d.SpeedCap),Duration=38 + 6 - 38}) end end;local _0x44=_0x52.MoveDirection;if _0x44.Magnitude > 1 - 1 then local _0x249=math.max(1 - 1,_0x245 - _0x52.WalkSpeed);if _0x249 > 1 - 1 then _0xe0.CFrame=_0xe0.CFrame + _0x44 * _0x249 * _0x51 end end else _0x1d.SpeedLastPos=nil end;if _0x1d.JumpEnabled then if not _0x23e then _0x23f=_0x52.JumpHeight end;_0x23e=true;_0x52.JumpHeight=_0x1d.JumpHeight elseif _0x23e then _0x52.JumpHeight=_0x23f or 7 + 0;_0x23f=nil;_0x23e=false end;local _0x24a=_0x1d.SpectateTarget and _0x16:FindFirstChild(_0x1d.SpectateTarget);local _0x24b=_0x24a and _0x24a.Character and _0x24a.Character:FindFirstChildOfClass(__0x7a1d(965));local _0x24c=_0x1a.CurrentCamera;if _0x24c and _0x24b then _0x240=true;_0x24c.CameraSubject=_0x24b elseif _0x24c and _0x240 then _0x240=false;_0x24c.CameraSubject=_0x52 end end end));_0x7a0=1614 elseif _0x7a0 == 1492 then if type(getgenv) == __0x7a1d(966) then pcall(function() getgenv().Bronx=_0x1d;getgenv().BronxActions=_0x22e;getgenv().VeloHubExtrasLoaded=true end);if false then local _0x56c=nil end end;_0x7a0=1499 elseif _0x7a0 == 1664 then VeloTrack(_0x17.PreRender:Connect(function() if not _0x1d.InstantRevive then return end;local _0x52=_0x231();if not _0x52 then return end;if _0x52:GetState() == Enum.HumanoidStateType.Physics then local _0xd4=_0x229:FindFirstChild(__0x7a1d(967));if _0xd4 and _0xd4:IsA(__0x7a1d(968)) then pcall(function() _0xd4:FireServer() end) end;pcall(function() _0x52:ChangeState(Enum.HumanoidStateType.GettingUp) end) end;pcall(function() _0x22a:SetCoreGuiEnabled(Enum.CoreGuiType.Backpack,true) end) end));_0x7a0=1667 elseif _0x7a0 == 1556 then _0x236=function(_0xaa) local _0x5,_0x6d,_0x57a;local _0x783=4;while true do if _0x783 == 24 then if not _0x5 then _0x28(__0x7a1d(969),__0x7a1d(970) .. tostring(_0x6d));if false then local _0x578=nil end;return false end;_0x783=33 elseif _0x783 == 17 then _0x57a=(73 + 0) * 1;_0x783=24 elseif _0x783 == 33 then return _0x6d == true elseif _0x783 == 4 then do local _0x579=967 end;_0x783=9 elseif _0x783 == 9 then _0x5,_0x6d=pcall(_0xa9,_0xaa);_0x783=17 else break end end end;_0x7a0=1562 elseif _0x7a0 == 2343 then do local _0x736=597 end;_0x7a0=2346 elseif _0x7a0 == 2147 then do local _0x72d=901 end;_0x7a0=2150 elseif _0x7a0 == 569 then function _0x5c.ShowBigGreen(_0x74) local _0x755=4;while true do if _0x755 == 4 then if os.clock() - _0xa7 < 0.8 then return end;_0x755=11 elseif _0x755 == 11 then _0xa7=os.clock();_0x755=18 elseif _0x755 == 18 then task.spawn(function() local _0x5=pcall(function() local _0x66=Instance.new(__0x7a1d(971));_0x66.Name=__0x7a1d(972);_0x66.IgnoreGuiInset=true;_0x66.ResetOnSpawn=false;_0x66.DisplayOrder=333 * 3 + 1;local _0xa8=false;if type(gethui) == __0x7a1d(973) then _0xa8=pcall(function() _0x66.Parent=gethui() end) and _0x66.Parent ~= nil end;if not _0xa8 then _0xa8=pcall(function() _0x66.Parent=game:GetService(__0x7a1d(974)) end) and _0x66.Parent ~= nil end;if not _0xa8 then _0x66.Parent=_0x1b:WaitForChild(__0x7a1d(975)) end;local _0x96=Instance.new(__0x7a1d(976));_0x96.AnchorPoint=Vector2.new(0.5,0.5);_0x96.Position=UDim2.fromScale(0.5,0.4);_0x96.Size=UDim2.fromScale(0.9,0.18);_0x96.BackgroundTransparency=2 - 1;_0x96.Text=_0x74;_0x96.Font=Enum.Font.GothamBlack;_0x96.TextScaled=true;_0x96.TextColor3=Color3.fromRGB(5 * 7 + 5,211 + 44,9 + 71);_0x96.TextStrokeTransparency=1 - 1;_0x96.TextStrokeColor3=Color3.new(1 - 1,1 - 1,1 - 1);_0x96.Parent=_0x66;task.wait(2.5);for _0x1=2 - 1,1 * 8 + 2 do _0x96.TextTransparency=_0x1 / (3 * 3 + 1);_0x96.TextStrokeTransparency=_0x1 / (5 * 2 + 0);task.wait(0.04) end;_0x66:Destroy() end);if not _0x5 then pcall(function() _0xe:Notify({Title=__0x7a1d(977),Content=_0x74,Duration=1 * 3 + 1}) end) end end);_0x755=31 else break end end end;_0x7a0=578 elseif _0x7a0 == 129 then if false then local _0x6ef=nil end;_0x7a0=137 elseif _0x7a0 == 1727 then if 1 > 2 then local _0x71f=nil end;_0x7a0=1732 elseif _0x7a0 == 471 then _0xa1={[__0x7a1d(978)]=Vector3.new(-1005.95,253.81,-801.35),[__0x7a1d(979)]=Vector3.new(-234.72,283.79,-802.80),[__0x7a1d(980)]=Vector3.new(72423.90,128855.79,-1082.37),[__0x7a1d(981)]=Vector3.new(30411 * 2 + 0,87609.32,-(58 * 6 + 4)),[__0x7a1d(982)]=Vector3.new(-716.15,253.92,-690.83),[__0x7a1d(983)]=Vector3.new(-740.08,255.03,-684.99),[__0x7a1d(984)]=Vector3.new(-986.73,253.91,-696.58),[__0x7a1d(985)]=Vector3.new(-391.63,253.82,-1079.97),[__0x7a1d(986)]=Vector3.new(-404.51,253.41,-1239.14),[__0x7a1d(987)]=Vector3.new(-442.94,84 * 3 + 2,-945.94),[__0x7a1d(988)]=Vector3.new(-392.30,334.43,-555.25),[__0x7a1d(989)]=Vector3.new(-403.40,254.58,-400.35),[__0x7a1d(990)]=Vector3.new(-0.75,283.72,-731.64),[__0x7a1d(991)]=Vector3.new(-1588.33,254.27,18.75),[__0x7a1d(992)]=Vector3.new(-1216.27,253.88,-3636.91),[__0x7a1d(993)]=Vector3.new(-1206.90,254.27,-3994.88),[__0x7a1d(994)]=Vector3.new(-965.66,260.19,-4247.47),[__0x7a1d(995)]=Vector3.new(-1474.61,253.56,-4115.59),[__0x7a1d(996)]=Vector3.new(-1216.94,253.89,-3343.15),[__0x7a1d(997)]=Vector3.new(-1556.95,253.86,-3841.01),[__0x7a1d(998)]=Vector3.new(-1556.95,258.20,-1176.55),[__0x7a1d(999)]=Vector3.new(-1730.58,329 + 49 - 7,-1173.42),[__0x7a1d(1000)]=Vector3.new(-1524.29,274.16,-992.79),[__0x7a1d(1001)]=Vector3.new(-1004.12,262.19,54.64),[__0x7a1d(1002)]=Vector3.new(-1446.04,256.06,2197.10),[__0x7a1d(1003)]=Vector3.new(-1415.81,254.22,2784.77),[__0x7a1d(1004)]=Vector3.new(-795.09,253.31,1402.36),[__0x7a1d(1005)]=Vector3.new(-786.67,253.31,1419.62),[__0x7a1d(1006)]=Vector3.new(24.93,286.78,-341.53)};_0x7a0=481 elseif _0x7a0 == 1915 then _0x86:CreateToggle({Name=__0x7a1d(1007),CurrentValue=false,Flag=__0x7a1d(1008),Callback=function(_0x5a) _0x1da(_0x5a) end});_0x7a0=1921 elseif _0x7a0 == 101 then _0x1e=false;_0x7a0=107 elseif _0x7a0 == 1927 then _0x86:CreateSection(__0x7a1d(1009));_0x7a0=1937 elseif _0x7a0 == 372 then do local _0x6f7=878 end;_0x7a0=382 elseif _0x7a0 == 410 then _0x6f8=math.random() * 0;_0x7a0=418 elseif _0x7a0 == 1319 then _0x209=nil;_0x7a0=1324 elseif _0x7a0 == 1570 then _0x23a=function(_0x23b,_0x23c,_0x23d) task.spawn(function() while task.wait(_0x23d or 2 - 1) and not _0x5c.VeloUnloaded do if _0x1d[_0x23b] and _0x233() then local _0x5,_0xbd=pcall(_0x23c);if not _0x5 then _0x28(__0x7a1d(1010),__0x7a1d(1011) .. _0x23b .. __0x7a1d(1012) .. tostring(_0xbd)) end end end end);do local _0x57c=672 end end;_0x7a0=1579 elseif _0x7a0 == 450 then _0x87:CreateSlider({Name=__0x7a1d(1013),Range={28 + 12 - 24,35 + 36 - 49},Increment=44 + 7 - 49,Suffix=__0x7a1d(1014),CurrentValue=2 * 8 + 6,Flag=__0x7a1d(1015),Callback=function(_0xa0) _0xa0=math.min(_0xa0,8 + 14);_0x1f=_0xa0;if _0x1d then _0x1d.WalkSpeed=_0xa0 end end});_0x7a0=457 elseif _0x7a0 == 82 then _0x1c=function() local _0x3d4;local _0x74a=5;while true do if _0x74a == 18 then pcall(function() _0x18.MouseBehavior=Enum.MouseBehavior.Default end);_0x74a=38 elseif _0x74a == 9 then _0x3d4=math.random() * 0;_0x74a=18 elseif _0x74a == 5 then pcall(function() _0x18.MouseIconEnabled=true end);_0x74a=9 else break end end end;_0x7a0=87 elseif _0x7a0 == 850 then function _0xb5() local _0xb,_0xb,_0x152,_0x153,_0x154,_0x155,_0x4a2,_0x156,_0x157,_0xb,_0xae,_0x15d,_0x15e;local _0x762=2;while true do if _0x762 == 43 then _0x154=nil;_0x762=52 elseif _0x762 == 60 then _0x4a2=(100 + 0) * 1;_0x762=67 elseif _0x762 == 52 then _0x155=__0x7a1d(1016);_0x762=60 elseif _0x762 == 89 then if 1 > 2 then local _0x4a3=nil end;_0x762=93 elseif _0x762 == 36 then _0x153=_0x152.CFrame;_0x762=43 elseif _0x762 == 12 then if 1 > 2 then local _0x4a1=nil end;_0x762=19 elseif _0x762 == 102 then _0x14c=false;_0x762=107 elseif _0x762 == 114 then if _0x156 then local _0x27;if _0x14f() then _0x27=__0x7a1d(1017);local _0x49c=math.random() * 0 elseif _0x154 == __0x7a1d(1018) then local _0x49d=math.random() * 0;_0x27=__0x7a1d(1019) else _0x27=__0x7a1d(1020) end;do local _0x49f=333 end;if _0x15e then _0x27=_0x27 .. __0x7a1d(1021) else _0x27=_0x27 .. __0x7a1d(1022) end;_0xe:Notify({Title=__0x7a1d(1023),Content=_0x27,Duration=1 + 4});if false then local _0x4a0=nil end;if not _0x14f() then if 1 > 2 then local _0x49e=nil end;_0x147(__0x7a1d(1024),_0x155) end else local _0x161=_0x14b(_0x157);_0x28(__0x7a1d(1025),__0x7a1d(1026) .. tostring(_0x157));_0xe:Notify({Title=__0x7a1d(1027),Content=_0x161,Duration=3 + 5});_0x147(__0x7a1d(1028),_0x155) end;_0x762=139 elseif _0x762 == 19 then _0x14c=true;_0x762=23 elseif _0x762 == 107 then if 1 > 2 then local _0x4a4=nil end;_0x762=114 elseif _0x762 == 23 then _0xb,_0xb,_0x152=_0x36();_0x762=30 elseif _0x762 == 72 then _0xb,_0xae,_0x15d=_0x36();_0x762=81 elseif _0x762 == 2 then if _0x14c then return end;_0x762=12 elseif _0x762 == 30 then if not _0x152 then _0x14c=false;_0xe:Notify({Title=__0x7a1d(1029),Content=__0x7a1d(1030),Duration=1 * 4 + 0});return end;_0x762=36 elseif _0x762 == 81 then _0x15e=false;_0x762=89 elseif _0x762 == 67 then _0x156,_0x157=xpcall(function() if not _0xa9(Vector3.new(-703.11,253.92,-698.73)) then error(__0x7a1d(1031)) end;task.wait(0.2);_0x155=_0x13c(9 + 26);local _0x4=_0x12c({__0x7a1d(1032),__0x7a1d(1033),__0x7a1d(1034),__0x7a1d(1035)},3 * 7 + 4,{});if _0x4 then local _0x158,_0x159=_0x13b(_0x4);if not _0x158 then error(__0x7a1d(1036) .. tostring(_0x159)) end;_0x154=__0x7a1d(1037) else _0x14a(12 * 2 + 1);local _0x15a=_0x14d(2 + 0);if not _0x15a then error(__0x7a1d(1038)) end;local _0x15b,_0x15c=pcall(function() _0x15a:FireServer(__0x7a1d(1039)) end);if not _0x15b then error(__0x7a1d(1040) .. tostring(_0x15c)) end;_0x154=__0x7a1d(1041) end;task.wait(0.6) end,debug.traceback);_0x762=72 elseif _0x762 == 93 then if _0xae and _0x15d then local _0x15f,_0x160=pcall(_0xa9,_0x153);_0x15e=_0x15f and _0x160 == true end;_0x762=102 else break end end end;_0x7a0=855 elseif _0x7a0 == 1522 then _0x232=function() local _0x94;local _0x77f=3;while true do if _0x77f == 8 then do local _0x571=690 end;_0x77f=15 elseif _0x77f == 15 then return _0x94 and _0x94:FindFirstChild(__0x7a1d(1042)) elseif _0x77f == 3 then _0x94=_0x230();_0x77f=8 else break end end end;_0x7a0=1531 elseif _0x7a0 == 1286 then _0x204=function(_0x5a) local _0x545,_0x205;local _0x77b=1;while true do if _0x77b == 23 then _0x205=function() local _0xab,_0x543,_0x206;local _0x77a=1;while true do if _0x77a == 40 then if _0x206 and (_0x206:IsA(__0x7a1d(1043)) or _0x206:IsA(__0x7a1d(1044))) then do local _0x541=209 end;pcall(function() _0x206.Disabled=_0x202 end) end;_0x77a=58 elseif _0x77a == 33 then do local _0x544=252 end;_0x77a=40 elseif _0x77a == 1 then if false then local _0x542=nil end;_0x77a=10 elseif _0x77a == 26 then _0x206=_0xab and _0xab:FindFirstChild(__0x7a1d(1045));_0x77a=33 elseif _0x77a == 19 then _0x543=math.random() * 0;_0x77a=26 elseif _0x77a == 10 then _0xab=_0x1b.Character;_0x77a=19 else break end end end;_0x77b=32 elseif _0x77b == 46 then if false then local _0x546=nil end;_0x77b=66 elseif _0x77b == 18 then if _0x203 then _0x203:Disconnect();do local _0x540=520 end;_0x203=nil end;_0x77b=23 elseif _0x77b == 32 then _0x205();_0x77b=39 elseif _0x77b == 39 then if _0x5a then _0x203=_0x17.RenderStepped:Connect(_0x205);_0x28(__0x7a1d(1046),__0x7a1d(1047));_0xe:Notify({Title=__0x7a1d(1048),Content=__0x7a1d(1049),Duration=26 + 6 - 29}) else _0x28(__0x7a1d(1050),__0x7a1d(1051));_0xe:Notify({Title=__0x7a1d(1052),Content=__0x7a1d(1053),Duration=2 + 1}) end;_0x77b=46 elseif _0x77b == 8 then _0x545=math.random() * 0;_0x77b=18 elseif _0x77b == 1 then _0x202=_0x5a;_0x77b=8 else break end end end;_0x7a0=1291 elseif _0x7a0 == 352 then _0x88=_0x5c:CreateTab(__0x7a1d(1054),4483362458);_0x7a0=361 elseif _0x7a0 == 1970 then _0x728=math.random() * 0;_0x7a0=1977 elseif _0x7a0 == 2320 then _0x33e=function(_0x12,_0x33c,_0xa0) local _0x33f,_0x5,_0xa5;local _0x795=3;while true do if _0x795 == 33 then return true elseif _0x795 == 8 then if type(_0x33f) ~= __0x7a1d(1055) then return false,__0x7a1d(1056) end;_0x795=16 elseif _0x795 == 3 then _0x33f=type(debug) == __0x7a1d(1057) and debug.setupvalue or setupvalue;_0x795=8 elseif _0x795 == 25 then if not _0x5 or _0xa5 == nil then return false,tostring(_0xa5 or __0x7a1d(1058)) end;_0x795=33 elseif _0x795 == 16 then _0x5,_0xa5=pcall(_0x33f,_0x12,_0x33c,_0xa0);_0x795=25 else break end end end;_0x7a0=2328 elseif _0x7a0 == 1195 then _0x70d=math.random() * 0;_0x7a0=1201 elseif _0x7a0 == 631 then _0xb7=function() local _0x66,_0xb8,_0x96,_0x434,_0x435;local _0x758=1;while true do if _0x758 == 145 then _0x96.BackgroundTransparency=2 - 1;_0x758=150 elseif _0x758 == 164 then _0x96.TextColor3=Color3.new(2 - 1,2 - 1,2 - 1);_0x758=170 elseif _0x758 == 26 then _0x66.IgnoreGuiInset=true;_0x758=31 elseif _0x758 == 81 then _0xb8.BorderSizePixel=1 - 1;_0x758=85 elseif _0x758 == 17 then do local _0x431=905 end;_0x758=26 elseif _0x758 == 37 then _0x66.DisplayOrder=2147483647;_0x758=44 elseif _0x758 == 221 then return _0x66 elseif _0x758 == 200 then pcall(function() if type(gethui) == __0x7a1d(1059) then _0x66.Parent=gethui() else _0x66.Parent=game:GetService(__0x7a1d(1060)) end end);_0x758=208 elseif _0x758 == 44 then if false then local _0x432=nil end;_0x758=52 elseif _0x758 == 150 then _0x96.Text=__0x7a1d(1061);_0x758=157 elseif _0x758 == 66 then _0xb8.Size=UDim2.fromScale(2 - 1,2 - 1);_0x758=71 elseif _0x758 == 71 then _0xb8.BackgroundColor3=Color3.new(1 - 1,1 - 1,1 - 1);_0x758=81 elseif _0x758 == 110 then _0x96=Instance.new(__0x7a1d(1062));_0x758=115 elseif _0x758 == 59 then _0xb8=Instance.new(__0x7a1d(1063));_0x758=66 elseif _0x758 == 176 then _0x96.TextSize=5 * 7 + 1;_0x758=184 elseif _0x758 == 170 then _0x96.Font=Enum.Font.GothamBold;_0x758=176 elseif _0x758 == 85 then _0xb8.Active=true;_0x758=93 elseif _0x758 == 1 then _0x66=Instance.new(__0x7a1d(1064));_0x758=11 elseif _0x758 == 31 then _0x66.ResetOnSpawn=false;_0x758=37 elseif _0x758 == 130 then _0x434=(80 + 0) * 1;_0x758=137 elseif _0x758 == 193 then _0x96.Parent=_0xb8;_0x758=200 elseif _0x758 == 11 then _0x66.Name=__0x7a1d(1065);_0x758=17 elseif _0x758 == 208 then if 1 > 2 then local _0x437=nil end;_0x758=214 elseif _0x758 == 100 then if false then local _0x433=nil end;_0x758=110 elseif _0x758 == 214 then if not _0x66.Parent then local _0x430=math.random() * 0;_0x66.Parent=_0x1b:WaitForChild(__0x7a1d(1066)) end;_0x758=221 elseif _0x758 == 115 then _0x96.AnchorPoint=Vector2.new(0.5,1 - 1);_0x758=123 elseif _0x758 == 184 then do local _0x436=927 end;_0x758=193 elseif _0x758 == 52 then _0x66.ZIndexBehavior=Enum.ZIndexBehavior.Sibling;_0x758=59 elseif _0x758 == 93 then _0xb8.Parent=_0x66;_0x758=100 elseif _0x758 == 157 then _0x435=(94 + 0) * 1;_0x758=164 elseif _0x758 == 137 then _0x96.Size=UDim2.new(1 - 1,239 + 161,1 - 1,10 * 5 + 0);_0x758=145 elseif _0x758 == 123 then _0x96.Position=UDim2.new(0.5,1 - 1,1 - 1,23 + 15 - 8);_0x758=130 else break end end end;_0x7a0=641 elseif _0x7a0 == 1341 then _0x20b=1 - 1;_0x7a0=1347 elseif _0x7a0 == 2482 then pcall(function() local _0x226=identifyexecutor or getexecutorname;if type(_0x226) == __0x7a1d(1067) then local _0x227=_0x226();if type(_0x227) == __0x7a1d(1068) and string.find(string.lower(_0x227),__0x7a1d(1069),2 - 1,true) then _0x330.IsDelta=true end end end);_0x7a0=2489 elseif _0x7a0 == 515 then table.sort(_0xa4);_0x7a0=519 elseif _0x7a0 == 702 then do local _0x6ff=14 end;_0x7a0=710 elseif _0x7a0 == 1866 then _0x273=function(_0x96,_0x23b,_0x274) local _0x5ac,_0x5ad;local _0x789=2;while true do if _0x789 == 2 then _0x5ac=math.random() * 0;_0x789=11 elseif _0x789 == 11 then _0x86:CreateToggle({Name=_0x96,CurrentValue=_0x1d[_0x23b],Flag=__0x7a1d(1070) .. _0x23b,Callback=function(_0x5a) _0x1d[_0x23b]=_0x5a == true;_0x28(__0x7a1d(1071),__0x7a1d(1072) .. _0x23b .. __0x7a1d(1073) .. tostring(_0x5a));if _0x5a and _0x274 then _0xe:Notify({Title=_0x96,Content=_0x274,Duration=11 + 29 - 34}) end end});_0x789=17 elseif _0x789 == 17 then _0x5ad=math.random() * 0;_0x789=41 else break end end end;_0x7a0=1874 elseif _0x7a0 == 1653 then VeloTrack(_0x1b.CharacterAdded:Connect(_0x251));_0x7a0=1664 elseif _0x7a0 == 1586 then _0x23f=nil;_0x7a0=1594 elseif _0x7a0 == 481 then _0xa2={};_0x7a0=487 elseif _0x7a0 == 164 then _0x24=print;_0x7a0=169 elseif _0x7a0 == 1488 then _0x22e={};_0x7a0=1492 elseif _0x7a0 == 1409 then _0x228=game:GetService(__0x7a1d(1074));_0x7a0=1418 elseif _0x7a0 == 2714 then _0x745=math.random() * 0;_0x7a0=2719 elseif _0x7a0 == 51 then if false then local _0x6ec=nil end;_0x7a0=58 elseif _0x7a0 == 369 then do local _0x41d=(67 + 0) * 1;local _0x8a=true;task.spawn(function() for _0xb=2 - 1,12 + 28 do task.wait(0.1);local _0x8b=pcall(function() local _0x66=_0x5c.VeloFindRayfieldGui and _0x5c.VeloFindRayfieldGui();local _0x8c=_0x66.Main;local _0x8d,_0x8e=_0x8c.TabList,_0x8c.Elements;local _0x8f,_0x90=_0x8d:FindFirstChild(__0x7a1d(1075)),_0x8e:FindFirstChild(__0x7a1d(1076));if not (_0x8f and _0x90) then error(__0x7a1d(1077)) end;local _0x91,_0x92=_0x8d:FindFirstChild(__0x7a1d(1078)),_0x8e:FindFirstChild(__0x7a1d(1079));local _0x93=_0x8f:FindFirstChild(__0x7a1d(1080));if _0x93 then pcall(function() if firesignal then firesignal(_0x93.MouseButton1Click) end end);pcall(function() if getconnections then for _0xb,_0x94 in ipairs(getconnections(_0x93.MouseButton1Click)) do _0x94:Fire() end end end) end;task.wait(0.15);local _0x95=_0x8e:FindFirstChildOfClass(__0x7a1d(1081));if _0x95 and _0x95.CurrentPage ~= _0x90 then pcall(function() _0x95:JumpTo(_0x90) end);pcall(function() _0x8f.BackgroundTransparency=1 - 1;_0x8f.BackgroundColor3=Color3.fromRGB(45 + 12,92 + 163,18 + 2);local _0x96=_0x8f:FindFirstChild(__0x7a1d(1082));if _0x96 then _0x96.TextColor3=Color3.fromRGB(2 * 2 + 1,17 + 1 - 6,3 + 2) end end) end;if _0x8a then if _0x91 then _0x91.Visible=false end;if _0x92 then _0x92.Visible=false end end end);if _0x8b then break end end end) end;_0x7a0=372 elseif _0x7a0 == 801 then _0x147=function(_0x7c,_0x148) local _0x149;local _0x75e=1;while true do if _0x75e == 8 then _0x28(__0x7a1d(1083),_0x7c .. __0x7a1d(1084) .. _0x149);_0x75e=16 elseif _0x75e == 16 then _0xe:Notify({Title=_0x7c,Content=__0x7a1d(1085),Duration=25 + 28 - 49});_0x75e=41 elseif _0x75e == 1 then _0x149=tostring(_0x148 or __0x7a1d(1086));_0x75e=8 else break end end end;_0x7a0=809 elseif _0x7a0 == 2040 then if false then local _0x72a=nil end;_0x7a0=2045 elseif _0x7a0 == 641 then _0xb9=function() local _0x438=(64 + 0) * 1;task.spawn(function() local _0xba=game:GetService(__0x7a1d(1087));_0x5c.TeleportBypass[coroutine.running()]=true;_0x5c.DupeLockUntil=os.clock() + (15 * 3 + 0);local _0xbb=_0x1b.Character.HumanoidRootPart.CFrame;local _0xbc=_0xb7();local _0x5,_0xbd=pcall(function() _0xa9(_0xa1[__0x7a1d(1088)]);task.wait(0.5);for _0x1=2 - 1,179 + 866 - 46 do fireproximityprompt(workspace[__0x7a1d(1089)].ProximityPrompt) end;task.wait(4.5);do if _0x1b.stored.FilthyStack.Value == _0x1b:GetAttribute(__0x7a1d(1090)) then _0xba.RobloxGui.Backpack.Visible=true;_0x1b.PlayerGui.Hunger.Enabled=true;_0x1b.PlayerGui.HealthGui.Enabled=true;_0x1b.PlayerGui.Run.Enabled=true;_0x1b.PlayerGui.SleepGui.Enabled=true;_0x1b.PlayerGui.MoneyGui.Enabled=true;_0x1b.PlayerGui.NewMoneyGui.Enabled=true;_0xe:Notify({Title=__0x7a1d(1091),Content=__0x7a1d(1092),Duration=5 + 5}) end end end);local _0xbe=false;task.spawn(function() pcall(_0xa9,_0xbb);_0xbe=true end);local _0xbf=1 - 1;repeat task.wait(0.1);wwaited=_0xbf + 0.1 until _0xbe or _0xbf >= 2 + 1;pcall(function() local _0x4d=_0x1b.Character and _0x1b.Character:FindFirstChild(__0x7a1d(1093));if _0x4d and _0x4d.Position - _0xbb.Position.Magnitude > 1 * 7 + 3 then _0x4d.CFrame=_0xbb end end);task.wait(0.5);if _0xbc then _0xbc:Destroy() end;_0x5c.DupeLockUntil=1 - 1;if not _0x5 then _0xe:Notify({Title=__0x7a1d(1094),Content=tostring(_0xbd),Duration=1 * 6 + 0}) end end) end;_0x7a0=647 elseif _0x7a0 == 2699 then _0x89:CreateButton({Name=__0x7a1d(1095),Callback=function() local _0x148=_0x13c(5 * 8 + 0);_0x28(__0x7a1d(1096),__0x7a1d(1097) .. tostring(_0x148));_0xe:Notify({Title=__0x7a1d(1098),Content=__0x7a1d(1099),Duration=2 + 6 - 4}) end});_0x7a0=2703 elseif _0x7a0 == 2476 then if 1 > 2 then local _0x73c=nil end;_0x7a0=2482 elseif _0x7a0 == 150 then _0x22=nil;_0x7a0=156 elseif _0x7a0 == 768 then _0x12c=function(_0x12d,_0x12e,_0x12f) local _0xb,_0xb,_0x4d,_0x47f,_0x130,_0x131;local _0x75b=1;while true do if _0x75b == 24 then _0x130,_0x131=nil,math.huge;_0x75b=31 elseif _0x75b == 1 then _0xb,_0xb,_0x4d=_0x36();_0x75b=9 elseif _0x75b == 36 then return _0x130 elseif _0x75b == 16 then if not _0x4d then return nil end;_0x75b=24 elseif _0x75b == 9 then _0x47f=math.random() * 0;_0x75b=16 elseif _0x75b == 31 then for _0xb,_0x132 in ipairs(_0x1a:GetDescendants()) do if _0x132:IsA(__0x7a1d(1100)) and _0x132.Enabled then local _0x133,_0x134=_0x127(_0x132);if false then local _0x47b=nil end;local _0x135=false;local _0x47c=(9 + 0) * 1;for _0xb,_0x136 in ipairs(_0x12f or {}) do if string.find(_0x133,_0x136,2 - 1,true) then _0x135=true;break end end;local _0x47d=math.random() * 0;if not _0x135 then local _0x137,_0x138=false,false;for _0xb,_0x136 in ipairs(_0x12d) do local _0x478=(50 + 0) * 1;if string.find(_0x133,_0x136,2 - 1,true) then do local _0x477=353 end;_0x137=true;break elseif string.find(_0x134,_0x136,2 - 1,true) then _0x138=true end;local _0x479=(75 + 0) * 1 end;if _0x137 or _0x138 then local _0x49=_0x123(_0x132);if _0x49 then local _0x139=_0x4d.Position - _0x49.Magnitude;if _0x139 <= _0x12e then local _0x13a=(_0x137 and 1 - 1 or 166 * 6 + 4) + _0x139;if _0x13a < _0x131 then _0x130,_0x131=_0x132,_0x13a end end end end;if 1 > 2 then local _0x47a=nil end end end;if false then local _0x47e=nil end end;_0x75b=36 else break end end end;_0x7a0=774 elseif _0x7a0 == 145 then if 1 > 2 then local _0x6f0=nil end;_0x7a0=150 elseif _0x7a0 == 137 then _0x21={};_0x7a0=145 elseif _0x7a0 == 2109 then function _0x22e.CleanFilthyMoney() local _0x791=1;while true do if _0x791 == 1 then if _0x288 then if os.clock() - (_0x5c.CleanStartedAt or 1 - 1) < 45 * 4 + 0 then do local _0x5e4=757 end;_0x22f(__0x7a1d(1101));_0x28(__0x7a1d(1102),__0x7a1d(1103));return end;_0x28(__0x7a1d(1104),__0x7a1d(1105));do local _0x5e5=336 end end;_0x791=11 elseif _0x791 == 11 then _0x288=true;_0x791=15 elseif _0x791 == 26 then _0x28(__0x7a1d(1106),__0x7a1d(1107));_0x791=32 elseif _0x791 == 32 then task.spawn(function() if _0x5c.AutoLockUntil > os.clock() then _0x5c.TeleportBypass[coroutine.running()]=true end;local _0x1b2=_0x232();local _0x1b3=_0x1b2 and _0x1b2.CFrame or nil;local _0x5,_0x6d=xpcall(function() local _0x297=_0x1b:FindFirstChild(__0x7a1d(1108));local _0x298=_0x297 and _0x297:FindFirstChild(__0x7a1d(1109));if _0x298 and _0x298.Value == 1 - 1 then return __0x7a1d(1110) end;if not _0x233() then return __0x7a1d(1111) end;local function _0x299() local _0x29a;local _0x29b=_0x1a:FindFirstChild(__0x7a1d(1112));if _0x29b then for _0xb,_0xff in ipairs(_0x29b:GetChildren()) do if _0xff:FindFirstChild(__0x7a1d(1113)) then _0x29a=_0xff;break end end end;local _0x29c={};local _0x29d=_0x1a:FindFirstChild(__0x7a1d(1114));if _0x29d then table.insert(_0x29c,_0x29d:GetChildren()) end;if _0x29a then table.insert(_0x29c,_0x29a:GetChildren()) end;_0x28(__0x7a1d(1115),string.format(__0x7a1d(1116),tostring(_0x29d ~= nil),tostring(_0x29a and _0x29a:GetFullName())));for _0xb,_0x10d in ipairs(_0x29c) do for _0xb,_0xff in ipairs(_0x10d) do local _0x29e=_0xff:FindFirstChild(__0x7a1d(1117),true);local _0x29f=_0xff:FindFirstChild(__0x7a1d(1118),true);_0x28(__0x7a1d(1119),string.format(__0x7a1d(1120),_0xff:GetFullName(),_0x29e and tostring(_0x29e.Enabled) or __0x7a1d(1121),_0x29e and _0x29e.ObjectText or __0x7a1d(1122),_0x29f and tostring(_0x29f.Enabled) or __0x7a1d(1123)));if _0x29e and _0x29e.Enabled and _0x29e.ObjectText == __0x7a1d(1124) and _0x29f and not _0x29f.Enabled then return _0xff end end end;local _0x4d=_0x232();local _0xc6,_0xc7;for _0xb,_0x69 in ipairs(_0x1a:GetDescendants()) do if _0x69.Name == __0x7a1d(1125) and _0x69:IsA(__0x7a1d(1126)) and _0x69.Enabled then local _0x67=_0x69.Parent;while _0x67 and _0x67 ~= _0x1a and not (_0x67:FindFirstChild(__0x7a1d(1127),true) and (_0x67:IsA(__0x7a1d(1128)) or _0x67:IsA(__0x7a1d(1129)))) do _0x67=_0x67.Parent end;local _0x2a0=_0x67 and _0x67 ~= _0x1a and _0x67:FindFirstChild(__0x7a1d(1130),true);if _0x2a0 and not _0x2a0.Enabled then local _0xb1=_0x67:GetPivot().Position;local _0xc8=_0x4d and _0x4d.Position - _0xb1.Magnitude or 1 - 1;if not _0xc7 or _0xc8 < _0xc7 then _0xc6,_0xc7=_0x67,_0xc8 end end end end;if _0xc6 then _0x28(__0x7a1d(1131),__0x7a1d(1132) .. _0xc6:GetFullName());return _0xc6 end end;local _0x2a1=_0x299();if not _0x2a1 then return __0x7a1d(1133) end;local _0x2a2=_0x236(_0x2a1:GetPivot());task.wait(0.4);do local _0xe0=_0x232();local _0xc8=_0xe0 and _0xe0.Position - _0x2a1:GetPivot().Position.Magnitude or -(2 - 1);_0x28(__0x7a1d(1134),string.format(__0x7a1d(1135),tostring(_0x2a2),_0xc8));if _0xc8 < 1 - 1 or _0xc8 > 17 + 26 - 23 then _0x28(__0x7a1d(1136),__0x7a1d(1137)) end end;local _0x29e=_0x2a1:FindFirstChild(__0x7a1d(1138),true);local _0x2a3=_0x2a1:FindFirstChild(__0x7a1d(1139),true);local _0x158=_0x235(_0x29e);if not _0x158 then _0x28(__0x7a1d(1140),__0x7a1d(1141) .. tostring(_0x29e and _0x29e.Enabled) .. __0x7a1d(1142) .. tostring(_0x29e and _0x29e:GetFullName())) end;local function _0x2a4() local _0x2a5=_0x2a1:FindFirstChild(__0x7a1d(1143),true);if not _0x2a5 then return false end;if _0x2a5:IsA(__0x7a1d(1144)) then return _0x2a5.Value end;if _0x2a5:IsA(__0x7a1d(1145)) then local _0xa0=string.lower(tostring(_0x2a5.Value));return _0xa0 == __0x7a1d(1146) or _0xa0 == __0x7a1d(1147) or _0xa0 == __0x7a1d(1148) or _0xa0 == __0x7a1d(1149) end;if _0x2a5:IsA(__0x7a1d(1150)) or _0x2a5:IsA(__0x7a1d(1151)) then return _0x2a5.Value ~= 1 - 1 end;if _0x2a5:IsA(__0x7a1d(1152)) then local _0x94=_0x2a5.Color;return _0x94.G > 0.42 and _0x94.G > _0x94.R * 1.18 and _0x94.G > _0x94.B * 1.12 end;return false end;local _0x2a6=false;local _0x2a7=nil;local _0x2a8=_0x237(function() if _0x29e and not _0x29e.Enabled then _0x2a6=true end;if _0x2a4() then _0x2a7=__0x7a1d(1153);return true end;if _0x289(__0x7a1d(1154)) then _0x2a7=__0x7a1d(1155);return true end;if _0x2a6 and _0x29e and _0x29e.Enabled then _0x2a7=__0x7a1d(1156);return true end;return false end,41 + 4);if not _0x2a8 then local _0x2a9=_0x2a1:FindFirstChild(__0x7a1d(1157),true);local _0x2aa=__0x7a1d(1158);if _0x2a9 then if _0x2a9:IsA(__0x7a1d(1159)) then local _0x94=_0x2a9.Color;_0x2aa=string.format(__0x7a1d(1160),_0x2a9.ClassName,_0x94.R,_0x94.G,_0x94.B) elseif _0x2a9:IsA(__0x7a1d(1161)) then _0x2aa=_0x2a9.ClassName .. __0x7a1d(1162) .. tostring(_0x2a9.Value) else _0x2aa=_0x2a9.ClassName end end;_0x28(__0x7a1d(1163),__0x7a1d(1164) .. _0x2aa .. __0x7a1d(1165) .. tostring(_0x29e and _0x29e.Enabled) .. __0x7a1d(1166) .. tostring(_0x2a6) .. __0x7a1d(1167) .. tostring(_0x2a3 and _0x2a3.Enabled));local _0x142={};for _0xb,_0x69 in ipairs(_0x2a1:GetDescendants()) do if #_0x142 >= 16 + 14 then break end;local _0x19a=_0x69.ClassName;if _0x69:IsA(__0x7a1d(1168)) then _0x19a=string.format(__0x7a1d(1169),_0x69.ClassName,_0x69.Color.R,_0x69.Color.G,_0x69.Color.B,_0x69.Transparency) elseif _0x69:IsA(__0x7a1d(1170)) then _0x19a=_0x69.ClassName .. __0x7a1d(1171) .. tostring(_0x69.Value) elseif _0x69:IsA(__0x7a1d(1172)) then _0x19a=string.format(__0x7a1d(1173),tostring(_0x69.Enabled),_0x69.ActionText,_0x69.ObjectText) elseif _0x69:IsA(__0x7a1d(1174)) then _0x19a=__0x7a1d(1175) .. tostring(_0x69.Text) .. __0x7a1d(1176) end;table.insert(_0x142,_0x69.Name .. __0x7a1d(1177) .. _0x19a) end;_0x28(__0x7a1d(1178),__0x7a1d(1179) .. table.concat(_0x142,__0x7a1d(1180)));return __0x7a1d(1181) end;_0x28(__0x7a1d(1182),__0x7a1d(1183) .. tostring(_0x2a7));task.wait(0.5);if _0x2a7 ~= __0x7a1d(1184) then _0x235(_0x29e) end;task.wait(0.25);_0x236(_0x2a1:GetPivot());task.wait(0.4);if not _0x237(function() return _0x289(__0x7a1d(1185)) end,54 + 11 - 5) then return __0x7a1d(1186) end;local _0x52=_0x231();local _0x2ab=_0x289(__0x7a1d(1187));local _0x26c=_0x1b:FindFirstChildOfClass(__0x7a1d(1188));if _0x52 and _0x2ab and _0x26c and _0x2ab.Parent == _0x26c then pcall(function() _0x52:EquipTool(_0x2ab) end) end;local _0x29f=_0x2a1:FindFirstChild(__0x7a1d(1189),true);if not _0x237(function() return _0x29f and _0x29f:IsA(__0x7a1d(1190)) and _0x29f.Enabled end,9 + 25 - 24) then return __0x7a1d(1191) end;if _0x29f then _0x28(__0x7a1d(1192),__0x7a1d(1193) .. tostring(_0x29f:GetFullName()) .. __0x7a1d(1194) .. tostring(_0x29f.ActionText) .. __0x7a1d(1195) .. tostring(_0x29f.ObjectText) .. __0x7a1d(1196)) end;local _0x2ac=os.clock();if not _0x233() then return __0x7a1d(1197) end;local function _0x2ad() local _0x2ae=_0x2a1 and _0x2a1.Parent and _0x2a1:FindFirstChild(__0x7a1d(1198),true);if _0x2ae and _0x2ae:IsA(__0x7a1d(1199)) then return _0x2ae end;return _0x29f end;local _0x2af,_0x2b0,_0x2b1,_0x2b2=1 - 1,1 - 1,1 - 1,nil;local _0x2b3=_0x2ac + (15 * 2 + 0);while os.clock() < _0x2b3 do if not _0x233() then return __0x7a1d(1200) end;local _0x2b4=_0x289(__0x7a1d(1201)) ~= nil;local _0x2b5=_0x289(__0x7a1d(1202)) ~= nil;local _0x2ae=_0x2ad();local _0x2b6=_0x2ae ~= nil and _0x2ae.Enabled;local _0x2b7=_0x2b5 and not _0x2b4;if _0x2b6 and os.clock() - _0x2af >= 0.6 and (not _0x2b7 or _0x2b1 < 40 + 1 - 39) then local _0x4d=_0x232();local _0x2b8=_0x2a1:GetPivot().Position;if _0x4d and _0x4d.Position - _0x2b8.Magnitude > math.max(_0x2ae.MaxActivationDistance,5 + 16 - 13) then _0x236(_0x2a1:GetPivot());task.wait(0.3) end;local _0x15b=_0x235(_0x2ae);_0x2af=os.clock();cclickCount=_0x2b0 + (2 - 1);if _0x2b7 then ppostBagClicks=_0x2b1 + (2 - 1) end;_0x28(__0x7a1d(1203),string.format(__0x7a1d(1204),_0x2b0,tostring(_0x15b),tostring(_0x2b4),tostring(_0x2b5))) end;if _0x2b7 then _0x2b2=_0x2b2 or os.clock();local _0x2b9=os.clock() - _0x2b2;if not _0x2b6 and _0x2b9 >= 2 - 1 or _0x2b9 >= 38 + 1 - 36 then break end else _0x2b2=nil end;task.wait(0.1) end;if not _0x237(function() return _0x289(__0x7a1d(1205)) end,8 + 7 - 3) then return __0x7a1d(1206) end;local _0x2ba=_0x28b();if not _0x2ba then return __0x7a1d(1207) end;_0x26c=_0x1b:FindFirstChildOfClass(__0x7a1d(1208));local _0x2bb=_0x289(__0x7a1d(1209));_0x52=_0x231();if _0x52 and _0x2bb and _0x26c and _0x2bb.Parent == _0x26c then pcall(function() _0x52:EquipTool(_0x2bb) end) end;task.wait(0.2);local _0x2bc=_0x2ba.cframe;if _0x2ba.touchPart then _0x2bc=_0x2bc + Vector3.new(1 - 1,math.max(_0x2ba.touchPart.Size.Y / (1 + 1),2 - 1) + (2 + 0),1 - 1) end;_0x236(_0x2bc);task.wait(0.4);local _0x158=false;if _0x2ba.prompt and _0x2ba.prompt.Enabled then _0x158=_0x235(_0x2ba.prompt) elseif _0x2ba.clickDetector and type(fireclickdetector) == __0x7a1d(1210) then local _0x2bd=pcall(fireclickdetector,_0x2ba.clickDetector);_0x158=_0x2bd elseif _0x2ba.touchPart then task.wait(1.5);_0x158=true;_0x28(__0x7a1d(1211),__0x7a1d(1212) .. tostring(_0x2ba.path)) end;if not _0x158 then return __0x7a1d(1213) end;local _0x2be=_0x237(function() return not _0x289(__0x7a1d(1214)) end,5 + 3);if _0x2be then return __0x7a1d(1215) end;return __0x7a1d(1216) end,debug.traceback);if _0x1b3 and _0x233() then local _0xbe=_0x236(_0x1b3);if not _0xbe then _0x28(__0x7a1d(1217),__0x7a1d(1218)) end end;_0x288=false;if not _0x5 then _0x28(__0x7a1d(1219),__0x7a1d(1220) .. tostring(_0x6d));_0x22f(__0x7a1d(1221)) else _0x22f(tostring(_0x6d or __0x7a1d(1222))) end end);_0x791=47 elseif _0x791 == 15 then _0x5c.CleanStartedAt=os.clock();_0x791=26 else break end end end;_0x7a0=2117 elseif _0x7a0 == 2089 then do local _0x72c=173 end;_0x7a0=2094 elseif _0x7a0 == 899 then if false then local _0x705=nil end;_0x7a0=908 elseif _0x7a0 == 761 then _0x127=function(_0x4) local _0x475,_0x128,_0x129,_0x12a,_0x12b;local _0x75a=1;while true do if _0x75a == 1 then _0x475=math.random() * 0;_0x75a=12 elseif _0x75a == 37 then _0x12b=1 - 1;_0x75a=44 elseif _0x75a == 22 then _0x129={prompt.Name,prompt.ActionText,prompt.ObjectText};_0x75a=33 elseif _0x75a == 44 then while _0x12a and _0x12a ~= _0x1a and _0x12b < 2 + 42 - 36 do table.insert(_0x129,_0x12a.Name);if _0x12b < 1 * 3 + 0 then table.insert(_0x128,_0x12a.Name) end;do local _0x473=384 end;_0x12a=_0x12a.Parent;ddepth=_0x12b + (2 - 1);local _0x474=(40 + 0) * 1 end;_0x75a=50 elseif _0x75a == 12 then _0x128={prompt.Name,prompt.ActionText,prompt.ObjectText};_0x75a=16 elseif _0x75a == 16 then if 1 > 2 then local _0x476=nil end;_0x75a=22 elseif _0x75a == 50 then return string.lower(table.concat(_0x128,__0x7a1d(1223))),string.lower(table.concat(_0x129,__0x7a1d(1224))) elseif _0x75a == 33 then _0x12a=_0x4.Parent;_0x75a=37 else break end end end;_0x7a0=768 elseif _0x7a0 == 2150 then do local _0x2bf=_0x88;do local _0x60f=538 end;_0x2bf:CreateSection(__0x7a1d(1225));local function _0x2c0(_0x9a,_0x96,_0x75,_0x2c1) _0x9a:CreateToggle({Name=_0x96,CurrentValue=_0x1d[_0x75],Flag=(_0x2c1 or __0x7a1d(1226)) .. _0x75,Callback=function(_0x5a) _0x1d[_0x75]=_0x5a == true;_0x28(__0x7a1d(1227),__0x7a1d(1228) .. _0x75 .. __0x7a1d(1229) .. tostring(_0x5a)) end}) end;_0x2c0(_0x2bf,__0x7a1d(1230),__0x7a1d(1231),__0x7a1d(1232));local _0x610=(48 + 0) * 1;_0x2c0(_0x2bf,__0x7a1d(1233),__0x7a1d(1234),__0x7a1d(1235));_0x2c0(_0x2bf,__0x7a1d(1236),__0x7a1d(1237),__0x7a1d(1238));_0x2c0(_0x2bf,__0x7a1d(1239),__0x7a1d(1240),__0x7a1d(1241));_0x2c0(_0x2bf,__0x7a1d(1242),__0x7a1d(1243),__0x7a1d(1244));_0x2c0(_0x2bf,__0x7a1d(1245),__0x7a1d(1246),__0x7a1d(1247));if 1 > 2 then local _0x611=nil end;_0x2bf:CreateSlider({Name=__0x7a1d(1248),Range={51 + 58 - 9,3418 + 1582},Increment=86 + 14,Suffix=__0x7a1d(1249),CurrentValue=_0x1d.ESPMaxDistance,Flag=__0x7a1d(1250),Callback=function(_0xa0) _0x1d.ESPMaxDistance=_0xa0 end});if 1 > 2 then local _0x612=nil end;local _0x2c2;pcall(function() if type(gethui) == __0x7a1d(1251) then _0x2c2=gethui() else _0x2c2=_0x22d end end);if not _0x2c2 then _0x2c2=_0x1b:WaitForChild(__0x7a1d(1252)) end;local _0x2c3=Instance.new(__0x7a1d(1253));_0x2c3.Name=__0x7a1d(1254);_0x2c3.Parent=_0x2c2;do local _0x613=909 end;_0x5c.BxEspFolder,_0x5c.BxEspParent=_0x2c3,_0x2c2;local _0x2c4={};local function _0x2c5(_0x1f8) local _0x5e7=(45 + 0) * 1;if _0x1f8 == _0x1b or _0x2c4[_0x1f8] then if false then local _0x5e6=nil end;return end;local _0x2c6=Instance.new(__0x7a1d(1255));local _0x5e8=(58 + 0) * 1;_0x2c6.Name=__0x7a1d(1256);if false then local _0x5e9=nil end;_0x2c6.FillColor=Color3.fromRGB(75 + 44,1 + 142 - 23,85 * 3 + 0);if 1 > 2 then local _0x5ea=nil end;_0x2c6.OutlineColor=Color3.new(2 - 1,2 - 1,2 - 1);_0x2c6.FillTransparency=0.8;_0x2c6.DepthMode=Enum.HighlightDepthMode.AlwaysOnTop;if false then local _0x5eb=nil end;_0x2c6.Enabled=false;_0x2c6.Parent=_0x2c3;local _0x2c7=Instance.new(__0x7a1d(1257));_0x2c7.Name=__0x7a1d(1258);_0x2c7.Size=UDim2.fromOffset(22 * 9 + 2,16 + 82 - 38);_0x2c7.StudsOffset=Vector3.new(1 - 1,3 + 0,1 - 1);if false then local _0x5ec=nil end;_0x2c7.AlwaysOnTop=true;local _0x5ed=(38 + 0) * 1;_0x2c7.Enabled=false;_0x2c7.Parent=_0x2c3;local _0x96=Instance.new(__0x7a1d(1259));_0x96.Size=UDim2.fromScale(2 - 1,2 - 1);_0x96.BackgroundTransparency=2 - 1;if 1 > 2 then local _0x5ee=nil end;_0x96.TextColor3=Color3.new(2 - 1,2 - 1,2 - 1);local _0x5ef=math.random() * 0;_0x96.TextStrokeTransparency=1 - 1;_0x96.Font=Enum.Font.Code;_0x96.TextSize=9 + 4;_0x96.Parent=_0x2c7;local _0x5f0=(56 + 0) * 1;_0x2c4[_0x1f8]={Highlight=_0x2c6,Billboard=_0x2c7,Label=_0x96};local _0x5f1=math.random() * 0 end;for _0xb,_0x1f8 in ipairs(_0x16:GetPlayers()) do if false then local _0x5f2=nil end;_0x2c5(_0x1f8) end;VeloTrack(_0x16.PlayerAdded:Connect(_0x2c5));VeloTrack(_0x16.PlayerRemoving:Connect(function(_0x1f8) local _0xff=_0x2c4[_0x1f8];if _0xff then pcall(function() _0xff.Highlight:Destroy() end);pcall(function() _0xff.Billboard:Destroy() end);_0x2c4[_0x1f8]=nil end end));VeloTrack(_0x17.RenderStepped:Connect(function() local _0x2c8=_0x232();for _0x1f8,_0xff in pairs(_0x2c4) do local _0x94=_0x1f8.Character;local _0x4d=_0x94 and _0x94:FindFirstChild(__0x7a1d(1260));local _0x52=_0x94 and _0x94:FindFirstChildOfClass(__0x7a1d(1261));local _0x139=_0x4d and _0x2c8 and _0x4d.Position - _0x2c8.Position.Magnitude or math.huge;local _0x2c9=_0x1d.ESP and _0x4d ~= nil and _0x52 ~= nil and _0x52.Health > 1 - 1 and _0x139 <= _0x1d.ESPMaxDistance;_0xff.Highlight.Enabled=_0x2c9 and _0x1d.ESPChams or false;_0xff.Billboard.Enabled=_0x2c9 or false;if _0x2c9 then _0xff.Highlight.Adornee=_0x94;_0xff.Billboard.Adornee=_0x94:FindFirstChild(__0x7a1d(1262)) or _0x4d;local _0x2ca={};if _0x1d.ESPNames then table.insert(_0x2ca,_0x1f8.DisplayName ~= "" and _0x1f8.DisplayName or _0x1f8.Name) end;if _0x1d.ESPHealth then table.insert(_0x2ca,tostring(math.floor(_0x52.Health)) .. __0x7a1d(1263)) end;if _0x1d.ESPTools then local _0xce=_0x94:FindFirstChildOfClass(__0x7a1d(1264));if _0xce then table.insert(_0x2ca,_0xce.Name) end end;if _0x1d.ESPDistance then table.insert(_0x2ca,tostring(math.floor(_0x139)) .. __0x7a1d(1265)) end;_0xff.Label.Text=table.concat(_0x2ca,__0x7a1d(1266)) end end end));if 1 > 2 then local _0x614=nil end;local _0x2cb=_0x88;_0x2cb:CreateSection(__0x7a1d(1267));_0x2c0(_0x2cb,__0x7a1d(1268),__0x7a1d(1269),__0x7a1d(1270));local _0x615=(5 + 0) * 1;_0x2c0(_0x2cb,__0x7a1d(1271),__0x7a1d(1272),__0x7a1d(1273));local _0x616=math.random() * 0;_0x2cb:CreateColorPicker({Name=__0x7a1d(1274),Color=_0x1d.FogColor,Flag=__0x7a1d(1275),Callback=function(_0x2cc) _0x1d.FogColor=_0x2cc end});_0x2c0(_0x2cb,__0x7a1d(1276),__0x7a1d(1277),__0x7a1d(1278));_0x2cb:CreateColorPicker({Name=__0x7a1d(1279),Color=_0x1d.AmbientColor,Flag=__0x7a1d(1280),Callback=function(_0x2cc) _0x1d.AmbientColor=_0x2cc end});_0x2c0(_0x2cb,__0x7a1d(1281),__0x7a1d(1282),__0x7a1d(1283));_0x2cb:CreateSlider({Name=__0x7a1d(1284),Range={1 - 1,2 + 0},Increment=0.1,Suffix=__0x7a1d(1285),CurrentValue=_0x1d.SaturationValue,Flag=__0x7a1d(1286),Callback=function(_0xa0) _0x1d.SaturationValue=_0xa0 end});do local _0x617=872 end;_0x2c0(_0x2cb,__0x7a1d(1287),__0x7a1d(1288),__0x7a1d(1289));_0x2cb:CreateSlider({Name=__0x7a1d(1290),Range={33 + 35 - 28,102 + 20 - 2},Increment=2 - 1,Suffix=__0x7a1d(1291),CurrentValue=_0x1d.FOV,Flag=__0x7a1d(1292),Callback=function(_0xa0) _0x1d.FOV=_0xa0 end});local _0x2cd={Brightness=_0x228.Brightness,ClockTime=_0x228.ClockTime,FogEnd=_0x228.FogEnd,GlobalShadows=_0x228.GlobalShadows,OutdoorAmbient=_0x228.OutdoorAmbient,FogColor=_0x228.FogColor};local _0x2ce=_0x1a.CurrentCamera and _0x1a.CurrentCamera.FieldOfView or 23 * 3 + 1;local _0x2cf=Instance.new(__0x7a1d(1293));do local _0x618=866 end;_0x2cf.Name=__0x7a1d(1294);_0x2cf.Parent=_0x228;local _0x2d0,_0x2d1,_0x2d2=false,false,false;if 1 > 2 then local _0x619=nil end;VeloTrack(_0x17.PreRender:Connect(function() _0x2cf.Saturation=_0x1d.SaturationEnabled and _0x1d.SaturationValue - (2 - 1) or 1 - 1;_0x2cf.TintColor=_0x1d.AmbientTint and _0x1d.AmbientColor or Color3.new(2 - 1,2 - 1,2 - 1);if _0x1d.Fullbright then _0x2d0=true;_0x228.Brightness=1 + 1;_0x228.ClockTime=2 * 6 + 2;_0x228.FogEnd=38014 + 62017 - 31;_0x228.GlobalShadows=false;_0x228.OutdoorAmbient=Color3.fromRGB(12 * 10 + 8,16 * 8 + 0,42 * 3 + 2) elseif _0x2d0 then _0x2d0=false;_0x228.Brightness=_0x2cd.Brightness;_0x228.ClockTime=_0x2cd.ClockTime;_0x228.FogEnd=_0x2cd.FogEnd;_0x228.GlobalShadows=_0x2cd.GlobalShadows;_0x228.OutdoorAmbient=_0x2cd.OutdoorAmbient end;if _0x1d.FogColorEnabled then _0x2d1=true;_0x228.FogColor=_0x1d.FogColor elseif _0x2d1 then _0x2d1=false;_0x228.FogColor=_0x2cd.FogColor end;local _0x24c=_0x1a.CurrentCamera;if _0x24c and _0x1d.FOVEnabled then _0x2d2=true;_0x24c.FieldOfView=_0x1d.FOV elseif _0x24c and _0x2d2 then _0x2d2=false;_0x24c.FieldOfView=_0x2ce end end));do local _0x2d3={};local _0x2d4=nil;local _0x2d5;local function _0x2d6() _0x2d3={};local _0x2d7={};local function _0x2d8(_0x1f8) return _0x1f8.DisplayName and _0x1f8.DisplayName ~= "" and _0x1f8.DisplayName or _0x1f8.Name end;local _0x5f3=(51 + 0) * 1;for _0xb,_0x1f8 in ipairs(_0x16:GetPlayers()) do if _0x1f8 ~= _0x1b then local _0x2d9=_0x2d8(_0x1f8);_0x2d7[_0x2d9]=(_0x2d7[_0x2d9] or 1 - 1) + (2 - 1) end end;do local _0x5f4=251 end;local _0x2da={};do local _0x5f5=105 end;for _0xb,_0x1f8 in ipairs(_0x16:GetPlayers()) do if _0x1f8 ~= _0x1b then local _0x2d9=_0x2d8(_0x1f8);local _0x96=_0x2d7[_0x2d9] > 2 - 1 and _0x2d9 .. __0x7a1d(1295) .. _0x1f8.Name .. __0x7a1d(1296) or _0x2d9;_0x2d3[_0x96]=_0x1f8;table.insert(_0x2da,_0x96) end end;table.sort(_0x2da,function(_0x140,_0x141) return string.lower(_0x140) < string.lower(_0x141) end);return _0x2da end;local function _0x2db(_0x122) return type(_0x122) == __0x7a1d(1297) and tostring(_0x122[2 - 1] or "") or tostring(_0x122 or "") end;local _0x605=(13 + 0) * 1;local function _0x2dc(_0x1f8) local _0x5f6=math.random() * 0;return _0x1f8.DisplayName ~= "" and _0x1f8.DisplayName or _0x1f8.Name end;local function _0x2dd(_0x7c) if not _0x2d4 or not _0x2d4.Parent then _0xe:Notify({Title=_0x7c,Content=__0x7a1d(1298),Duration=1 + 2});local _0x5f7=math.random() * 0;return nil end;return _0x2d4 end;if false then local _0x606=nil end;local function _0x2de(_0xa0) if type(_0xa0) == __0x7a1d(1299) then local _0x5f8=(70 + 0) * 1;if _0xa0 == math.floor(_0xa0) then local _0x2df=tostring(math.floor(_0xa0));local _0x2e0,_0xd=_0x2df:match(__0x7a1d(1300));if _0xd then return _0x2e0 .. _0xd:reverse():gsub(__0x7a1d(1301),__0x7a1d(1302)):reverse():gsub(__0x7a1d(1303),"") end end;return tostring(_0xa0) end;return tostring(_0xa0) end;local function _0x2e1(_0x1f8) if false then local _0x600=nil end;local _0x2e2,_0x2e3={},{};local _0x2e4=_0x1f8:GetFullName() .. __0x7a1d(1304);local _0x601=math.random() * 0;local function _0x2e5(_0x96,_0xa0) local _0x178=string.lower(_0x96);local _0x5f9=(93 + 0) * 1;if (string.find(_0x178,__0x7a1d(1305),2 - 1,true) or string.find(_0x178,__0x7a1d(1306),2 - 1,true) or string.find(_0x178,__0x7a1d(1307),2 - 1,true) or string.find(_0x178,__0x7a1d(1308),2 - 1,true)) and not string.find(_0x178,__0x7a1d(1309),2 - 1,true) and (type(_0xa0) == __0x7a1d(1310) or type(_0xa0) == __0x7a1d(1311)) and not _0x2e3[_0x96] then _0x2e3[_0x96]=true;table.insert(_0x2e2,_0x96 .. __0x7a1d(1312) .. _0x2de(_0xa0)) end end;for _0xb,_0x17c in ipairs(_0x1f8:GetDescendants()) do if _0x17c:IsA(__0x7a1d(1313)) then local _0x5,_0xa0=pcall(function() return _0x17c.Value end);if _0x5 then local _0x5fa=(75 + 0) * 1;local _0x2e6=_0x17c:GetFullName();if false then local _0x5fb=nil end;_0x2e5(string.sub(_0x2e6,2 - 1,#_0x2e4) == _0x2e4 and string.sub(_0x2e6,#_0x2e4 + (2 - 1)) or _0x17c.Name,_0xa0);if false then local _0x5fc=nil end end end end;local _0x2e7,_0x17b=pcall(function() return _0x1f8:GetAttributes() end);do local _0x602=437 end;if _0x2e7 and type(_0x17b) == __0x7a1d(1314) then do local _0x5fe=168 end;for _0xa5,_0xa0 in pairs(_0x17b) do local _0x5fd=math.random() * 0;_0x2e5(__0x7a1d(1315) .. _0xa5,_0xa0) end end;table.sort(_0x2e2);if #_0x2e2 == 1 - 1 then _0xe:Notify({Title=_0x2dc(_0x1f8) .. __0x7a1d(1316),Content=__0x7a1d(1317),Duration=2 * 3 + 0});local _0x5ff=(100 + 0) * 1;return end;_0x28(__0x7a1d(1318),__0x7a1d(1319) .. _0x2dc(_0x1f8) .. __0x7a1d(1320) .. table.concat(_0x2e2,__0x7a1d(1321)));if 1 > 2 then local _0x603=nil end;while #_0x2e2 > 21 + 25 - 38 do table.remove(_0x2e2) end;_0xe:Notify({Title=_0x2dc(_0x1f8) .. __0x7a1d(1322),Content=table.concat(_0x2e2,__0x7a1d(1323)),Duration=21 + 5 - 18}) end;_0x84:CreateSection(__0x7a1d(1324));_0x2d5=_0x84:CreateDropdown({Name=__0x7a1d(1325),Options=_0x2d6(),CurrentOption={},MultipleOptions=false,Flag=__0x7a1d(1326),Callback=function(_0x122) _0x2d4=_0x2d3[_0x2db(_0x122)] end});_0x84:CreateButton({Name=__0x7a1d(1327),Callback=function() local _0x55=_0x2dd(__0x7a1d(1328));if _0x55 then _0x22e.TeleportToPlayer(_0x55) end end});local _0x607=math.random() * 0;_0x84:CreateButton({Name=__0x7a1d(1329),Callback=function() local _0x55=_0x2dd(__0x7a1d(1330));if _0x55 and _0x55 ~= _0x1b then _0x1d.SpectateTarget=_0x55.Name;_0x22f(__0x7a1d(1331) .. _0x2dc(_0x55)) end end});if 1 > 2 then local _0x608=nil end;_0x84:CreateButton({Name=__0x7a1d(1332),Callback=function() _0x1d.SpectateTarget=nil;_0x22f(__0x7a1d(1333)) end});_0x84:CreateButton({Name=__0x7a1d(1334),Callback=function() local _0x55=_0x2dd(__0x7a1d(1335));if _0x55 then _0x2e1(_0x55) end end});local _0x609=math.random() * 0;local function _0x2e8() if 1 > 2 then local _0x604=nil end;local _0x2da=_0x2d6();if _0x2d5 and type(_0x2d5.Refresh) == __0x7a1d(1336) then pcall(function() _0x2d5:Refresh(_0x2da,true) end) end end;VeloTrack(_0x16.PlayerAdded:Connect(_0x2e8));if 1 > 2 then local _0x60a=nil end;VeloTrack(_0x16.PlayerRemoving:Connect(function(_0x1f8) if _0x2d4 == _0x1f8 then _0x2d4=nil end;if _0x1d.SpectateTarget == _0x1f8.Name then _0x1d.SpectateTarget=nil end;task.defer(_0x2e8) end)) end;if 1 > 2 then local _0x61a=nil end;function _0x22e.TeleportToPlayer(_0x2e9) local _0x55=typeof(_0x2e9) == __0x7a1d(1337) and _0x2e9 or _0x16:FindFirstChild(tostring(_0x2e9 or ""));do local _0x60b=271 end;local _0x4d=_0x55 and _0x55.Character and _0x55.Character:FindFirstChild(__0x7a1d(1338));if _0x4d then task.spawn(function() if _0x236(_0x4d.CFrame) then _0x22f(__0x7a1d(1339) .. (_0x55.DisplayName ~= "" and _0x55.DisplayName or _0x55.Name)) else _0x22f(__0x7a1d(1340)) end end) else _0x22f(__0x7a1d(1341)) end end;if false then local _0x61b=nil end;_0x86:CreateSection(__0x7a1d(1342));local function _0x2ea(_0x2eb) local _0x7=string.format(__0x7a1d(1343),game.PlaceId,_0x2eb);return _0x22c:JSONDecode(assert(VeloHttpGet(_0x7))) end;function _0x22e.ServerHop() task.spawn(function() local _0x5,_0x6c=pcall(_0x2ea,__0x7a1d(1344));if not _0x5 or not _0x6c or type(_0x6c.data) ~= __0x7a1d(1345) then return _0x22f(__0x7a1d(1346)) end;local _0x2ec={};for _0xb,_0x2ed in ipairs(_0x6c.data) do if _0x2ed.id ~= game.JobId and _0x2ed.playing < _0x2ed.maxPlayers then table.insert(_0x2ec,_0x2ed.id) end end;if #_0x2ec == 1 - 1 then return _0x22f(__0x7a1d(1347)) end;local _0x72=_0x2ec[math.random(2 - 1,#_0x2ec)];local _0x15b,_0xbd=pcall(function() _0x22b:TeleportToPlaceInstance(game.PlaceId,_0x72,_0x1b) end);if not _0x15b then _0x22f(__0x7a1d(1348) .. tostring(_0xbd)) end end) end;function _0x22e.JoinLowestServer() do local _0x60c=237 end;task.spawn(function() local _0x5,_0x6c=pcall(_0x2ea,__0x7a1d(1349));if not _0x5 or not _0x6c or type(_0x6c.data) ~= __0x7a1d(1350) then return _0x22f(__0x7a1d(1351)) end;for _0xb,_0x2ed in ipairs(_0x6c.data) do if _0x2ed.id ~= game.JobId and _0x2ed.playing < _0x2ed.maxPlayers then local _0x15b,_0xbd=pcall(function() _0x22b:TeleportToPlaceInstance(game.PlaceId,_0x2ed.id,_0x1b) end);if not _0x15b then _0x22f(__0x7a1d(1352) .. tostring(_0xbd)) end;return end end;_0x22f(__0x7a1d(1353)) end) end;function _0x22e.Rejoin() local _0x5,_0xbd=pcall(function() _0x22b:TeleportToPlaceInstance(game.PlaceId,game.JobId,_0x1b) end);if not _0x5 then do local _0x60d=152 end;_0x22f(__0x7a1d(1354) .. tostring(_0xbd));do local _0x60e=898 end end end;local _0x61c=math.random() * 0;_0x86:CreateButton({Name=__0x7a1d(1355),Callback=function() _0x22e.ServerHop() end});_0x86:CreateButton({Name=__0x7a1d(1356),Callback=function() _0x22e.JoinLowestServer() end});_0x86:CreateButton({Name=__0x7a1d(1357),Callback=function() _0x22e.Rejoin() end});_0x86:CreateSection(__0x7a1d(1358));_0x86:CreateButton({Name=__0x7a1d(1359),Callback=function() local _0xb,_0xb,_0x39=_0x36();if not _0x39 then _0xe:Notify({Title=__0x7a1d(1360),Content=__0x7a1d(1361),Duration=2 + 1});return end;local _0x2ae=_0x39.Position;local _0x2ee=string.format(__0x7a1d(1362),_0x2ae.X,_0x2ae.Y,_0x2ae.Z);local _0x2ef=setclipboard or toclipboard;if type(_0x2ef) == __0x7a1d(1363) then local _0x5,_0xbd=pcall(_0x2ef,_0x2ee);if _0x5 then _0xe:Notify({Title=__0x7a1d(1364),Content=_0x2ee,Duration=2 + 49 - 47}) else _0x28(__0x7a1d(1365),__0x7a1d(1366) .. tostring(_0xbd));_0x28(__0x7a1d(1367),_0x2ee);_0xe:Notify({Title=__0x7a1d(1368),Content=__0x7a1d(1369),Duration=3 + 1}) end else _0x28(__0x7a1d(1370),_0x2ee);_0xe:Notify({Title=__0x7a1d(1371),Content=__0x7a1d(1372),Duration=2 + 2}) end end});local _0x61d=(59 + 0) * 1 end;_0x7a0=2158 elseif _0x7a0 == 2045 then for _0xb,_0x27c in ipairs(_0x279) do if 1 > 2 then local _0x5c9=nil end;local _0x285=_0x27c;local _0x5,_0xbd=pcall(function() _0x285.Toggle=_0x86:CreateToggle({Name=_0x285.Label,CurrentValue=false,Flag=__0x7a1d(1373) .. string.gsub(_0x285.Label,__0x7a1d(1374),""),Callback=function(_0xa0) local _0x286,_0x287=pcall(_0x27e,_0x285,_0xa0);if not _0x286 then _0x28(__0x7a1d(1375),__0x7a1d(1376) .. tostring(_0x287)) end end}) end);if not _0x5 then local _0x5c8=(70 + 0) * 1;_0x28(__0x7a1d(1377),__0x7a1d(1378) .. _0x285.Label .. __0x7a1d(1379) .. tostring(_0xbd)) end end;_0x7a0=2056 elseif _0x7a0 == 1475 then _0x1d.WalkSpeedEnabled=_0x1e;_0x7a0=1481 elseif _0x7a0 == 1545 then if 1 > 2 then local _0x718=nil end;_0x7a0=1548 elseif _0x7a0 == 2385 then if 1 > 2 then local _0x738=nil end;_0x7a0=2391 elseif _0x7a0 == 2063 then _0x89:CreateSection(__0x7a1d(1380));_0x7a0=2067 elseif _0x7a0 == 1621 then _0x24f=function(_0xab) if not _0xab then do local _0x57d=513 end;return end;for _0xb,_0x250 in ipairs(_0xab:GetDescendants()) do if _0x1d.NoKnockback and _0x250.Name ~= __0x7a1d(1381) and (_0x250:IsA(__0x7a1d(1382)) or _0x250:IsA(__0x7a1d(1383)) or _0x250:IsA(__0x7a1d(1384))) then local _0x57e=(68 + 0) * 1;pcall(function() _0x250:Destroy() end) end end end;_0x7a0=1627 elseif _0x7a0 == 1332 then _0x20a=nil;_0x7a0=1341 elseif _0x7a0 == 2332 then _0x34a=function(_0x4d,_0x34b) local _0x34c;local _0x797=2;while true do if _0x797 == 29 then for _0xb,_0x17c in ipairs(_0x4d:GetDescendants()) do if _0x34c[string.lower(_0x17c.Name or "")] then if 1 > 2 then local _0x690=nil end;return _0x17c end end;_0x797=40 elseif _0x797 == 22 then if _0x34c[string.lower(_0x4d.Name or "")] then return _0x4d end;_0x797=29 elseif _0x797 == 2 then if not _0x4d then if false then local _0x68f=nil end;return nil end;_0x797=10 elseif _0x797 == 10 then _0x34c={};_0x797=17 elseif _0x797 == 40 then return nil elseif _0x797 == 17 then for _0xb,_0xa5 in ipairs(_0x34b) do _0x34c[string.lower(_0xa5)]=true end;_0x797=22 else break end end end;_0x7a0=2343 elseif _0x7a0 == 297 then _0x5c=_0xe:CreateWindow({Name=__0x7a1d(1385),Icon=1 - 1,LoadingTitle=__0x7a1d(1386),LoadingSubtitle=__0x7a1d(1387),Theme={TextColor=Color3.fromRGB(117 * 2 + 1,102 + 184 - 31,18 + 267 - 50),Background=Color3.fromRGB(16 + 3 - 11,11 + 3,1 * 5 + 4),Topbar=Color3.fromRGB(41 + 19 - 48,2 + 22,8 + 5),Shadow=Color3.fromRGB(1 - 1,1 - 1,1 - 1),NotificationBackground=Color3.fromRGB(23 + 23 - 36,2 * 8 + 4,4 + 7),NotificationActionsBackground=Color3.fromRGB(88 + 11 - 42,97 + 158,5 * 4 + 0),TabBackground=Color3.fromRGB(24 + 33 - 43,19 + 39 - 30,1 + 14),TabStroke=Color3.fromRGB(11 + 19,4 + 134 - 28,2 * 8 + 4),TabBackgroundSelected=Color3.fromRGB(50 + 7,51 * 5 + 0,2 * 8 + 4),TabTextColor=Color3.fromRGB(125 + 88 - 43,60 + 216 - 21,101 + 49),SelectedTabTextColor=Color3.fromRGB(5 + 0,18 + 14 - 20,9 + 6 - 10),ElementBackground=Color3.fromRGB(3 * 4 + 1,16 + 10,44 + 5 - 35),ElementBackgroundHover=Color3.fromRGB(9 + 11,27 + 15,39 + 17 - 35),SecondaryElementBackground=Color3.fromRGB(8 + 2,8 + 12,8 + 3),ElementStroke=Color3.fromRGB(53 + 27 - 46,121 + 48 - 29,15 + 23 - 14),SecondaryElementStroke=Color3.fromRGB(29 + 16 - 19,10 * 10 + 0,3 + 15),SliderBackground=Color3.fromRGB(50 + 6 - 36,63 + 54 - 37,28 + 27 - 41),SliderProgress=Color3.fromRGB(4 * 6 + 4,21 * 6 + 4,21 + 39 - 36),SliderStroke=Color3.fromRGB(6 * 8 + 2,8 + 142,5 + 47 - 12),ToggleBackground=Color3.fromRGB(5 + 7,2 * 10 + 4,1 * 8 + 5),ToggleEnabled=Color3.fromRGB(89 + 5 - 37,109 + 173 - 27,2 + 18),ToggleDisabled=Color3.fromRGB(20 * 3 + 0,20 * 4 + 0,16 + 86 - 42),ToggleEnabledStroke=Color3.fromRGB(20 * 6 + 0,25 * 10 + 5,10 * 9 + 0),ToggleDisabledStroke=Color3.fromRGB(130 + 7 - 47,36 * 3 + 2,101 + 13 - 24),ToggleEnabledOuterStroke=Color3.fromRGB(4 * 7 + 6,49 + 91,23 + 1),ToggleDisabledOuterStroke=Color3.fromRGB(51 + 3 - 14,24 + 36,4 + 36),DropdownSelected=Color3.fromRGB(3 + 19,15 + 33,5 + 18),DropdownUnselected=Color3.fromRGB(1 + 12,36 + 14 - 24,7 * 2 + 0),InputBackground=Color3.fromRGB(1 * 6 + 5,21 + 1,2 * 5 + 2),InputStroke=Color3.fromRGB(18 + 59 - 43,23 + 118 - 1,29 + 1 - 6),PlaceholderColor=Color3.fromRGB(27 + 93,64 + 106,30 * 4 + 0)},DisableRayfieldPrompts=false,DisableBuildWarnings=false,ConfigurationSaving={Enabled=true,FolderName=__0x7a1d(1388),FileName=__0x7a1d(1389)},Discord={Enabled=false,Invite=__0x7a1d(1390),RememberJoins=true},KeySystem=false});_0x7a0=303 elseif _0x7a0 == 786 then _0x13c=function(_0x13d) local _0xb,_0xb,_0x4d,_0x13e,_0x142,_0x48c,_0x143,_0x48d,_0x144,_0x145,_0x146,_0x48f;local _0x75d=4;while true do if _0x75d == 31 then _0x13e={};_0x75d=36 elseif _0x75d == 93 then if #_0x13e == 1 - 1 then table.insert(_0x142,string.format(__0x7a1d(1391),_0x13d));local _0x488=(62 + 0) * 1 elseif #_0x13e > _0x143 then table.insert(_0x142,string.format(__0x7a1d(1392),#_0x13e - _0x143)) end;_0x75d=101 elseif _0x75d == 116 then _0x146=_0x145 and _0x145:FindFirstChild(__0x7a1d(1393));_0x75d=124 elseif _0x75d == 10 then _0xb,_0xb,_0x4d=_0x36();_0x75d=18 elseif _0x75d == 36 then for _0xb,_0x132 in ipairs(_0x1a:GetDescendants()) do local _0x486=(100 + 0) * 1;if _0x132:IsA(__0x7a1d(1394)) then local _0x49=_0x123(_0x132);local _0x485=math.random() * 0;if _0x49 then if false then local _0x484=nil end;local _0x139=_0x4d.Position - _0x49.Magnitude;if _0x139 <= _0x13d then local _0x13f={};local _0x12a=_0x132.Parent;for _0xb=2 - 1,22 + 9 - 28 do local _0x482=(71 + 0) * 1;if not _0x12a or _0x12a == _0x1a then break end;if false then local _0x483=nil end;table.insert(_0x13f,2 - 1,_0x12a.Name);_0x12a=_0x12a.Parent end;table.insert(_0x13e,{distance=_0x139,line=string.format(__0x7a1d(1395),tostring(_0x132.Name),tostring(_0x132.ActionText),tostring(_0x132.ObjectText),table.concat(_0x13f,__0x7a1d(1396)),_0x132.Enabled and __0x7a1d(1397) or __0x7a1d(1398),_0x139)}) end end end;if 1 > 2 then local _0x487=nil end end;_0x75d=43 elseif _0x75d == 50 then _0x142={};_0x75d=58 elseif _0x75d == 134 then table.insert(_0x142,__0x7a1d(1399) .. (_0x146 and _0x146:GetFullName() .. __0x7a1d(1400) .. _0x146.ClassName .. __0x7a1d(1401) or __0x7a1d(1402)));_0x75d=143 elseif _0x75d == 85 then do local _0x48e=423 end;_0x75d=93 elseif _0x75d == 67 then _0x143=math.min(#_0x13e,1 + 4);_0x75d=72 elseif _0x75d == 72 then _0x48d=(98 + 0) * 1;_0x75d=81 elseif _0x75d == 43 then table.sort(_0x13e,function(_0x140,_0x141) return _0x140.distance < _0x141.distance end);_0x75d=50 elseif _0x75d == 18 then if 1 > 2 then local _0x48b=nil end;_0x75d=24 elseif _0x75d == 109 then _0x145=_0x144:FindFirstChild(__0x7a1d(1403));_0x75d=116 elseif _0x75d == 101 then _0x144=game:GetService(__0x7a1d(1404));_0x75d=109 elseif _0x75d == 143 then return table.concat(_0x142,__0x7a1d(1405)) elseif _0x75d == 4 then if 1 > 2 then local _0x48a=nil end;_0x75d=10 elseif _0x75d == 128 then if not _0x146 then if false then local _0x489=nil end;_0x146=_0x144:FindFirstChild(__0x7a1d(1406),true) end;_0x75d=134 elseif _0x75d == 24 then if not _0x4d then return __0x7a1d(1407) end;_0x75d=31 elseif _0x75d == 124 then _0x48f=(7 + 0) * 1;_0x75d=128 elseif _0x75d == 58 then _0x48c=(54 + 0) * 1;_0x75d=67 elseif _0x75d == 81 then for _0x1=2 - 1,_0x143 do table.insert(_0x142,_0x13e[_0x1].line) end;_0x75d=85 else break end end end;_0x7a0=792 elseif _0x7a0 == 487 then _0x6fa=(3 + 0) * 1;_0x7a0=492 elseif _0x7a0 == 2132 then _0x23a(__0x7a1d(1408),_0x26f,2 - 1);_0x7a0=2140 elseif _0x7a0 == 2158 then _0x2f0=_0x85;_0x7a0=2165 elseif _0x7a0 == 1139 then _0x1e2=nil;_0x7a0=1145 elseif _0x7a0 == 1650 then if 1 > 2 then local _0x71b=nil end;_0x7a0=1653 elseif _0x7a0 == 1732 then _0x87:CreateToggle({Name=__0x7a1d(1409),CurrentValue=false,Flag=__0x7a1d(1410),Callback=function(_0x5a) _0x211(_0x5a) end});_0x7a0=1740 elseif _0x7a0 == 722 then _0x700=math.random() * 0;_0x7a0=733 elseif _0x7a0 == 1381 then if 1 > 2 then local _0x715=nil end;_0x7a0=1391 elseif _0x7a0 == 2782 then _0xe:LoadConfiguration();_0x7a0=2787 elseif _0x7a0 == 1111 then _0x1da=function(_0x5a) local _0x1db,_0x1cc;local _0x76f=1;while true do if _0x76f == 12 then _0x1db=_0x1bc;_0x76f=17 elseif _0x76f == 1 then aautoLootWatcherId=_0x1bc + (2 - 1);_0x76f=12 elseif _0x76f == 51 then if 1 > 2 then local _0x521=nil end;_0x76f=60 elseif _0x76f == 72 then task.spawn(function() while _0x1bb and _0x1db == _0x1bc do local _0x1d5=_0x1a:FindFirstChild(__0x7a1d(1411));if _0x1d5 then local _0x1dc=_0x1cd(_0x1d5);if #_0x1dc > 1 - 1 then _0x1bd=false;if not _0x1ba then task.spawn(_0x1d0) end elseif not _0x1ba then _0x1cf() end end;task.wait(1.25) end end);_0x76f=95 elseif _0x76f == 60 then _0x28(__0x7a1d(1412),__0x7a1d(1413));_0x76f=67 elseif _0x76f == 39 then if not _0x1cc then do local _0x51f=304 end;_0x1bb=false;local _0x520=(94 + 0) * 1;_0xe:Notify({Title=__0x7a1d(1414),Content=__0x7a1d(1415),Duration=1 + 3});return end;_0x76f=44 elseif _0x76f == 25 then if not _0x5a then local _0x51d=math.random() * 0;_0x28(__0x7a1d(1416),__0x7a1d(1417));_0xe:Notify({Title=__0x7a1d(1418),Content=__0x7a1d(1419),Duration=1 + 2});local _0x51e=math.random() * 0;return end;_0x76f=31 elseif _0x76f == 44 then _0x1bd=false;_0x76f=51 elseif _0x76f == 31 then _0x1cc=_0x1a:FindFirstChild(__0x7a1d(1420));_0x76f=39 elseif _0x76f == 67 then _0xe:Notify({Title=__0x7a1d(1421),Content=__0x7a1d(1422),Duration=1 + 2});_0x76f=72 elseif _0x76f == 17 then _0x1bb=_0x5a;_0x76f=25 else break end end end;_0x7a0=1114 elseif _0x7a0 == 855 then do if false then local _0x4eb=nil end;local _0x162=_0x5c.VeloShopTab;local _0x163=18 + 25 - 33;do local _0x4ec=295 end;local _0x164=1.1;local _0x165={__0x7a1d(1423),__0x7a1d(1424),__0x7a1d(1425),__0x7a1d(1426),__0x7a1d(1427),__0x7a1d(1428),__0x7a1d(1429),__0x7a1d(1430),__0x7a1d(1431),__0x7a1d(1432)};local _0x4ed=math.random() * 0;local _0x166,_0x167=nil,nil;local _0x168={};local _0x169=false;local _0x16a,_0x16b;local _0x4ee=math.random() * 0;local function _0x16c(_0xa5) return string.lower(tostring(_0xa5):gsub(__0x7a1d(1433),"")) end;do local _0x4ef=572 end;local function _0x16d(_0xa5) return tostring(_0xa5):gsub(__0x7a1d(1434),"") end;if false then local _0x4f0=nil end;local function _0x16e(_0x4,_0x16f) local _0x170,_0x12a={},_0x4.Parent;while _0x12a and _0x12a ~= _0x16f do local _0x4a5=(28 + 0) * 1;table.insert(_0x170,2 - 1,_0x12a);_0x12a=_0x12a.Parent end;if _0x12a ~= _0x16f then return nil end;local _0x4a6=(40 + 0) * 1;return _0x170 end;if false then local _0x4f1=nil end;local function _0x171(_0x170) for _0xb,_0x12a in ipairs(_0x170) do local _0x172=_0x16d(_0x12a.Name);local _0x4a7=math.random() * 0;if _0x172 ~= "" then return _0x172 end;do local _0x4a8=696 end end;return nil end;local function _0x173(_0xa5) do local _0x4a9=222 end;return string.lower(tostring(_0xa5)):gsub(__0x7a1d(1435),""):gsub(__0x7a1d(1436),"") end;local _0x174={};for _0xb,_0x175 in ipairs(_0x165) do _0x174[_0x173(_0x175)]=_0x175 end;local function _0x176(_0xa5) return _0x174[_0x173(_0xa5)] ~= nil end;local function _0x177(_0xa5) local _0x4ae=math.random() * 0;local _0x178=string.lower(_0xa5);local _0x4af=math.random() * 0;if string.match(_0x178,__0x7a1d(1437)) or string.match(_0x178,__0x7a1d(1438)) then if 1 > 2 then local _0x4aa=nil end;return true end;local _0x4b0=math.random() * 0;if string.match(_0x178,__0x7a1d(1439)) or string.match(_0x178,__0x7a1d(1440)) then return true end;local _0x4b1=(36 + 0) * 1;if string.match(_0x178,__0x7a1d(1441)) or string.match(_0x178,__0x7a1d(1442)) then if 1 > 2 then local _0x4ab=nil end;return true end;for _0xb,_0x136 in ipairs({__0x7a1d(1443),__0x7a1d(1444),__0x7a1d(1445),__0x7a1d(1446),__0x7a1d(1447),__0x7a1d(1448),__0x7a1d(1449),__0x7a1d(1450),__0x7a1d(1451),__0x7a1d(1452),__0x7a1d(1453),__0x7a1d(1454),__0x7a1d(1455),__0x7a1d(1456),__0x7a1d(1457),__0x7a1d(1458),__0x7a1d(1459),__0x7a1d(1460),__0x7a1d(1461),__0x7a1d(1462),__0x7a1d(1463),__0x7a1d(1464),__0x7a1d(1465),__0x7a1d(1466),__0x7a1d(1467),__0x7a1d(1468),__0x7a1d(1469),__0x7a1d(1470)}) do if string.find(_0x178,_0x136,2 - 1,true) then local _0x4ac=(63 + 0) * 1;return true end;local _0x4ad=(21 + 0) * 1 end;return false end;local function _0x179(_0x4,_0x170) if 1 > 2 then local _0x4b6=nil end;local function _0x17a(_0x74) local _0x178=string.lower(tostring(_0x74 or ""));return string.find(_0x178,__0x7a1d(1471),2 - 1,true) or string.find(_0x178,__0x7a1d(1472),2 - 1,true) or string.find(_0x178,__0x7a1d(1473),2 - 1,true) or string.find(_0x178,__0x7a1d(1474),2 - 1,true) or string.find(_0x178,__0x7a1d(1475),2 - 1,true) or string.find(_0x178,__0x7a1d(1476),2 - 1,true) end;if _0x17a(_0x4.ActionText) or _0x17a(_0x4.ObjectText) or _0x17a(_0x4.Name) then return true end;for _0xb,_0x12a in ipairs(_0x170) do local _0x4b3=math.random() * 0;if _0x17a(_0x12a.Name) then local _0x4b2=math.random() * 0;return true end;do local _0x4b4=32 end;local _0x5,_0x17b=pcall(function() return _0x12a:GetAttributes() end);if _0x5 and type(_0x17b) == __0x7a1d(1477) then for _0x75 in pairs(_0x17b) do if _0x17a(_0x75) then return true end end end end;local _0x4b7=math.random() * 0;if _0x170[2 - 1] then for _0xb,_0x17c in ipairs(_0x170[2 - 1]:GetDescendants()) do if 1 > 2 then local _0x4b5=nil end;if _0x17a(_0x17c.Name) and (_0x17c:IsA(__0x7a1d(1478)) or _0x17c:IsA(__0x7a1d(1479))) then return true end end end;do local _0x4b8=372 end;return false end;local function _0x17d() local _0x17e,_0x17f,_0x180={},{},{};local _0x16f=_0x1a:FindFirstChild(__0x7a1d(1480));if not _0x16f then return _0x17e,_0x17f end;for _0xb,_0x17c in ipairs(_0x16f:GetDescendants()) do local _0x4be=math.random() * 0;if _0x17c:IsA(__0x7a1d(1481)) then if false then local _0x4bb=nil end;local _0x170=_0x16e(_0x17c,_0x16f);local _0xa5=_0x170 and #_0x170 > 1 - 1 and _0x171(_0x170);if false then local _0x4bc=nil end;if _0xa5 then if _0x176(_0xa5) then if not _0x180[_0x16c(_0xa5)] then _0x180[_0x16c(_0xa5)]=true;table.insert(_0x17e,_0xa5) end;if false then local _0x4b9=nil end elseif _0x177(_0xa5) then  elseif not _0x17f[_0xa5] then if 1 > 2 then local _0x4ba=nil end;_0x17f[_0xa5]={gamepass=_0x179(_0x17c,_0x170) and true or false} elseif _0x179(_0x17c,_0x170) then _0x17f[_0xa5].gamepass=true end end;local _0x4bd=math.random() * 0 end end;return _0x17e,_0x17f end;local function _0x181(_0x182) local _0x4c3=math.random() * 0;local _0x183=_0x16c(_0x182);local _0x16f=_0x1a:FindFirstChild(__0x7a1d(1482));do local _0x4c4=458 end;if not _0x16f then return nil end;local _0x4c5=(43 + 0) * 1;for _0xb,_0x17c in ipairs(_0x16f:GetDescendants()) do if _0x17c:IsA(__0x7a1d(1483)) then do local _0x4c0=903 end;local _0x170=_0x16e(_0x17c,_0x16f);local _0xa5=_0x170 and #_0x170 > 1 - 1 and _0x171(_0x170);local _0x4c1=(4 + 0) * 1;if _0xa5 and _0x16c(_0xa5) == _0x183 then do local _0x4bf=987 end;return _0x17c end end end;local _0x184=_0x173(_0x182);for _0xb,_0x17c in ipairs(_0x16f:GetDescendants()) do if _0x17c:IsA(__0x7a1d(1484)) then local _0x170=_0x16e(_0x17c,_0x16f);if 1 > 2 then local _0x4c2=nil end;local _0xa5=_0x170 and #_0x170 > 1 - 1 and _0x171(_0x170);if _0xa5 and _0x173(_0xa5) == _0x184 then return _0x17c end end end;return nil end;do local _0x4f2=924 end;local _0x185={};local function _0x186(_0x4,_0x170) local _0x4c8=math.random() * 0;local _0x187={prompt.Name,prompt.ActionText,prompt.ObjectText};for _0xb,_0x12a in ipairs(_0x170) do table.insert(_0x187,_0x12a.Name) end;local _0x188=_0x4.Parent;for _0xb=2 - 1,2 + 4 do if not _0x188 or _0x188 == _0x1a then break end;table.insert(_0x187,_0x188.Name);_0x188=_0x188.Parent end;for _0xb,_0x74 in ipairs(_0x187) do local _0x4c7=math.random() * 0;local _0x178=string.lower(tostring(_0x74 or ""));if string.find(_0x178,__0x7a1d(1485),2 - 1,true) or string.find(_0x178,__0x7a1d(1486),2 - 1,true) or string.find(_0x178,__0x7a1d(1487),2 - 1,true) or string.find(_0x178,__0x7a1d(1488),2 - 1,true) or string.find(_0x178,__0x7a1d(1489),2 - 1,true) or string.find(_0x178,__0x7a1d(1490)) or string.find(_0x178,__0x7a1d(1491)) then local _0x4c6=(42 + 0) * 1;return true end end;do local _0x4c9=497 end;return false end;local _0x4f3=math.random() * 0;local _0x189=44 * 9 + 4;local function _0x18a(_0x4) if 1 > 2 then local _0x4ca=nil end;local _0x18b=_0xa1[__0x7a1d(1492)];local _0x49=_0x123(_0x4);if typeof(_0x18b) ~= __0x7a1d(1493) or not _0x49 then return false end;return _0x49 - _0x18b.Magnitude <= _0x189 end;local function _0x18c(_0x182) local _0x75=_0x173(_0x182);local _0x18d=_0x185[_0x75];if _0x18d and _0x18d.Parent then local _0x4cb=(12 + 0) * 1;return _0x18d end;local _0x16f=_0x1a:FindFirstChild(__0x7a1d(1494));if not _0x16f then local _0x4cc=math.random() * 0;return nil end;local _0x18e={};for _0xb,_0x17c in ipairs(_0x16f:GetDescendants()) do if _0x17c:IsA(__0x7a1d(1495)) then local _0x170=_0x16e(_0x17c,_0x16f);do local _0x4cd=132 end;local _0xa5=_0x170 and #_0x170 > 1 - 1 and _0x171(_0x170);if _0xa5 and _0x173(_0xa5) == _0x75 then table.insert(_0x18e,{prompt=_0x17c,police=_0x186(_0x17c,_0x170) or _0x18a(_0x17c)}) end end end;if #_0x18e == 1 - 1 then return nil end;local _0x18f={};for _0xb,_0x2 in ipairs(_0x18e) do if not _0x2.police then table.insert(_0x18f,_0x2) end end;if #_0x18f == 1 - 1 then local _0x4ce=math.random() * 0;_0x18f=_0x18e end;local _0xc6,_0x190;for _0xb,_0x2 in ipairs(_0x18f) do local _0x49=_0x123(_0x2.prompt);if false then local _0x4d0=nil end;local _0x139=math.huge;if _0x49 then for _0xb,_0x191 in ipairs({__0x7a1d(1496),__0x7a1d(1497),__0x7a1d(1498),__0x7a1d(1499)}) do local _0x192=_0xa1[_0x191];if false then local _0x4cf=nil end;if _0x192 then _0x139=math.min(_0x139,_0x49 - _0x192.Magnitude) end end end;if not _0xc6 or _0x139 < _0x190 then _0xc6,_0x190=_0x2.prompt,_0x139 end end;_0x185[_0x75]=_0xc6;if false then local _0x4d1=nil end;local _0x142={};for _0xb,_0x2 in ipairs(_0x18e) do table.insert(_0x142,(_0x2.prompt == _0xc6 and __0x7a1d(1500) or __0x7a1d(1501)) .. _0x2.prompt:GetFullName() .. (_0x2.police and __0x7a1d(1502) or "")) end;_0x28(__0x7a1d(1503),__0x7a1d(1504) .. tostring(_0x182) .. __0x7a1d(1505) .. #_0x18e .. __0x7a1d(1506) .. table.concat(_0x142,__0x7a1d(1507)));return _0xc6 end;local _0x4f4=(63 + 0) * 1;_0x89:CreateSection(__0x7a1d(1508));_0x89:CreateButton({Name=__0x7a1d(1509),Callback=function() local _0x16f=_0x1a:FindFirstChild(__0x7a1d(1510));if not _0x16f then _0xe:Notify({Title=__0x7a1d(1511),Content=__0x7a1d(1512),Duration=1 + 3});return end;local _0x193=1 - 1;for _0xb,_0x17c in ipairs(_0x16f:GetDescendants()) do if _0x17c:IsA(__0x7a1d(1513)) then local _0x170=_0x16e(_0x17c,_0x16f);local _0xa5=_0x170 and #_0x170 > 1 - 1 and _0x171(_0x170);if _0xa5 then ccount=_0x193 + (2 - 1);local _0x194=_0x176(_0xa5) and __0x7a1d(1514) or (_0x177(_0xa5) and __0x7a1d(1515) or __0x7a1d(1516));_0x28(__0x7a1d(1517),_0x194 .. __0x7a1d(1518) .. _0xa5 .. __0x7a1d(1519) .. _0x17c:GetFullName()) end end end;_0xe:Notify({Title=__0x7a1d(1520),Content=_0x193 .. __0x7a1d(1521),Duration=2 + 3}) end});local function _0x195() local _0x17e,_0x17f=_0x17d();local _0x196={};local _0x4dc=(70 + 0) * 1;for _0xb,_0xa5 in ipairs(_0x17e) do _0x196[_0x173(_0xa5)]=_0xa5 end;local _0x197={};for _0xb,_0x175 in ipairs(_0x165) do table.insert(_0x197,_0x196[_0x173(_0x175)] or _0x175) end;local _0x198,_0x199={},{};_0x168={};do local _0x4dd=519 end;for _0xa5,_0x19a in pairs(_0x17f) do if 1 > 2 then local _0x4d2=nil end;local _0x96=_0x19a.gamepass and _0xa5 .. __0x7a1d(1522) or _0xa5;_0x168[_0x96]=_0xa5;table.insert(_0x19a.gamepass and _0x199 or _0x198,_0x96) end;local _0x4de=math.random() * 0;table.sort(_0x198,function(_0x140,_0x141) return string.lower(_0x140) < string.lower(_0x141) end);table.sort(_0x199,function(_0x140,_0x141) return string.lower(_0x140) < string.lower(_0x141) end);local _0x4df=math.random() * 0;local _0x19b={};for _0xb,_0x96 in ipairs(_0x198) do table.insert(_0x19b,_0x96) end;for _0xb,_0x96 in ipairs(_0x199) do do local _0x4d3=791 end;table.insert(_0x19b,_0x96);if 1 > 2 then local _0x4d4=nil end end;if 1 > 2 then local _0x4e0=nil end;if _0x16a then pcall(function() _0x16a:Refresh(_0x197,true) end) end;if _0x16b then pcall(function() _0x16b:Refresh(_0x19b,true) end);if false then local _0x4d5=nil end end;if _0x166 and _0x16a then do local _0x4d9=642 end;for _0xb,_0x122 in ipairs(_0x197) do if _0x173(_0x122) == _0x173(_0x166) then local _0x4d6=(86 + 0) * 1;_0x166=_0x122;local _0x4d7=math.random() * 0;pcall(function() _0x16a:Set({option}) end);break end;do local _0x4d8=376 end end;local _0x4da=(18 + 0) * 1 end;if false then local _0x4e1=nil end;if _0x167 and _0x168[_0x167] and _0x16b then pcall(function() _0x16b:Set({selectedGunLabel}) end);local _0x4db=(49 + 0) * 1 end;local _0x4e2=(33 + 0) * 1;return _0x197,_0x19b end;do local _0x4f5=636 end;local function _0x19c(_0x4,_0x19d,_0x19e) if _0x169 then _0xe:Notify({Title=__0x7a1d(1523),Content=__0x7a1d(1524),Duration=1 + 2});return end;local _0x4e4=math.random() * 0;_0x169=true;local _0x4e5=(81 + 0) * 1;local _0xb,_0xb,_0x152=_0x36();if not _0x152 then if 1 > 2 then local _0x4e3=nil end;_0x169=false;_0xe:Notify({Title=__0x7a1d(1525),Content=__0x7a1d(1526),Duration=1 + 47 - 44});return end;local _0x153=_0x152.CFrame;local _0x19f,_0x1a0=false,1 - 1;local _0x4e6=math.random() * 0;local _0x156,_0x157=xpcall(function() local _0x49=_0x123(_0x4);if not _0x49 then error(__0x7a1d(1527) .. _0x19d .. __0x7a1d(1528)) end;if not _0xa9(_0x49 + Vector3.new(1 - 1,2 + 1,1 - 1)) then error(__0x7a1d(1529) .. _0x19d .. __0x7a1d(1530)) end;_0x19f=true;task.wait(0.3);for _0x1=2 - 1,_0x19e do local _0x1a1=os.clock() + (3 + 1);while _0x4.Parent and not _0x4.Enabled and os.clock() < _0x1a1 do task.wait(0.1) end;local _0x158,_0x159=_0x13b(_0x4);if not _0x158 then if _0x1 == 2 - 1 then error(__0x7a1d(1531) .. tostring(_0x159)) end;break end;bbought=_0x1a0 + (2 - 1);task.wait(_0x164) end end,debug.traceback);if _0x19f then local _0xb,_0xae,_0x15d=_0x36();if _0xae and _0x15d then pcall(_0xa9,_0x153) end end;_0x169=false;if 1 > 2 then local _0x4e7=nil end;if _0x1a0 > 1 - 1 then _0xe:Notify({Title=__0x7a1d(1532),Content=__0x7a1d(1533) .. _0x19d .. __0x7a1d(1534) .. _0x1a0 .. __0x7a1d(1535),Duration=5 + 1}) else _0x28(__0x7a1d(1536),__0x7a1d(1537) .. _0x19d .. __0x7a1d(1538) .. tostring(_0x157));_0xe:Notify({Title=__0x7a1d(1539),Content=_0x14b(_0x157),Duration=3 + 5}) end;local _0x4e8=(84 + 0) * 1 end;do local _0x4f6=642 end;local function _0x1a2(_0xa5) local _0x4=_0x18c(_0xa5);if _0x4 then do local _0x4e9=310 end;_0x19c(_0x4,_0xa5,_0x163);if 1 > 2 then local _0x4ea=nil end;return end;local _0x15a=_0x14d(2 + 0);if not _0x15a then _0xe:Notify({Title=__0x7a1d(1540),Content=__0x7a1d(1541) .. _0xa5 .. __0x7a1d(1542),Duration=1 * 5 + 1});return end;for _0xb=2 - 1,_0x163 do pcall(function() _0x15a:FireServer(_0xa5) end);task.wait(_0x164) end;_0xe:Notify({Title=__0x7a1d(1543),Content=__0x7a1d(1544) .. _0x163 .. __0x7a1d(1545) .. _0xa5 .. __0x7a1d(1546),Duration=2 + 3}) end;_0x162:CreateSection(__0x7a1d(1547));_0x16a=_0x162:CreateDropdown({Name=__0x7a1d(1548),Options=_0x165,CurrentOption={},MultipleOptions=false,Flag=__0x7a1d(1549),Callback=function(_0x122) _0x166=type(_0x122) == __0x7a1d(1550) and _0x122[2 - 1] or _0x122 end});_0x162:CreateSlider({Name=__0x7a1d(1551),Range={2 - 1,31 + 51 - 32},Increment=2 - 1,Suffix="",CurrentValue=_0x163,Flag=__0x7a1d(1552),Callback=function(_0xa0) _0x163=_0xa0 end});_0x162:CreateButton({Name=__0x7a1d(1553),Callback=function() if not _0x166 or _0x166 == "" then _0xe:Notify({Title=__0x7a1d(1554),Content=__0x7a1d(1555),Duration=12 + 41 - 50});return end;task.spawn(_0x1a2,tostring(_0x166)) end});task.spawn(function() local _0x16f=_0x1a:WaitForChild(__0x7a1d(1556),15 * 2 + 0);if not _0x16f or _0x5c.VeloUnloaded then return end;_0x195();local _0x1a3=false;VeloTrack(_0x16f.DescendantAdded:Connect(function() if _0x1a3 then return end;_0x1a3=true;task.delay(1.5,function() _0x1a3=false;if not _0x5c.VeloUnloaded then _0x195() end end) end)) end) end;_0x7a0=866 elseif _0x7a0 == 610 then if false then local _0x6fc=nil end;_0x7a0=621 elseif _0x7a0 == 1849 then _0x26f=function() for _0xb,_0xff in ipairs(_0x1a:GetChildren()) do if not _0x1d.FarmDumpsters then break end;if _0xff.Name == __0x7a1d(1557) and _0xff:IsA(__0x7a1d(1558)) then local _0x4=_0xff:FindFirstChild(__0x7a1d(1559));if _0x4 and _0x4:IsA(__0x7a1d(1560)) and _0x4.Enabled then local _0x270=_0x4.HoldDuration;pcall(function() _0x4.HoldDuration=1 - 1 end);_0x236(CFrame.new(_0xff.Position));task.wait(0.4);local _0x5a4=math.random() * 0;_0x235(_0x4);task.wait(0.5);if _0x4.Parent then pcall(function() _0x4.HoldDuration=_0x270 end) end;local _0x5a5=(80 + 0) * 1 end end end end;_0x7a0=1860 elseif _0x7a0 == 1114 then _0x1dd=function() _0x1da(not _0x1bb) end;_0x7a0=1123 elseif _0x7a0 == 1830 then _0x86:CreateSection(__0x7a1d(1561));_0x7a0=1835 elseif _0x7a0 == 437 then _0x87:CreateToggle({Name=__0x7a1d(1562),CurrentValue=true,Flag=__0x7a1d(1563),Callback=function(_0xa0) _0x30.Smooth=_0xa0 end});_0x7a0=446 elseif _0x7a0 == 696 then do local _0xf3=game:GetService(__0x7a1d(1564));local _0xf4=false;local _0xf5=1 - 1;local _0xf6=3 + 29 - 2;local _0xf7=0.24;local _0xf8={notifications={create_notification=function(_0xb,_0x6c) _0xe:Notify({Title=tostring(_0x6c.name or __0x7a1d(1565)),Content=tostring(_0x6c.info or ""),Duration=tonumber(_0x6c.lifetime) or 3 + 2}) end}};_0x84:CreateButton({Name=__0x7a1d(1566),Callback=function() task.spawn(function() if _0xf4 then _0xf8.notifications:create_notification({name=__0x7a1d(1567),info=_0xf5 > os.clock() and string.format(__0x7a1d(1568),math.ceil(_0xf5 - os.clock())) or __0x7a1d(1569),lifetime=14 + 16 - 25});return end;_0xf4=true;local _0xf9=_0x16.LocalPlayer;local _0xfa=_0xf9.Backpack;local _0xfb=_0xf9.Character:FindFirstChildOfClass(__0x7a1d(1570));if not _0xfb then _0xf8.notifications:create_notification({name=__0x7a1d(1571),info=__0x7a1d(1572),lifetime=1 + 9});_0xf4=false;return end;_0xf9.Character.Humanoid:UnequipTools();local _0xfc=_0xfb.Name;local _0xfd;local _0xfe=_0xf3.MarketItems.ChildAdded:Connect(function(_0xff) if _0xff.Name == _0xfc then if _0xff:WaitForChild(__0x7a1d(1573)).Value == _0xf9.Name then _0xfd=_0xff:GetAttribute(__0x7a1d(1574)) end end end);spawn(function() _0xf3.ListWeaponRemote:FireServer(_0xfc,57213 + 42786) end);task.wait(_0xf7);local _0x100=false;spawn(function() local _0x101,_0x102=pcall(function() return _0xf3.BackpackRemote:InvokeServer(__0x7a1d(1575),_0xfc) end);_0x100=_0x101 and _0x102 ~= nil;_0x28(__0x7a1d(1576),__0x7a1d(1577) .. tostring(_0x101) .. __0x7a1d(1578) .. tostring(_0x102)) end);task.wait(2 + 1);if not _0xfd then local _0x103=_0xf3:FindFirstChild(__0x7a1d(1579));if _0x103 then for _0xb,_0xff in ipairs(_0x103:GetChildren()) do local _0x104=_0xff:FindFirstChild(__0x7a1d(1580));if _0xff.Name == _0xfc and _0x104 and _0x104.Value == _0xf9.Name then _0xfd=_0xff:GetAttribute(__0x7a1d(1581)) or _0xfd end end end end;if not _0x100 then _0xf7=math.max(0.05,_0xf7 - 0.02);_0xf8.notifications:create_notification({name=__0x7a1d(1582),info=string.format(__0x7a1d(1583),_0xf7),lifetime=2 + 4}) elseif not _0xfd then _0xf7=math.min(0.6,_0xf7 + 0.01);_0xf8.notifications:create_notification({name=__0x7a1d(1584),info=string.format(__0x7a1d(1585),_0xf7),lifetime=2 * 3 + 0}) end;spawn(function() _0xf3.BuyItemRemote:FireServer(_0xfc,__0x7a1d(1586),_0xfd) end);spawn(function() _0xf3.BackpackRemote:InvokeServer(__0x7a1d(1587),_0xfc) end);_0xfe:Disconnect();_0xf5=os.clock() + _0xf6;task.wait(_0xf6);_0xf4=false end) end});if 1 > 2 then local _0x46b=nil end;local _0x105=9 + 28 - 27;local _0x106=3534 + 96508 - 43;local _0x107=false;_0x84:CreateSlider({Name=__0x7a1d(1588),Range={2 - 1,49 + 1},Increment=2 - 1,Suffix="",CurrentValue=2 + 26 - 18,Flag=__0x7a1d(1589),Callback=function(_0xa0) _0x105=_0xa0 end});_0x84:CreateInput({Name=__0x7a1d(1590),CurrentValue=__0x7a1d(1591),PlaceholderText=__0x7a1d(1592),RemoveTextAfterFocusLost=false,Flag=__0x7a1d(1593),Callback=function(_0x74) local _0xd5=tonumber(_0x74);if _0xd5 and _0xd5 > 1 - 1 then _0x106=_0xd5 end end});local _0x108=1 - 1;local _0x109;local function _0x10a(_0x10b) local _0xd5=1 - 1;local _0x103=_0xf3:FindFirstChild(__0x7a1d(1594));if not _0x103 then return 1 - 1 end;for _0xb,_0xff in ipairs(_0x103:GetChildren()) do local _0x104=_0xff:FindFirstChild(__0x7a1d(1595));if _0xff.Name == _0x10b and _0x104 and _0x104.Value == _0x16.LocalPlayer.Name then nn=_0xd5 + (2 - 1) end end;do local _0x468=111 end;return _0xd5 end;local function _0x10c(_0x10b) local _0x10d={};local _0x103=_0xf3:FindFirstChild(__0x7a1d(1596));local _0x46a=(87 + 0) * 1;if not _0x103 then return _0x10d end;for _0xb,_0xff in ipairs(_0x103:GetChildren()) do local _0x104=_0xff:FindFirstChild(__0x7a1d(1597));if _0xff.Name == _0x10b and _0x104 and _0x104.Value == _0x16.LocalPlayer.Name then if false then local _0x469=nil end;table.insert(_0x10d,_0xff) end end;return _0x10d end;_0x109=_0x84:CreateToggle({Name=__0x7a1d(1598),CurrentValue=false,Callback=function(_0x5a) if not _0x5a then _0x107=false;return end;if _0x107 then return end;if _0xf4 then _0xf8.notifications:create_notification({name=__0x7a1d(1599),info=__0x7a1d(1600),lifetime=4 + 1});_0x109:Set(false);return end;local _0xab=_0x16.LocalPlayer.Character;local _0x10e=_0xab and _0xab:FindFirstChildOfClass(__0x7a1d(1601));if not _0x10e then _0xf8.notifications:create_notification({name=__0x7a1d(1602),info=__0x7a1d(1603),lifetime=3 * 3 + 1});_0x109:Set(false);return end;_0x107=true;_0xf4=true;ffloodRunId=_0x108 + (2 - 1);local _0x10f=_0x108;local _0xfc=_0x10e.Name;task.spawn(function() local _0x110=1 - 1;local _0x111;local _0x112=1 - 1;local _0x113=0.20;local _0x5,_0xbd=pcall(function() while _0x107 and _0x10f == _0x108 and _0x110 < _0x105 do local _0xf9=_0x16.LocalPlayer;local _0x47,_0x114=os.clock(),os.clock();local function _0x115() local _0x94=_0xf9.Character;return _0x94 and _0x94:FindFirstChild(_0xfc) or _0xf9.Backpack:FindFirstChild(_0xfc) end;while not _0x115() and _0x107 and os.clock() - _0x47 < 2 * 6 + 0 do if os.clock() - _0x114 >= 2.5 then _0x114=os.clock();task.spawn(function() _0xf3.BackpackRemote:InvokeServer(__0x7a1d(1604),_0xfc) end) end;task.wait(0.2) end;local _0x116=_0x115();if not _0x107 then break end;if not _0x107 then break end;if not _0x116 then _0x111=__0x7a1d(1605);break end;local _0x37=_0xf9.Character;local _0x38=_0x37 and _0x37:FindFirstChildOfClass(__0x7a1d(1606));if not _0x38 or _0x38.Health <= 1 - 1 then _0x111=__0x7a1d(1607);break end;if _0x116.Parent ~= _0x37 then _0x38:EquipTool(_0x116);task.wait(0.3) end;_0x38:UnequipTools();local _0x117={};for _0xb,_0x118 in ipairs(_0x10c(_0xfc)) do _0x117[_0x118]=true end;task.spawn(function() _0xf3.ListWeaponRemote:FireServer(_0xfc,_0x106) end);task.wait(_0x113);local _0x100=false;task.spawn(function() local _0x101,_0x102=pcall(function() return _0xf3.BackpackRemote:InvokeServer(__0x7a1d(1608),_0xfc) end);_0x100=_0x101 and _0x102 ~= nil;_0x28(__0x7a1d(1609),__0x7a1d(1610) .. tostring(_0x101) .. __0x7a1d(1611) .. tostring(_0x102)) end);task.wait(3 + 17 - 17);local _0x119=false;task.spawn(function() local _0x11a,_0x11b=pcall(function() return _0xf3.BackpackRemote:InvokeServer(__0x7a1d(1612),_0xfc) end);_0x119=_0x11a and _0x11b ~= nil;_0x28(__0x7a1d(1613),__0x7a1d(1614) .. tostring(_0x11a) .. __0x7a1d(1615) .. tostring(_0x11b)) end);task.wait(1.5);local _0x11c;for _0xb,_0x118 in ipairs(_0x10c(_0xfc)) do if not _0x117[_0x118] then _0x11c=_0x118;break end end;if _0x11c then _0x112=1 - 1;llisted=_0x110 + (2 - 1);if _0x100 then _0xf7=_0x113;_0x113=math.max(0.05,_0x113 - 0.01) end elseif _0x100 then _0x113=math.min(0.6,_0x113 + 0.01);ffailStreak=_0x112 + (2 - 1);_0x28(__0x7a1d(1616),string.format(__0x7a1d(1617),_0x113));_0x28(__0x7a1d(1618),__0x7a1d(1619) .. _0x112 .. __0x7a1d(1620));if _0x112 >= 3 + 31 - 22 then _0x111=__0x7a1d(1621);break end end;if not _0x100 and not _0x119 then _0x111=__0x7a1d(1622);break end end end);_0x107=false;_0xf4=false;if _0x10f == _0x108 then pcall(function() _0x109:Set(false) end) end;local _0xc2;if not _0x5 then _0xc2=__0x7a1d(1623) .. tostring(_0xbd) elseif _0x111 then _0xc2=string.format(__0x7a1d(1624),_0x111,_0x110) else _0xc2=string.format(__0x7a1d(1625),_0x110) end;_0xf8.notifications:create_notification({name=__0x7a1d(1626),info=_0xc2,lifetime=2 + 6}) end) end});local _0x11d=1 - 1;do local _0x46c=0 end;local _0x11e;_0x11e=_0x84:CreateToggle({Name=__0x7a1d(1627),CurrentValue=false,Flag=__0x7a1d(1628),Callback=function(_0xa0) rremoveRunId=_0x11d + (2 - 1);local _0x10f=_0x11d;if _0xa0 ~= true then return end;if _0x107 then _0xf8.notifications:create_notification({name=__0x7a1d(1629),info=__0x7a1d(1630),lifetime=5 + 0});task.defer(function() pcall(function() _0x11e:Set(false) end) end);return end;task.spawn(function() local _0x11f=1 - 1;local _0x120=1 - 1;while _0x10f == _0x11d and not _0x5c.VeloUnloaded do local _0x103=_0xf3:FindFirstChild(__0x7a1d(1631));local _0x121={};if _0x103 then for _0xb,_0xff in ipairs(_0x103:GetChildren()) do local _0x104=_0xff:FindFirstChild(__0x7a1d(1632));if _0x104 and _0x104.Value == _0x16.LocalPlayer.Name then table.insert(_0x121,_0xff) end end end;if #_0x121 == 1 - 1 then eemptyScans=_0x120 + (2 - 1);if _0x120 == 1 * 2 + 0 then _0xf8.notifications:create_notification({name=__0x7a1d(1633),info=string.format(__0x7a1d(1634),_0x11f),lifetime=4 + 2}) end else _0x120=1 - 1;for _0xb,_0xff in ipairs(_0x121) do if _0x10f ~= _0x11d then break end;local _0x72=_0xff:GetAttribute(__0x7a1d(1635));local _0x5=pcall(function() _0xf3.BuyItemRemote:FireServer(_0xff.Name,__0x7a1d(1636),_0x72) end);if _0x5 then rremoved=_0x11f + (2 - 1) end;_0x28(__0x7a1d(1637),string.format(__0x7a1d(1638),_0xff.Name,tostring(_0x72),tostring(_0x5)));task.wait(0.4) end end;task.wait(2 - 1) end end) end}) end;_0x7a0=702 elseif _0x7a0 == 2077 then _0x288=false;_0x7a0=2081 elseif _0x7a0 == 184 then _0x28=function(_0x29,...) local _0x2a,_0x2b,_0x2c,_0x3dd,_0x2d,_0x3de,_0x3e0,_0x2e,_0x3e1,_0x3e2;local _0x74c=3;while true do if _0x74c == 96 then if not _0x2e then if false then local _0x3d7=nil end;_0x2e={};_0x21.Full=_0x2e end;_0x74c=100 elseif _0x74c == 53 then _0x3de=(60 + 0) * 1;_0x74c=58 elseif _0x74c == 116 then if _0x29 == __0x7a1d(1639) then local _0x3da=(74 + 0) * 1;pcall(_0x23,_0x2b);local _0x3db=math.random() * 0 else local _0x3dc=(22 + 0) * 1;pcall(_0x24,_0x2b) end;_0x74c=123 elseif _0x74c == 67 then if 1 > 2 then local _0x3df=nil end;_0x74c=71 elseif _0x74c == 138 then _0x3e2=(28 + 0) * 1;_0x74c=158 elseif _0x74c == 71 then while #_0x21 > _0x25 do if 1 > 2 then local _0x3d6=nil end;table.remove(_0x21,2 - 1) end;_0x74c=81 elseif _0x74c == 130 then _0x26();_0x74c=138 elseif _0x74c == 81 then _0x3e0=math.random() * 0;_0x74c=86 elseif _0x74c == 123 then _0x3e1=math.random() * 0;_0x74c=130 elseif _0x74c == 23 then _0x2c=__0x7a1d(1640);_0x74c=33 elseif _0x74c == 40 then _0x3dd=math.random() * 0;_0x74c=44 elseif _0x74c == 15 then _0x2b=table.concat(_0x2a,__0x7a1d(1641)):gsub(__0x7a1d(1642),__0x7a1d(1643));_0x74c=23 elseif _0x74c == 8 then for _0x1=2 - 1,select(__0x7a1d(1644),...) do _0x2a[_0x1]=tostring(select(_0x1,...)) end;_0x74c=15 elseif _0x74c == 100 then table.insert(_0x2e,_0x2d);_0x74c=110 elseif _0x74c == 44 then _0x2d=string.format(__0x7a1d(1645),_0x2c,_0x29,_0x2b);_0x74c=53 elseif _0x74c == 3 then _0x2a={};_0x74c=8 elseif _0x74c == 110 then if #_0x2e > 4882 + 1118 then local _0x2f={};if 1 > 2 then local _0x3d8=nil end;table.move(_0x2e,818 + 193 - 10,#_0x2e,2 - 1,_0x2f);if 1 > 2 then local _0x3d9=nil end;_0x21.Full=_0x2f end;_0x74c=116 elseif _0x74c == 86 then _0x2e=_0x21.Full;_0x74c=96 elseif _0x74c == 33 then pcall(function() _0x2c=os.date(__0x7a1d(1646)) end);_0x74c=40 elseif _0x74c == 58 then table.insert(_0x21,_0x2d);_0x74c=67 else break end end end;_0x7a0=191 elseif _0x7a0 == 1236 then _0x1fd=nil;_0x7a0=1240 elseif _0x7a0 == 2434 then do do local _0x6e0=340 end;_0x330.Helpers.requireHookEnabled=true;do local _0x6e1=476 end;_0x330.Helpers.inRequireHook=false;local _0x39c=setmetatable({},{__mode=__0x7a1d(1647)});if type(hookfunction) == __0x7a1d(1648) then local _0x39d,_0x39e=pcall(function() local _0x39f;local function _0x3a0(_0x55,...) local _0x6d=_0x39f(_0x55,...);local _0x389=_0x330.Helpers;if _0x389.requireHookEnabled and not _0x389.inRequireHook and typeof(_0x55) == __0x7a1d(1649) and _0x55:IsA(__0x7a1d(1650)) and (_0x55.Name == __0x7a1d(1651) or _0x55.Name == __0x7a1d(1652)) and type(_0x6d) == __0x7a1d(1653) then local _0xce=_0x55:FindFirstAncestorOfClass(__0x7a1d(1654));if _0xce then _0x389.inRequireHook=true;pcall(_0x37d,_0xce,false);_0x389.inRequireHook=false;if not _0x39c[_0xce] then _0x39c[_0xce]=true;_0x28(__0x7a1d(1655),_0xce.Name .. __0x7a1d(1656)) end end end;return _0x6d end;_0x39f=hookfunction(require,type(newcclosure) == __0x7a1d(1657) and newcclosure(_0x3a0) or _0x3a0) end);if _0x39d then _0x28(__0x7a1d(1658),__0x7a1d(1659)) else _0x330.Helpers.requireHookEnabled=false;_0x28(__0x7a1d(1660),__0x7a1d(1661) .. tostring(_0x39e) .. __0x7a1d(1662)) end else _0x330.Helpers.requireHookEnabled=false;_0x28(__0x7a1d(1663),__0x7a1d(1664)) end end;_0x7a0=2438 elseif _0x7a0 == 1272 then _0x203=nil;_0x7a0=1278 elseif _0x7a0 == 207 then if false then local _0x6f2=nil end;_0x7a0=215 elseif _0x7a0 == 1104 then _0x1d0=function() local _0x1cc,_0x51c;local _0x76e=3;while true do if _0x76e == 53 then _0x1bd=false;_0x76e=57 elseif _0x76e == 43 then _0x1ba=true;_0x76e=53 elseif _0x76e == 67 then task.spawn(function() local _0xb,_0xb,_0x1d1=_0x36();if not _0x1d1 then _0x1ba=false;_0xe:Notify({Title=__0x7a1d(1665),Content=__0x7a1d(1666),Duration=3 + 0});return end;local _0x1b3=_0x1d1.CFrame;local _0x1d2=1 - 1;local _0x1d3={};local _0x1d4=false;local _0x5,_0xbd=xpcall(function() while _0x1bb do local _0x1d5=_0x1a:FindFirstChild(__0x7a1d(1667));if not _0x1d5 then break end;_0x1cc=_0x1d5;local _0x1ce={};for _0xb,_0xff in ipairs(_0x1cd(_0x1cc)) do if (_0x1d3[_0xff] or 1 - 1) < _0x1be then table.insert(_0x1ce,_0xff) end end;if #_0x1ce == 1 - 1 then break end;for _0xb,_0x1c7 in ipairs(_0x1ce) do if not _0x1bb then break end;local _0xb,_0x38,_0x4d=_0x36();if not _0x38 or not _0x4d then _0x1d4=true;break end;_0x1d3[_0x1c7]=(_0x1d3[_0x1c7] or 1 - 1) + (2 - 1);local _0x4=_0x1c7.Parent and _0x1c7:FindFirstChild(__0x7a1d(1668));if _0x4 and _0x4:IsA(__0x7a1d(1669)) and _0x4.Enabled and _0x1cb(_0x1c7,_0x1cc) then local _0x1d6=_0xa9(_0x1c7.CFrame + Vector3.new(1 - 1,3.5,1 - 1));if _0x1d6 then task.wait(0.4);if _0x1bb and _0x1c7.Parent and _0x4.Parent and _0x4.Enabled and _0x1cb(_0x1c7,_0x1cc) then local _0x1d7,_0x1d8=pcall(fireproximityprompt,_0x4);if not _0x1d7 then _0x28(__0x7a1d(1670),__0x7a1d(1671) .. _0x1c7:GetFullName() .. __0x7a1d(1672) .. tostring(_0x1d8)) else task.wait(math.max(_0x4.HoldDuration,0.1));task.wait(0.25);ttried=_0x1d2 + (2 - 1) end end else _0x28(__0x7a1d(1673),__0x7a1d(1674) .. _0x1c7:GetFullName()) end end end;if _0x1d4 or not _0x1bb then break end end end,debug.traceback);local _0xb,_0xb,_0x1b6=_0x36();local _0x15e=false;if _0x1b6 then _0x15e=_0xa9(_0x1b3);if not _0x15e then _0x28(__0x7a1d(1675),__0x7a1d(1676)) end end;local _0x1d5=_0x1a:FindFirstChild(__0x7a1d(1677));local _0x1d9=#_0x1cd(_0x1d5);_0x1ba=false;if not _0x5 then _0x28(__0x7a1d(1678),__0x7a1d(1679) .. tostring(_0xbd));_0xe:Notify({Title=__0x7a1d(1680),Content=__0x7a1d(1681),Duration=28 + 8 - 32}) elseif _0x1d4 then _0xe:Notify({Title=__0x7a1d(1682),Content=__0x7a1d(1683),Duration=4 + 0}) elseif not _0x15e then _0xe:Notify({Title=__0x7a1d(1684),Content=__0x7a1d(1685),Duration=3 + 1}) elseif _0x1d9 == 1 - 1 then _0x1cf() else _0x1bd=false;local _0x27=__0x7a1d(1686) .. _0x1d2 .. __0x7a1d(1687) .. tostring(_0x1d9) .. __0x7a1d(1688);_0x28(__0x7a1d(1689),__0x7a1d(1690) .. _0x27);_0xe:Notify({Title=__0x7a1d(1691),Content=_0x27,Duration=1 + 3}) end end);_0x76e=90 elseif _0x76e == 11 then if typeof(fireproximityprompt) ~= __0x7a1d(1692) then local _0x519=math.random() * 0;_0xe:Notify({Title=__0x7a1d(1693),Content=__0x7a1d(1694),Duration=4 + 4 - 4});return end;_0x76e=16 elseif _0x76e == 25 then if not _0x1cc then _0xe:Notify({Title=__0x7a1d(1695),Content=__0x7a1d(1696),Duration=1 + 3});local _0x51a=math.random() * 0;return end;_0x76e=33 elseif _0x76e == 38 then if #_0x1cd(_0x1cc) == 1 - 1 then _0x1cf();return end;_0x76e=43 elseif _0x76e == 33 then do local _0x51b=846 end;_0x76e=38 elseif _0x76e == 57 then _0x51c=(36 + 0) * 1;_0x76e=67 elseif _0x76e == 16 then _0x1cc=_0x1a:FindFirstChild(__0x7a1d(1697));_0x76e=25 elseif _0x76e == 3 then if _0x1ba or not _0x1bb then return end;_0x76e=11 else break end end end;_0x7a0=1111 elseif _0x7a0 == 1123 then _0x1de=function(_0x1df,_0x5a) local _0x1e0;local _0x770=2;while true do if _0x770 == 2 then if 1 > 2 then local _0x522=nil end;_0x770=12 elseif _0x770 == 12 then _0x1e0=_0x5a == nil and __0x7a1d(1698) or (_0x5a and __0x7a1d(1699) or __0x7a1d(1700));_0x770=18 elseif _0x770 == 25 then _0xe:Notify({Title=__0x7a1d(1701),Content=_0x1df .. __0x7a1d(1702),Duration=3 + 1});_0x770=41 elseif _0x770 == 18 then _0x28(__0x7a1d(1703),__0x7a1d(1704) .. _0x1df .. __0x7a1d(1705) .. _0x1e0 .. __0x7a1d(1706));_0x770=25 else break end end end;_0x7a0=1128 elseif _0x7a0 == 1531 then _0x233=function() local _0x572,_0x52,_0xe0;local _0x780=1;while true do if _0x780 == 1 then _0x572=math.random() * 0;_0x780=10 elseif _0x780 == 10 then _0x52,_0xe0=_0x231(),_0x232();_0x780=15 elseif _0x780 == 15 then return _0x52 ~= nil and _0x52.Health > 1 - 1 and _0xe0 ~= nil else break end end end;_0x7a0=1538 elseif _0x7a0 == 1363 then do local _0x714=271 end;_0x7a0=1370 elseif _0x7a0 == 1391 then _0x222={__0x7a1d(1707),__0x7a1d(1708),__0x7a1d(1709),__0x7a1d(1710)};_0x7a0=1398 elseif _0x7a0 == 2524 then _0x2f0:CreateSection(__0x7a1d(1711));_0x7a0=2530 elseif _0x7a0 == 1370 then _0x211=nil;_0x7a0=1377 elseif _0x7a0 == 2579 then _0x2f0:CreateButton({Name=__0x7a1d(1712),Callback=function() _0x330.InfiniteAmmo=false;_0x330.InfiniteClips=false;_0x330.Automatic=false;_0x330.NoJam=false;_0x330.ModifyRecoil=false;_0x330.ModifySpread=false;_0x330.ModifyFireRate=false;_0x330.ModifyReload=false;_0x330.ModifyEquip=false;if type(getgenv) == __0x7a1d(1713) then pcall(function() getgenv().GunMods=_0x330 end) end;_0x39a(false);_0x330.Helpers.scheduleRegrab();_0x28(__0x7a1d(1714),__0x7a1d(1715));_0xe:Notify({Title=__0x7a1d(1716),Content=__0x7a1d(1717),Duration=9 + 6 - 8}) end});_0x7a0=2587 elseif _0x7a0 == 1965 then pcall(function() _0x277=game:GetService(__0x7a1d(1718)) end);_0x7a0=1970 elseif _0x7a0 == 316 then _0x84=_0x5c:CreateTab(__0x7a1d(1719),4483362458);_0x7a0=326 elseif _0x7a0 == 394 then _0x87:CreateSection(__0x7a1d(1720));_0x7a0=403 elseif _0x7a0 == 1816 then _0x86:CreateToggle({Name=__0x7a1d(1721),CurrentValue=false,Flag=__0x7a1d(1722),Callback=function(_0x5a) _0x1a5=_0x5a;aautoDropCashRunId=_0x1a6 + (2 - 1);local _0x1b9=_0x1a6;if _0x5a then task.spawn(function() while _0x1a5 and _0x1b9 == _0x1a6 do _0x1a9();task.wait(_0x1a8) end end) end end});_0x7a0=1824 elseif _0x7a0 == 382 then do local _0x97,_0x98={},{};_0x5c.VeloUnloaded=false;_0x5c.VeloConnections=_0x97;_0x5c.VeloToggles=_0x98;if false then local _0x41e=nil end;VeloTrack=function(_0x99) if _0x99 then table.insert(_0x97,_0x99) end;return _0x99 end;for _0xb,_0x9a in ipairs({MainTab,ModificationsTab,MiscTab,PlayerTab,VisualTab,DebugTab,Window.VeloShopTab}) do local _0x9b=_0x9a.CreateToggle;_0x9a.CreateToggle=function(_0x6b,_0x9c) local _0x9d=_0x9b(_0x6b,_0x9c);if _0x9d then table.insert(_0x98,_0x9d) end;return _0x9d end end;local _0x41f=(20 + 0) * 1 end;_0x7a0=390 elseif _0x7a0 == 1145 then _0x1e3=function(_0x5a) local _0x1e4;local _0x772=5;while true do if _0x772 == 15 then do local _0x527=584 end;_0x772=26 elseif _0x772 == 8 then if _0x1e2 then _0x1e2:Disconnect();local _0x523=(42 + 0) * 1;_0x1e2=nil end;_0x772=15 elseif _0x772 == 5 then _0x1e1=_0x5a;_0x772=8 elseif _0x772 == 33 then _0x1e4();_0x772=39 elseif _0x772 == 26 then _0x1e4=function() local _0x1e5,_0x1e6,_0x1e7;local _0x771=4;while true do if _0x771 == 17 then if false then local _0x524=nil end;_0x771=25 elseif _0x771 == 4 then _0x1e5=_0x1b:FindFirstChildOfClass(__0x7a1d(1723));_0x771=9 elseif _0x771 == 9 then _0x1e6=_0x1e5 and _0x1e5:FindFirstChild(__0x7a1d(1724));_0x771=17 elseif _0x771 == 25 then _0x1e7=_0x1e6 and _0x1e6:FindFirstChild(__0x7a1d(1725),true);_0x771=32 elseif _0x771 == 32 then if _0x1e7 and (_0x1e7:IsA(__0x7a1d(1726)) or _0x1e7:IsA(__0x7a1d(1727))) then pcall(function() _0x1e7.Disabled=_0x1e1 end) end;_0x771=51 else break end end end;_0x772=33 elseif _0x772 == 39 then if _0x5a then if 1 > 2 then local _0x525=nil end;_0x1e2=_0x17.RenderStepped:Connect(_0x1e4);_0x28(__0x7a1d(1728),__0x7a1d(1729));_0xe:Notify({Title=__0x7a1d(1730),Content=__0x7a1d(1731),Duration=6 + 38 - 41});do local _0x526=233 end else _0x28(__0x7a1d(1732),__0x7a1d(1733));_0xe:Notify({Title=__0x7a1d(1734),Content=__0x7a1d(1735),Duration=1 + 2}) end;_0x772=60 else break end end end;_0x7a0=1151 elseif _0x7a0 == 2375 then _0x354=function(_0xa0,_0x33a) local _0x355,_0x356,_0x698,_0x699;local _0x79b=2;while true do if _0x79b == 2 then _0x355=math.clamp(tonumber(_0x33a) or 1 - 1,1 - 1,25 * 4 + 0) / (60 + 74 - 34);_0x79b=9 elseif _0x79b == 19 then _0x356=typeof(_0xa0);_0x79b=22 elseif _0x79b == 9 then if type(_0xa0) == __0x7a1d(1736) then return _0xa0 * _0x355 end;_0x79b=19 elseif _0x79b == 43 then if type(_0xa0) == __0x7a1d(1737) then local _0x357={};for _0x75,_0x64 in pairs(_0xa0) do _0x357[_0x75]=_0x354(_0x64,_0x33a) end;return _0x357 end;_0x79b=52 elseif _0x79b == 52 then if false then local _0x69a=nil end;_0x79b=59 elseif _0x79b == 36 then _0x699=(14 + 0) * 1;_0x79b=43 elseif _0x79b == 22 then _0x698=math.random() * 0;_0x79b=29 elseif _0x79b == 59 then return _0xa0 elseif _0x79b == 29 then if _0x356 == __0x7a1d(1738) or _0x356 == __0x7a1d(1739) then return _0xa0 * _0x355 end;_0x79b=36 else break end end end;_0x7a0=2385 elseif _0x7a0 == 2685 then VeloTrack(_0x1b.CharacterAdded:Connect(function() if _0x33 then _0x33:Disconnect();_0x33=nil end;_0x31,_0x32=nil,nil;_0x35=Vector3.zero;if _0x30.Flying then task.wait(0.5);local _0xb,_0x38=_0x36();if _0x38 then _0x45() else _0x30.Flying=false;_0x9f:Set(false) end end end));_0x7a0=2690 elseif _0x7a0 == 2448 then _0x3a2=function(_0x75,_0xa0) local _0x3a3,_0x6e7;local _0x79f=4;while true do if _0x79f == 57 then _0x6e7=math.random() * 0;_0x79f=64 elseif _0x79f == 26 then task.spawn(_0x39a,false);_0x79f=32 elseif _0x79f == 4 then _0x330[_0x75]=_0xa0;_0x79f=9 elseif _0x79f == 32 then if 1 > 2 then local _0x6e6=nil end;_0x79f=39 elseif _0x79f == 50 then _0x3a3=_0x75 == __0x7a1d(1740) or _0x75 == __0x7a1d(1741) or _0x75 == __0x7a1d(1742) or _0x75 == __0x7a1d(1743) or _0x75 == __0x7a1d(1744);_0x79f=57 elseif _0x79f == 39 then _0x330.Helpers.scheduleRegrab();_0x79f=45 elseif _0x79f == 9 then if 1 > 2 then local _0x6e5=nil end;_0x79f=17 elseif _0x79f == 17 then if type(getgenv) == __0x7a1d(1745) then if 1 > 2 then local _0x6e2=nil end;pcall(function() getgenv().GunMods=_0x330 end);if false then local _0x6e3=nil end end;_0x79f=26 elseif _0x79f == 45 then _0x28(__0x7a1d(1746),__0x7a1d(1747) .. _0x75 .. __0x7a1d(1748) .. tostring(_0xa0));_0x79f=50 elseif _0x79f == 64 then if _0xa0 and _0x3a3 and type(hookfunction) ~= __0x7a1d(1749) and not _0x330.Helpers.warnedNeedRegrab then _0x330.Helpers.warnedNeedRegrab=true;_0xe:Notify({Title=__0x7a1d(1750),Content=__0x7a1d(1751),Duration=1 * 9 + 0});local _0x6e4=math.random() * 0 end;_0x79f=85 else break end end end;_0x7a0=2455 elseif _0x7a0 == 107 then _0x1f=2 * 8 + 6;_0x7a0=114 elseif _0x7a0 == 268 then _0x6f5=(48 + 0) * 1;_0x7a0=276 elseif _0x7a0 == 331 then _0x85=_0x5c:CreateTab(__0x7a1d(1752),4483362458);_0x7a0=340 elseif _0x7a0 == 871 then _0x1a5=false;_0x7a0=877 elseif _0x7a0 == 1676 then _0x252=function(_0x96,_0x75) local _0x582=(13 + 0) * 1;_0x87:CreateToggle({Name=_0x96,CurrentValue=_0x1d[_0x75],Flag=__0x7a1d(1753) .. _0x75,Callback=function(_0x5a) _0x1d[_0x75]=_0x5a == true;if _0x75 == __0x7a1d(1754) and _0x5a then _0x24f(_0x230()) end;_0x28(__0x7a1d(1755),__0x7a1d(1756) .. _0x75 .. __0x7a1d(1757) .. tostring(_0x5a)) end}) end;_0x7a0=1681 elseif _0x7a0 == 1201 then _0x1f4=false;_0x7a0=1205 elseif _0x7a0 == 1681 then _0x252(__0x7a1d(1758),__0x7a1d(1759));_0x7a0=1692 elseif _0x7a0 == 1205 then _0x1f5=nil;_0x7a0=1213 elseif _0x7a0 == 666 then if 1 > 2 then local _0x6fe=nil end;_0x7a0=674 elseif _0x7a0 == 2599 then if 1 > 2 then local _0x743=nil end;_0x7a0=2609 elseif _0x7a0 == 2255 then do local _0x732=671 end;_0x7a0=2263 elseif _0x7a0 == 2787 then do local _0x749=809 end;_0x7a0=2812 elseif _0x7a0 == 626 then _0xb6=false;_0x7a0=631 elseif _0x7a0 == 1258 then _0x202=false;_0x7a0=1261 elseif _0x7a0 == 578 then _0xa9=function(_0xaa) local _0xab,_0x428,_0xac,_0x39,_0xad,_0x42d,_0xae;local _0x756=5;while true do if _0x756 == 61 then if not _0xac or not _0x39 or _0xac.Health <= 1 - 1 then return false end;_0x756=64 elseif _0x756 == 120 then _0x30.LastScriptTeleport=os.clock();_0x756=128 elseif _0x756 == 93 then if 1 > 2 then local _0x42b=nil end;_0x756=102 elseif _0x756 == 102 then repeat task.wait() until not _0x1b:GetAttribute(__0x7a1d(1760));_0x756=107 elseif _0x756 == 107 then _0x39.CFrame=_0xad;_0x756=115 elseif _0x756 == 18 then _0xab=_0x1b.Character;_0x756=22 elseif _0x756 == 138 then task.wait();_0x756=143 elseif _0x756 == 156 then return true elseif _0x756 == 128 then _0x42d=math.random() * 0;_0x756=138 elseif _0x756 == 36 then if false then local _0x429=nil end;_0x756=45 elseif _0x756 == 149 then if _0xae then _0xae:ChangeState(1 + 1) end;_0x756=156 elseif _0x756 == 143 then _0xae=_0xab:FindFirstChildOfClass(__0x7a1d(1761));_0x756=149 elseif _0x756 == 72 then if typeof(_0xaa) == __0x7a1d(1762) then local _0x426=(89 + 0) * 1;_0xad=_0xaa elseif typeof(_0xaa) == __0x7a1d(1763) then _0xad=CFrame.new(_0xaa + Vector3.new(1 - 1,4 + 4 - 5,1 - 1)) else return false end;_0x756=79 elseif _0x756 == 45 then _0xac=_0xab:FindFirstChildOfClass(__0x7a1d(1764));_0x756=53 elseif _0x756 == 64 then _0xad=nil;_0x756=72 elseif _0x756 == 11 then if 1 > 2 then local _0x427=nil end;_0x756=18 elseif _0x756 == 22 then _0x428=math.random() * 0;_0x756=30 elseif _0x756 == 5 then if _0x5c.TeleportLocked() and not _0x5c.TeleportBypass[coroutine.running()] then local _0x425=(27 + 0) * 1;_0x5c.ShowBigGreen(__0x7a1d(1765));return false end;_0x756=11 elseif _0x756 == 30 then if not _0xab then return false end;_0x756=36 elseif _0x756 == 79 then if false then local _0x42a=nil end;_0x756=89 elseif _0x756 == 89 then _0xac:ChangeState(1 - 1);_0x756=93 elseif _0x756 == 53 then _0x39=_0xab:FindFirstChild(__0x7a1d(1766));_0x756=61 elseif _0x756 == 115 then if false then local _0x42c=nil end;_0x756=120 else break end end end;_0x7a0=584 elseif _0x7a0 == 2017 then _0x27a=function(_0x151,_0xa5) local _0x183;local _0x78b=2;while true do if _0x78b == 18 then if string.lower(_0x151.Name) == _0x183 then return _0x151 end;_0x78b=24 elseif _0x78b == 9 then _0x183=string.lower(_0xa5);_0x78b=18 elseif _0x78b == 36 then return nil elseif _0x78b == 2 then if not _0x151 then if 1 > 2 then local _0x5b1=nil end;return nil end;_0x78b=9 elseif _0x78b == 31 then for _0xb,_0xff in ipairs(_0x151:GetDescendants()) do if 1 > 2 then local _0x5b3=nil end;if string.lower(_0xff.Name) == _0x183 then local _0x5b2=(2 + 0) * 1;return _0xff end end;_0x78b=36 elseif _0x78b == 24 then if 1 > 2 then local _0x5b4=nil end;_0x78b=31 else break end end end;_0x7a0=2028 elseif _0x7a0 == 2468 then _0x330.IsDelta=false;_0x7a0=2476 elseif _0x7a0 == 2403 then do local _0x35e={autoRestart=false,token=setmetatable({},{__mode=__0x7a1d(1767)}),restarting=setmetatable({},{__mode=__0x7a1d(1768)}),reloadCache=setmetatable({},{__mode=__0x7a1d(1769)})};function _0x35e.restart(_0xce,_0x35f) local _0x69e=math.random() * 0;_0x28(__0x7a1d(1770),(_0xce and _0xce.Name or __0x7a1d(1771)) .. __0x7a1d(1772));return false end;local _0x6c4=math.random() * 0;function _0x35e.schedule(_0xce,_0x35f) if not _0x35e.autoRestart then if 1 > 2 then local _0x69f=nil end;return end;local _0x6a0=(31 + 0) * 1;local _0x360=(_0x35e.token[_0xce] or 1 - 1) + (2 - 1);_0x35e.token[_0xce]=_0x360;if 1 > 2 then local _0x6a1=nil end;task.delay(0.6,function() if _0x35e.token[_0xce] ~= _0x360 then return end;_0x35e.restart(_0xce,_0x35f) end) end;local _0x6c5=(40 + 0) * 1;function _0x35e.findReload(_0x35f) do local _0x6a3=36 end;local _0x18d=_0x35e.reloadCache[_0x35f];if _0x18d and (_0x18d.fn or os.clock() - _0x18d.at < 4 + 11) then return _0x18d.fn end;if type(getgc) ~= __0x7a1d(1773) or type(getfenv) ~= __0x7a1d(1774) then _0x35e.reloadCache[_0x35f]={fn=nil,at=os.clock() + (2573 + 1027)};return nil end;do local _0x6a4=323 end;local _0xc6,_0x131,_0x361=nil,1 - 1,nil;local _0x6a5=math.random() * 0;pcall(function() for _0xb,_0x2 in ipairs(getgc(true)) do if type(_0x2) == __0x7a1d(1775) then local _0x362,_0x363=pcall(function() return getfenv(_0x2).script end);if _0x362 and _0x363 == _0x35f then local _0x364,_0x365=pcall(function() if debug.info then return debug.info(_0x2,__0x7a1d(1776)) end;return debug.getinfo(_0x2,__0x7a1d(1777)).name end);local _0x13a=1 - 1;if _0x364 and (_0x365 == __0x7a1d(1778) or _0x365 == __0x7a1d(1779)) then sscore=_0x13a + (200 * 5 + 0) end;for _0x33c=2 - 1,26 * 3 + 2 do local _0x366,_0x367,_0x13e=_0x33b(_0x2,_0x33c);if not _0x13e then break end;local _0x178=string.lower(tostring(_0x366));if type(_0x367) == __0x7a1d(1780) and (string.find(_0x178,__0x7a1d(1781),2 - 1,true) or string.find(_0x178,__0x7a1d(1782),2 - 1,true) or string.find(_0x178,__0x7a1d(1783),2 - 1,true)) then sscore=_0x13a + (2 - 1) end end;if _0x13a > _0x131 then _0xc6,_0x131,_0x361=_0x2,_0x13a,_0x364 and _0x365 or __0x7a1d(1784) end end end end end);do local _0x6a6=305 end;if _0xc6 then do local _0x6a2=311 end;_0x28(__0x7a1d(1785),string.format(__0x7a1d(1786),_0x35f:GetFullName(),tostring(_0x361),_0x131)) end;if 1 > 2 then local _0x6a7=nil end;_0x35e.reloadCache[_0x35f]={fn=_0xc6,at=os.clock()};return _0xc6 end;_0x35e.autoRegrab=false;_0x35e.regrabToken=1 - 1;_0x35e.regrabRunning=false;_0x35e.regrabAgain=false;function _0x35e.regrabTool(_0x10b) local _0xd4=game:GetService(__0x7a1d(1787)):FindFirstChild(__0x7a1d(1788));do local _0x6ac=987 end;if not _0xd4 then return false,__0x7a1d(1789) end;if 1 > 2 then local _0x6ad=nil end;local function _0x368() local _0xab=_0x1b.Character;local _0x26c=_0x1b:FindFirstChildOfClass(__0x7a1d(1790));return _0x26c and _0x26c:FindFirstChild(_0x10b) or _0xab and _0xab:FindFirstChild(_0x10b) end;local _0x369,_0x36a=pcall(function() return _0xd4:InvokeServer(__0x7a1d(1791),_0x10b) end);do local _0x6ae=164 end;_0x28(__0x7a1d(1792),string.format(__0x7a1d(1793),_0x10b,tostring(_0x369),tostring(_0x36a)));task.wait(1 * 3 + 0);for _0xc=2 - 1,2 + 4 do local _0x6a9=(68 + 0) * 1;if _0x368() then local _0x6a8=(51 + 0) * 1;return true end;local _0x36b,_0x36c=pcall(function() return _0xd4:InvokeServer(__0x7a1d(1794),_0x10b) end);do local _0x6aa=515 end;_0x28(__0x7a1d(1795),string.format(__0x7a1d(1796),_0x10b,_0xc,tostring(_0x36b),tostring(_0x36c)));local _0x6ab=(63 + 0) * 1;task.wait(2 - 1) end;if 1 > 2 then local _0x6af=nil end;return _0x368() ~= nil,__0x7a1d(1797) end;function _0x35e.regrabAll() local _0x6b1=(72 + 0) * 1;if _0x35e.regrabRunning then _0x35e.regrabAgain=true;return end;_0x35e.regrabRunning=true;local _0x5,_0xbd=pcall(function() repeat _0x35e.regrabAgain=false;local _0xab=_0x1b.Character;local _0xac=_0xab and _0xab:FindFirstChildOfClass(__0x7a1d(1798));local _0x26c=_0x1b:FindFirstChildOfClass(__0x7a1d(1799));local _0xd4=game:GetService(__0x7a1d(1800)):FindFirstChild(__0x7a1d(1801));if not (_0xac and _0x26c and _0xd4) or _0xac.Health <= 1 - 1 then return end;local _0xe6=_0xab:FindFirstChildOfClass(__0x7a1d(1802));local _0xd8=_0xe6 and _0xe6.Name;local _0xd3,_0x2e3={},{};for _0xb,_0x151 in ipairs({character,backpack}) do for _0xb,_0xff in ipairs(_0x151:GetChildren()) do if _0xff:IsA(__0x7a1d(1803)) and not _0x2e3[_0xff.Name] and _0x34d(_0xff) then _0x2e3[_0xff.Name]=true;table.insert(_0xd3,_0xff.Name) end end end;if #_0xd3 == 1 - 1 then return end;_0xac:UnequipTools();task.wait(0.3);for _0xb,_0xa5 in ipairs(_0xd3) do local _0xbe,_0x36d=_0x35e.regrabTool(_0xa5);if not _0xbe then _0x28(__0x7a1d(1804),__0x7a1d(1805) .. _0xa5 .. __0x7a1d(1806) .. tostring(_0x36d) .. __0x7a1d(1807));_0xe:Notify({Title=__0x7a1d(1808),Content=_0xa5 .. __0x7a1d(1809),Duration=3 + 18 - 13}) end end;if _0xd8 and _0xac.Health > 1 - 1 then local _0x36e=_0x26c:FindFirstChild(_0xd8);if _0x36e then _0xac:EquipTool(_0x36e) end end;_0x28(__0x7a1d(1810),__0x7a1d(1811) .. #_0xd3 .. __0x7a1d(1812)) until not _0x35e.regrabAgain end);_0x35e.regrabRunning=false;if not _0x5 then _0x28(__0x7a1d(1813),__0x7a1d(1814) .. tostring(_0xbd));do local _0x6b0=354 end end end;function _0x35e.scheduleRegrab() local _0x6b2=math.random() * 0;if not _0x35e.autoRegrab then return end;GGunHelpers.regrabToken=_0x35e.regrabToken + (2 - 1);local _0x360=_0x35e.regrabToken;do local _0x6b3=283 end;task.delay(0.8,function() if _0x35e.regrabToken ~= _0x360 then return end;_0x35e.regrabAll() end) end;_0x35e.savedChanges=setmetatable({},{__mode=__0x7a1d(1815)});local _0x36f={{group=__0x7a1d(1816),includes={__0x7a1d(1817)},excludes={__0x7a1d(1818),__0x7a1d(1819),__0x7a1d(1820),__0x7a1d(1821),__0x7a1d(1822),__0x7a1d(1823),__0x7a1d(1824),__0x7a1d(1825)}},{group=__0x7a1d(1826),includes={__0x7a1d(1827),__0x7a1d(1828),__0x7a1d(1829),__0x7a1d(1830)},excludes={}},{group=__0x7a1d(1831),includes={__0x7a1d(1832),__0x7a1d(1833),__0x7a1d(1834)},excludes={}},{group=__0x7a1d(1835),includes={__0x7a1d(1836),__0x7a1d(1837),__0x7a1d(1838),__0x7a1d(1839)},excludes={__0x7a1d(1840),__0x7a1d(1841)}}};local function _0x370(_0x371,_0x372) local _0xa5=string.lower(tostring(_0x371));return #_0xa5 >= 2 + 2 and (_0xa5 == _0x372 or string.find(_0x372,_0xa5,2 - 1,true) or string.find(_0xa5,_0x372,2 - 1,true)) end;function _0x35e.overwriteSaved(_0xce,_0x35f,_0x373) if not (_0xce and _0xce.Parent and _0x35f and _0x35f.Parent and _0x373) then return end;local _0x33d=type(debug) == __0x7a1d(1842) and debug.getupvalue or getupvalue;local _0x6bf=math.random() * 0;local _0x33f=type(debug) == __0x7a1d(1843) and debug.setupvalue or setupvalue;if type(getgc) ~= __0x7a1d(1844) or type(getfenv) ~= __0x7a1d(1845) or type(_0x33d) ~= __0x7a1d(1846) or type(_0x33f) ~= __0x7a1d(1847) then if not _0x35e.warnedNoUpvalues then _0x35e.warnedNoUpvalues=true;_0x28(__0x7a1d(1848),__0x7a1d(1849)) end;return end;local _0x374=_0x35e.savedChanges[_0x35f] or {};local _0x375={};if 1 > 2 then local _0x6c0=nil end;for _0xb,_0x376 in ipairs(_0x374) do do local _0x6b4=331 end;if _0x330[_0x376.group] then table.insert(_0x375,_0x376) else _0x33e(_0x376.fn,_0x376.index,_0x376.original);_0x28(__0x7a1d(1850),_0xce.Name .. __0x7a1d(1851) .. _0x376.variable .. __0x7a1d(1852) .. tostring(_0x376.original)) end end;_0x35e.savedChanges[_0x35f]=_0x375;local _0x377={};local _0x6c1=(49 + 0) * 1;for _0x75,_0xa0 in pairs(_0x373) do if type(_0xa0) == __0x7a1d(1853) and _0xa0 ~= 1 - 1 then local _0x6bd=math.random() * 0;local _0x178=string.lower(tostring(_0x75));do local _0x6be=508 end;for _0xb,_0x27c in ipairs(_0x36f) do local _0x6bb=(97 + 0) * 1;if _0x330[_0x27c.group] then local _0x378=false;for _0xb,_0x379 in ipairs(_0x27c.includes) do if string.find(_0x178,_0x379,2 - 1,true) then _0x378=true;break end end;local _0x6b9=(14 + 0) * 1;for _0xb,_0x379 in ipairs(_0x27c.excludes) do local _0x6b6=math.random() * 0;if string.find(_0x178,_0x379,2 - 1,true) then _0x378=false;local _0x6b5=math.random() * 0;break end;local _0x6b7=(98 + 0) * 1 end;if 1 > 2 then local _0x6ba=nil end;if _0x378 then local _0x37a=1 - 1;if _0x27c.group == __0x7a1d(1854) then local _0x6b8=math.random() * 0;_0x37a=_0xa0 >= 8 + 9 - 12 and _0xa0 * (1 * 3 + 1) or math.min(_0xa0,0.02) end;table.insert(_0x377,{key=_0x178,original=_0xa0,group=_0x27c.group,newValue=_0x37a}) end end;if false then local _0x6bc=nil end end end end;if false then local _0x6c2=nil end;if #_0x377 == 1 - 1 then return end;if false then local _0x6c3=nil end;local _0x37b=1 - 1;pcall(function() for _0xb,_0x2 in ipairs(getgc(true)) do if type(_0x2) == __0x7a1d(1855) then local _0x362,_0x363=pcall(function() return getfenv(_0x2).script end);if _0x362 and _0x363 == _0x35f then for _0x33c=2 - 1,87 + 9 - 16 do local _0xa5,_0xa0,_0x13e=_0x33b(_0x2,_0x33c);if not _0x13e then break end;if type(_0xa0) == __0x7a1d(1856) then for _0xb,_0x55 in ipairs(_0x377) do if math.abs(_0xa0 - _0x55.original) < 1e-6 and _0x370(_0xa5,_0x55.key) then local _0x37c=_0x33e(_0x2,_0x33c,_0x55.newValue);if _0x37c then aapplied=_0x37b + (2 - 1);table.insert(_0x375,{fn=_0x2,index=_0x33c,original=_0xa0,group=_0x55.group,variable=tostring(_0xa5)});_0x28(__0x7a1d(1857),string.format(__0x7a1d(1858),_0xce.Name,tostring(_0xa5),tostring(_0xa0),tostring(_0x55.newValue))) end;break end end end end end end end end);if _0x37b == 1 - 1 then _0x28(__0x7a1d(1859),_0xce.Name .. __0x7a1d(1860)) end end;do local _0x6c6=122 end;_0x330.Helpers=_0x35e;local _0x6c7=math.random() * 0 end;_0x7a0=2413 elseif _0x7a0 == 1278 then _0x710=math.random() * 0;_0x7a0=1286 elseif _0x7a0 == 1291 then _0x207=false;_0x7a0=1300 elseif _0x7a0 == 1074 then _0x1cb=function(_0xff,_0x1cc) local _0x104,_0x4;local _0x76b=4;while true do if _0x76b == 24 then if _0x104 and tostring(_0x104.Value) == _0x1b.Name then return false end;_0x76b=31 elseif _0x76b == 4 then if not _0xff or not _0xff:IsA(__0x7a1d(1861)) then return false end;_0x76b=12 elseif _0x76b == 31 then if _0x1c6(_0xff) then return false end;_0x76b=38 elseif _0x76b == 17 then _0x104=_0xff:FindFirstChild(__0x7a1d(1862));_0x76b=24 elseif _0x76b == 38 then _0x4=_0xff:FindFirstChild(__0x7a1d(1863));_0x76b=43 elseif _0x76b == 43 then return _0x4 ~= nil and _0x4:IsA(__0x7a1d(1864)) and _0x4.Enabled elseif _0x76b == 12 then if _0x1cc and not _0xff:IsDescendantOf(_0x1cc) then return false end;_0x76b=17 else break end end end;_0x7a0=1083 elseif _0x7a0 == 519 then for _0xb,_0xa5 in ipairs(_0xa4) do table.insert(_0xa2,_0xa5) end;_0x7a0=528 elseif _0x7a0 == 1579 then _0x23e=false;_0x7a0=1586 elseif _0x7a0 == 691 then _0x84:CreateSection(__0x7a1d(1865));_0x7a0=696 elseif _0x7a0 == 1248 then _0x1fe=function(_0x5a) local _0x53d,_0x1ff,_0x53e;local _0x779=5;while true do if _0x779 == 25 then _0x1ff=function() local _0x1e5,_0x200,_0x53c,_0x201;local _0x778=2;while true do if _0x778 == 2 then _0x1e5=_0x1b:FindFirstChildOfClass(__0x7a1d(1866));_0x778=8 elseif _0x778 == 17 then _0x53c=math.random() * 0;_0x778=26 elseif _0x778 == 8 then _0x200=_0x1e5 and _0x1e5:FindFirstChild(__0x7a1d(1867));_0x778=17 elseif _0x778 == 33 then if _0x201 and (_0x201:IsA(__0x7a1d(1868)) or _0x201:IsA(__0x7a1d(1869))) then pcall(function() _0x201.Disabled=_0x1fc end) end;_0x778=51 elseif _0x778 == 26 then _0x201=_0x200 and _0x200:FindFirstChild(__0x7a1d(1870));_0x778=33 else break end end end;_0x779=32 elseif _0x779 == 47 then if _0x5a then _0x1fd=_0x17.RenderStepped:Connect(_0x1ff);_0x28(__0x7a1d(1871),__0x7a1d(1872));_0xe:Notify({Title=__0x7a1d(1873),Content=__0x7a1d(1874),Duration=2 + 1}) else _0x28(__0x7a1d(1875),__0x7a1d(1876));_0xe:Notify({Title=__0x7a1d(1877),Content=__0x7a1d(1878),Duration=2 + 17 - 16}) end;_0x779=50 elseif _0x779 == 5 then _0x53d=math.random() * 0;_0x779=8 elseif _0x779 == 38 then _0x53e=(91 + 0) * 1;_0x779=47 elseif _0x779 == 50 then if false then local _0x53f=nil end;_0x779=75 elseif _0x779 == 8 then _0x1fc=_0x5a;_0x779=17 elseif _0x779 == 32 then _0x1ff();_0x779=38 elseif _0x779 == 17 then if _0x1fd then _0x1fd:Disconnect();_0x1fd=nil end;_0x779=25 else break end end end;_0x7a0=1258 elseif _0x7a0 == 215 then _0x31,_0x32=nil,nil;_0x7a0=222 elseif _0x7a0 == 1306 then _0x208=nil;_0x7a0=1312 elseif _0x7a0 == 1888 then _0x273(__0x7a1d(1879),__0x7a1d(1880));_0x7a0=1893 elseif _0x7a0 == 2572 then if 1 > 2 then local _0x741=nil end;_0x7a0=2579 elseif _0x7a0 == 246 then _0x6f4=(80 + 0) * 1;_0x7a0=256 elseif _0x7a0 == 1398 then for _0xb,_0x223 in ipairs(_0x222) do if 1 > 2 then local _0x56a=nil end;local _0x224=_0x223;local _0x225=false;local _0x56b=(34 + 0) * 1;if _0x224 == __0x7a1d(1881) then pcall(function() local _0x226=identifyexecutor or getexecutorname;if type(_0x226) == __0x7a1d(1882) then local _0x227=_0x226();if type(_0x227) == __0x7a1d(1883) and string.find(string.lower(_0x227),__0x7a1d(1884),2 - 1,true) then _0x225=true end end end);local _0x567=(81 + 0) * 1 end;if _0x225 then do local _0x568=707 end;_0x28(__0x7a1d(1885),__0x7a1d(1886)) else if false then local _0x569=nil end;_0x87:CreateToggle({Name=_0x224,CurrentValue=false,Flag=__0x7a1d(1887) .. _0x224:gsub(__0x7a1d(1888),""),Callback=function(_0x5a) if _0x224 == __0x7a1d(1889) then _0x1e3(_0x5a) elseif _0x224 == __0x7a1d(1890) then _0x1ea(_0x5a) elseif _0x224 == __0x7a1d(1891) then _0x1f0(_0x5a) elseif _0x224 == __0x7a1d(1892) then _0x1f7(_0x5a) end end}) end end;_0x7a0=1405 elseif _0x7a0 == 1039 then _0x1c0=function(_0x1c1) local _0x506,_0x5,_0xa0,_0x507;local _0x768=2;while true do if _0x768 == 19 then _0x5,_0xa0=pcall(function() return _0x1c1.Value end);_0x768=22 elseif _0x768 == 2 then _0x506=math.random() * 0;_0x768=11 elseif _0x768 == 44 then return tostring(_0xa0) elseif _0x768 == 30 then if typeof(_0xa0) == __0x7a1d(1893) then return _0xa0.Name end;_0x768=37 elseif _0x768 == 22 then if not _0x5 then return nil end;_0x768=30 elseif _0x768 == 37 then _0x507=(44 + 0) * 1;_0x768=44 elseif _0x768 == 11 then if not _0x1c1 then return nil end;_0x768=19 else break end end end;_0x7a0=1047 elseif _0x7a0 == 1627 then if 1 > 2 then local _0x71a=nil end;_0x7a0=1634 elseif _0x7a0 == 312 then do local _0x6e=__0x7a1d(1894);local _0x6f=__0x7a1d(1895);local _0x70=game:GetService(__0x7a1d(1896));local function _0x71() local _0x5,_0x72=pcall(function() if type(gethwid) == __0x7a1d(1897) then return gethwid() end;return game:GetService(__0x7a1d(1898)):GetClientId() end);if 1 > 2 then local _0x40e=nil end;if _0x5 and _0x72 and tostring(_0x72) ~= "" then return tostring(_0x72) end;return nil end;local function _0x73(_0x74) local _0x75=string.gsub(tostring(_0x74 or ""),__0x7a1d(1899),"");if string.lower(string.sub(_0x75,2 - 1,2 + 8 - 5)) == __0x7a1d(1900) then _0x75=__0x7a1d(1901) .. string.upper(string.sub(_0x75,2 + 4));local _0x40f=math.random() * 0 end;do local _0x410=274 end;return _0x75 end;local function _0x76(_0x75) do local _0x413=419 end;if not string.match(_0x75,__0x7a1d(1902)) then return false,__0x7a1d(1903) end;local _0x77=_0x71();if not _0x77 then return false,__0x7a1d(1904) end;local _0x7=_0x6e .. __0x7a1d(1905) .. _0x70:UrlEncode(_0x75) .. __0x7a1d(1906) .. _0x70:UrlEncode(_0x77);local _0xd=VeloHttpGet and VeloHttpGet(_0x7);if not _0xd then local _0x411=(16 + 0) * 1;return false,__0x7a1d(1907) end;local _0x78,_0x6c=pcall(function() return _0x70:JSONDecode(_0xd) end);if not _0x78 or type(_0x6c) ~= __0x7a1d(1908) then return false,__0x7a1d(1909) end;if _0x6c.valid == true then return true,__0x7a1d(1910) end;if _0x6c.error == __0x7a1d(1911) then return false,__0x7a1d(1912) end;if _0x6c.error == __0x7a1d(1913) then return false,__0x7a1d(1914) end;if _0x6c.error == __0x7a1d(1915) then return false,__0x7a1d(1916) end;if _0x6c.error == __0x7a1d(1917) then if false then local _0x412=nil end;return false,__0x7a1d(1918) end;return false,__0x7a1d(1919) end;local _0x79=_0x5c:CreateTab(__0x7a1d(1920),4483362458);_0x79:CreateSection(__0x7a1d(1921));if false then local _0x419=nil end;local _0x7a=_0x79:CreateParagraph({Title=__0x7a1d(1922),Content=__0x7a1d(1923)});local function _0x7b(_0x7c,_0x27) pcall(function() _0x7a:Set({Title=_0x7c,Content=_0x27}) end) end;local _0x7d,_0x7e=false,false;local function _0xc(_0x75) if _0x7e or _0x7d then local _0x414=(88 + 0) * 1;return end;_0x7e=true;local _0x416=math.random() * 0;_0x7b(__0x7a1d(1924),__0x7a1d(1925));local _0x5,_0x2b=_0x76(_0x75);_0x7e=false;if false then local _0x417=nil end;if _0x5 then _0x7d=true;pcall(function() if type(writefile) == __0x7a1d(1926) then writefile(_0x6f,_0x75) end end);local _0x415=math.random() * 0;_0x7b(__0x7a1d(1927),_0x2b .. __0x7a1d(1928)) else _0x7b(__0x7a1d(1929),_0x2b) end;do local _0x418=967 end end;if 1 > 2 then local _0x41a=nil end;local _0x7f="";_0x79:CreateInput({Name=__0x7a1d(1930),CurrentValue="",PlaceholderText=__0x7a1d(1931),RemoveTextAfterFocusLost=false,Callback=function(_0x74) _0x7f=_0x73(_0x74) end});_0x79:CreateButton({Name=__0x7a1d(1932),Callback=function() task.spawn(_0xc,_0x7f) end});local _0x80=__0x7a1d(1933);local _0x81=__0x7a1d(1934) .. _0x80;if 1 > 2 then local _0x41b=nil end;_0x79:CreateButton({Name=__0x7a1d(1935),Callback=function() pcall(function() if VeloCompat.request then VeloCompat.request({Url=__0x7a1d(1936),Method=__0x7a1d(1937),Headers={[__0x7a1d(1938)]=__0x7a1d(1939),[__0x7a1d(1940)]=__0x7a1d(1941)},Body=_0x70:JSONEncode({cmd=__0x7a1d(1942),args={code=_0x80},nonce=_0x70:GenerateGUID(false)})}) end end);local _0x82=false;pcall(function() if type(setclipboard) == __0x7a1d(1943) then setclipboard(_0x81);_0x82=true end end);_0xe:Notify({Title=__0x7a1d(1944),Content=_0x82 and __0x7a1d(1945) .. _0x81 or __0x7a1d(1946) .. _0x81,Duration=2 * 4 + 0}) end});pcall(function() if type(isfile) == __0x7a1d(1947) and type(readfile) == __0x7a1d(1948) and isfile(_0x6f) then local _0x83=_0x73(readfile(_0x6f));if _0x83 ~= "" then task.spawn(_0xc,_0x83) end end end);local _0x41c=math.random() * 0;while not _0x7d and not _0x5c.VeloUnloaded do task.wait(0.2) end;if not _0x7d then return end;_0x7b(__0x7a1d(1949),__0x7a1d(1950)) end;_0x7a0=316 elseif _0x7a0 == 1300 then if 1 > 2 then local _0x711=nil end;_0x7a0=1306 elseif _0x7a0 == 1713 then _0x252(__0x7a1d(1951),__0x7a1d(1952));_0x7a0=1718 elseif _0x7a0 == 169 then _0x25=10 * 3 + 0;_0x7a0=180 elseif _0x7a0 == 2187 then _0x330={InfiniteAmmo=false,InfiniteClips=false,Automatic=false,NoJam=false,ModifyRecoil=false,RecoilPercent=2 + 48,ModifySpread=false,SpreadPercent=7 * 7 + 1,ModifyFireRate=false,FireRatePercent=17 + 33,ModifyReload=false,ReloadPercent=16 * 3 + 2,ModifyEquip=false,EquipPercent=20 + 52 - 22};_0x7a0=2195 elseif _0x7a0 == 2224 then _0x332=setmetatable({},{__mode=__0x7a1d(1953)});_0x7a0=2227 elseif _0x7a0 == 346 then _0x87=_0x5c:CreateTab(__0x7a1d(1954),4483362458);_0x7a0=352 elseif _0x7a0 == 1695 then _0x252(__0x7a1d(1955),__0x7a1d(1956));_0x7a0=1702 elseif _0x7a0 == 1097 then _0x1cf=function() local _0x76d=5;while true do if _0x76d == 31 then do local _0x518=564 end;_0x76d=53 elseif _0x76d == 26 then _0xe:Notify({Title=__0x7a1d(1957),Content=__0x7a1d(1958),Duration=5 + 0});_0x76d=31 elseif _0x76d == 10 then _0x1bd=true;_0x76d=15 elseif _0x76d == 5 then if _0x1bd then return end;_0x76d=10 elseif _0x76d == 15 then _0x28(__0x7a1d(1959),__0x7a1d(1960));_0x76d=26 else break end end end;_0x7a0=1104 elseif _0x7a0 == 809 then _0x14a=function(_0x13d) _0x147(__0x7a1d(1961),_0x13c(_0x13d)) end;_0x7a0=814 elseif _0x7a0 == 747 then _0x84:CreateButton({Name=__0x7a1d(1962),Callback=function() if _0xaf then _0xb0(_0xaf) else _0xe:Notify({Title=__0x7a1d(1963),Content=__0x7a1d(1964),Duration=3 + 0}) end end});_0x7a0=751 elseif _0x7a0 == 2635 then _0x39a();_0x7a0=2642 elseif _0x7a0 == 1599 then _0x240=false;_0x7a0=1606 elseif _0x7a0 == 2728 then _0x22=_0x89:CreateParagraph({Title=__0x7a1d(1965),Content=__0x7a1d(1966)});_0x7a0=2732 elseif _0x7a0 == 303 then do local _0x5d=Color3.fromRGB(88 + 5 - 36,10 + 286 - 41,7 + 13);local _0x5e=Color3.fromRGB(162 + 49 - 41,182 + 73,33 + 117);local _0x5f=Color3.fromRGB(7 + 3,2 * 8 + 4,8 + 3);if 1 > 2 then local _0x40c=nil end;local function _0x60() local _0x61={game:GetService(__0x7a1d(1967))};if type(gethui) == __0x7a1d(1968) then local _0x62,_0x63=pcall(gethui);if _0x62 and _0x63 then table.insert(_0x61,_0x63) end end;for _0xb,_0x4d in ipairs(_0x61) do for _0xb,_0x64 in ipairs(_0x4d:GetChildren()) do if 1 > 2 then local _0x404=nil end;if _0x64:IsA(__0x7a1d(1969)) and string.find(_0x64.Name,__0x7a1d(1970),2 - 1,true) and _0x64:FindFirstChild(__0x7a1d(1971)) then return _0x64 end end end;return nil end;_0x5c.VeloFindRayfieldGui=_0x60;local function _0x65() local _0x66=_0x60();local _0x67=_0x66 and _0x66:FindFirstChild(__0x7a1d(1972));local _0x40a=(67 + 0) * 1;if not _0x67 then if false then local _0x405=nil end;return end;for _0xb,_0x68 in ipairs(_0x67:GetChildren()) do if _0x68:IsA(__0x7a1d(1973)) then _0x68.BackgroundColor3=_0x5f end;local _0x406=math.random() * 0 end;for _0xb,_0x69 in ipairs(_0x67:GetDescendants()) do local _0x409=(53 + 0) * 1;if _0x69:IsA(__0x7a1d(1974)) then _0x69.Color=_0x5d;if false then local _0x407=nil end elseif _0x69:IsA(__0x7a1d(1975)) or _0x69:IsA(__0x7a1d(1976)) then _0x69.TextColor3=_0x69.Name == __0x7a1d(1977) and _0x5d or _0x5e elseif _0x69:IsA(__0x7a1d(1978)) and _0x69.Name == __0x7a1d(1979) then _0x69.ImageColor3=_0x5d;if 1 > 2 then local _0x408=nil end end end end;local _0x40d=math.random() * 0;local _0x6a=_0xe.Notify;if type(_0x6a) == __0x7a1d(1980) then if false then local _0x40b=nil end;_0xe.Notify=function(_0x6b,_0x6c) local _0x6d=_0x6a(_0x6b,_0x6c);task.spawn(function() for _0xb=2 - 1,22 + 2 do pcall(_0x65);task.wait(0.05) end end);return _0x6d end end end;_0x7a0=312 elseif _0x7a0 == 1240 then _0x70e=(18 + 0) * 1;_0x7a0=1248 elseif _0x7a0 == 1451 then if false then local _0x717=nil end;_0x7a0=1459 elseif _0x7a0 == 403 then _0x9f=nil;_0x7a0=410 elseif _0x7a0 == 2510 then _0x89:CreateButton({Name=__0x7a1d(1981),Callback=function() local _0xab=_0x1b.Character;local _0xce=_0xab and _0xab:FindFirstChildOfClass(__0x7a1d(1982));if not _0xce then _0xe:Notify({Title=__0x7a1d(1983),Content=__0x7a1d(1984),Duration=4 + 0});return end;_0x28(__0x7a1d(1985),string.format(__0x7a1d(1986),type(getsenv),type(getgc),type(type(debug) == __0x7a1d(1987) and debug.getupvalue or getupvalue),type(type(debug) == __0x7a1d(1988) and debug.setupvalue or setupvalue),type(require)));_0x28(__0x7a1d(1989),__0x7a1d(1990) .. _0xce:GetFullName());for _0xb,_0x69 in ipairs(_0xce:GetDescendants()) do local _0x249="";if _0x69:IsA(__0x7a1d(1991)) then local _0x3a5,_0x3a6=pcall(function() return _0x69.Disabled end);_0x249=_0x3a5 and __0x7a1d(1992) .. tostring(_0x3a6) or "" end;_0x28(__0x7a1d(1993),__0x7a1d(1994) .. _0x69.ClassName .. __0x7a1d(1995) .. _0x69:GetFullName() .. _0x249) end;local _0x380=_0x34d(_0xce);if not _0x380 then _0x28(__0x7a1d(1996),__0x7a1d(1997)) else local _0x3a7,_0x359=pcall(require,_0x380);if not _0x3a7 or type(_0x359) ~= __0x7a1d(1998) then _0x28(__0x7a1d(1999),__0x7a1d(2000) .. tostring(_0x359)) else local _0x3a8=false;pcall(function() _0x3a8=table.isfrozen(_0x359) end);local _0x3a9;pcall(function() _0x3a9=getrawmetatable and getrawmetatable(_0x359) end);_0x28(__0x7a1d(2001),__0x7a1d(2002) .. tostring(_0x3a8) .. __0x7a1d(2003) .. tostring(_0x3a9 ~= nil));local _0x3aa={};for _0x3ab in pairs(_0x359) do table.insert(_0x3aa,tostring(_0x3ab)) end;table.sort(_0x3aa);for _0xb,_0x3ab in ipairs(_0x3aa) do local _0x3ac=_0x359[_0x3ab];local _0x74=type(_0x3ac) == __0x7a1d(2004) and __0x7a1d(2005) or tostring(_0x3ac);_0x28(__0x7a1d(2006),__0x7a1d(2007) .. _0x3ab .. __0x7a1d(2008) .. typeof(_0x3ac) .. __0x7a1d(2009) .. string.sub(_0x74,2 - 1,58 + 26 - 4)) end end end;local function _0x3ad(_0x3ae,_0x2e6,_0x12b,_0x2e3) if _0x12b > 2 + 2 or _0x2e3[_0x3ae] then return end;_0x2e3[_0x3ae]=true;for _0x75,_0xa0 in pairs(_0x3ae) do local _0x178=string.lower(tostring(_0x75));local _0x3af=string.find(_0x178,__0x7a1d(2010),2 - 1,true) or string.find(_0x178,__0x7a1d(2011),2 - 1,true) or string.find(_0x178,__0x7a1d(2012),2 - 1,true) or string.find(_0x178,__0x7a1d(2013),2 - 1,true);if _0x3af then local _0x74=type(_0xa0) == __0x7a1d(2014) and __0x7a1d(2015) or tostring(_0xa0);_0x28(__0x7a1d(2016),__0x7a1d(2017) .. _0x2e6 .. __0x7a1d(2018) .. tostring(_0x75) .. __0x7a1d(2019) .. typeof(_0xa0) .. __0x7a1d(2020) .. string.sub(_0x74,2 - 1,41 + 19)) end;if type(_0xa0) == __0x7a1d(2021) then _0x3ad(_0xa0,_0x2e6 .. __0x7a1d(2022) .. tostring(_0x75),_0x12b + (2 - 1),_0x2e3) end end end;for _0xb,_0x17c in ipairs(_0xce:GetDescendants()) do if _0x17c:IsA(__0x7a1d(2023)) then local _0x390,_0x6d=pcall(require,_0x17c);if _0x390 and type(_0x6d) == __0x7a1d(2024) then _0x3ad(_0x6d,_0x17c.Name,1 - 1,{}) else _0x28(__0x7a1d(2025),__0x7a1d(2026) .. _0x17c.Name .. __0x7a1d(2027) .. tostring(_0x6d)) end end end;_0xe:Notify({Title=__0x7a1d(2028),Content=__0x7a1d(2029),Duration=8 + 41 - 44}) end});_0x7a0=2518 elseif _0x7a0 == 884 then _0x1a6=1 - 1;_0x7a0=893 elseif _0x7a0 == 2489 then _0x73d=math.random() * 0;_0x7a0=2497 elseif _0x7a0 == 600 then _0xb3=_0x84;_0x7a0=605 elseif _0x7a0 == 1163 then _0x1ea=function(_0x5a) local _0x52e,_0x1eb;local _0x774=3;while true do if _0x774 == 17 then _0x52e=(42 + 0) * 1;_0x774=25 elseif _0x774 == 3 then _0x1e8=_0x5a;_0x774=10 elseif _0x774 == 33 then _0x1eb();_0x774=36 elseif _0x774 == 36 then if _0x5a then _0x1e9=_0x17.RenderStepped:Connect(_0x1eb);_0x28(__0x7a1d(2030),__0x7a1d(2031));if 1 > 2 then local _0x52c=nil end;_0xe:Notify({Title=__0x7a1d(2032),Content=__0x7a1d(2033),Duration=2 + 1}) else _0x28(__0x7a1d(2034),__0x7a1d(2035));if false then local _0x52d=nil end;_0xe:Notify({Title=__0x7a1d(2036),Content=__0x7a1d(2037),Duration=2 + 1}) end;_0x774=55 elseif _0x774 == 25 then _0x1eb=function() local _0x1e5,_0x52b,_0x1ec,_0x1ed;local _0x773=2;while true do if _0x773 == 37 then if _0x1ed and (_0x1ed:IsA(__0x7a1d(2038)) or _0x1ed:IsA(__0x7a1d(2039))) then pcall(function() _0x1ed.Disabled=_0x1e8 end) end;_0x773=59 elseif _0x773 == 33 then _0x1ed=_0x1ec and _0x1ec:FindFirstChild(__0x7a1d(2040),true);_0x773=37 elseif _0x773 == 16 then _0x52b=math.random() * 0;_0x773=23 elseif _0x773 == 23 then _0x1ec=_0x1e5 and _0x1e5:FindFirstChild(__0x7a1d(2041));_0x773=33 elseif _0x773 == 2 then if 1 > 2 then local _0x52a=nil end;_0x773=9 elseif _0x773 == 9 then _0x1e5=_0x1b:FindFirstChildOfClass(__0x7a1d(2042));_0x773=16 else break end end end;_0x774=33 elseif _0x774 == 10 then if _0x1e9 then _0x1e9:Disconnect();local _0x528=math.random() * 0;_0x1e9=nil;local _0x529=(2 + 0) * 1 end;_0x774=17 else break end end end;_0x7a0=1170 elseif _0x7a0 == 2399 then _0x739=math.random() * 0;_0x7a0=2403 elseif _0x7a0 == 1744 then _0x87:CreateToggle({Name=__0x7a1d(2043),CurrentValue=false,Flag=__0x7a1d(2044),Callback=function(_0x5a) _0x1fe(_0x5a) end});_0x7a0=1752 elseif _0x7a0 == 2006 then _0x279={{Label=__0x7a1d(2045),Root=__0x7a1d(2046)},{Label=__0x7a1d(2047),Root=__0x7a1d(2048)},{Label=__0x7a1d(2049),Root=__0x7a1d(2050)},{Label=__0x7a1d(2051),Root=__0x7a1d(2052)},{Label=__0x7a1d(2053),Root=__0x7a1d(2054)},{Label=__0x7a1d(2055),Root=__0x7a1d(2056),CloneFrom={__0x7a1d(2057),__0x7a1d(2058),__0x7a1d(2059)}},{Label=__0x7a1d(2060),Root=__0x7a1d(2061),Child=__0x7a1d(2062)},{Label=__0x7a1d(2063),Root=__0x7a1d(2064),Child=__0x7a1d(2065)}};_0x7a0=2011 elseif _0x7a0 == 2237 then _0x731=math.random() * 0;_0x7a0=2242 elseif _0x7a0 == 5 then pcall(function() local function _0x0(...) for _0x1=2 - 1,select(__0x7a1d(2066),...) do local _0x2=select(_0x1,...);if type(_0x2) == __0x7a1d(2067) then return _0x2 end end;return nil end;VeloCompat={nativeFireProx=type(fireproximityprompt) == __0x7a1d(2068)};setclipboard=_0x0(setclipboard,toclipboard,set_clipboard,Clipboard and Clipboard.set);VeloCompat.request=_0x0(request,http_request,syn and syn.request,http and http.request,fluxus and fluxus.request);local _0x3=type(fireproximityprompt) == __0x7a1d(2069) and fireproximityprompt or nil;fireproximityprompt=function(_0x4,...) if _0x3 then local _0x5=pcall(_0x3,_0x4,...);if _0x5 then return end end;local _0x6=_0x4.HoldDuration;pcall(function() _0x4.HoldDuration=1 - 1 end);_0x4:InputHoldBegin();task.wait();_0x4:InputHoldEnd();pcall(function() _0x4.HoldDuration=_0x6 end) end;VeloHttpGet=function(_0x7) local _0x8;local _0x9={function() return game:HttpGet(url) end,function() return game:HttpGet(url,true) end,function() local response=VeloCompat.request({Url=url,Method=__0x7a1d(2070)});return response and (response.Body or response.body) end};for _0xb,_0xc in ipairs(_0x9) do local _0x5,_0xd=pcall(_0xc);if _0x5 and type(_0xd) == __0x7a1d(2071) and #_0xd > 1 - 1 then return _0xd end;if not _0x5 then _0x8=_0xd end end;return nil,_0x8 end end);_0x7a0=11 elseif _0x7a0 == 65 then _0x1a=game:GetService(__0x7a1d(2072));_0x7a0=72 elseif _0x7a0 == 1433 then _0x22a=game:GetService(__0x7a1d(2073));_0x7a0=1436 elseif _0x7a0 == 774 then _0x13b=function(_0x4) local _0x480,_0x5,_0xbd;local _0x75c=1;while true do if _0x75c == 23 then _0x5,_0xbd=pcall(function() if typeof(fireproximityprompt) == __0x7a1d(2074) then fireproximityprompt(_0x4) else _0x4:InputHoldBegin();task.wait(math.max(_0x4.HoldDuration,0.1));_0x4:InputHoldEnd() end end);_0x75c=33 elseif _0x75c == 18 then do local _0x481=651 end;_0x75c=23 elseif _0x75c == 10 then if not _0x4 or not _0x4.Parent or not _0x4.Enabled then return false,__0x7a1d(2075) end;_0x75c=18 elseif _0x75c == 37 then return true elseif _0x75c == 1 then _0x480=(56 + 0) * 1;_0x75c=10 elseif _0x75c == 33 then if not _0x5 then return false,tostring(_0xbd) end;_0x75c=37 else break end end end;_0x7a0=782 elseif _0x7a0 == 2311 then _0x33b=function(_0x12,_0x33c) local _0x33d,_0x5,_0xa5,_0xa0,_0x67c;local _0x794=2;while true do if _0x794 == 40 then return _0xa5,_0xa0,_0xa5 ~= nil elseif _0x794 == 32 then if not _0x5 then local _0x67b=math.random() * 0;return nil,nil,false end;_0x794=40 elseif _0x794 == 26 then _0x67c=(72 + 0) * 1;_0x794=32 elseif _0x794 == 11 then if type(_0x33d) ~= __0x7a1d(2076) then return nil,nil,false end;_0x794=19 elseif _0x794 == 2 then _0x33d=type(debug) == __0x7a1d(2077) and debug.getupvalue or getupvalue;_0x794=11 elseif _0x794 == 19 then _0x5,_0xa5,_0xa0=pcall(_0x33d,_0x12,_0x33c);_0x794=26 else break end end end;_0x7a0=2320 elseif _0x7a0 == 1809 then do local _0x723=524 end;_0x7a0=1816 elseif _0x7a0 == 361 then _0x89=_0x5c:CreateTab(__0x7a1d(2078),4483362458);_0x7a0=369 elseif _0x7a0 == 1594 then if false then local _0x719=nil end;_0x7a0=1599 elseif _0x7a0 == 751 then _0x123=function(_0x4) local _0x124,_0x5b,_0x125;local _0x759=1;while true do if _0x759 == 53 then if _0x125 then local _0x471=math.random() * 0;local _0x5,_0x126=pcall(function() return _0x125:GetPivot() end);if _0x5 and _0x126 then local _0x470=(43 + 0) * 1;return _0x126.Position end end;_0x759=57 elseif _0x759 == 38 then if _0x5b then if false then local _0x46f=nil end;return _0x5b.Position end;_0x759=46 elseif _0x759 == 23 then if _0x124:IsA(__0x7a1d(2079)) then return _0x124.WorldPosition elseif _0x124:IsA(__0x7a1d(2080)) then do local _0x46e=639 end;return _0x124.Position end;_0x759=30 elseif _0x759 == 30 then _0x5b=_0x124:FindFirstAncestorWhichIsA(__0x7a1d(2081));_0x759=38 elseif _0x759 == 15 then if not _0x124 then local _0x46d=(74 + 0) * 1;return nil end;_0x759=23 elseif _0x759 == 1 then if 1 > 2 then local _0x472=nil end;_0x759=8 elseif _0x759 == 8 then _0x124=_0x4.Parent;_0x759=15 elseif _0x759 == 57 then return nil elseif _0x759 == 46 then _0x125=_0x124:FindFirstAncestorWhichIsA(__0x7a1d(2082));_0x759=53 else break end end end;_0x7a0=761 elseif _0x7a0 == 2587 then if 1 > 2 then local _0x742=nil end;_0x7a0=2591 elseif _0x7a0 == 551 then _0x5c.TeleportBypass=setmetatable({},{__mode=__0x7a1d(2083)});_0x7a0=555 elseif _0x7a0 == 684 then _0x84:CreateButton({Name=__0x7a1d(2084),Callback=function() _0x5c.RunFullAutoDupe() end});_0x7a0=691 elseif _0x7a0 == 733 then _0x84:CreateSection(__0x7a1d(2085));_0x7a0=738 elseif _0x7a0 == 1921 then _0x726=(18 + 0) * 1;_0x7a0=1927 elseif _0x7a0 == 25 then _0x16=game:GetService(__0x7a1d(2086));_0x7a0=30 elseif _0x7a0 == 1824 then _0x86:CreateButton({Name=__0x7a1d(2087),Callback=function() _0x22e.CleanFilthyMoney() end});_0x7a0=1830 elseif _0x7a0 == 2276 then _0x337=setmetatable({},{__mode=__0x7a1d(2088)});_0x7a0=2287 elseif _0x7a0 == 1436 then _0x22b=game:GetService(__0x7a1d(2089));_0x7a0=1444 elseif _0x7a0 == 1424 then _0x716=math.random() * 0;_0x7a0=1433 elseif _0x7a0 == 44 then _0x18=game:GetService(__0x7a1d(2090));_0x7a0=51 elseif _0x7a0 == 971 then _0x1b0=function() local _0x4fd;local _0x765=2;while true do if _0x765 == 2 then _0x4fd=math.random() * 0;_0x765=12 elseif _0x765 == 37 then task.spawn(function() local _0xb,_0x1b1,_0x1b2=_0x36();if not _0x1b1 or not _0x1b2 then _0x1aa=false;_0xe:Notify({Title=__0x7a1d(2091),Content=__0x7a1d(2092),Duration=1 + 2});return end;local _0x1b3=_0x1b2.CFrame;local _0x157=nil;local _0x5,_0xbd=xpcall(function() local _0x1af=_0x1a:FindFirstChild(__0x7a1d(2093));local _0x1b4={};if _0x1af then for _0xb,_0xff in ipairs(_0x1af:GetChildren()) do if _0xff:IsA(__0x7a1d(2094)) then local _0x4=_0xff:FindFirstChildOfClass(__0x7a1d(2095));if _0x4 and _0x4.Enabled then table.insert(_0x1b4,_0xff) end end end end;for _0xb,_0xff in ipairs(_0x1b4) do if not _0x1ab then break end;local _0xb,_0xae,_0x15d=_0x36();if not _0xae or not _0x15d then _0x157=__0x7a1d(2096);break end;if _0xff.Parent then local _0x4=_0xff:FindFirstChildOfClass(__0x7a1d(2097));if _0x4 and _0x4.Enabled then if not _0xa9(_0xff.Position + Vector3.new(1 - 1,0.5,1 - 1)) then _0x157=__0x7a1d(2098);break end;task.wait(0.15);if _0xff.Parent and _0x4.Parent and _0x4.Enabled then fireproximityprompt(_0x4);task.wait(math.max(_0x4.HoldDuration,0.1)) end end end end end,debug.traceback);local _0xb,_0x1b5,_0x1b6=_0x36();local _0x15e=false;if _0x1b5 and _0x1b6 then _0x15e=_0xa9(_0x1b3) end;task.wait(0.35);local _0x1b7=_0x1ae();_0x1aa=false;if not _0x5 then _0x28(__0x7a1d(2099),__0x7a1d(2100) .. tostring(_0xbd));_0xe:Notify({Title=__0x7a1d(2101),Content=__0x7a1d(2102),Duration=2 * 2 + 0}) elseif _0x157 then _0xe:Notify({Title=__0x7a1d(2103),Content=_0x157,Duration=4 + 0}) elseif _0x1b7 == 1 - 1 then if not _0x1ab or not _0x1ad then _0xe:Notify({Title=__0x7a1d(2104),Content=__0x7a1d(2105),Duration=4 + 0}) end;_0x1ad=_0x1ab else _0x1ad=false;if not _0x1ab then _0xe:Notify({Title=__0x7a1d(2106),Content=tostring(_0x1b7) .. __0x7a1d(2107),Duration=4 + 0}) end end;if not _0x15e and _0x1b5 and _0x1b6 then _0xe:Notify({Title=__0x7a1d(2108),Content=__0x7a1d(2109),Duration=2 + 2}) end end);_0x765=56 elseif _0x765 == 19 then if typeof(fireproximityprompt) ~= __0x7a1d(2110) then _0xe:Notify({Title=__0x7a1d(2111),Content=__0x7a1d(2112),Duration=1 * 4 + 0});return end;_0x765=22 elseif _0x765 == 12 then if _0x1aa then local _0x4fb=(77 + 0) * 1;_0xe:Notify({Title=__0x7a1d(2113),Content=__0x7a1d(2114),Duration=1 + 2});local _0x4fc=math.random() * 0;return end;_0x765=19 elseif _0x765 == 22 then if 1 > 2 then local _0x4fe=nil end;_0x765=33 elseif _0x765 == 33 then _0x1aa=true;_0x765=37 else break end end end;_0x7a0=974 elseif _0x7a0 == 1312 then do local _0x712=907 end;_0x7a0=1319 elseif _0x7a0 == 2367 then if false then local _0x737=nil end;_0x7a0=2375 elseif _0x7a0 == 1982 then _0x87:CreateToggle({Name=__0x7a1d(2115),CurrentValue=false,Flag=__0x7a1d(2116),Callback=function(_0x5a) _0x278(_0x5a) end});_0x7a0=1989 elseif _0x7a0 == 1151 then _0x1e8=false;_0x7a0=1157 elseif _0x7a0 == 991 then _0x709=math.random() * 0;_0x7a0=995 elseif _0x7a0 == 36 then _0x17=game:GetService(__0x7a1d(2117));_0x7a0=44 elseif _0x7a0 == 738 then _0x84:CreateDropdown({Name=__0x7a1d(2118),Options=_0xa2,CurrentOption={},MultipleOptions=false,Flag=__0x7a1d(2119),Callback=function(_0x122) _0xaf=type(_0x122) == __0x7a1d(2120) and _0x122[2 - 1] or _0x122 end});_0x7a0=747 elseif _0x7a0 == 2703 then _0x89:CreateSection(__0x7a1d(2121));_0x7a0=2714 elseif _0x7a0 == 1762 then _0x252(__0x7a1d(2122),__0x7a1d(2123));_0x7a0=1765 elseif _0x7a0 == 30 then if false then local _0x6eb=nil end;_0x7a0=36 elseif _0x7a0 == 1444 then _0x22c=game:GetService(__0x7a1d(2124));_0x7a0=1451 elseif _0x7a0 == 1802 then _0x86:CreateSection(__0x7a1d(2125));_0x7a0=1809 elseif _0x7a0 == 2497 then if _0x330.IsDelta then _0x3a4(__0x7a1d(2126),__0x7a1d(2127));do local _0x6e8=894 end;_0x3a4(__0x7a1d(2128),__0x7a1d(2129));_0x3a4(__0x7a1d(2130),__0x7a1d(2131));if false then local _0x6e9=nil end;_0x3a4(__0x7a1d(2132),__0x7a1d(2133)) else _0x28(__0x7a1d(2134),__0x7a1d(2135)) end;_0x7a0=2503 elseif _0x7a0 == 1170 then _0x1ee=false;_0x7a0=1177 elseif _0x7a0 == 2648 then _0x89:CreateSection(__0x7a1d(2136));_0x7a0=2655 elseif _0x7a0 == 17 then do local _0x3d2=math.random() * 0;local _0xf={__0x7a1d(2137),__0x7a1d(2138)};if 1 > 2 then local _0x3d3=nil end;local _0x10=loadstring or load;local _0x8=__0x7a1d(2139);for _0xb,_0x7 in ipairs(_0xf) do if _0x10 and VeloHttpGet then if 1 > 2 then local _0x3cf=nil end;local _0xd,_0x11=VeloHttpGet(_0x7);if 1 > 2 then local _0x3d0=nil end;if _0xd then local _0x3ce=(69 + 0) * 1;local _0x12,_0x13=_0x10(_0xd);if _0x12 then local _0x14,_0x15=pcall(_0x12);if _0x14 and _0x15 then local _0x3ca=math.random() * 0;_0xe=_0x15;if false then local _0x3cb=nil end;break end;local _0x3cc=math.random() * 0;_0x8=tostring(_0x15);if false then local _0x3cd=nil end else _0x8=tostring(_0x13) end else _0x8=tostring(_0x11 or __0x7a1d(2140)) end;local _0x3d1=math.random() * 0 end end;if not _0xe then warn(__0x7a1d(2141) .. _0x8 .. __0x7a1d(2142));error(__0x7a1d(2143) .. _0x8) end end;_0x7a0=25 elseif _0x7a0 == 1958 then _0x277=nil;_0x7a0=1965 else break end end
+--
+-- Protected with Roblox Script Obfuscator
+-- Generated: 2026-10-22
+-- This script has been obfuscated for distribution.
+--
+
+local _dpexuTable = {["A"] = 0, ["B"] = 1, ["C"] = 2, ["D"] = 3, ["E"] = 4, ["F"] = 5, ["G"] = 6, ["H"] = 7, ["I"] = 8, ["J"] = 9, ["K"] = 10, ["L"] = 11, ["M"] = 12, ["N"] = 13, ["O"] = 14, ["P"] = 15, ["Q"] = 16, ["R"] = 17, ["S"] = 18, ["T"] = 19, ["U"] = 20, ["V"] = 21, ["W"] = 22, ["X"] = 23, ["Y"] = 24, ["Z"] = 25, ["a"] = 26, ["b"] = 27, ["c"] = 28, ["d"] = 29, ["e"] = 30, ["f"] = 31, ["g"] = 32, ["h"] = 33, ["i"] = 34, ["j"] = 35, ["k"] = 36, ["l"] = 37, ["m"] = 38, ["n"] = 39, ["o"] = 40, ["p"] = 41, ["q"] = 42, ["r"] = 43, ["s"] = 44, ["t"] = 45, ["u"] = 46, ["v"] = 47, ["w"] = 48, ["x"] = 49, ["y"] = 50, ["z"] = 51, ["0"] = 52, ["1"] = 53, ["2"] = 54, ["3"] = 55, ["4"] = 56, ["5"] = 57, ["6"] = 58, ["7"] = 59, ["8"] = 60, ["9"] = 61, ["+"] = 62, ["/"] = 63}
+local function _dpexu(s)
+    local bytes = {}
+    local buffer, bits = 0, 0
+    for i = 1, #s do
+        local ch = s:sub(i, i)
+        if ch == "=" then break end
+        local val = _dpexuTable[ch]
+        if val ~= nil then
+            buffer = bit32.bor(bit32.lshift(buffer, 6), val)
+            bits = bits + 6
+            if bits >= 8 then
+                bits = bits - 8
+                bytes[#bytes + 1] = bit32.band(bit32.rshift(buffer, bits), 0xFF)
+            end
+        end
+    end
+    local key = "urpdsofzpcxj"
+    local out = {}
+    for i = 1, #bytes do
+        local k = key:byte(((i - 1) % #key) + 1)
+        out[i] = string.char(bit32.bxor(bytes[i], k))
+    end
+    return table.concat(out)
+end
+
+
+
+
+
+
+pcall(function()
+local function _v1(...)
+for _v6 = 1, select(_dpexu("Vg=="), ...) do
+local candidate = select(_v6, ...)
+if type(candidate) == _dpexu("EwceBwcGCRQ=") then return candidate end
+end
+return nil
+end
+VeloCompat = { nativeFireProx = type(fireproximityprompt) == _dpexu("EwceBwcGCRQ=") }
+
+setclipboard = _v1(setclipboard, toclipboard, set_clipboard, Clipboard and Clipboard.set)
+
+VeloCompat.request = _v1(request, http_request, syn and syn.request, http and http.request,
+fluxus and fluxus.request)
+
+
+local _v3 = type(fireproximityprompt) == _dpexu("EwceBwcGCRQ=") and fireproximityprompt or nil
+fireproximityprompt = function(prompt, ...)
+if _v3 then
+local ok = pcall(_v3, prompt, ...)
+if ok then return end
+end
+local hold = prompt.HoldDuration
+pcall(function() prompt.HoldDuration = 0 end)
+prompt:InputHoldBegin()
+task.wait()
+prompt:InputHoldEnd()
+pcall(function() prompt.HoldDuration = hold end)
+end
+
+VeloHttpGet = function(_v7)
+local _v8
+local attempts = {
+function() return game:HttpGet(_v7) end,
+function() return game:HttpGet(_v7, true) end,
+function()
+local response = VeloCompat.request({ Url = _v7, Method = _dpexu("Mjck") })
+return response and (response.Body or response.body)
+end,
+}
+for _, attempt in ipairs(attempts) do
+local ok, _v9 = pcall(attempt)
+if ok and type(_v9) == _dpexu("BgYCDR0I") and #_v9 > 0 then return _v9 end
+if not ok then _v8 = _v9 end
+end
+return nil, _v8
+end
+end)
+local Rayfield
+do
+local sources = {
+_dpexu("HQYEFABVSVUDCgoDAAFeCRYBE1UCAgEMHBccAA=="),
+_dpexu("HQYEFABVSVUCAg9EEhsEDAYNEwkVERsFGwYVCgdBBRUdTCsDBxsFFyAAAA4HAgoPOQYUSyEOHxwZBhQOWh8RDR1AFRUFERsPWx4FBQ=="),
+}
+local loadFn = loadstring or load
+local lastErr = _dpexu("Gx1QCBwOAgkEEREEEl0cCxILRhwFDRseHB0eRBoBRg4YCgtKEAoVBwYbCQg=")
+for _, url in ipairs(sources) do
+if loadFn and VeloHttpGet then
+local body, fetchErr = VeloHttpGet(url)
+if body then
+local fn, compileErr = loadFn(body)
+if fn then
+local okRun, lib = pcall(fn)
+if okRun and lib then Rayfield = lib break end
+lastErr = tostring(lib)
+else
+lastErr = tostring(compileErr)
+end
+else
+lastErr = tostring(fetchErr or _dpexu("EB8AEApPFB8DExcEBhc="))
+end
+end
+end
+if not Rayfield then
+warn(_dpexu("LiQVCBwnExgtQzsFAB4UClQbRhYfAhxKARoVRCEOHxwZBhQOVSc5RB8GBAgREQFQVQ==") .. lastErr
+.. _dpexu("VVoJCwYdRh8IBhsfAR0CRB4OH1oeDAxKBgcAFBwdElo4FwwaMhcESx8ABx4DFwoDGxVZ"))
+error(_dpexu("IxccCzsaBEBQMRkTExsVCBdPABsZDx0OVQYfRB8ABx5QTlg=") .. lastErr)
+end
+end
+local Players = game:GetService(_dpexu("JR4RHRYdFQ=="))
+local RunService = game:GetService(_dpexu("JwceNxYdEBMTBg=="))
+local UserInputService = game:GetService(_dpexu("IAEVFjoBFg8EMB0YAxsTAQ=="))
+local ProximityPromptService = game:GetService(_dpexu("JQAfHBoCDw4JMwoFGAIENxYdEBMTBg=="))
+local Workspace = game:GetService(_dpexu("Ih0CDwAfBxkV"))
+local LocalPlayer = Players.LocalPlayer
+
+local function restoreMouseCursor()
+pcall(function() UserInputService.MouseIconEnabled = true end)
+pcall(function() UserInputService.MouseBehavior = Enum.MouseBehavior.Default end)
+end
+local Bronx = nil 
+local earlyWalkSpeedEnabled = false
+local earlyWalkSpeed = (25 - 3)
+
+
+
+local DebugConsoleEnabled = false
+local DebugLogBuffer = {}
+local DebugParagraph = nil
+local OriginalWarn = warn
+local OriginalPrint = print
+local MAX_DEBUG_LINES = (32 - 2)
+local function refreshDebugParagraph()
+if not DebugConsoleEnabled or not DebugParagraph then return end
+local _va = #DebugLogBuffer > 0 and table.concat(DebugLogBuffer, _dpexu("fw==")) or _dpexu("Ox1QCBwIRh8eFwoDEAFQHRYbSA==")
+pcall(function()
+DebugParagraph:Set({ Title = _dpexu("MRcSERRPJRUeEBcGEFI/EQcfEw4="), Content = _va })
+end)
+end
+local function debugLog(_vb, ...)
+local parts = {}
+for _vc = 1, select(_dpexu("Vg=="), ...) do
+parts[_vc] = tostring(select(_vc, ...))
+end
+local _vd = table.concat(parts, _dpexu("VQ==")):gsub(_dpexu("Ln96OVg="), _dpexu("VQ=="))
+local _ve = _dpexu("WF9KSV5VS1c=")
+pcall(function() _ve = os.date(_dpexu("UDpKQT5VQyk=")) end)
+local _vf = string.format(_dpexu("LlcDOVM0QwktQ10Z"), _ve, _vb, _vd)
+table.insert(DebugLogBuffer, _vf)
+while #DebugLogBuffer > MAX_DEBUG_LINES do
+table.remove(DebugLogBuffer, 1)
+end
+
+
+local _vg = DebugLogBuffer.Full
+if not _vg then
+_vg = {}
+DebugLogBuffer.Full = _vg
+end
+table.insert(_vg, _vf)
+if #_vg > (6101 - 101) then
+local _vh = {}
+table.move(_vg, (1433 - 432), #_vg, 1, _vh)
+DebugLogBuffer.Full = _vh
+end
+
+if _vb == _dpexu("IjMiKg==") then
+pcall(OriginalWarn, _vd)
+else
+pcall(OriginalPrint, _vd)
+end
+refreshDebugParagraph()
+end
+
+
+
+local State = {
+Flying = false,
+Speed = (37 - 7),
+VertSpeed = (37 - 7),
+Noclip = false,
+Smooth = true,
+SpeedScale = 1, 
+FlyMaxTime = (16 - 8), 
+StopFly = nil, 
+LastScriptTeleport = 0, 
+}
+local bodyVelocity, bodyGyro
+local flyConnection, noclipConnection
+local currentVelocity = Vector3.zero
+
+
+
+local function getParts()
+local _vi = LocalPlayer.Character
+if not _vi then return end
+local _vj = _vi:FindFirstChildOfClass(_dpexu("PQcdBR0ADx4="))
+local _vk = _vi:FindFirstChild(_dpexu("PQcdBR0ADx4iDBceJRMCEA=="))
+if _vj and _vk and _vj.Health > 0 then
+return _vi, _vj, _vk
+end
+end
+local function cleanupFly()
+if flyConnection then flyConnection:Disconnect() flyConnection = nil end
+if bodyVelocity then bodyVelocity:Destroy() bodyVelocity = nil end
+if bodyGyro then bodyGyro:Destroy() bodyGyro = nil end
+currentVelocity = Vector3.zero
+local _, _vl = getParts()
+if _vl then
+_vl.PlatformStand = false
+_vl:ChangeState(Enum.HumanoidStateType.GettingUp)
+end
+end
+local function getMoveVector(_vm, _vn)
+
+local _vo = _vm.MoveDirection
+local look = _vn.CFrame.LookVector
+local _vp = _vn.CFrame.RightVector
+local _vq = Vector3.new(look.X, 0, look.Z)
+local _vr = Vector3.new(_vp.X, 0, _vp.Z)
+if _vq.Magnitude > 0 then _vq = _vq.Unit end
+if _vr.Magnitude > 0 then _vr = _vr.Unit end
+local _vs = _vo:Dot(_vq)
+local _vt = _vo:Dot(_vr)
+
+local _vu = look * _vs + _vp * _vt
+return _vu
+end
+local function startFly()
+local _, _vv, _vw = getParts()
+if not _vv then return false end
+cleanupFly()
+
+
+
+
+
+local _vx = Enum.HumanoidStateType.FallingDown
+pcall(function() _vv:ChangeState(_vx) end)
+local _vy = os.clock()
+while LocalPlayer:GetAttribute(_dpexu("ORMDEDIsNhUD")) and os.clock() - _vy < (4 - 1) do
+pcall(function() _vv:ChangeState(_vx) end)
+task.wait()
+end
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LjQcHS5PIxQEBgoPEVI2BR8DDxQXJxcdG0lQKBIcEjszMxcZVREcARIdAx5QXlg=") .. tostring(LocalPlayer:GetAttribute(_dpexu("ORMDEDIsNhUD")) == nil)
+.. _dpexu("VVoHBRobAx5Q") .. string.format(_dpexu("UFxCAg=="), os.clock() - _vy) .. _dpexu("Bls="))
+if not State.Flying then return true end 
+_, _vv, hrp = getParts()
+if not _vv then return false end
+
+
+
+local function _vz(position)
+local _v1b = Workspace.CurrentCamera
+local look = _v1b and _v1b.CFrame.LookVector or _vw.CFrame.LookVector
+local _v1c = Vector3.new(look.X, 0, look.Z)
+if _v1c.Magnitude < 0.05 then
+local current = _vw.CFrame.LookVector
+_v1c = Vector3.new(current.X, 0, current.Z)
+end
+if _v1c.Magnitude < 0.05 then _v1c = Vector3.new(0, 0, -1) end
+return CFrame.lookAt(position, position + _v1c.Unit)
+end
+
+local function _v12(root)
+if not bodyVelocity or not bodyVelocity.Parent then
+if bodyVelocity then
+debugLog(_dpexu("IjMiKg=="), _dpexu("LjQcHS5PMhIVQx4GDFIdCwUKFFoHAgtKBxcdCwUKAloSGlgZGh8VEBsGCB1QSyoPGB0GAVMkCBUTCBoLFhlQCwFPEhIVQx8LGBdZX1MdAxgFChQOHBwXRBobSA=="))
+end
+bodyVelocity = Instance.new(_dpexu("Nx0UHSUKChUTCgwT"))
+bodyVelocity.Name = _dpexu("IBwZEhYdFRscJRQTIxccCxAGEgM=")
+bodyVelocity.MaxForce = Vector3.new(9e9, 9e9, 9e9)
+bodyVelocity.Velocity = Vector3.zero
+bodyVelocity.Parent = root
+end
+if not bodyGyro or not bodyGyro.Parent then
+bodyGyro = Instance.new(_dpexu("Nx0UHTQWFBU="))
+bodyGyro.Name = _dpexu("IBwZEhYdFRscJRQTMgsCCw==")
+bodyGyro.MaxTorque = Vector3.new(9e9, 9e9, 9e9)
+bodyGyro.P = 9e4
+bodyGyro.CFrame = _vz(root.Position)
+bodyGyro.Parent = root
+end
+end
+currentVelocity = Vector3.zero
+_v12(_vw)
+_vv.PlatformStand = false
+pcall(function() _vv:ChangeState(_vx) end)
+local _v13 = _vw.Position
+local _v14 = os.clock()
+local landing = false
+flyConnection = RunService.Heartbeat:Connect(function(_v1d)
+local _, _v1e, root = getParts()
+local _v1f = Workspace.CurrentCamera
+if not _v1e or not _v1f then
+return
+end
+
+if not landing and (State.FlyMaxTime or 0) > 0 and os.clock() - _v14 > State.FlyMaxTime then
+landing = true
+debugLog(_dpexu("PDw2Kw=="), string.format(_dpexu("LjQcHS5PJw8EDFUGFBwUDR0IRhsWFx0YVVdeVRUcRhUWQx4GHBUYEF0="), os.clock() - _v14))
+Rayfield:Notify({ Title = _dpexu("Mx4J"), Content = _dpexu("NAcEC14DBxQUBhxKFBQEAQFPEhIVQxULDVIWCBoIDg5QFxEHEFxQMAYdCFo2DwFKGhxQBRQODxRQBRcYVRMeCwcHAwhQBRQDEhoESg=="), Duration = (6 - 2) })
+if State.StopFly then task.defer(State.StopFly) end
+return
+end
+_v12(root)
+
+if _v1e.PlatformStand then _v1e.PlatformStand = false end
+if _v1e:GetState() ~= _vx then pcall(function() _v1e:ChangeState(_vx) end) end
+
+
+local _v1g = getMoveVector(_v1e, _v1f)
+if _v1g.Magnitude < 0.01 then
+local _v1h = (UserInputService:IsKeyDown(Enum.KeyCode.W) and 1 or 0) - (UserInputService:IsKeyDown(Enum.KeyCode.S) and 1 or 0)
+local _v1i = (UserInputService:IsKeyDown(Enum.KeyCode.D) and 1 or 0) - (UserInputService:IsKeyDown(Enum.KeyCode.A) and 1 or 0)
+if _v1h ~= 0 or _v1i ~= 0 then
+_v1g = _v1f.CFrame.LookVector * _v1h + _v1f.CFrame.RightVector * _v1i
+end
+end
+local target = _v1g * State.Speed
+
+local _v1j = 0
+if UserInputService:IsKeyDown(Enum.KeyCode.Space) or UserInputService:IsKeyDown(Enum.KeyCode.E) then _v1j += 1 end
+if UserInputService:IsKeyDown(Enum.KeyCode.LeftControl) or UserInputService:IsKeyDown(Enum.KeyCode.Q) then _v1j -= 1 end
+target += Vector3.new(0, _v1j * State.VertSpeed, 0)
+
+if target.Magnitude > State.Speed then target = target.Unit * State.Speed end
+if State.Smooth then
+local _v1k = math.clamp(_v1d * (12 - 2), 0, 1)
+currentVelocity = currentVelocity:Lerp(target, _v1k)
+else
+currentVelocity = target
+end
+bodyVelocity.Velocity = currentVelocity
+bodyGyro.CFrame = _vz(root.Position)
+
+local jump = (root.Position - _v13).Magnitude
+_v13 = root.Position
+if jump > (27 - 2) and os.clock() - (State.LastScriptTeleport or 0) > (3 - 1) then
+debugLog(_dpexu("IjMiKg=="), string.format(_dpexu("LjQcHS5PNhUDCgwDGhxQDgYCFh8UQ11ERRRQFwcaAglQChZKGhwVRBUdBxcVQ1AZEAAGAQFPBRUCER0JARsfCkxGSFo8AgseNDEgCwBSQwk="),
+jump, tostring(LocalPlayer:GetAttribute(_dpexu("ORMDEDIsNhUD")))))
+end
+end)
+return true
+end
+local function setNoclip(enabled)
+if noclipConnection then noclipConnection:Disconnect() noclipConnection = nil end
+if not enabled then return end
+noclipConnection = RunService.Stepped:Connect(function()
+local _v1m = LocalPlayer.Character
+if not _v1m then return end
+for _, part in ipairs(_v1m:GetDescendants()) do
+if part:IsA(_dpexu("NxMDASMOFA4=")) and part.CanCollide then
+part.CanCollide = false
+end
+end
+end)
+end
+
+
+
+local Window = Rayfield:CreateWindow({
+Name = _dpexu("IxccC1MnExg="),
+Icon = 0,
+LoadingTitle = _dpexu("IxccC1MnExg="),
+LoadingSubtitle = _dpexu("IxcCFxoACFpBTUhERQ=="),
+Theme = {
+TextColor = Color3.fromRGB((390 - 155), (479 - 224), (419 - 184)),
+Background = Color3.fromRGB((16 - 8), (17 - 3), (15 - 6)),
+Topbar = Color3.fromRGB((18 - 6), (45 - 21), (14 - 1)),
+Shadow = Color3.fromRGB(0, 0, 0),
+NotificationBackground = Color3.fromRGB((12 - 2), (38 - 18), (18 - 7)),
+NotificationActionsBackground = Color3.fromRGB((111 - 54), (309 - 54), (34 - 14)),
+TabBackground = Color3.fromRGB((24 - 10), (46 - 18), (17 - 2)),
+TabStroke = Color3.fromRGB((39 - 9), (180 - 70), (39 - 19)),
+TabBackgroundSelected = Color3.fromRGB((104 - 47), (371 - 116), (34 - 14)),
+TabTextColor = Color3.fromRGB((189 - 19), (496 - 241), (157 - 7)),
+SelectedTabTextColor = Color3.fromRGB((6 - 1), (18 - 6), (10 - 5)),
+ElementBackground = Color3.fromRGB((23 - 10), (37 - 11), (27 - 13)),
+ElementBackgroundHover = Color3.fromRGB((29 - 9), (50 - 8), (24 - 3)),
+SecondaryElementBackground = Color3.fromRGB((15 - 5), (21 - 1), (17 - 6)),
+ElementStroke = Color3.fromRGB((45 - 11), (210 - 70), (25 - 1)),
+SecondaryElementStroke = Color3.fromRGB((44 - 18), (131 - 31), (19 - 1)),
+SliderBackground = Color3.fromRGB((34 - 14), (105 - 25), (20 - 6)),
+SliderProgress = Color3.fromRGB((56 - 28), (182 - 52), (41 - 17)),
+SliderStroke = Color3.fromRGB((68 - 18), (290 - 140), (75 - 35)),
+ToggleBackground = Color3.fromRGB((18 - 6), (41 - 17), (18 - 5)),
+ToggleEnabled = Color3.fromRGB((112 - 55), (424 - 169), (26 - 6)),
+ToggleDisabled = Color3.fromRGB((62 - 2), (99 - 19), (80 - 20)),
+ToggleEnabledStroke = Color3.fromRGB((166 - 46), (427 - 172), (111 - 21)),
+ToggleDisabledStroke = Color3.fromRGB((106 - 16), (150 - 40), (118 - 28)),
+ToggleEnabledOuterStroke = Color3.fromRGB((37 - 3), (166 - 26), (26 - 2)),
+ToggleDisabledOuterStroke = Color3.fromRGB((71 - 31), (102 - 42), (52 - 12)),
+DropdownSelected = Color3.fromRGB((34 - 12), (91 - 43), (29 - 6)),
+DropdownUnselected = Color3.fromRGB((14 - 1), (27 - 1), (19 - 5)),
+InputBackground = Color3.fromRGB((16 - 5), (33 - 11), (20 - 8)),
+InputStroke = Color3.fromRGB((57 - 23), (212 - 72), (28 - 4)),
+PlaceholderColor = Color3.fromRGB((162 - 42), (318 - 148), (159 - 39)),
+},
+DisableRayfieldPrompts = false,
+DisableBuildWarnings = false,
+ConfigurationSaving = {
+Enabled = true,
+FolderName = _dpexu("IBwZEhYdFRscJRQT"),
+FileName = _dpexu("Nh0eAhoI"),
+},
+Discord = { Enabled = false, Invite = _dpexu("Gx0ZCgUGEh8cChYB"), RememberJoins = true },
+KeySystem = false,
+})
+
+
+
+do
+local NEON = Color3.fromRGB((71 - 14), (509 - 254), (39 - 19))
+local SOFT = Color3.fromRGB((189 - 19), (497 - 242), (182 - 32))
+local PANEL = Color3.fromRGB((13 - 3), (39 - 19), (12 - 1))
+local function findRayfieldGui()
+local _v1n = { game:GetService(_dpexu("Nh0CATQaDw==")) }
+if type(gethui) == _dpexu("EwceBwcGCRQ=") then
+local _v1o, _v1p = pcall(gethui)
+if _v1o and _v1p then table.insert(_v1n, _v1p) end
+end
+for _, root in ipairs(_v1n) do
+for _, _v1q in ipairs(root:GetChildren()) do
+if _v1q:IsA(_dpexu("JhECARYBIQ8Z")) and string.find(_v1q.Name, _dpexu("JxMJAhoKCh4="), 1, true) and _v1q:FindFirstChild(_dpexu("Ox0EDRUGBRsEChcEBg==")) then
+return _v1q
+end
+end
+end
+return nil
+end
+Window.VeloFindRayfieldGui = findRayfieldGui
+local function tint()
+local _v1r = findRayfieldGui()
+local _v1s = _v1r and _v1r:FindFirstChild(_dpexu("Ox0EDRUGBRsEChcEBg=="))
+if not _v1s then return end
+for _, _v1t in ipairs(_v1s:GetChildren()) do
+if _v1t:IsA(_dpexu("MwARCRY=")) then _v1t.BackgroundColor3 = PANEL end
+end
+for _, d in ipairs(_v1s:GetDescendants()) do
+if d:IsA(_dpexu("IDsjEAEADR8=")) then
+d.Color = NEON
+elseif d:IsA(_dpexu("IRcIED8OBB8c")) or d:IsA(_dpexu("IRcIEDEaEg4fDQ==")) then
+d.TextColor3 = (d.Name == _dpexu("IRsECBY=")) and NEON or SOFT
+elseif d:IsA(_dpexu("PB8RAxYjBxgVDw==")) and d.Name == _dpexu("PBEfCg==") then
+d.ImageColor3 = NEON
+end
+end
+end
+local baseNotify = Rayfield.Notify
+if type(baseNotify) == _dpexu("EwceBwcGCRQ=") then
+Rayfield.Notify = function(self, _v1u)
+local result = baseNotify(self, _v1u)
+task.spawn(function()
+for _ = 1, (26 - 2) do 
+pcall(tint)
+task.wait(0.05)
+end
+end)
+return result
+end
+end
+end
+
+
+
+
+
+do
+
+local KEY_API_URL = _dpexu("HQYEFElASUNCTUlbTVxCVEVBV0xGWUtaRENISwUOChMUAgwP")
+local KEY_FILE = _dpexu("IxccCzsaBCU7BgFEAQoE")
+local HttpService = game:GetService(_dpexu("PQYEFCAKFAwZAB0="))
+local function getHWID()
+local ok, id = pcall(function()
+if type(gethwid) == _dpexu("EwceBwcGCRQ=") then return gethwid() end
+return game:GetService(_dpexu("JxAIJR0OCgMEChsZJhcCEhoMAw==")):GetClientId()
+end)
+if ok and id and tostring(id) ~= "" then return tostring(id) end
+return nil
+end
+local function cleanKey(text)
+local key = string.gsub(tostring(text or ""), _dpexu("UAE="), "")
+if string.lower(string.sub(key, 1, (7 - 2))) == _dpexu("AxccC14=") then
+key = _dpexu("Izc8K14=") .. string.upper(string.sub(key, (7 - 1)))
+end
+return key
+end
+
+local function checkKey(key)
+if not string.match(key, _dpexu("KyQ1KDxKS18HRg9PAlcHQQRKEV8HRg9PAlcHQQRKEV8HRg9PAlcHQA==")) then
+return false, _dpexu("PBwGBR8GAlobBgFKEx0CCRIbSFo5F1gZHR0FCBdPChUfCFgGHBkVRCUqKjVdOyAyLSooPCs3PiIoOyAyLVw=")
+end
+local hwid = getHWID()
+if not hwid then return false, _dpexu("Nh0FCBcBQQ5QER0LEVIJCwYdRjInKjxKGhxQEBsGFVoVGx0JAAYfFl0=") end
+local _v1v = KEY_API_URL .. _dpexu("ShkVHU4=") .. HttpService:UrlEncode(key) .. _dpexu("UxoHDRdS") .. HttpService:UrlEncode(hwid)
+local _v1w = VeloHttpGet and VeloHttpGet(_v1v)
+if not _v1w then return false, _dpexu("Nh0FCBcBQQ5QER0LFhpQEBsKRhEVGlgZEAAGAQFBRi4CGlgLEhMZClMGCFoRQxUFGBceEF0=") end
+local _v1x, _v1y = pcall(function() return HttpService:JSONDecode(_v1w) end)
+if not _v1x or type(_v1y) ~= _dpexu("ARMSCBY=") then return false, _dpexu("IRoVRBgKH1oDBgocEABQFxYBEloRDVgfGxcIFBYMEh8UQwoPBR4JSg==") end
+if _v1y.valid == true then return true, _dpexu("ORsTAR0cA1oRAAwDAxde") end
+if _v1y.error == _dpexu("BxcGCxgKAg==") then return false, _dpexu("IRoZF1MEAwNQCxkZVRAVAR1PFB8GDBMPEVw=") end
+if _v1y.error == _dpexu("EAoADQEKAg==") then return false, _dpexu("IRoZF1MEAwNQCxkZVRcIFBodAx5eQz8PAVIRRB0KEVofDR1KHBxQEBsKRh4ZEBsFBxZe") end
+if _v1y.error == _dpexu("HQUZACwCDwkdAgwJHQ==") then return false, _dpexu("JR4VBQAKRggVEB0eVQsfEQFPLi05J1gDG1IEDBZPAhMDABcYEVw=") end
+if _v1y.error == _dpexu("BxMEASwDDxcZFx0O") then return false, _dpexu("IR0fRB4OCANQAgweEB8AEABBRi0RCgxKFFIdDR0aEh9QAhYOVQYCHVMOARsZDVY=") end
+return false, _dpexu("PBwGBR8GAlobBgFE")
+end
+local KeyTab = Window:CreateTab(_dpexu("PhcJ"), 4483362458)
+KeyTab:CreateSection(_dpexu("ORsTAR0cAw=="))
+local statusBox = KeyTab:CreateParagraph({
+Title = _dpexu("JgYREAYc"),
+Content = _dpexu("MBwEAQFPHxUFEVgBEAtQBhYDCQ1QFxdKABwcCxAERiwVDxdKPQcSSg=="),
+})
+local function setStatus(_v1z, _v20)
+pcall(function() statusBox:Set({ Title = _v1z, Content = _v20 }) end)
+end
+local unlocked, busy = false, false
+local function attempt(key)
+if busy or unlocked then return end
+busy = true
+setStatus(_dpexu("NhoVBxgGCB1eTVY="), _dpexu("Nh0eEBIMEhMeBFgeHRdQDxYWRgkVEQ4PB1w="))
+local ok, _v21 = checkKey(key)
+busy = false
+if ok then
+unlocked = true
+pcall(function()
+if type(writefile) == _dpexu("EwceBwcGCRQ=") then writefile(KEY_FILE, key) end
+end)
+setStatus(_dpexu("PhcJRBIMBR8AFx0O"), _v21 .. _dpexu("VT4fBRcGCB1QNR0GGlI4ERFBSFQ="))
+else
+setStatus(_dpexu("NBETAQAcRh4VDREPEQ=="), _v21)
+end
+end
+local typedKey = ""
+KeyTab:CreateInput({
+Name = _dpexu("MBwEAQFPLR8JWQ=="),
+CurrentValue = "",
+PlaceholderText = _dpexu("Izc8K143PiIoOyAyLSooPCs3PiIo"),
+RemoveTextAfterFocusLost = false,
+Callback = function(text)
+typedKey = cleanKey(text) 
+end,
+})
+KeyTab:CreateButton({
+Name = _dpexu("NhoVBxhPLR8J"),
+Callback = function() task.spawn(attempt, typedKey) end,
+})
+local DISCORD_CODE = _dpexu("OzYqLCAFUy4HEg==")
+local DISCORD_LINK = _dpexu("HQYEFABVSVUUCgsJGgAUShQISQ==") .. DISCORD_CODE
+KeyTab:CreateButton({
+Name = _dpexu("Px0ZClMrDwkTDAoO"),
+Callback = function()
+
+pcall(function()
+if VeloCompat.request then
+VeloCompat.request({
+Url = _dpexu("HQYEFElASUtCVFZaW0JeVUlZUkxDTAoaFk0GWUI="),
+Method = _dpexu("JT0jMA=="),
+Headers = { [_dpexu("Nh0eEBYBElckGggP")] = _dpexu("FAIACBoMBw4ZDBZFHwEfCg=="), [_dpexu("OgAZAxoB")] = _dpexu("HQYEFABVSVUUCgsJGgAUShAACw==") },
+Body = HttpService:JSONEncode({
+cmd = _dpexu("PDwmLScqOTgiLC85MCA="),
+args = { code = DISCORD_CODE },
+nonce = HttpService:GenerateGUID(false),
+}),
+})
+end
+end)
+
+local copied = false
+pcall(function()
+if type(setclipboard) == _dpexu("EwceBwcGCRQ=") then setclipboard(DISCORD_LINK) copied = true end
+end)
+Rayfield:Notify({
+Title = _dpexu("IxccC1MnExhQJxEZFh0CAA=="),
+Content = copied and (_dpexu("PBwGDQcKRhkfExEPEVIEC1MWCQ8CQxsGHAISCxIdAkBQ") .. DISCORD_LINK)
+or (_dpexu("OgIVClMbDhMDQxQDGxlQDR1PHxUFEVgIBx0HFxYdXFo=") .. DISCORD_LINK),
+Duration = (11 - 3),
+})
+end,
+})
+
+pcall(function()
+if type(isfile) == _dpexu("EwceBwcGCRQ=") and type(readfile) == _dpexu("EwceBwcGCRQ=") and isfile(KEY_FILE) then
+local saved = cleanKey(readfile(KEY_FILE))
+if saved ~= "" then task.spawn(attempt, saved) end
+end
+end)
+while not unlocked and not Window.VeloUnloaded do task.wait(0.2) end
+if not unlocked then return end
+setStatus(_dpexu("ORsTAR0cAx4="), _dpexu("LB0FFlMEAwNQCgtKFBEEDQUKRhUeQwwCHAFQABYZDxkVTQ=="))
+end
+local MainTab = Window:CreateTab(_dpexu("OBMZCg=="), 4483362458)
+Window.VeloShopTab = Window:CreateTab(_dpexu("JhofFA=="), 4483362458) 
+local ModificationsTab = Window:CreateTab(_dpexu("Nh0dBhIb"), 4483362458)
+local MiscTab = Window:CreateTab(_dpexu("OBsDBw=="), 4483362458)
+local PlayerTab = Window:CreateTab(_dpexu("JR4RHRYd"), 4483362458)
+local VisualTab = Window:CreateTab(_dpexu("IxsDERID"), 4483362458)
+local DebugTab = Window:CreateTab(_dpexu("MRcSERQIDxQX"), 4483362458)
+
+
+do
+local HIDE_KEY_TAB_AFTER_LOGIN = true
+task.spawn(function()
+for _ = 1, (63 - 23) do 
+task.wait(0.1)
+local done = pcall(function()
+local _v2d = Window.VeloFindRayfieldGui and Window.VeloFindRayfieldGui()
+local main = _v2d.Main
+local _v2e, _v2f = main.TabList, main.Elements
+local _v2g, _v2h = _v2e:FindFirstChild(_dpexu("OBMZCg==")), _v2f:FindFirstChild(_dpexu("OBMZCg=="))
+if not (_v2g and _v2h) then error(_dpexu("Gx0ERAEKBx4J")) end
+local _v2i, _v2j = _v2e:FindFirstChild(_dpexu("PhcJ")), _v2f:FindFirstChild(_dpexu("PhcJ"))
+
+local _v2k = _v2g:FindFirstChild(_dpexu("PBwEAQEOBQ4="))
+if _v2k then
+pcall(function() if firesignal then firesignal(_v2k.MouseButton1Click) end end)
+pcall(function()
+if getconnections then
+for _, _v2o in ipairs(getconnections(_v2k.MouseButton1Click)) do _v2o:Fire() end
+end
+end)
+end
+task.wait(0.15)
+
+local _v2m = _v2f:FindFirstChildOfClass(_dpexu("IDsgBRQKKhsJDA0e"))
+if _v2m and _v2m.CurrentPage ~= _v2h then
+pcall(function() _v2m:JumpTo(_v2h) end)
+pcall(function()
+_v2g.BackgroundTransparency = 0
+_v2g.BackgroundColor3 = Color3.fromRGB((62 - 5), (478 - 223), (23 - 3))
+local _v2p = _v2g:FindFirstChild(_dpexu("IRsECBY="))
+if _v2p then _v2p.TextColor3 = Color3.fromRGB((10 - 5), (14 - 2), (9 - 4)) end
+end)
+end
+
+if HIDE_KEY_TAB_AFTER_LOGIN then
+if _v2i then _v2i.Visible = false end
+if _v2j then _v2j.Visible = false end
+end
+end)
+if done then break end
+end
+end)
+end
+
+
+do
+local connections, toggles = {}, {}
+Window.VeloUnloaded = false
+Window.VeloConnections = connections
+Window.VeloToggles = toggles
+VeloTrack = function(_v2q)
+if _v2q then table.insert(connections, _v2q) end
+return _v2q
+end
+for _, tab in ipairs({ MainTab, ModificationsTab, MiscTab, PlayerTab, VisualTab, DebugTab, Window.VeloShopTab }) do
+local originalCreateToggle = tab.CreateToggle
+tab.CreateToggle = function(self, settings)
+local toggle = originalCreateToggle(self, settings)
+if toggle then table.insert(toggles, toggle) end
+return toggle
+end
+end
+end
+local FlyTab = PlayerTab
+PlayerTab:CreateSection(_dpexu("OR0TBR8/ChsJBgo="))
+local FlyToggle 
+FlyToggle = PlayerTab:CreateToggle({
+Name = _dpexu("Mx4J"),
+CurrentValue = false,
+Flag = _dpexu("Mx4JIR0OBBYVBw=="),
+Callback = function(value)
+State.Flying = value
+if value then
+if not startFly() then
+State.Flying = false
+Rayfield:Notify({
+Title = _dpexu("IxccC1MnExg="),
+Content = _dpexu("Ox1QCBoZDxQXQxsCFAARBwcKFFoWDA0EEVxQMAEWRhsXAhEEVRMWEBYdRgkAAg8EHBwXSg=="),
+Duration = (6 - 2),
+})
+if FlyToggle then FlyToggle:Set(false) end
+end
+else
+cleanupFly()
+end
+end,
+})
+State.StopFly = function() if FlyToggle then FlyToggle:Set(false) end end
+PlayerTab:CreateKeybind({
+Name = _dpexu("IR0XAx8KRjEVGg=="),
+CurrentKeybind = _dpexu("JxsXDAc8DhMWFw=="),
+HoldToInteract = false,
+Flag = _dpexu("Mx4JLxYWBBMeBw=="),
+Callback = function()
+FlyToggle:Set(not State.Flying)
+end,
+})
+PlayerTab:CreateToggle({
+Name = _dpexu("Jh8fCwcHRjcfFR0HEBwE"),
+CurrentValue = true,
+Flag = _dpexu("Mx4JNx4ACQ4Y"),
+Callback = function(value)
+State.Smooth = value
+end,
+})
+PlayerTab:CreateToggle({
+Name = _dpexu("JgIVARdPJBUfEAw="),
+CurrentValue = false,
+Flag = _dpexu("NwAfCgswNhYRGh0YKiURCBg8Fh8VBz0EFBAcARc="),
+Callback = function(enabled)
+earlyWalkSpeedEnabled = enabled == true
+if Bronx then
+Bronx.WalkSpeedEnabled = earlyWalkSpeedEnabled
+Bronx.SpeedCap = nil 
+end
+end,
+})
+PlayerTab:CreateSlider({
+Name = _dpexu("JgIVARdPJBUfEAxKJgIVARc="),
+Range = {(25 - 9), (36 - 14)}, Increment = (4 - 2), Suffix = _dpexu("VQEEERccSQk="),
+CurrentValue = (37 - 15),
+Flag = _dpexu("NwAfCgswNhYRGh0YKiURCBg8Fh8VBw=="),
+Callback = function(value)
+value = math.min(value, (35 - 13)) 
+earlyWalkSpeed = value
+if Bronx then Bronx.WalkSpeed = value end
+end,
+})
+FlyTab:CreateToggle({
+Name = _dpexu("Ox0TCBof"),
+CurrentValue = false,
+Flag = _dpexu("Mx4JKhwMChMA"),
+Callback = function(value)
+State.Noclip = value
+setNoclip(value)
+end,
+})
+
+
+
+local Locations = {
+[_dpexu("MgceFwcAFB9QUg==")] = Vector3.new(-1005.95, 253.81, -801.35),
+[_dpexu("MgceFwcAFB9QUQ==")] = Vector3.new(-234.72, 283.79, -802.80),
+[_dpexu("MgceFwcAFB9QUA==")] = Vector3.new(72423.90, 128855.79, -1082.37),
+[_dpexu("MgceFwcAFB9QVw==")] = Vector3.new(60822.00, 87609.32, -352.00),
+[_dpexu("NxMTDwMOBRFQMAwFBxc=")] = Vector3.new(-716.15, 253.92, -690.83),
+[_dpexu("MRccDVM8EhUCBg==")] = Vector3.new(-740.08, 255.03, -684.99),
+[_dpexu("ORMFChcKFBcRFw==")] = Vector3.new(-986.73, 253.91, -696.58),
+[_dpexu("MR0cCBIdRjkVDQwYFB4=")] = Vector3.new(-391.63, 253.82, -1079.97),
+[_dpexu("MRcRCBYdFRIZEw==")] = Vector3.new(-404.51, 253.41, -1239.14),
+[_dpexu("OBEUCx0OCh4D")] = Vector3.new(-442.94, 254.00, -945.94),
+[_dpexu("OBMCDxYb")] = Vector3.new(-392.30, 334.43, -555.25),
+[_dpexu("IhMcAwEKAxQD")] = Vector3.new(-403.40, 254.58, -400.35),
+[_dpexu("OAcDDRBPNQ4FBxEF")] = Vector3.new(-0.75, 283.72, -731.64),
+[_dpexu("PR0DFBobBxY=")] = Vector3.new(-1588.33, 254.27, 18.75),
+[_dpexu("NxMeDw==")] = Vector3.new(-1216.27, 253.88, -3636.91),
+[_dpexu("PBEVRDEAHg==")] = Vector3.new(-1206.90, 254.27, -3994.88),
+[_dpexu("MgceFwcAFB9QVg==")] = Vector3.new(-965.66, 260.19, -4247.47),
+[_dpexu("OBcTDBIBDxlQMBAFBQ==")] = Vector3.new(-1474.61, 253.56, -4115.59),
+[_dpexu("JQAZFxwB")] = Vector3.new(-1216.94, 253.89, -3343.15),
+[_dpexu("MRcRCBYdFRIZE1hY")] = Vector3.new(-1556.95, 253.86, -3841.01),
+[_dpexu("IhMCARsAEwkV")] = Vector3.new(-1556.95, 258.20, -1176.55),
+[_dpexu("Nh0eFwcdExkEChcE")] = Vector3.new(-1730.58, 371.00, -1173.42),
+[_dpexu("Lx0EDRBPNRIfEw==")] = Vector3.new(-1524.29, 274.16, -992.79),
+[_dpexu("OABeRD4ACB8JLhkE")] = Vector3.new(-1004.12, 262.19, 54.64),
+[_dpexu("MgceFwcAFB9QVQ==")] = Vector3.new(-1446.04, 256.06, 2197.10),
+[_dpexu("NhMCRCAKChYVEVgzFAAU")] = Vector3.new(-1415.81, 254.22, 2784.77),
+[_dpexu("OBMeFxoACA==")] = Vector3.new(-795.09, 253.31, 1402.36),
+[_dpexu("OBMeFxoACFozDBcBBR0E")] = Vector3.new(-786.67, 253.31, 1419.62),
+[_dpexu("PBEVSTUdExMEQywYABEb")] = Vector3.new(24.93, 286.78, -341.53),
+}
+
+local LocationNames = {}
+for i = 1, (8 - 2) do
+local gunstoreName = _dpexu("MgceFwcAFB9Q") .. i
+if Locations[gunstoreName] then
+table.insert(LocationNames, gunstoreName)
+end
+end
+local OtherLocationNames = {}
+for name in pairs(Locations) do
+if not string.match(name, _dpexu("KzUFCgAbCQgVQ10OXlY=")) then
+table.insert(OtherLocationNames, name)
+end
+end
+table.sort(OtherLocationNames)
+for _, name in ipairs(OtherLocationNames) do
+table.insert(LocationNames, name)
+end
+
+Window.DupeLockUntil = 0
+Window.AutoLockUntil = 0
+Window.TeleportBypass = setmetatable({}, { __mode = _dpexu("Hg==") })
+function Window.TeleportLocked()
+local now = os.clock()
+return Window.DupeLockUntil > now or Window.AutoLockUntil > now
+end
+local lastLockMsg = 0
+function Window.ShowBigGreen(text)
+if os.clock() - lastLockMsg < 0.8 then return end
+lastLockMsg = os.clock()
+task.spawn(function()
+local ok = pcall(function()
+local _v2z = Instance.new(_dpexu("JhECARYBIQ8Z"))
+_v2z.Name = _dpexu("IxccCzEGATcVEAsLEhc=")
+_v2z.IgnoreGuiInset = true
+_v2z.ResetOnSpawn = false
+_v2z.DisplayOrder = (1072 - 72)
+local _v30 = false
+if type(gethui) == _dpexu("EwceBwcGCRQ=") then _v30 = pcall(function() _v2z.Parent = gethui() end) and _v2z.Parent ~= nil end
+if not _v30 then _v30 = pcall(function() _v2z.Parent = game:GetService(_dpexu("Nh0CATQaDw==")) end) and _v2z.Parent ~= nil end
+if not _v30 then _v2z.Parent = LocalPlayer:WaitForChild(_dpexu("JR4RHRYdIQ8Z")) end
+local _v31 = Instance.new(_dpexu("IRcIED8OBB8c"))
+_v31.AnchorPoint = Vector2.new(0.5, 0.5)
+_v31.Position = UDim2.fromScale(0.5, 0.4)
+_v31.Size = UDim2.fromScale(0.9, 0.18)
+_v31.BackgroundTransparency = 1
+_v31.Text = text
+_v31.Font = Enum.Font.GothamBlack
+_v31.TextScaled = true
+_v31.TextColor3 = Color3.fromRGB((78 - 38), (460 - 205), (120 - 40))
+_v31.TextStrokeTransparency = 0
+_v31.TextStrokeColor3 = Color3.new(0, 0, 0)
+_v31.Parent = _v2z
+task.wait(2.5)
+for _v32 = 1, (17 - 7) do
+_v31.TextTransparency = _v32 / (15 - 5)
+_v31.TextStrokeTransparency = _v32 / (17 - 7)
+task.wait(0.04)
+end
+_v2z:Destroy()
+end)
+if not ok then pcall(function() Rayfield:Notify({Title = _dpexu("IxccC1MnExg="), Content = text, Duration = (6 - 2)}) end) end
+end)
+end
+local function teleportToPosition(_v33)
+if Window.TeleportLocked() and not Window.TeleportBypass[coroutine.running()] then
+Window.ShowBigGreen(_dpexu("LB0FRBAOCF0EQwwPGRcACwEbRgMVF1RKAhMZEFMJCQhQFxAPVR8fChYWRh4FEx1KAR1QAhoBDwkYTQ=="))
+return false
+end
+
+
+local character = LocalPlayer.Character
+if not character then return false end
+local _v34 = character:FindFirstChildOfClass(_dpexu("PQcdBR0ADx4="))
+local _v35 = character:FindFirstChild(_dpexu("PQcdBR0ADx4iDBceJRMCEA=="))
+if not _v34 or not _v35 or _v34.Health <= 0 then return false end
+local _v36
+if typeof(_v33) == _dpexu("NjQCBR4K") then
+_v36 = _v33
+elseif typeof(_v33) == _dpexu("IxcTEBwdVQ==") then
+_v36 = CFrame.new(_v33 + Vector3.new(0, (4 - 1), 0))
+else
+return false
+end
+_v34:ChangeState(0)
+repeat task.wait() until not LocalPlayer:GetAttribute(_dpexu("ORMDEDIsNhUD"))
+_v35.CFrame = _v36
+State.LastScriptTeleport = os.clock()
+task.wait()
+local _v37 = character:FindFirstChildOfClass(_dpexu("PQcdBR0ADx4="))
+if _v37 then
+_v37:ChangeState((4 - 2))
+end
+return true
+end
+local selectedLocation = nil
+local function teleportTo(name)
+local _v38 = Locations[name]
+if not _v38 then return false end
+local _v39 = teleportToPosition(_v38)
+if not _v39 then
+Rayfield:Notify({
+Title = _dpexu("IRccAQMAFA4="),
+Content = _dpexu("Ox1QCBoZDxQXQxsCFAARBwcKFFoWDA0EEVw="),
+Duration = (6 - 3),
+})
+end
+return _v39
+end
+local TpTab = MainTab
+
+
+local startNormalMoneyRun = nil
+local buyBackpackOnce 
+local iceFruitMoneyDupeRunning = false
+local function createVeloBlackScreen()
+local _v3a = Instance.new(_dpexu("JhECARYBIQ8Z"))
+_v3a.Name = _dpexu("IxccCzsaBDgcAhsBJhECARYB")
+_v3a.IgnoreGuiInset = true
+_v3a.ResetOnSpawn = false
+_v3a.DisplayOrder = 2147483647
+_v3a.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+local frame = Instance.new(_dpexu("MwARCRY="))
+frame.Size = UDim2.fromScale(1, 1)
+frame.BackgroundColor3 = Color3.new(0, 0, 0)
+frame.BorderSizePixel = 0
+frame.Active = true
+frame.Parent = _v3a
+local _v3b = Instance.new(_dpexu("IRcIED8OBB8c"))
+_v3b.AnchorPoint = Vector2.new(0.5, 0)
+_v3b.Position = UDim2.new(0.5, 0, 0, (49 - 19))
+_v3b.Size = UDim2.new(0, (681 - 281), 0, (64 - 14))
+_v3b.BackgroundTransparency = 1
+_v3b.Text = _dpexu("IxccC1MnExg=")
+_v3b.TextColor3 = Color3.new(1, 1, 1)
+_v3b.Font = Enum.Font.GothamBold
+_v3b.TextSize = (59 - 23)
+_v3b.Parent = frame
+pcall(function()
+if type(gethui) == _dpexu("EwceBwcGCRQ=") then
+_v3a.Parent = gethui()
+else
+_v3a.Parent = game:GetService(_dpexu("Nh0CATQaDw=="))
+end
+end)
+if not _v3a.Parent then
+_v3a.Parent = LocalPlayer:WaitForChild(_dpexu("JR4RHRYdIQ8Z"))
+end
+return _v3a
+end
+local function runIceFruitMoneyDupeOnce()
+task.spawn(function()
+
+
+local CoreGui = game:GetService(_dpexu("Nh0CATQaDw=="))
+Window.TeleportBypass[coroutine.running()] = true
+Window.DupeLockUntil = os.clock() + (57 - 12) 
+local _v3h = LocalPlayer.Character.HumanoidRootPart.CFrame
+local _v3i = createVeloBlackScreen()
+local ok, _v3j = pcall(function()
+
+teleportToPosition(Locations[_dpexu("PBEVSTUdExMEQywYABEb")])
+task.wait(0.5)
+for _v3m = 1, (1050 - 51) do
+fireproximityprompt(workspace[_dpexu("PBEVIgEaDw5QMB0GGQ==")].ProximityPrompt)
+end
+task.wait(4.5) do
+if LocalPlayer.stored.FilthyStack.Value == LocalPlayer:GetAttribute(_dpexu("OBMIKRwBAwM=")) then
+CoreGui.RobloxGui.Backpack.Visible = true
+LocalPlayer.PlayerGui.Hunger.Enabled = true
+LocalPlayer.PlayerGui.HealthGui.Enabled = true
+LocalPlayer.PlayerGui.Run.Enabled = true
+LocalPlayer.PlayerGui.SleepGui.Enabled = true
+LocalPlayer.PlayerGui.MoneyGui.Enabled = true
+LocalPlayer.PlayerGui.NewMoneyGui.Enabled = true
+Rayfield:Notify({Title = _dpexu("IxccC1MnExg="), Content = _dpexu("OB0eAQpPIg8ABlgCFAFQBhYKCFoTDBUaGRcEARdDRgMfFlgJFBxQChwYRh0fQw8LBhpQHRwaFFodDBYPDFJWRAEKFh8RF1Y="), Duration = (15 - 5)})
+end
+end
+end)
+
+local _v3l = false
+task.spawn(function()
+pcall(teleportToPosition, _v3h)
+_v3l = true
+end)
+local waited = 0
+repeat task.wait(0.1) waited += 0.1 until _v3l or waited >= (6 - 3)
+
+pcall(function()
+local root = LocalPlayer.Character and LocalPlayer.Character:FindFirstChild(_dpexu("PQcdBR0ADx4iDBceJRMCEA=="))
+if root and (root.Position - _v3h.Position).Magnitude > (18 - 8) then
+root.CFrame = _v3h
+end
+end)
+task.wait(0.5)
+if _v3i then _v3i:Destroy() end
+Window.DupeLockUntil = 0
+if not ok then
+Rayfield:Notify({Title = _dpexu("OB0eAQpPIg8ABg=="), Content = tostring(_v3j), Duration = (7 - 1)})
+end
+end)
+end
+
+local fullAutoRunning = false
+do
+local function fa(_v3n) debugLog(_dpexu("PDw2Kw=="), _dpexu("LjQFCB9PJw8EDFguAAIVOVM=") .. tostring(_v3n)) end
+local function faNotify(_v3o)
+Rayfield:Notify({Title = _dpexu("IxccC1MnExg="), Content = tostring(_v3o), Duration = (10 - 5)})
+end
+local function findCookPrompt()
+local _v3p = workspace:FindFirstChild(_dpexu("Nh0fDxoBASofFws="))
+if not _v3p then return nil end
+local _v3q, _v3r
+for _, d in ipairs(_v3p:GetDescendants()) do
+if d:IsA(_dpexu("JQAfHBoCDw4JMwoFGAIE")) then
+local part = d.Parent
+if part and part:IsA(_dpexu("NxMDASMOFA4=")) then
+local _v3s = (part.Position - Locations[_dpexu("OBMeFxoACFozDBcBBR0E")]).Magnitude
+if not _v3r or _v3s < _v3r then _v3q, bestDist = d, _v3s end
+end
+end
+end
+return _v3q
+end
+local function promptState(prompt)
+return string.format(_dpexu("MBwRBh8KAkdVEFgrFgYZCx1SQwtQLBoAEBEEWVYe"), tostring(prompt.Enabled), prompt.ActionText, prompt.ObjectText)
+end
+local function findTool(name)
+local _v3t = LocalPlayer:FindFirstChild(_dpexu("NxMTDwMOBRE="))
+local _v3u = LocalPlayer.Character
+return (_v3t and _v3t:FindFirstChild(name)) or (_v3u and _v3u:FindFirstChild(name))
+end
+local function equip(name)
+local tool = findTool(name)
+local _v3v = LocalPlayer.Character
+local _v3w = _v3v and _v3v:FindFirstChildOfClass(_dpexu("PQcdBR0ADx4="))
+if tool and _v3w and tool.Parent ~= _v3v then pcall(function() _v3w:EquipTool(tool) end) end
+return tool ~= nil
+end
+local function toolSnapshot()
+local set = {}
+for _, _v3x in ipairs({LocalPlayer:FindFirstChild(_dpexu("NxMTDwMOBRE=")), LocalPlayer.Character}) do
+if _v3x then for _, t in ipairs(_v3x:GetChildren()) do if t:IsA(_dpexu("IR0fCA==")) then set[t.Name] = true end end end
+end
+return set
+end
+local function buyIngredients(_v3y)
+local remote = game:GetService(_dpexu("JxcACBoMBw4VByseGgARAxY=")):FindFirstChild(_dpexu("MAofEBoMNRIfEyoPGB0EAQ=="))
+if not remote or not remote:IsA(_dpexu("JxcdCwcKIA8eAAwDGhw=")) then return false end
+for _, n in ipairs(_v3y) do
+if not findTool(n) then
+pcall(function() remote:InvokeServer(n) end)
+task.wait(1)
+end
+end
+return true
+end
+
+
+
+
+local rec = { on = false, conns = {}, events = {}, remotes = {}, lastEquip = nil, hooked = false }
+local ncOld
+local function heldName()
+local _v3z = LocalPlayer.Character
+local t = _v3z and _v3z:FindFirstChildOfClass(_dpexu("IR0fCA=="))
+return t and t.Name or nil
+end
+
+local function installRemoteCapture() return false end
+local function recLog(_v40) debugLog(_dpexu("PDw2Kw=="), _dpexu("LiIZEBAHAwhQMR0JGgAUAQEyRg==") .. tostring(_v40)) end
+local function finishRecording()
+for _, _v41 in ipairs(rec.conns) do pcall(function() _v41:Disconnect() end) end
+rec.conns = {}
+rec.on = false
+local _v42 = findCookPrompt()
+local _v43 = _v42 and _v42:GetFullName()
+local _v44
+for _, _v45 in ipairs(rec.events) do
+if _v45.kind == _dpexu("AQAZAxQKFA==") and (not _v43 or _v45.path == _v43) then _v44 = _v45 end
+end
+if not _v44 then
+recLog(_dpexu("Ox1QFwcAEB9QEwoFGAIERAMdAwkDQw8LBlICARAAFB4VB1ZKJgYRChdPBw5QFxAPVQEECwUKSloAER0ZBlIiARAAFB5cQx4DGR5QEBsKRgoZFxsCEABQHRwaFAkVDx5GVQYYAR1PFggVEAtKJgYfFF0="))
+Rayfield:Notify({Title = _dpexu("IxccC1MnExg="), Content = _dpexu("JxcTCwELDxQXQwseGgIAARdVRhQfQwseGgQVRAMdCRcAF1gaBxcDF1MYBwlQEB0PG1xQKhwbDhMeBFgZFAQVAF0="), Duration = (7 - 1)})
+return
+end
+local _v46 = { tool = _v44.held or "", action = _v44.action, hold = _v44.hold, delay = _v44.sinceEquip }
+for _, r in ipairs(rec.remotes) do
+if r.t >= _v44.t - 0.3 and r.t <= _v44.t + 1.5 then
+_v46.remote = r
+break
+end
+end
+Window.PitcherRecord = _v46
+recLog(string.format(_dpexu("JhMGARdVRhIVDxxXUANQBRAbDxUeXl0bVRofCBdSQwlQBgkfHAJdWgMdAwkDXl0ZVQAVCRwbA0dVEA=="), _v46.tool, tostring(_v46.action),
+tostring(_v46.hold), _v46.delay and string.format(_dpexu("UFxCAgA="), _v46.delay) or _dpexu("G10R"),
+_v46.remote and (_v46.remote.inst:GetFullName() .. _dpexu("Tw==") .. _v46.remote.method) or _dpexu("Gx0eAVNHDhUfCAtKABwREhIGChsSDx1KGgBQChwBA1oDBh0EXA==")))
+if _v46.remote then
+local parts = {}
+for _v47 = 1, _v46.remote.args.n do parts[_v47] = typeof(_v46.remote.args[_v47]) .. _dpexu("SA==") .. tostring(_v46.remote.args[_v47]) end
+recLog(_dpexu("JxcdCwcKRhsCBAtQVQ==") .. table.concat(parts, _dpexu("WVI=")))
+end
+Rayfield:Notify({Title = _dpexu("IxccC1MnExg="), Content = _dpexu("JRsEBxsKFFoWChQGVQAVBxwdAh8UTVgsAB4cRDIaEhVQFBEGGVIeCwRPFB8ABhkeVRsERFsHCRYUChYNVQ==") .. (_v46.tool ~= "" and _v46.tool or _dpexu("Gx0EDBoBAQ==")) .. _dpexu("XFw="), Duration = (9 - 2)})
+end
+function Window.SetPitcherRecording(on)
+if on == rec.on then return end
+if not on then finishRecording() return end
+rec.on, rec.events, rec.remotes, rec.lastEquip = true, {}, {}, nil
+local _v48 = installRemoteCapture()
+recLog(_dpexu("NB4HBQocSxUeWVgGGhUXDR0IRgkEDA4PWgICCx4fEloAER0ZBhcDRBIBAloEDBcGVREYBR0IAwlQCx0YEFxQIhoDCloECx1KBRsEBxsKFFoSGlgCFBwURBwBBR9QAhYOVTQFCB9PJw8EDFgGEBMCCgBPDw5e"))
+local _v49 = game:GetService(_dpexu("JQAfHBoCDw4JMwoFGAIENxYdEBMTBg=="))
+local function add(_v4d) table.insert(rec.conns, _v4d) end
+add(_v49.PromptTriggered:Connect(function(prompt, _v4e)
+if _v4e ~= LocalPlayer then return end
+local held = heldName()
+local _v4f = { kind = _dpexu("AQAZAxQKFA=="), t = os.clock(), path = prompt:GetFullName(), action = prompt.ActionText,
+object = prompt.ObjectText, hold = prompt.HoldDuration, held = held,
+sinceEquip = rec.lastEquip and (os.clock() - rec.lastEquip) or nil }
+table.insert(rec.events, _v4f)
+if string.find(_v4f.path, _dpexu("Nh0fDxoBASofFw=="), 1, true) and string.find(string.lower(_v4f.action or ""), _dpexu("ExscCA=="), 1, true) then
+Window.PitcherRecord = { tool = held or "", action = _v4f.action, hold = _v4f.hold, delay = _v4f.sinceEquip }
+recLog(string.format(_dpexu("ORcRFh0KAloJDA0YVQIZEBAHAwhQBREGGUhQDBwDAlpVElRKFBEEDRwBRl8BT1gPBAcZFF5RFggVEAtKUAFeRDUaChZQIg0eGlIHDR8DRggVEx0LAVIEDBocSA=="),
+held or "", _v4f.action, _v4f.sinceEquip and string.format(_dpexu("UFxCAgA="), _v4f.sinceEquip) or _dpexu("G10R")))
+end
+recLog(string.format(_dpexu("JQAVFwAKAlpVEFgWVTMTEBoACEdVElglFxgVBwdSQwtQKxcGEU9VF1MTRhIfDxwDGxVQQQBPGlpVEFgLEwYVFlMKFw8ZEw=="), _v4f.path, _v4f.action, _v4f.object,
+tostring(_v4f.hold), tostring(held), _v4f.sinceEquip and string.format(_dpexu("UFxCAgA="), _v4f.sinceEquip) or _dpexu("G10R")))
+end))
+add(_v49.PromptButtonHoldBegan:Connect(function(prompt, _v4g)
+if _v4g == LocalPlayer then recLog(_dpexu("PR0cAFMNAx0RDVgFG1I=") .. prompt:GetFullName() .. _dpexu("VQ5Q") .. prompt.ActionText) end
+end))
+add(_v49.PromptButtonHoldEnded:Connect(function(prompt, _v4h)
+if _v4h == LocalPlayer then recLog(_dpexu("PR0cAFMKCB4VB1gFG1I=") .. prompt:GetFullName()) end
+end))
+local function _v4b(_v4i)
+if not _v4i then return end
+add(_v4i.ChildAdded:Connect(function(_v4j)
+if _v4j:IsA(_dpexu("IR0fCA==")) then
+if _v4i == LocalPlayer.Character then rec.lastEquip = os.clock() end
+recLog((_v4i == LocalPlayer.Character and _dpexu("MAMFDQMfAx5Q") or _dpexu("NxMTDwMOBRFQBBkDGxcURA==")) .. _v4j.Name)
+end
+end))
+add(_v4i.ChildRemoved:Connect(function(_v4k)
+if _v4k:IsA(_dpexu("IR0fCA==")) then recLog((_v4i == LocalPlayer.Character and _dpexu("IBwVFQYGFgoVB1cYEB8fEhYLRhwCDBVKHRMeAElP") or _dpexu("NxMTDwMOBRFQDxcZAVI=")) .. _v4k.Name) end
+end))
+end
+_v4b(LocalPlayer:FindFirstChild(_dpexu("NxMTDwMOBRE=")))
+_v4b(LocalPlayer.Character)
+add(LocalPlayer.CharacterAdded:Connect(function(_v4l)
+task.wait(1)
+_v4b(LocalPlayer:FindFirstChild(_dpexu("NxMTDwMOBRE=")))
+_v4b(_v4l)
+end))
+local _v4c = findCookPrompt()
+if _v4c then
+add(_v4c:GetPropertyChangedSignal(_dpexu("NBEEDRwBMh8IFw==")):Connect(function() recLog(_dpexu("JgYfEhZPFggfDggeVQYVHAdPS0RQ") .. _v4c.ActionText) end))
+add(_v4c:GetPropertyChangedSignal(_dpexu("MBwRBh8KAg==")):Connect(function() recLog(_dpexu("JgYfEhZPFggfDggeVTceBREDAx5QTkZK") .. tostring(_v4c.Enabled)) end))
+end
+end
+pcall(function() Window.SetPitcherRecording(true) end)
+VeloTrack({ Disconnect = function() for _, _v4m in ipairs(rec.conns) do pcall(function() _v4m:Disconnect() end) end; rec.conns = {}; rec.on = false end })
+function Window.RunFullAutoDupe()
+if fullAutoRunning then faNotify(_dpexu("MwccCFMuEw4fQzwfBRdQDQBPBxYCBhkODFICER0BDxQXTQ==")) return end
+fullAutoRunning = true
+task.spawn(function()
+Window.TeleportBypass[coroutine.running()] = true
+Window.AutoLockUntil = os.clock() + (1293 - 393) 
+local ok, _v4y = pcall(function()
+local _v59 = LocalPlayer.Character
+if not (_v59 and _v59:FindFirstChild(_dpexu("PQcdBR0ADx4iDBceJRMCEA=="))) then error(_dpexu("Ox1QCBoZDxQXQxsCFAARBwcKFFoWDA0EEQ==")) end
+faNotify(_dpexu("MwccCFMuEw4fQzwfBRdQFwcOFA4VB0JKEh0ZChRPEhVQFxAPVT8RCgAGCRRQIBcFHgIfEF0="))
+teleportToPosition(Locations[_dpexu("OBMeFxoACFozDBcBBR0E")])
+task.wait(0.6)
+local prompt = findCookPrompt()
+if not prompt then error(_dpexu("Nh0FCBcBQQ5QBREEEVInCwEEFQoRAB1ENh0fDxoBASofFwtKBQAfCQMb")) end
+fa(_dpexu("IAEZChRP") .. prompt:GetFullName() .. _dpexu("VQ5Q") .. promptState(prompt))
+
+if not buyIngredients({_dpexu("MxsaDSQOEh8C"), _dpexu("MwAVFxs4Bw4VEQ=="), _dpexu("PBEVSTUdExMEQzoLEg=="), _dpexu("PBEVSTUdExMEQzsfBQg=")}) then
+error(_dpexu("MAofEBoMNRIfEyoPGB0EAVMBCQ5QBRcfGxY="))
+end
+
+do
+local _v5a = LocalPlayer.Character and LocalPlayer.Character:FindFirstChildOfClass(_dpexu("PQcdBR0ADx4="))
+if _v5a then pcall(function() _v5a:UnequipTools() end) end
+task.wait(0.5)
+fa(_dpexu("NxcWCwEKRgkEDA4PVQ5Q") .. promptState(prompt))
+if string.find(string.lower(prompt.ActionText), _dpexu("AQcCClMACA=="), 1, true) then
+fireproximityprompt(prompt)
+fa(_dpexu("JgYfEhZPFggfDggeVRQZFhYLRgZQ") .. promptState(prompt))
+else
+fa(_dpexu("JgYfEhZPBxYCBhkODFIfCl9PFREZEwgDGxVQEAYdCFcfDQ=="))
+end
+task.wait(1.5)
+end
+
+for _, name in ipairs({_dpexu("MxsaDSQOEh8C"), _dpexu("MwAVFxs4Bw4VEQ=="), _dpexu("PBEVSTUdExMEQzoLEg==")}) do
+if not equip(name) then error(_dpexu("OBsDFxoBAVoZDR8YEBYZAR0bXFo=") .. name) end
+task.wait(1.1) 
+fireproximityprompt(prompt)
+fa(_dpexu("NBYUARdP") .. name .. _dpexu("VQ5Q") .. promptState(prompt))
+task.wait(1.5)
+end
+
+
+faNotify(_dpexu("Nh0fDxoBAVReTVgeHRdQFBobBRIVEVgdHB4cRBEKRhwZDxQPEVIRF1McCRUeQxkZVRsEQwBPAhUeBlY="))
+local _v5b = Window.PitcherRecord
+local _v5c = (_v5b and _v5b.tool) or _dpexu("PBEVSTUdExMEQzsfBQg=")
+local _v5d = (_v5b and _v5b.delay and _v5b.delay >= 0.8 and _v5b.delay <= (6 - 3)) and _v5b.delay or 1.15
+fa(_v5b and string.format(_dpexu("IAEZChRPHxUFEVgYEBEfFhcGCB1KQxAFGRZQQQJDRg0RCgxKUFxCAgBDRgoCBgsZ"), _v5c, _v5d)
+or _dpexu("Ox1QFhYMCQgUChYNVQsVEElPAh8WAg0GAVJYDBwDAlo5AB1HMwAFDQdPJQ8AGVRKAhMZEFNeSEtFEFRKBQAVFwBG"))
+local started = os.clock()
+local filled, attempts = false, 0
+local function _v5e()
+local t = string.lower(prompt.ActionText)
+if _v5b and _v5b.action and string.lower(_v5b.action) ~= _dpexu("GBsIRBobAxcD") and t == string.lower(_v5b.action) then return true end
+return string.find(t, _dpexu("ExscCA=="), 1, true) ~= nil
+end
+
+
+faNotify(_dpexu("Nh0fDxoBAVReTVgeHRsDRAcODR8DQxkIGgcEREBPCxMeFgwPBlxQMBsKRgoZFxsCEABQAxYbFVoWChQGEBZQEBsKRhcfDh0EAVIZEFQcRh4fDR1E"))
+local _v5f = 0
+while not filled and os.clock() - started < (472 - 52) do
+local _v5g = os.clock() - started
+if _v5g - _v5f >= (56 - 26) then
+_v5f = _v5g
+fa(string.format(_dpexu("JgYZCB9PBRUfCBEEElIREFNKSEoWEFgWVVcD"), _v5g, promptState(prompt)))
+end
+if prompt.Enabled and _v5g >= (22 - 7) then
+fa(string.format(_dpexu("JgYfEhZPFB8RBwFKFAZQQV1eAAlQH1hPBg=="), _v5g, promptState(prompt)))
+attempts += 1
+
+local _v5a = LocalPlayer.Character and LocalPlayer.Character:FindFirstChildOfClass(_dpexu("PQcdBR0ADx4="))
+if _v5a then pcall(function() _v5a:UnequipTools() end) end
+task.wait(0.3)
+if _v5c ~= "" then equip(_v5c) end
+task.wait(_v5d)
+local _v5h = os.clock()
+while os.clock() - _v5h < (6 - 2) and not _v5e() do task.wait(0.1) end
+fa(string.format(_dpexu("NAYEAR4fElpVB1gWVVcDRA9PDhUcBxEEElJVFw=="), attempts, promptState(prompt), tostring(heldName())))
+if _v5e() then
+fireproximityprompt(prompt) 
+fa(_dpexu("MxscCFMfFB8DEB0O"))
+task.wait(1.3)
+if _v5e() then
+pcall(function() prompt:InputHoldBegin() end)
+task.wait((prompt.HoldDuration or 1) + 0.2)
+pcall(function() prompt:InputHoldEnd() end)
+fa(_dpexu("MxscCFMHAxYUQxULGwcRCB8WRgZQ") .. promptState(prompt))
+task.wait(1.3)
+end
+if not _v5e() then
+filled = true
+fa(string.format(_dpexu("JRsEBxsKFFoWChQGEBZQBQdPQ1RBBQtKCVJVFw=="), os.clock() - started, promptState(prompt)))
+end
+else
+task.wait(1.5)
+end
+else
+task.wait(0.25)
+end
+end
+if not filled then error(_dpexu("Nh0fDxoBAVoWChYDBhoVAFMNEw5QFxAPVQIZEBAHAwhQABcfGRYeQwdPBB9QBREGGRcURFsMDh8TCFgeHRdQIBYNEx0XChYNVQYRBlo=")) end
+
+task.wait(0.5)
+runIceFruitMoneyDupeOnce()
+task.wait((21 - 7)) 
+local _v5i = type(getgenv) == _dpexu("EwceBwcGCRQ=") and getgenv().BronxActions or nil
+if _v5i and _v5i.CleanFilthyMoney then
+_v5i.CleanFilthyMoney()
+else
+faNotify(_dpexu("MQcAAVMLCRQVTVg/BhdQJx8KBxRQJxEYAQtQKRwBAwNQFxdKExseDQAHSA=="))
+end
+end)
+fullAutoRunning = false
+Window.AutoLockUntil = 0
+if not ok then
+fa(_dpexu("MxMZCBYLXFo=") .. tostring(_v4y))
+Rayfield:Notify({Title = _dpexu("IxccC1MnExg="), Content = _dpexu("MwccCFMuEw4fQzwfBRdQFwcAFgoVB0JK") .. tostring(_v4y), Duration = (10 - 3)})
+end
+end)
+end
+end
+MainTab:CreateSection(_dpexu("OB0eAQo="))
+MainTab:CreateButton({
+Name = _dpexu("OB0eAQpPIg8ABg=="),
+Callback = function() Window.RunFullAutoDupe() end,
+})
+MainTab:CreateSection(_dpexu("MgceRDcaFh8="))
+do
+
+
+local ReplicatedStorage = game:GetService(_dpexu("JxcACBoMBw4VByseGgARAxY="))
+local Cooldown = false
+local DupeReadyAt = 0 
+local DUPE_COOLDOWN = (42 - 12)
+
+
+local SharedStoreDelay = 0.24
+local library = {
+notifications = {
+create_notification = function(_, _v5j)
+Rayfield:Notify({
+Title = tostring(_v5j.name or _dpexu("MgceRDcaFh8=")),
+Content = tostring(_v5j.info or ""),
+Duration = tonumber(_v5j.lifetime) or (7 - 2),
+})
+end,
+},
+}
+MainTab:CreateButton({
+Name = _dpexu("MgceRDcaFh8="),
+Callback = function()
+task.spawn(function()
+if Cooldown then
+library.notifications:create_notification({
+name = _dpexu("IxccC1MnExg="),
+info = DupeReadyAt > os.clock()
+and string.format(_dpexu("JR4VBQAKRg0RCgxKUBYDRQ=="), math.ceil(DupeReadyAt - os.clock()))
+or `Please wait!`,
+lifetime = (6 - 1)
+})
+return
+end
+Cooldown = true
+local Player = Players.LocalPlayer
+local Backpack = Player.Backpack
+local Tool = Player.Character:FindFirstChildOfClass(_dpexu("IR0fCA=="))
+if not Tool then
+library.notifications:create_notification({
+name = _dpexu("IxccC1MnExg="),
+info = `Could not find a tool! you must hold one.`,
+lifetime = (17 - 7)
+})
+Cooldown = false 
+return
+end
+Player.Character.Humanoid:UnequipTools()
+local _v5q = Tool.Name
+local _v5r
+local _v5s = ReplicatedStorage.MarketItems.ChildAdded:Connect(
+function(item)
+if item.Name == _v5q then
+if item:WaitForChild(_dpexu("GgUeAQE=")).Value == Player.Name then
+_v5r = item:GetAttribute(_dpexu("JgIVBxoOCjMU"))
+end
+end
+end
+)
+spawn(function()
+ReplicatedStorage.ListWeaponRemote:FireServer(_v5q, (100142 - 143))
+end)
+task.wait(SharedStoreDelay)
+local _v5t = false
+spawn(function()
+local _v5w, _v5x = pcall(function()
+return ReplicatedStorage.BackpackRemote:InvokeServer(_dpexu("JgYfFhY="), _v5q)
+end)
+_v5t = _v5w and _v5x ~= nil
+debugLog(_dpexu("MScgIQ=="), _dpexu("JgYfFhZPS0RQDBNX") .. tostring(_v5w) .. _dpexu("VQAVFwYDEkc=") .. tostring(_v5x))
+end)
+task.wait((4 - 1))
+
+if not _v5r then
+local market = ReplicatedStorage:FindFirstChild(_dpexu("OBMCDxYbLw4VDgs="))
+if market then
+for _, item in ipairs(market:GetChildren()) do
+local owner = item:FindFirstChild(_dpexu("GgUeAQE="))
+if item.Name == _v5q and owner and owner.Value == Player.Name then
+_v5r = item:GetAttribute(_dpexu("JgIVBxoOCjMU")) or _v5r
+end
+end
+end
+end
+
+if not _v5t then
+SharedStoreDelay = math.max(0.05, SharedStoreDelay - 0.02)
+library.notifications:create_notification({
+name = _dpexu("IxccC1MnExg="),
+info = string.format(_dpexu("JgYfFhZPERsDQwwFGlIcBQcKSloDDFgEGlIUEQMKSFo0BhQLDFIZF1MBCQ1QRlZYEwFeRCcdH1oRBBkDG1w="), SharedStoreDelay),
+lifetime = (12 - 6)
+})
+elseif not _v5r then
+SharedStoreDelay = math.min(0.6, SharedStoreDelay + 0.01)
+library.notifications:create_notification({
+name = _dpexu("IxccC1MnExg="),
+info = string.format(_dpexu("JgYfFhZPERsDQwwFGlIVBQEDH1pYDRdKGRsDEBoBAVNcQwsFVRwfRBcaFh9eQzwPGRMJRBocRhQfFFhPW0AWF11PMggJQxkNFBseSg=="), SharedStoreDelay),
+lifetime = (12 - 6)
+})
+end
+spawn(function()
+ReplicatedStorage.BuyItemRemote:FireServer(
+_v5q,
+_dpexu("JxcdCwUK"),
+_v5r
+)
+end)
+spawn(function()
+ReplicatedStorage.BackpackRemote:InvokeServer(_dpexu("MgARBg=="), _v5q)
+end)
+_v5s:Disconnect()
+
+DupeReadyAt = os.clock() + DUPE_COOLDOWN
+task.wait(DUPE_COOLDOWN)
+Cooldown = false
+end)
+end
+})
+
+
+
+
+
+local floodAmount = (18 - 8)
+local floodPrice = (100438 - 439)
+local floodRunning = false
+MainTab:CreateSlider({
+Name = _dpexu("Mx4fCxdPJxcfFhYeVVocDQAbDxQXEFE="),
+Range = {1, (62 - 12)},
+Increment = 1,
+Suffix = "",
+CurrentValue = (11 - 1),
+Flag = _dpexu("MgceIh8ACR4xDhcfGwY="),
+Callback = function(value) floodAmount = value end,
+})
+MainTab:CreateInput({
+Name = _dpexu("Mx4fCxdPKhMDFxEEElIgFhoMAw=="),
+CurrentValue = _dpexu("TEtJXUo="),
+PlaceholderText = _dpexu("TEtJXUo="),
+RemoveTextAfterFocusLost = false,
+Flag = _dpexu("MgceIh8ACR4gEREJEA=="),
+Callback = function(text)
+local n = tonumber(text)
+if n and n > 0 then floodPrice = n end
+end,
+})
+local floodRunId = 0
+local floodToggle
+local function countMyListings(_v5y)
+local n = 0
+local market = ReplicatedStorage:FindFirstChild(_dpexu("OBMCDxYbLw4VDgs="))
+if not market then return 0 end
+for _, item in ipairs(market:GetChildren()) do
+local owner = item:FindFirstChild(_dpexu("GgUeAQE="))
+if item.Name == _v5y and owner and owner.Value == Players.LocalPlayer.Name then
+n += 1
+end
+end
+return n
+end
+local function myListings(_v5z)
+local _v60 = {}
+local market = ReplicatedStorage:FindFirstChild(_dpexu("OBMCDxYbLw4VDgs="))
+if not market then return _v60 end
+for _, item in ipairs(market:GetChildren()) do
+local owner = item:FindFirstChild(_dpexu("GgUeAQE="))
+if item.Name == _v5z and owner and owner.Value == Players.LocalPlayer.Name then
+table.insert(_v60, item)
+end
+end
+return _v60
+end
+floodToggle = MainTab:CreateToggle({
+Name = _dpexu("Mx4fCxdPKxsCCB0eVSUZEBtPLh8cB1gtABw="),
+CurrentValue = false,
+Callback = function(enabled)
+if not enabled then
+floodRunning = false 
+return
+end
+if floodRunning then return end
+if Cooldown then
+library.notifications:create_notification({
+name = _dpexu("IxccC1MnExg="), info = _dpexu("JR4VBQAKRg0RCgxL"), lifetime = (10 - 5),
+})
+floodToggle:Set(false)
+return
+end
+local character = Players.LocalPlayer.Character
+local _v61 = character and character:FindFirstChildOfClass(_dpexu("IR0fCA=="))
+if not _v61 then
+library.notifications:create_notification({
+name = _dpexu("IxccC1MnExg="), info = _dpexu("Nh0FCBdPCBUEQx4DGxZQBVMbCRUcQlgTGgdQCQYcEloYDBQOVR0eAV0="), lifetime = (20 - 10),
+})
+floodToggle:Set(false)
+return
+end
+floodRunning = true
+Cooldown = true
+floodRunId += 1
+local _v62 = floodRunId
+local _v63 = _v61.Name
+task.spawn(function()
+local listed = 0
+local _v6n
+local _v6o = 0
+
+
+local _v6p = 0.20
+local ok, _v6q = pcall(function()
+while floodRunning and _v62 == floodRunId and listed < floodAmount do
+local Player = Players.LocalPlayer
+
+
+local _v76, _v77 = os.clock(), os.clock()
+local function _v78()
+local _v7k = Player.Character
+return (_v7k and _v7k:FindFirstChild(_v63)) or Player.Backpack:FindFirstChild(_v63)
+end
+while not _v78() and floodRunning and os.clock() - _v76 < (21 - 9) do
+if os.clock() - _v77 >= 2.5 then
+_v77 = os.clock()
+task.spawn(function()
+ReplicatedStorage.BackpackRemote:InvokeServer(_dpexu("MgARBg=="), _v63)
+end)
+end
+task.wait(0.2)
+end
+local gun = _v78()
+if not floodRunning then break end
+if not floodRunning then break end
+if not gun then _v6n = _dpexu("ARoVRBQaCFoeBg4PB1ITBR4KRhgRABNKEwAfCVMcEhUCAh8P"); break end
+local _v7a = Player.Character
+local _v7b = _v7a and _v7a:FindFirstChildOfClass(_dpexu("PQcdBR0ADx4="))
+if not _v7b or _v7b.Health <= 0 then _v6n = _dpexu("FhoRFhIMEh8CQxwDEBY="); break end
+if gun.Parent ~= _v7a then
+_v7b:EquipTool(gun)
+task.wait(0.3)
+end
+_v7b:UnequipTools()
+local _v7c = {}
+for _, it in ipairs(myListings(_v63)) do _v7c[it] = true end
+task.spawn(function()
+ReplicatedStorage.ListWeaponRemote:FireServer(_v63, floodPrice)
+end)
+task.wait(_v6p)
+local _v7d = false
+task.spawn(function()
+local _v7l, _v7m = pcall(function()
+return ReplicatedStorage.BackpackRemote:InvokeServer(_dpexu("JgYfFhY="), _v63)
+end)
+_v7d = _v7l and _v7m ~= nil
+debugLog(_dpexu("Mz4/Kzc="), _dpexu("JgYfFhZPS0RQDBNX") .. tostring(_v7l) .. _dpexu("VQAVFwYDEkc=") .. tostring(_v7m))
+end)
+task.wait((6 - 3))
+
+local _v7g = false
+task.spawn(function()
+local _v7n, _v7o = pcall(function()
+return ReplicatedStorage.BackpackRemote:InvokeServer(_dpexu("MgARBg=="), _v63)
+end)
+_v7g = _v7n and _v7o ~= nil
+debugLog(_dpexu("Mz4/Kzc="), _dpexu("MgARBlNCWFofCEU=") .. tostring(_v7n) .. _dpexu("VQAVFwYDEkc=") .. tostring(_v7o))
+end)
+task.wait(1.5)
+local _v7j
+for _, it in ipairs(myListings(_v63)) do
+if not _v7c[it] then
+_v7j = it
+break
+end
+end
+if _v7j then
+_v6o = 0
+listed += 1
+
+
+if _v7d then
+SharedStoreDelay = _v6p 
+_v6p = math.max(0.05, _v6p - 0.01)
+end
+elseif _v7d then
+
+
+_v6p = math.min(0.6, _v6p + 0.01)
+_v6o += 1
+debugLog(_dpexu("Mz4/Kzc="), string.format(_dpexu("JgYfFhZPERsDQwwFGlIVBQEDH0FQEAwFBxdQABYDBwNQTkZKUFxCAgA="), _v6p))
+debugLog(_dpexu("IjMiKg=="), _dpexu("LjQcCxwLO1o+DFgEEAVQCBocEhMeBFgeHRsDRBAWBRYVQ1AHHAEDRA==") .. _v6o .. _dpexu("WkNCTQ=="))
+if _v6o >= (23 - 11) then
+_v6n = _dpexu("ARoVRB4OFBEVF1gOHBYeQwdPBx4UQxlKGxcHRB8GFQ4ZDR9KREBQEBoCAwlQChZKFFICCwRPThYZEAwDGxVQCBoCDw5QDApKBQAZBxZPFB8aBhseEBZPTQ==")
+break
+end
+end
+
+
+if not _v7d and not _v7g then
+_v6n = _dpexu("ARoVRB8GFQ4ZDR9KAR0fD1MWCQ8CQxcEGQtQBxwfH1pYMAwFBxdQBQEdDwwVB1geGh1QCBIbA1NeQywCEFIXER1PDwlQEAwDGR5QCBocEh8UQxcEVQYYAVMCBwgbBgw=")
+break
+end
+end
+end)
+floodRunning = false
+Cooldown = false
+if _v62 == floodRunId then
+pcall(function() floodToggle:Set(false) end)
+end
+local _v75
+if not ok then
+_v75 = _dpexu("Mx4fCxdPFQ4fEwgPEVISHVMOCFoVEQoFB0hQ") .. tostring(_v6q)
+elseif _v6n then
+_v75 = string.format(_dpexu("Mx4fCxdPFQ4fEwgPEUhQQQBBRl8UQxYPAlIcDQAbDxQXSwtDVQIfFwcKAlQ="), _v6n, listed)
+else
+_v75 = string.format(_dpexu("Mx4fCxdPABMeCgsCEBZKRFYLRhQVFFgGHAEEDR0ITglZQwgFBgYVAF0="), listed)
+end
+library.notifications:create_notification({ name = _dpexu("IxccC1MnExg="), info = _v75, lifetime = (10 - 2) })
+end)
+end,
+})
+
+
+local removeRunId = 0
+local removeToggle
+removeToggle = MainTab:CreateToggle({
+Name = _dpexu("JxcdCwUKRjscD1gnDFI3ER0cRjwCDBVKOBMCDxYb"),
+CurrentValue = false,
+Flag = _dpexu("MgceNhYCCQwVIhQGORsDEBoBAQk="),
+Callback = function(value)
+removeRunId += 1
+local _v7p = removeRunId
+if value ~= true then return end
+if floodRunning then
+library.notifications:create_notification({ name = _dpexu("IxccC1MnExg="), info = _dpexu("IQcCClMAABxQJRQFGhZQKRIdDR8EQx4DBwEESg=="), lifetime = (8 - 3) })
+task.defer(function() pcall(function() removeToggle:Set(false) end) end)
+return
+end
+task.spawn(function()
+local removed = 0
+local _v7s = 0
+while _v7p == removeRunId and not Window.VeloUnloaded do
+local market = ReplicatedStorage:FindFirstChild(_dpexu("OBMCDxYbLw4VDgs="))
+local _v7t = {}
+if market then
+for _, item in ipairs(market:GetChildren()) do
+local owner = item:FindFirstChild(_dpexu("GgUeAQE="))
+if owner and owner.Value == Players.LocalPlayer.Name then table.insert(_v7t, item) end
+end
+end
+if #_v7t == 0 then
+_v7s += 1
+if _v7s == (3 - 1) then
+library.notifications:create_notification({ name = _dpexu("IxccC1MnExg="),
+info = string.format(_dpexu("Ox0eAVMAAFoJDA0YVRUFCgBPBwgVQxcEVQYYAVMCBwgbBgxEVSAVCRwZAx5QRhxKGRsDEBoBAVIDSlZKJgYZCB9PERsEABADGxVLRAcaFBRQDB4MVQYfRAAbCQpe"), removed), lifetime = (8 - 2) })
+end
+else
+_v7s = 0
+for _, item in ipairs(_v7t) do
+if _v7p ~= removeRunId then break end
+local id = item:GetAttribute(_dpexu("JgIVBxoOCjMU"))
+local ok = pcall(function()
+ReplicatedStorage.BuyItemRemote:FireServer(item.Name, _dpexu("JxcdCwUK"), id)
+end)
+if ok then removed += 1 end
+debugLog(_dpexu("ODMiLzY7"), string.format(_dpexu("JxcdCwUKRl8DQxEOSFcDRBwEW18D"), item.Name, tostring(id), tostring(ok)))
+task.wait(0.4)
+end
+end
+task.wait(1)
+end
+end)
+end,
+})
+end
+Window.VeloShopTab:CreateSection(_dpexu("NxMTDwMOBRE="))
+Window.VeloShopTab:CreateButton({
+Name = _dpexu("NwcJRDEOBREAAhsB"),
+Callback = function()
+task.spawn(buyBackpackOnce)
+end,
+})
+MainTab:CreateSection(_dpexu("IRccAQMAFA4="))
+MainTab:CreateDropdown({
+Name = _dpexu("JhccARAbRjYfABkeHB0e"),
+Options = LocationNames,
+CurrentOption = {},
+MultipleOptions = false,
+Flag = _dpexu("IRccAQMAFA48DBsLARsfCg=="),
+Callback = function(_v7u)
+selectedLocation = type(_v7u) == _dpexu("ARMSCBY=") and _v7u[1] or _v7u
+end,
+})
+MainTab:CreateButton({
+Name = _dpexu("IRccAQMAFA5QFxdKJhccARAbAx4="),
+Callback = function()
+if selectedLocation then
+teleportTo(selectedLocation)
+else
+Rayfield:Notify({
+Title = _dpexu("IRccAQMAFA4="),
+Content = _dpexu("JRsTD1MORhYfABkeHB0eRBUdCRdQFxAPVRYCCwMLCQ0eQx4DBwEESg=="),
+Duration = (6 - 3),
+})
+end
+end,
+})
+
+
+
+
+
+
+
+local function getShopPromptPosition(prompt)
+local _v7v = prompt.Parent
+if not _v7v then return nil end
+if _v7v:IsA(_dpexu("NAYEBRAHCx8eFw==")) then
+return _v7v.WorldPosition
+elseif _v7v:IsA(_dpexu("NxMDASMOFA4=")) then
+return _v7v.Position
+end
+local part = _v7v:FindFirstAncestorWhichIsA(_dpexu("NxMDASMOFA4="))
+if part then return part.Position end
+local _v7w = _v7v:FindFirstAncestorWhichIsA(_dpexu("OB0UAR8="))
+if _v7w then
+local ok, _v7x = pcall(function() return _v7w:GetPivot() end)
+if ok and _v7x then return _v7x.Position end
+end
+return nil
+end
+local function getShopPromptText(prompt)
+local _v7y = { prompt.Name, prompt.ActionText, prompt.ObjectText }
+local _v7z = { prompt.Name, prompt.ActionText, prompt.ObjectText }
+local _v80 = prompt.Parent
+local _v81 = 0
+while _v80 and _v80 ~= Workspace and _v81 < (16 - 8) do
+table.insert(_v7z, _v80.Name)
+if _v81 < (6 - 3) then
+table.insert(_v7y, _v80.Name)
+end
+_v80 = _v80.Parent
+_v81 += 1
+end
+return string.lower(table.concat(_v7y, _dpexu("VQ=="))),
+string.lower(table.concat(_v7z, _dpexu("VQ==")))
+end
+local function findShopItemPrompt(_v82, _v83, _v84)
+local _, _, root = getParts()
+if not root then return nil end
+local _v85, _v86 = nil, math.huge
+for _, instance in ipairs(Workspace:GetDescendants()) do
+if instance:IsA(_dpexu("JQAfHBoCDw4JMwoFGAIE")) and instance.Enabled then
+local _v87, _v88 = getShopPromptText(instance)
+local _v89 = false
+for _, _v8a in ipairs(_v84 or {}) do
+if string.find(_v87, _v8a, 1, true) then
+_v89 = true
+break
+end
+end
+if not _v89 then
+local _v8b, _v8c = false, false
+for _, _v8a in ipairs(_v82) do
+if string.find(_v87, _v8a, 1, true) then
+_v8b = true
+break
+elseif string.find(_v88, _v8a, 1, true) then
+_v8c = true
+end
+end
+if _v8b or _v8c then
+local position = getShopPromptPosition(instance)
+if position then
+local distance = (root.Position - position).Magnitude
+if distance <= _v83 then
+
+
+local score = (_v8b and 0 or (1297 - 297)) + distance
+if score < _v86 then
+_v85, bestScore = instance, score
+end
+end
+end
+end
+end
+end
+end
+return _v85
+end
+local function activateShopPrompt(prompt)
+if not prompt or not prompt.Parent or not prompt.Enabled then
+return false, _dpexu("JQcCBxsOFR9QEwoFGAIERBocRg8eAg4LHB4RBh8KSA==")
+end
+local ok, _v8d = pcall(function()
+if typeof(fireproximityprompt) == _dpexu("EwceBwcGCRQ=") then
+fireproximityprompt(prompt)
+else
+
+prompt:InputHoldBegin()
+task.wait(math.max(prompt.HoldDuration, 0.1))
+prompt:InputHoldEnd()
+end
+end)
+if not ok then
+return false, tostring(_v8d)
+end
+return true
+end
+
+local function getNearbyShopPromptReport(_v8e)
+local _, _, root = getParts()
+if not root then
+return _dpexu("Ox1QBxsOFBsTFx0YVQAfCwdPABUFDRxGVQEfRB0KBwgSGlgZHR0ARAMdCRcAFwtKFh0FCBdPCBUEQxoPVQETBR0BAx5e")
+end
+local found = {}
+for _, instance in ipairs(Workspace:GetDescendants()) do
+if instance:IsA(_dpexu("JQAfHBoCDw4JMwoFGAIE")) then
+local position = getShopPromptPosition(instance)
+if position then
+local distance = (root.Position - position).Magnitude
+if distance <= _v8e then
+local _v8f = {}
+local _v8g = instance.Parent
+for _ = 1, (4 - 1) do
+if not _v8g or _v8g == Workspace then break end
+table.insert(_v8f, 1, _v8g.Name)
+_v8g = _v8g.Parent
+end
+table.insert(found, {
+distance = distance,
+line = string.format(
+_dpexu("UAFQGFMuBQ4ZDBZXUlcDQ1MTRjUSCR0JAU9XQQBIRgZQMxkYEBwEWVYcRgZQRgtKCVJVSkIJRgkEFhwZ"),
+tostring(instance.Name),
+tostring(instance.ActionText),
+tostring(instance.ObjectText),
+table.concat(_v8f, _dpexu("Wg==")),
+instance.Enabled and _dpexu("EBwRBh8KAg==") or _dpexu("ERsDBREDAx4="),
+distance
+)
+})
+end
+end
+end
+end
+table.sort(found, function(a, _v8m) return a.distance < _v8m.distance end)
+local lines = {}
+local _v8h = math.min(#found, (8 - 3))
+for _v8i = 1, _v8h do
+table.insert(lines, found[_v8i].line)
+end
+if #found == 0 then
+table.insert(lines, string.format(_dpexu("Ox1QNAEAHhMdCgwTJQAfCQMbRhwfFhYOVQUZEBsGCFpVTUgMVQEEERccSA=="), _v8e))
+elseif #found > _v8h then
+table.insert(lines, string.format(_dpexu("W1xeFB8aFVpVB1gHGgAVRAMdCRcAF1AZXFw="), #found - _v8h))
+end
+local _v8j = game:GetService(_dpexu("JxcACBoMBw4VByseGgARAxY="))
+local _v8k = _v8j:FindFirstChild(_dpexu("JxcdCwcKIwwVDQwZ"))
+local _v8l = _v8k and _v8k:FindFirstChild(_dpexu("JgYfFhY/EwgTCxkZEA=="))
+if not _v8l then
+_v8l = _v8j:FindFirstChild(_dpexu("JgYfFhY/EwgTCxkZEA=="), true)
+end
+table.insert(lines, _dpexu("JgYfFhY/EwgTCxkZEFICAR4AEh9KQw==") .. (_v8l and (_v8l:GetFullName() .. _dpexu("VSk=") .. _v8l.ClassName .. _dpexu("KA==")) or _dpexu("Gx0ERBUAExQU")))
+return table.concat(lines, _dpexu("fw=="))
+end
+local function showShopPromptReport(_v8n, _v8o)
+local _v8p = tostring(_v8o or _dpexu("Ox1QABoOARQfEAwDFgFQBxIfEg8CBhxE"))
+debugLog(_dpexu("Jjo/NA=="), _v8n .. _dpexu("T1I=") .. _v8p)
+Rayfield:Notify({
+Title = _v8n,
+Content = _dpexu("MRcEBRoDFVoDAg4PEVIFChcKFFoECx1KMRcSERQIDxQXQwwLF1xQMQAKRjkfEwFKMRcSERRPKhUXEFgeGlITCwMWRg4YBhVE"),
+Duration = (8 - 4),
+})
+end
+local function printNearbyShopPrompts(_v8q)
+
+showShopPromptReport(_dpexu("JhofFFMrDxsXDRcZARsTFw=="), getNearbyShopPromptReport(_v8q))
+end
+local function shortErrorMessage(_v8r)
+local _v8s = tostring(_v8r or _dpexu("IBwbChwYCFoVEQoFBw=="))
+_v8s = string.gsub(_v8s, _dpexu("Ln96OVg="), _dpexu("VQ=="))
+_v8s = string.gsub(_v8s, _dpexu("UAFb"), _dpexu("VQ=="))
+return _v8s:sub(1, (393 - 133))
+end
+
+
+
+local backpackPurchaseBusy = false
+
+
+local function getStorePurchaseRemote(_v8t)
+local _v8u = game:GetService(_dpexu("JxcACBoMBw4VByseGgARAxY="))
+local _v8v = _v8u:FindFirstChild(_dpexu("JxcdCwcKIwwVDQwZ"))
+if not _v8v then
+_v8v = _v8u:WaitForChild(_dpexu("JxcdCwcKIwwVDQwZ"), _v8t or (3 - 1))
+end
+local remote = _v8v and _v8v:FindFirstChild(_dpexu("JgYfFhY/EwgTCxkZEA=="))
+if not remote then
+remote = _v8u:FindFirstChild(_dpexu("JgYfFhY/EwgTCxkZEA=="), true)
+end
+if remote and remote:IsA(_dpexu("JxcdCwcKIwwVDQw=")) then
+return remote
+end
+return nil
+end
+local function hasBackpackPurchaseItem()
+local _v8w = {
+LocalPlayer:FindFirstChild(_dpexu("NxMTDwMOBRE=")),
+LocalPlayer.Character,
+}
+for _, _v8x in ipairs(_v8w) do
+if _v8x then
+for _, item in ipairs(_v8x:GetChildren()) do
+if item:IsA(_dpexu("IR0fCA==")) then
+local n = string.lower(item.Name)
+if string.find(n, _dpexu("EQARB1MNBx0="), 1, true)
+or string.find(n, _dpexu("EQARDxZPBBsX"), 1, true)
+or string.find(n, _dpexu("EQcWAhYD"), 1, true)
+or string.find(n, _dpexu("FxMTDwMOBRE="), 1, true) then
+return true
+end
+end
+end
+end
+end
+return false
+end
+function buyBackpackOnce()
+if backpackPurchaseBusy then return end
+backpackPurchaseBusy = true
+local _, _, _v8y = getParts()
+if not _v8y then
+backpackPurchaseBusy = false
+Rayfield:Notify({
+Title = _dpexu("NwcJRDEOBREAAhsB"),
+Content = _dpexu("LB0FFlMMDhsCAhseEABQDQABQQ5QER0LEQtQHRYbSA=="),
+Duration = (8 - 4),
+})
+return
+end
+local _v8z = _v8y.CFrame
+local _v90 = nil
+local _v91 = _dpexu("Ox1QFxsAFloUChkNGx0DEBoMFVoTAggeAAAVAF0=")
+local _v92, _v93 = xpcall(function()
+
+if not teleportToPosition(Vector3.new(-703.11, 253.92, -698.73)) then
+error(_dpexu("Nh0FCBcBQQ5QER0LFhpQEBsKRjgRABMaFBEbRCAbCQgVQxQFFhMEDRwBSA=="))
+end
+task.wait(0.2)
+_v91 = getNearbyShopPromptReport((64 - 29))
+
+
+local prompt = findShopItemPrompt({ _dpexu("EQARB1MNBx0="), _dpexu("FxMTDwMOBRE="), _dpexu("EQARDxZPBBsX"), _dpexu("EQcWAhYD") }, (38 - 13), {})
+if prompt then
+local activated, _v9e = activateShopPrompt(prompt)
+if not activated then
+error(_dpexu("NxMTDwMOBRFQEw0YFhoRFxZPFggfDggeVRQRDR8KAkBQ") .. tostring(_v9e))
+end
+_v90 = _dpexu("BQAfCQMb")
+else
+
+
+printNearbyShopPrompts((42 - 17))
+local _v9f = getStorePurchaseRemote((4 - 2))
+if not _v9f then
+error(_dpexu("Nh0FCBcBQQ5QBREEEVIRRB4OEhkYChYNVRARBxgfBxkbQwgYGh8AEFMAFFoiBggGHBEREBYLNQ4fERkNEFwiAR4AEh81FR0EAQFeNwcAFB8gFgoJHRMDAV0="))
+end
+local sent, _v9g = pcall(function()
+_v9f:FireServer(_dpexu("MQARDxZPJBsX"))
+end)
+if not sent then
+error(_dpexu("JgYfFhY/EwgTCxkZEFICAQIaAwkEQx4LHB4VAElP") .. tostring(_v9g))
+end
+_v90 = _dpexu("BxcdCwcK")
+end
+
+task.wait(0.6)
+end, debug.traceback)
+
+local _, _v97, _v98 = getParts()
+local _v99 = false
+if _v97 and _v98 then
+local _v9a, _v9b = pcall(teleportToPosition, _v8z)
+_v99 = _v9a and _v9b == true
+end
+backpackPurchaseBusy = false
+if _v92 then
+local _v9c
+if hasBackpackPurchaseItem() then
+_v9c = _dpexu("NxMTDwMOBRFQCgwPGFIUAQcKBQ4VB1ZKJxcEEQEBAx5QFxdKDB0FFlMfFB8GChcfBlIACwAGEhMfDVY=")
+elseif _v90 == _dpexu("BQAfCQMb") then
+_v9c = _dpexu("JQAfCQMbRhsTFxEcFAYVAEhPEhIVQx8LGBdQDBIcCF0EQxsFGxQZFh4KAloECx1KHAYVCVMGCFoJDA0YVRseEhYBEhUCGlY=")
+else
+_v9c = _dpexu("JQcCBxsOFR9QER0bABcDEFMcAxQEWFgeHRdQAxICA1oYAgsEUgZQBxwBABMCDh0OVQYYAVMGEh8dQxEEVQsfEQFPDxQGBhYeGgAJSg==")
+end
+if _v99 then
+_v9c = _v9c .. _dpexu("VSAVEAYdCB8UQwwFVQsfEQFPFggVFREFAAFQFBwcDw4ZDBZE")
+else
+_v9c = _v9c .. _dpexu("VTEfER8LCF0EQxsFGxQZFh5PFB8EFgoEVQYVCBYfCQgETQ==")
+end
+Rayfield:Notify({ Title = _dpexu("NwcJRDEOBREAAhsB"), Content = _v9c, Duration = (6 - 1) })
+if not hasBackpackPurchaseItem() then
+showShopPromptReport(_dpexu("NxMTDwMOBRFQMBAFBVI0DRIICBUDFxEJBg=="), _v91)
+end
+else
+local _v9d = shortErrorMessage(_v93)
+debugLog(_dpexu("IjMiKg=="), _dpexu("Lj8ZFxAyRjgFGlgoFBEbFBIMDVoWAhEGEBZKRA==") .. tostring(_v93))
+Rayfield:Notify({
+Title = _dpexu("NwcJRDEOBREAAhsBVZDw8FMrAw4RChQZ"),
+Content = _v9d,
+Duration = (15 - 7),
+})
+showShopPromptReport(_dpexu("NxMTDwMOBRFQMBAFBVI0DRIICBUDFxEJBg=="), _v91)
+end
+end
+
+
+
+
+do
+local ShopTab = Window.VeloShopTab
+local magsPerPress = (17 - 7) 
+local buyDelay = 1.1 
+
+local ammoDefaults = { _dpexu("TB8d"), _dpexu("REIdCQ=="), _dpexu("NwccCBYbFQ=="), _dpexu("QFxFUg=="), _dpexu("QlxGVg=="), _dpexu("MAoEAR0LAx4="), _dpexu("Mzw9BRQ="), _dpexu("OBMTKRII"), _dpexu("IAgZKRII"), _dpexu("IRcTKRII") }
+local selectedAmmo, selectedGunLabel = nil, nil
+local gunLabelToName = {}
+local shopBusy = false
+local ammoDropdown, gunDropdown
+local function stripName(name)
+return string.lower((tostring(name):gsub(_dpexu("K1deTw=="), "")))
+end
+local function cleanName(name)
+return (tostring(name):gsub(_dpexu("K1deTw=="), ""))
+end
+
+local function chainFromGuns(prompt, _v9h)
+local _v9i, _v9j = {}, prompt.Parent
+while _v9j and _v9j ~= _v9h do
+table.insert(_v9i, 1, _v9j)
+_v9j = _v9j.Parent
+end
+if _v9j ~= _v9h then return nil end
+return _v9i
+end
+
+local function itemNameFromChain(_v9k)
+for _, _v9l in ipairs(_v9k) do
+local _v9m = cleanName(_v9l.Name)
+if _v9m ~= "" then return _v9m end
+end
+return nil
+end
+
+local function normName(name)
+return (string.lower(tostring(name)):gsub(_dpexu("K1deTw=="), ""):gsub(_dpexu("LlcDQV0y"), ""))
+end
+local ammoAllowed = {}
+for _, defaultName in ipairs(ammoDefaults) do ammoAllowed[normName(defaultName)] = defaultName end
+local function isAmmoName(name)
+return ammoAllowed[normName(name)] ~= nil
+end
+
+
+local function isJunkName(name)
+local _v9n = string.lower(name)
+if string.match(_v9n, _dpexu("K1cUTx4CQg==")) or string.match(_v9n, _dpexu("KylVAFZBO1FU")) then return true end
+if string.match(_v9n, _dpexu("GBMXF0xL")) or string.match(_v9n, _dpexu("KwAfER0LFUVU")) then return true end
+if string.match(_v9n, _dpexu("BhoVCB8cWV4=")) or string.match(_v9n, _dpexu("EhMFAxZL")) then return true end
+for _, _v9o in ipairs({ _dpexu("FwccCBYb"), _dpexu("EAoEAR0LAx4="), _dpexu("EQAFCQ=="), _dpexu("FB8dCw=="), _dpexu("Fh4ZFA=="), _dpexu("FhMCEAEGAh0V"), _dpexu("GBMXBQkGCB8="),
+_dpexu("FAAdCwE="), _dpexu("FAAdCwYd"), _dpexu("AxcDEA=="), _dpexu("HRccCRYb"), _dpexu("FxMeABIIAw=="), _dpexu("GBcUDxob"), _dpexu("FxMTDwMOBRE="), _dpexu("EQcWAhYD"),
+_dpexu("Ex0fAA=="), _dpexu("EQAZChg="), _dpexu("AhMEAQE="), _dpexu("Bh0UBQ=="), _dpexu("FwcCAxYd"), _dpexu("BRsKHhI="), _dpexu("BhwRBxg="), _dpexu("GR0TDwMGBRE="),
+_dpexu("BgcAFAEKFQkfEQ=="), _dpexu("BhscAR0MAwg="), _dpexu("BhEfFBY="), _dpexu("HR0cFwcKFA=="), _dpexu("FAYEBRAHCx8eFw==") }) do
+if string.find(_v9n, _v9o, 1, true) then return true end
+end
+return false
+end
+
+local function looksLikeGamepass(prompt, _v9p)
+local function _v9q(text)
+local _v9u = string.lower(tostring(text or ""))
+return string.find(_v9u, _dpexu("EhMdAQMOFQk="), 1, true) or string.find(_v9u, _dpexu("EhMdAVMfBwkD"), 1, true)
+or string.find(_v9u, _dpexu("Bx0SEQs="), 1, true) or string.find(_v9u, _dpexu("B1Y="), 1, true)
+or string.find(_v9u, _dpexu("BRMDFxoL"), 1, true) or string.find(_v9u, _dpexu("AxsA"), 1, true)
+end
+if _v9q(prompt.ActionText) or _v9q(prompt.ObjectText) or _v9q(prompt.Name) then return true end
+for _, _v9s in ipairs(_v9p) do
+if _v9q(_v9s.Name) then return true end
+local ok, _v9t = pcall(function() return _v9s:GetAttributes() end)
+if ok and type(_v9t) == _dpexu("ARMSCBY=") then
+for key in pairs(_v9t) do if _v9q(key) then return true end end
+end
+end
+if _v9p[1] then
+for _, descendant in ipairs(_v9p[1]:GetDescendants()) do
+if _v9q(descendant.Name) and (descendant:IsA(_dpexu("IxMcERYtBwkV")) or descendant:IsA(_dpexu("NxseABINCh81FR0EAQ=="))) then
+return true
+end
+end
+end
+return false
+end
+
+local function scanShop()
+local ammo, guns, _v9v = {}, {}, {}
+local _v9w = Workspace:FindFirstChild(_dpexu("Mic+Nw=="))
+if not _v9w then return ammo, guns end
+for _, descendant in ipairs(_v9w:GetDescendants()) do
+if descendant:IsA(_dpexu("JQAfHBoCDw4JMwoFGAIE")) then
+local _v9x = chainFromGuns(descendant, _v9w)
+local name = _v9x and #_v9x > 0 and itemNameFromChain(_v9x)
+if name then
+if isAmmoName(name) then
+if not _v9v[stripName(name)] then
+_v9v[stripName(name)] = true
+table.insert(ammo, name)
+end
+elseif isJunkName(name) then
+
+elseif not guns[name] then
+guns[name] = { gamepass = looksLikeGamepass(descendant, _v9x) and true or false }
+elseif looksLikeGamepass(descendant, _v9x) then
+guns[name].gamepass = true
+end
+end
+end
+end
+return ammo, guns
+end
+local function findItemPrompt(_v9y)
+local _v9z = stripName(_v9y)
+local _va0 = Workspace:FindFirstChild(_dpexu("Mic+Nw=="))
+if not _va0 then return nil end
+for _, descendant in ipairs(_va0:GetDescendants()) do
+if descendant:IsA(_dpexu("JQAfHBoCDw4JMwoFGAIE")) then
+local _va1 = chainFromGuns(descendant, _va0)
+local name = _va1 and #_va1 > 0 and itemNameFromChain(_va1)
+if name and stripName(name) == _v9z then return descendant end
+end
+end
+
+local _va2 = normName(_v9y)
+for _, descendant in ipairs(_va0:GetDescendants()) do
+if descendant:IsA(_dpexu("JQAfHBoCDw4JMwoFGAIE")) then
+local _va1 = chainFromGuns(descendant, _va0)
+local name = _va1 and #_va1 > 0 and itemNameFromChain(_va1)
+if name and normName(name) == _va2 then return descendant end
+end
+end
+return nil
+end
+
+
+
+local ammoPromptCache = {}
+local function looksLikePolice(prompt, _va3)
+local _va4 = { prompt.Name, prompt.ActionText, prompt.ObjectText }
+for _, _va5 in ipairs(_va3) do table.insert(_va4, _va5.Name) end
+local _va6 = prompt.Parent
+for _ = 1, (8 - 2) do
+if not _va6 or _va6 == Workspace then break end
+table.insert(_va4, _va6.Name)
+_va6 = _va6.Parent
+end
+for _, text in ipairs(_va4) do
+local _va7 = string.lower(tostring(text or ""))
+if string.find(_va7, _dpexu("BR0cDRAK"), 1, true) or string.find(_va7, _dpexu("BQAVBxoBBQ4="), 1, true)
+or string.find(_va7, _dpexu("BhoVFhoJAA=="), 1, true) or string.find(_va7, _dpexu("GhQWDRAKFA=="), 1, true)
+or string.find(_va7, _dpexu("BgUREA=="), 1, true)
+or string.find(_va7, _dpexu("UBQrQRIyFh5VBSNPNC8=")) or string.find(_va7, _dpexu("UBQrQRIyBRUAEEdPEylVJS4=")) then
+return true
+end
+end
+return false
+end
+
+
+local POLICE_AREA_RADIUS = (708 - 308)
+local function nearPoliceStation(prompt)
+local _va8 = Locations[_dpexu("JQAZFxwB")]
+local position = getShopPromptPosition(prompt)
+if typeof(_va8) ~= _dpexu("IxcTEBwdVQ==") or not position then return false end
+return (position - _va8).Magnitude <= POLICE_AREA_RADIUS
+end
+local function findAmmoPrompt(_va9)
+local key = normName(_va9)
+local _vaa = ammoPromptCache[key]
+if _vaa and _vaa.Parent then return _vaa end
+local _vab = Workspace:FindFirstChild(_dpexu("Mic+Nw=="))
+if not _vab then return nil end
+local _vac = {}
+for _, descendant in ipairs(_vab:GetDescendants()) do
+if descendant:IsA(_dpexu("JQAfHBoCDw4JMwoFGAIE")) then
+local _vad = chainFromGuns(descendant, _vab)
+local name = _vad and #_vad > 0 and itemNameFromChain(_vad)
+if name and normName(name) == key then
+table.insert(_vac, { prompt = descendant, police = looksLikePolice(descendant, _vad) or nearPoliceStation(descendant) })
+end
+end
+end
+if #_vac == 0 then return nil end
+local _vae = {}
+for _, candidate in ipairs(_vac) do
+if not candidate.police then table.insert(_vae, candidate) end
+end
+if #_vae == 0 then _vae = _vac end 
+local _vaf, _vag
+for _, candidate in ipairs(_vae) do
+local position = getShopPromptPosition(candidate.prompt)
+local distance = math.huge
+if position then
+for _, _vah in ipairs({ _dpexu("MgceFwcAFB9QUg=="), _dpexu("MgceFwcAFB9QUQ=="), _dpexu("MgceFwcAFB9QVg=="), _dpexu("MgceFwcAFB9QVQ==") }) do
+local _vai = Locations[_vah]
+if _vai then distance = math.min(distance, (position - _vai).Magnitude) end
+end
+end
+if not _vaf or distance < _vag then _vaf, bestDistance = candidate.prompt, distance end
+end
+ammoPromptCache[key] = _vaf
+local lines = {}
+for _, candidate in ipairs(_vac) do
+table.insert(lines, (candidate.prompt == _vaf and _dpexu("ICE5KjRP") or _dpexu("BhkZFAMKAlo=")) .. candidate.prompt:GetFullName()
+.. (candidate.police and _dpexu("VVoACx8GBR9QEAwLARsfClMOFB8RWVgZHhsAFBYLTw==") or ""))
+end
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiEYCwMyRg==") .. tostring(_va9) .. _dpexu("VQEfCBdPBw5Q") .. #_vac .. _dpexu("VQIcBRAKTglZTVg=") .. table.concat(lines, _dpexu("VQ5Q")))
+return _vaf
+end
+DebugTab:CreateSection(_dpexu("JhofFFMmEh8dQzwDFBUeCwAbDxkD"))
+DebugTab:CreateButton({
+Name = _dpexu("OR0XRCAHCQpQKgwPGAFQTBICCxVQTFgNABxQS1MHDx4UBhZD"),
+Callback = function()
+local _vaj = Workspace:FindFirstChild(_dpexu("Mic+Nw=="))
+if not _vaj then
+Rayfield:Notify({ Title = _dpexu("JhofFFMmEh8dEA=="), Content = _dpexu("Ih0CDwAfBxkVTT8/OyFQDQABQQ5QDxcLERcURAoKElQ="), Duration = (7 - 3) })
+return
+end
+local _vak = 0
+for _, descendant in ipairs(_vaj:GetDescendants()) do
+if descendant:IsA(_dpexu("JQAfHBoCDw4JMwoFGAIE")) then
+local _val = chainFromGuns(descendant, _vaj)
+local name = _val and #_val > 0 and itemNameFromChain(_val)
+if name then
+_vak += 1
+local _vam = isAmmoName(name) and _dpexu("ND89Kw==") or (isJunkName(name) and _dpexu("PTs0IDYh") or _dpexu("Mic+"))
+debugLog(_dpexu("Jjo/NDo7Izcj"), _vam .. _dpexu("VQ5Q") .. name .. _dpexu("VQ5Q") .. descendant:GetFullName())
+end
+end
+end
+Rayfield:Notify({ Title = _dpexu("JhofFFMmEh8dEA=="), Content = _vak .. _dpexu("VRsEAR4cRhYfBB8PEVxQJxwfH1oECx1KMRcSERQIDxQXQxQFEgFQBR0LRhYfDBNKFAZQEBsKRiEjKzc6PCY1KSAyRhYZDR0ZWw=="), Duration = (7 - 2) })
+end,
+})
+local function refreshLists()
+local ammo, guns = scanShop()
+
+
+local _van = {}
+for _, name in ipairs(ammo) do _van[normName(name)] = name end
+local _vao = {}
+for _, _vap in ipairs(ammoDefaults) do
+table.insert(_vao, _van[normName(_vap)] or _vap)
+end
+local _vaq, _var = {}, {}
+gunLabelToName = {}
+for name, info in pairs(guns) do
+local _vas = info.gamepass and (name .. _dpexu("VVo3JT4qNjsjMFE=")) or name
+gunLabelToName[_vas] = name
+table.insert(info.gamepass and _var or _vaq, _vas)
+end
+table.sort(_vaq, function(a, _vav) return string.lower(a) < string.lower(_vav) end)
+table.sort(_var, function(a, _vaw) return string.lower(a) < string.lower(_vaw) end)
+local _vat = {}
+for _, _vas in ipairs(_vaq) do table.insert(_vat, _vas) end
+for _, _vas in ipairs(_var) do table.insert(_vat, _vas) end
+if ammoDropdown then pcall(function() ammoDropdown:Refresh(_vao, true) end) end
+if gunDropdown then pcall(function() gunDropdown:Refresh(_vat, true) end) end
+if selectedAmmo and ammoDropdown then
+for _, _vau in ipairs(_vao) do
+if normName(_vau) == normName(selectedAmmo) then
+selectedAmmo = _vau
+pcall(function() ammoDropdown:Set({ _vau }) end)
+break
+end
+end
+end
+if selectedGunLabel and gunLabelToName[selectedGunLabel] and gunDropdown then
+pcall(function() gunDropdown:Set({ selectedGunLabel }) end)
+end
+return _vao, _vat
+end
+
+local function purchase(prompt, _vax, times)
+if shopBusy then
+Rayfield:Notify({ Title = _dpexu("JhofFA=="), Content = _dpexu("NFIAEQEMDhsDBlgDBlIRCAEKBx4JQwofGxwZChRB"), Duration = (5 - 2) })
+return
+end
+shopBusy = true
+local _, _, _vay = getParts()
+if not _vay then
+shopBusy = false
+Rayfield:Notify({ Title = _dpexu("JhofFA=="), Content = _dpexu("LB0FFlMMDhsCAhseEABQDQABQQ5QER0LEQtQHRYbSA=="), Duration = (5 - 1) })
+return
+end
+local _vaz = _vay.CFrame
+local _vb0, _vb1 = false, 0
+local _vb2, _vb3 = xpcall(function()
+local position = getShopPromptPosition(prompt)
+if not position then error(_dpexu("Nh0FCBcBQQ5QDxcJFAYVRAcHA1oAFgoJHRMDAVMfFBUdEwxKEx0CRA==") .. _vax .. _dpexu("Ww==")) end
+if not teleportToPosition(position + Vector3.new(0, (5 - 2), 0)) then
+error(_dpexu("Nh0FCBcBQQ5QER0LFhpQEBsKRg==") .. _vax .. _dpexu("VQEYCwNB"))
+end
+_vb0 = true
+task.wait(0.3)
+for _vb9 = 1, times do
+
+
+local _vba = os.clock() + (5 - 1)
+while prompt.Parent and not prompt.Enabled and os.clock() < _vba do
+task.wait(0.1)
+end
+local activated, _vbb = activateShopPrompt(prompt)
+if not activated then
+if _vb9 == 1 then error(_dpexu("JQcCBxsOFR9QEwoFGAIERBUODxYVB0JK") .. tostring(_vbb)) end
+break
+end
+_vb1 += 1
+task.wait(buyDelay)
+end
+end, debug.traceback)
+if _vb0 then
+local _, _vb7, _vb8 = getParts()
+if _vb7 and _vb8 then pcall(teleportToPosition, _vaz) end
+end
+shopBusy = false
+if _vb1 > 0 then
+Rayfield:Notify({
+Title = _dpexu("JhofFA=="),
+Content = _dpexu("Nx0FAxsbRg==") .. _vax .. _dpexu("VQ==") .. _vb1 .. _dpexu("VQYZCRZHFVNeQyoPAQcCChYLRg4fQwEFAABQFAEKEBMfFgtKBR0DDQcGCRRe"),
+Duration = (7 - 1),
+})
+else
+debugLog(_dpexu("IjMiKg=="), _dpexu("LiEYCwMyRg==") .. _vax .. _dpexu("VQIFFhAHBwkVQx4LHB4VAElP") .. tostring(_vb3))
+Rayfield:Notify({ Title = _dpexu("JhofFA=="), Content = shortErrorMessage(_vb3), Duration = (13 - 5) })
+end
+end
+local function buyAmmo(name)
+local prompt = findAmmoPrompt(name)
+if prompt then
+purchase(prompt, name, magsPerPress)
+return
+end
+
+local _vbc = getStorePurchaseRemote((3 - 1))
+if not _vbc then
+Rayfield:Notify({ Title = _dpexu("JhofFA=="), Content = _dpexu("Nh0FCBcBQQ5QBREEEVI=") .. name .. _dpexu("VRseRCQAFBEDExkJEFw3MT08RhUCQwwCEFIjEBwdAyoFERsCFAEVRAEKCxUEBlY="), Duration = (11 - 5) })
+return
+end
+for _ = 1, magsPerPress do
+pcall(function() _vbc:FireServer(name) end)
+task.wait(buyDelay)
+end
+Rayfield:Notify({ Title = _dpexu("JhofFA=="), Content = _dpexu("JhceEFM=") .. magsPerPress .. _dpexu("VQIFFhAHBwkVQwoPBAcVFwccRhwfEVg=") .. name .. _dpexu("Ww=="), Duration = (6 - 1) })
+end
+ShopTab:CreateSection(_dpexu("NB8dCw=="))
+ammoDropdown = ShopTab:CreateDropdown({
+Name = _dpexu("JhccARAbRjsdDhc="),
+Options = ammoDefaults,
+CurrentOption = {},
+MultipleOptions = false,
+Flag = _dpexu("JhofFCwuCxcf"),
+Callback = function(_vbd)
+selectedAmmo = type(_vbd) == _dpexu("ARMSCBY=") and _vbd[1] or _vbd
+end,
+})
+ShopTab:CreateSlider({
+Name = _dpexu("OBMXF1M/AwhQMwoPBgE="), Range = { 1, (82 - 32) }, Increment = 1, Suffix = "",
+CurrentValue = magsPerPress, Flag = _dpexu("JhofFCwiBx0DMx0YJQAVFwA="),
+Callback = function(value) magsPerPress = value end,
+})
+ShopTab:CreateButton({
+Name = _dpexu("NwcJRDICCxU="),
+Callback = function()
+if not selectedAmmo or selectedAmmo == "" then
+Rayfield:Notify({ Title = _dpexu("JhofFA=="), Content = _dpexu("JhccARAbRhseQxkHGB1QEAofA1oWCgoZAVw="), Duration = (5 - 2) })
+return
+end
+task.spawn(buyAmmo, tostring(selectedAmmo))
+end,
+})
+
+task.spawn(function()
+local _vbe = Workspace:WaitForChild(_dpexu("Mic+Nw=="), (59 - 29))
+if not _vbe or Window.VeloUnloaded then return end
+refreshLists()
+local _vbf = false
+VeloTrack(_vbe.DescendantAdded:Connect(function()
+if _vbf then return end
+_vbf = true
+task.delay(1.5, function()
+_vbf = false
+if not Window.VeloUnloaded then refreshLists() end
+end)
+end))
+end)
+end
+
+
+
+
+local MoneyTab = MiscTab
+local autoDropCashEnabled = false
+local autoDropCashRunId = 0
+local DROP_AMOUNT = _dpexu("REJAVEM=")
+local DROP_INTERVAL = 1.5
+local function dropCashOnce()
+local remote = game:GetService(_dpexu("JxcACBoMBw4VByseGgARAxY=")):WaitForChild(_dpexu("NxMeDyMdCRkVEAs4EB8fEBY="), (8 - 3))
+if not remote or not remote:IsA(_dpexu("JxcdCwcKIA8eAAwDGhw=")) then
+debugLog(_dpexu("IjMiKg=="), _dpexu("Lj8fChYWO1oyAhYBJQAfBxYcFSgVDhceEFIHBQABQQ5QBRcfGxZQCwFPDwkeRAxKFFIiAR4AEh82FhYJARsfCl0="))
+return false
+end
+local ok, result = pcall(function()
+return remote:InvokeServer(_dpexu("MQAfFA=="), DROP_AMOUNT)
+end)
+if not ok then
+debugLog(_dpexu("IjMiKg=="), _dpexu("Lj8fChYWO1o0ERcaVQAVFQYKFQ5QBRkDGRcUXlM=") .. tostring(result))
+return false
+end
+return true, result
+end
+local autoPickupCashRunning = false
+local autoPickupCashEnabled = false
+local autoPickupCashRunId = 0
+local autoPickupCashEmptyNotified = false
+local function countAvailableCash()
+local _vbg = Workspace:FindFirstChild(_dpexu("MR0cCBIc"))
+if not _vbg then return 0 end
+local _vbh = 0
+for _, item in ipairs(_vbg:GetChildren()) do
+if item:IsA(_dpexu("NxMDASMOFA4=")) then
+local prompt = item:FindFirstChildOfClass(_dpexu("JQAfHBoCDw4JMwoFGAIE"))
+if prompt and prompt.Enabled then
+_vbh += 1
+end
+end
+end
+return _vbh
+end
+local function sweepAllCashOnce()
+if autoPickupCashRunning then
+Rayfield:Notify({
+Title = _dpexu("NAcEC1M/DxkbFghKNhMDDA=="),
+Content = _dpexu("NFITBQAHRgkHBh0aVRsDRBIDFB8RBwFKBwceChoBAVQ="),
+Duration = (6 - 3),
+})
+return
+end
+if typeof(fireproximityprompt) ~= _dpexu("EwceBwcGCRQ=") then
+Rayfield:Notify({
+Title = _dpexu("NAcEC1M/DxkbFghKNhMDDA=="),
+Content = _dpexu("LB0FFlMKHh8TFgwFB1IUCxYcCF0EQwsfBQIfFgdPABMCBggYGgoZCRobHwoCDBUaAVw="),
+Duration = (7 - 3),
+})
+return
+end
+autoPickupCashRunning = true
+task.spawn(function()
+local _, _vbu, _vbv = getParts()
+if not _vbu or not _vbv then
+autoPickupCashRunning = false
+Rayfield:Notify({
+Title = _dpexu("NAcEC1M/DxkbFghKNhMDDA=="),
+Content = _dpexu("Ox1QCBoZDxQXQxsCFAARBwcKFFoWDA0EEVw="),
+Duration = (5 - 2),
+})
+return
+end
+local _vbw = _vbv.CFrame
+local _vbx = nil
+local ok, _vby = xpcall(function()
+local _vc6 = Workspace:FindFirstChild(_dpexu("MR0cCBIc"))
+local drops = {}
+if _vc6 then
+
+for _, item in ipairs(_vc6:GetChildren()) do
+if item:IsA(_dpexu("NxMDASMOFA4=")) then
+local prompt = item:FindFirstChildOfClass(_dpexu("JQAfHBoCDw4JMwoFGAIE"))
+if prompt and prompt.Enabled then
+table.insert(drops, item)
+end
+end
+end
+end
+for _, item in ipairs(drops) do
+
+
+if not autoPickupCashEnabled then break end
+local _, _vc7, _vc8 = getParts()
+if not _vc7 or not _vc8 then
+_vbx = _dpexu("LB0FFlMMDhsCAhseEABQFhYcFhsHDR0OVR0CRBcGAx5QBw0YHBwXRAcHA1oDFB0PBVw=")
+break
+end
+if item.Parent then
+local prompt = item:FindFirstChildOfClass(_dpexu("JQAfHBoCDw4JMwoFGAIE"))
+if prompt and prompt.Enabled then
+
+if not teleportToPosition(item.Position + Vector3.new(0, 0.5, 0)) then
+_vbx = _dpexu("Nh0FCBcBQQ5QFx0GEAIfFgdPEhVQAlgJFAEYRBcdCQpe")
+break
+end
+task.wait(0.15)
+if item.Parent and prompt.Parent and prompt.Enabled then
+fireproximityprompt(prompt)
+task.wait(math.max(prompt.HoldDuration, 0.1))
+end
+end
+end
+end
+end, debug.traceback)
+
+local _, _vc2, _vc3 = getParts()
+local _vc4 = false
+if _vc2 and _vc3 then
+_vc4 = teleportToPosition(_vbw)
+end
+task.wait(0.35)
+local _vc5 = countAvailableCash()
+autoPickupCashRunning = false
+if not ok then
+debugLog(_dpexu("IjMiKg=="), _dpexu("LjMFEBxPNhMTCA0aVTERFxsyRikHBh0aVRcCFhwdXFo=") .. tostring(_vby))
+Rayfield:Notify({
+Title = _dpexu("NAcEC1M/DxkbFghKNhMDDA=="),
+Content = _dpexu("IRoVRBAOFRJQEA8PEAJQAR0MCQ8eFx0YEBZQBR1PAwgCDApEVTEYARAERg4YBlgJGhwDCx8KSA=="),
+Duration = (6 - 2),
+})
+elseif _vbx then
+Rayfield:Notify({
+Title = _dpexu("NAcEC1M/DxkbFghKNhMDDA=="),
+Content = _vbx,
+Duration = (5 - 1),
+})
+elseif _vc5 == 0 then
+if not autoPickupCashEnabled or not autoPickupCashEmptyNotified then
+Rayfield:Notify({
+Title = _dpexu("NAcEC1M/DxkbFghKNhMDDA=="),
+Content = _dpexu("IRoVFhZIFVoeDFgHGgAVRBAOFRJQAgoFABwURAcHA1odAghRVQEEDR8DRhkYBhsBHBwXRBUAFFoeBg9KEQAfFABB"),
+Duration = (5 - 1),
+})
+end
+autoPickupCashEmptyNotified = autoPickupCashEnabled
+else
+autoPickupCashEmptyNotified = false
+if not autoPickupCashEnabled then
+Rayfield:Notify({
+Title = _dpexu("NAcEC1M/DxkbFghKNhMDDA=="),
+Content = tostring(_vc5) .. _dpexu("VRERFxtPAggfE1AZXFIDEBoDCloREwgPFABQEBxPBB9QAg4LHB4RBh8KSA=="),
+Duration = (7 - 3),
+})
+end
+end
+if not _vc4 and _vc2 and _vc3 then
+Rayfield:Notify({
+Title = _dpexu("NAcEC1M/DxkbFghKNhMDDA=="),
+Content = _dpexu("Nh0FCBcBQQ5QER0eAAAeRAcARgMfFgpKBhMGARdPFhUDCgwDGhxe"),
+Duration = (5 - 1),
+})
+end
+end)
+end
+local function setAutoPickupCash(enabled)
+autoPickupCashRunId += 1
+local _vc9 = autoPickupCashRunId
+autoPickupCashEnabled = enabled
+if not enabled then
+autoPickupCashEmptyNotified = false
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LjMFEBxPNhMTCA0aVTERFxsyRj4ZEBkIGRcURBEWRg4fBB8GEFw="))
+Rayfield:Notify({ Title = _dpexu("NAcEC1M/DxkbFghKNhMDDA=="), Content = _dpexu("JgYfFAMKAlQ="), Duration = (5 - 2) })
+return
+end
+if typeof(fireproximityprompt) ~= _dpexu("EwceBwcGCRQ=") then
+autoPickupCashEnabled = false
+Rayfield:Notify({ Title = _dpexu("NAcEC1M/DxkbFghKNhMDDA=="), Content = _dpexu("LB0FFlMKHh8TFgwFB1IUCxYcCF0EQwsfBQIfFgdPABMCBggYGgoZCRobHwoCDBUaAVw="), Duration = (8 - 4) })
+return
+end
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LjMFEBxPNhMTCA0aVTERFxsyRj8eAhoGEBZLRAAYAx8AChYNVRMGBRoDBxgcBlgJFAEYRAEKFh8RFx0OGQte"))
+Rayfield:Notify({ Title = _dpexu("NAcEC1M/DxkbFghKNhMDDA=="), Content = _dpexu("MBwRBh8KAlRQKgxKAhscCFMEAx8AQxsCEBEbDR0IRhwfEVgJFAEYRBcdCQoDTQ=="), Duration = (5 - 2) })
+task.spawn(function()
+while autoPickupCashEnabled and _vc9 == autoPickupCashRunId do
+if not autoPickupCashRunning then
+sweepAllCashOnce()
+end
+while autoPickupCashEnabled and _vc9 == autoPickupCashRunId and autoPickupCashRunning do
+task.wait(0.2)
+end
+
+for _ = 1, (24 - 9) do
+if not autoPickupCashEnabled or _vc9 ~= autoPickupCashRunId then return end
+task.wait(0.2)
+end
+end
+end)
+end
+
+
+
+
+
+local autoLootRunning = false
+local autoLootEnabled = false
+local autoLootWatcherId = 0
+local autoLootEmptyNotified = false
+local LOOT_MAX_ATTEMPTS_PER_BAG = (5 - 2)
+local function textLooksPoliceRelated(value)
+local text = string.lower(tostring(value or ""))
+text = text:gsub(_dpexu("Li1VSVZBOw=="), _dpexu("VQ=="))
+if string.find(text, _dpexu("BR0cDRAK"), 1, true)
+or string.find(text, _dpexu("GhQWDRAKFA=="), 1, true)
+or string.find(text, _dpexu("BhoVFhoJAA=="), 1, true)
+or string.find(text, _dpexu("GRMHRBYBABUCAB0HEBwE"), 1, true)
+or string.find(text, _dpexu("BgYREBZPEggfDAgPBw=="), 1, true)
+or text == _dpexu("Fh0A") or text == _dpexu("Fh0AFw==") or text == _dpexu("BRY=") or text == _dpexu("GQEAAA==") then
+return true
+end
+return false
+end
+local function valueObjectText(_vca)
+if not _vca then return nil end
+local ok, value = pcall(function() return _vca.Value end)
+if not ok then return nil end
+if typeof(value) == _dpexu("PBwDEBIBBR8=") then
+return value.Name
+end
+return tostring(value)
+end
+local function containerIndicatesPolice(_vcb)
+if not _vcb then return false end
+local _vcc = {
+Team = true, TeamName = true, OwnerTeam = true, PlayerTeam = true,
+Role = true, PlayerRole = true, OwnerRole = true, Job = true,
+JobName = true, Occupation = true, Faction = true, OwnerFaction = true,
+Police = true, IsPolice = true, LawEnforcement = true,
+}
+for _vcd in pairs(_vcc) do
+local attribute = _vcb:GetAttribute(_vcd)
+if attribute ~= nil and textLooksPoliceRelated(attribute) then
+return true
+elseif _vcd == _dpexu("JR0cDRAK") or _vcd == _dpexu("PAEgCx8GBR8=") or _vcd == _dpexu("ORMHIR0JCQgTBhUPGwY=") then
+if attribute == true then return true end
+end
+end
+for _, descendant in ipairs(_vcb:GetDescendants()) do
+local _vcd = descendant.Name
+if _vcc[_vcd] then
+if descendant:IsA(_dpexu("Nx0fCCUOCg8V")) and descendant.Value == true
+and (_vcd == _dpexu("JR0cDRAK") or _vcd == _dpexu("PAEgCx8GBR8=") or _vcd == _dpexu("ORMHIR0JCQgTBhUPGwY=")) then
+return true
+end
+local text = valueObjectText(descendant)
+if text and textLooksPoliceRelated(text) then
+return true
+end
+end
+end
+return false
+end
+local function isPoliceOwnedBag(bag)
+
+if bag:GetAttribute(_dpexu("PAEgCx8GBR8=")) == true or bag:GetAttribute(_dpexu("JR0cDRAKKQ0eBhw=")) == true then
+return true
+end
+if containerIndicatesPolice(bag) then return true end
+local _vce = bag:FindFirstChild(_dpexu("JR4RHRYdKBsdBg=="))
+local _vcf = _vce and tostring(_vce.Value or "") or ""
+if _vcf == "" then return false end
+local _vcg = Players:FindFirstChild(_vcf)
+if not _vcg then
+
+return false
+end
+if _vcg.Team and textLooksPoliceRelated(_vcg.Team.Name) then
+return true
+end
+if containerIndicatesPolice(_vcg) then return true end
+if containerIndicatesPolice(_vcg:FindFirstChild(_dpexu("GRcRABYdFQ4RFws="))) then return true end
+if containerIndicatesPolice(_vcg:FindFirstChild(_dpexu("MRMEBQ=="))) then return true end
+if containerIndicatesPolice(_vcg.Character) then return true end
+return false
+end
+local function isEligibleLootBag(item, storage)
+if not item or not item:IsA(_dpexu("OBcDDCMOFA4=")) then return false end
+if storage and not item:IsDescendantOf(storage) then return false end
+local owner = item:FindFirstChild(_dpexu("JR4RHRYdKBsdBg=="))
+if owner and tostring(owner.Value) == LocalPlayer.Name then return false end
+if isPoliceOwnedBag(item) then return false end
+local prompt = item:FindFirstChild(_dpexu("BgYVBR8fFBUdEww="))
+return prompt ~= nil and prompt:IsA(_dpexu("JQAfHBoCDw4JMwoFGAIE")) and prompt.Enabled
+end
+local function getEligibleLootBags(storage)
+local bags = {}
+if not storage then return bags end
+for _, item in ipairs(storage:GetChildren()) do
+if isEligibleLootBag(item, storage) then
+table.insert(bags, item)
+end
+end
+return bags
+end
+local function notifyNoLootBagsOnce()
+if autoLootEmptyNotified then return end
+autoLootEmptyNotified = true
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LjMFEBxPKhUfFyVKOx1QAR8GARMSDx1KGR0fEFMNBx0DQwoPGBMZCkhPFQ4ZDxRKAhMEBxsGCB1QBRcYVRwVE1MNBx0DTQ=="))
+Rayfield:Notify({
+Title = _dpexu("NAcEC1MjCRUE"),
+Content = _dpexu("Ox1QCRwdA1ocDBceVRARAwBPBwwRChQLFx4VRBwBRhcRE1Y="),
+Duration = (10 - 5),
+})
+end
+local function lootAllBagsOnce()
+if autoLootRunning or not autoLootEnabled then return end
+if typeof(fireproximityprompt) ~= _dpexu("EwceBwcGCRQ=") then
+Rayfield:Notify({ Title = _dpexu("NAcEC1MjCRUE"), Content = _dpexu("LB0FFlMKHh8TFgwFB1IUCxYcCF0EQwsfBQIfFgdPABMCBggYGgoZCRobHwoCDBUaAVw="), Duration = (7 - 3) })
+return
+end
+local storage = Workspace:FindFirstChild(_dpexu("JgYfFhIIAw=="))
+if not storage then
+Rayfield:Notify({ Title = _dpexu("NAcEC1MjCRUE"), Content = _dpexu("Ox1QCBwAEloDFxcYFBUVRBUAExQUQxEEVQYYDQBPFR8CFR0YWw=="), Duration = (6 - 2) })
+return
+end
+
+if #getEligibleLootBags(storage) == 0 then
+notifyNoLootBagsOnce()
+return
+end
+autoLootRunning = true
+autoLootEmptyNotified = false
+task.spawn(function()
+local _, _, _vcv = getParts()
+if not _vcv then
+autoLootRunning = false
+Rayfield:Notify({ Title = _dpexu("NAcEC1MjCRUE"), Content = _dpexu("Ox1QCBoZDxQXQxsCFAARBwcKFFoWDA0EEVw="), Duration = (4 - 1) })
+return
+end
+local _vcw = _vcv.CFrame
+local _vcx = 0
+local _vcy = {}
+local _vcz = false
+local ok, _vd0 = xpcall(function()
+while autoLootEnabled do
+local _vd9 = Workspace:FindFirstChild(_dpexu("JgYfFhIIAw=="))
+if not _vd9 then break end
+storage = _vd9
+
+local bags = {}
+for _, item in ipairs(getEligibleLootBags(storage)) do
+if (_vcy[item] or 0) < LOOT_MAX_ATTEMPTS_PER_BAG then
+table.insert(bags, item)
+end
+end
+if #bags == 0 then break end
+for _, bag in ipairs(bags) do
+if not autoLootEnabled then break end
+local _, _vda, root = getParts()
+if not _vda or not root then
+_vcz = true
+break
+end
+_vcy[bag] = (_vcy[bag] or 0) + 1
+local prompt = bag.Parent and bag:FindFirstChild(_dpexu("BgYVBR8fFBUdEww="))
+if prompt and prompt:IsA(_dpexu("JQAfHBoCDw4JMwoFGAIE")) and prompt.Enabled
+and isEligibleLootBag(bag, storage) then
+local _vdb = teleportToPosition(bag.CFrame + Vector3.new(0, 3.5, 0))
+if _vdb then
+task.wait(0.4)
+if autoLootEnabled and bag.Parent and prompt.Parent and prompt.Enabled
+and isEligibleLootBag(bag, storage) then
+local fired, _vdc = pcall(fireproximityprompt, prompt)
+if not fired then
+debugLog(_dpexu("IjMiKg=="), _dpexu("LjMFEBxPKhUfFyVKJQAfCQMbRhsTFxEcFAYZCx1PABsZDx0OVRQfFlM=") .. bag:GetFullName() .. _dpexu("T1I=") .. tostring(_vdc))
+else
+task.wait(math.max(prompt.HoldDuration, 0.1))
+task.wait(0.25) 
+_vcx += 1
+end
+end
+else
+debugLog(_dpexu("IjMiKg=="), _dpexu("LjMFEBxPKhUfFyVKJhoRFhYLRg4VDx0aGgAERBUODxYVB1gMGgBQBhIIXFo=") .. bag:GetFullName())
+end
+end
+end
+if _vcz or not autoLootEnabled then break end
+
+
+end
+end, debug.traceback)
+
+local _, _, _vd5 = getParts()
+local _vd6 = false
+if _vd5 then
+_vd6 = teleportToPosition(_vcw)
+if not _vd6 then
+debugLog(_dpexu("IjMiKg=="), _dpexu("LjMFEBxPKhUfFyVKJhoRFhYLRg4VDx0aGgAERBAAExYUQxYFAVICAQcaFBRQFxdKARoVRAAbBwgEChYNVQIfFxobDxUeTQ=="))
+end
+end
+local _vd1 = Workspace:FindFirstChild(_dpexu("JgYfFhIIAw=="))
+local _vd7 = #getEligibleLootBags(_vd1)
+autoLootRunning = false
+if not ok then
+debugLog(_dpexu("IjMiKg=="), _dpexu("LjMFEBxPKhUfFyVKJgUVAQNPAwgCDApQVQ==") .. tostring(_vd0))
+Rayfield:Notify({ Title = _dpexu("NAcEC1MjCRUE"), Content = _dpexu("IRoVRB8ACQ5QEA8PEAJQDBobRhseQx0YBx0CSlMsDh8TCFgeHRdQIBYNEx0XChYNVQYRBl0="), Duration = (5 - 1) })
+elseif _vcz then
+Rayfield:Notify({ Title = _dpexu("NAcEC1MjCRUE"), Content = _dpexu("JgUVAQNPFhsFEB0OVRAVBxIaFR9QGhcfB1ITDBIdBxkEBgpKERsVAEhPDw5QFBEGGVICAQcdH1oRBQwPB1ICAQAfBw0eTQ=="), Duration = (5 - 1) })
+elseif not _vd6 then
+Rayfield:Notify({ Title = _dpexu("NAcEC1MjCRUE"), Content = _dpexu("JgUVAQNPAxQUBhxGVRAFEFMMCQ8cBxZNAVICAQcaFBRQGhcfVQYfRAoAEwhQDAoDEhseBR9PFhUDCgwDGhxe"), Duration = (7 - 3) })
+elseif _vd7 == 0 then
+notifyNoLootBagsOnce()
+else
+autoLootEmptyNotified = false
+local _vd8 = _dpexu("JgUVAQNPABMeCgsCEBZeRCcdDx8UQw==") .. _vcx .. _dpexu("VRARA1scT0FQ") .. tostring(_vd7) .. _dpexu("VRccDRQGBBYVQxQFGgZQBhIITglZQwoPGBMZCl1PJRUeFxEEABseA1MbCVoDABkEWw==")
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LjMFEBxPKhUfFyVK") .. _vd8)
+Rayfield:Notify({ Title = _dpexu("NAcEC1MjCRUE"), Content = _vd8, Duration = (6 - 2) })
+end
+end)
+end
+local function setAutoLoot(enabled)
+autoLootWatcherId += 1
+local _vdd = autoLootWatcherId
+autoLootEnabled = enabled
+if not enabled then
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LjMFEBxPKhUfFyVKJgYfFAMKAloHAgwJHRseA1MJCQhQDR0dVRARAwBB"))
+Rayfield:Notify({ Title = _dpexu("NAcEC1MjCRUE"), Content = _dpexu("JgYfFAMKAlQ="), Duration = (6 - 3) })
+return
+end
+local storage = Workspace:FindFirstChild(_dpexu("JgYfFhIIAw=="))
+if not storage then
+autoLootEnabled = false
+Rayfield:Notify({ Title = _dpexu("NAcEC1MjCRUE"), Content = _dpexu("Ox1QCBwAEloDFxcYFBUVRBUAExQUQxEEVQYYDQBPFR8CFR0YWw=="), Duration = (6 - 2) })
+return
+end
+autoLootEmptyNotified = false
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LjMFEBxPKhUfFyVKJgYRFgcKAloTDBYeHBwFCwYcRgkTAhYEHBwXX1McDRMAEFgTGgcCRBwYCFoSAh8ZVRMeAFMLAw4VAAwPEVIACx8GBR9fDB4MHBEVFlMNBx0DTQ=="))
+Rayfield:Notify({ Title = _dpexu("NAcEC1MjCRUE"), Content = _dpexu("NAcEC1MjCRUEQxEZVQAFCh0GCB1QAhYOVQUZCB9PDR8VE1gZFhMeChoBAVoWDApKFxMXF10="), Duration = (4 - 1) })
+
+
+task.spawn(function()
+while autoLootEnabled and _vdd == autoLootWatcherId do
+local _vdf = Workspace:FindFirstChild(_dpexu("JgYfFhIIAw=="))
+if _vdf then
+local eligible = getEligibleLootBags(_vdf)
+if #eligible > 0 then
+autoLootEmptyNotified = false
+if not autoLootRunning then
+task.spawn(lootAllBagsOnce)
+end
+elseif not autoLootRunning then
+notifyNoLootBagsOnce()
+end
+end
+task.wait(1.25)
+end
+end)
+end
+local function toggleAutoLoot()
+setAutoLoot(not autoLootEnabled)
+end
+
+
+
+
+local function playerFeatureNotConnected(_vdg, enabled)
+local _vdh = enabled == nil and _dpexu("BxcBERYcEh8U") or (enabled and _dpexu("EBwRBh8KAg==") or _dpexu("ERsDBREDAx4="))
+debugLog(_dpexu("IjMiKg=="), _dpexu("LiIcBQoKFCdQ") .. _vdg .. _dpexu("VQ==") .. _vdh .. _dpexu("WVISEQdPCBVQBBkHEAIcBQpPDhseBxQPB1IZF1MMCRQeBhseEBZe"))
+Rayfield:Notify({
+Title = _dpexu("JR4RHRYdRg4RAQ=="),
+Content = _vdg .. _dpexu("VRsDRBJPMzNQExQLFhcYCx8LAwhQAhYOVRsDClQbRhkfDRYPFgYVAFMbCVoXAhUPVR4fAxoMSA=="),
+Duration = (7 - 3),
+})
+end
+
+
+local infiniteStaminaEnabled = false
+local staminaConnection = nil
+local function setInfiniteStamina(enabled)
+infiniteStaminaEnabled = enabled
+if staminaConnection then
+staminaConnection:Disconnect()
+staminaConnection = nil
+end
+local function _vdi()
+local _vdm = LocalPlayer:FindFirstChildOfClass(_dpexu("JR4RHRYdIQ8Z"))
+local _vdn = _vdm and _vdm:FindFirstChild(_dpexu("Jwce"))
+local _vdo = _vdn and _vdn:FindFirstChild(_dpexu("JgYRCRoBBzgRESsJBxsAEA=="), true)
+if _vdo and (_vdo:IsA(_dpexu("OR0TBR88BQgZEww=")) or _vdo:IsA(_dpexu("JhECDQMb"))) then
+pcall(function()
+_vdo.Disabled = infiniteStaminaEnabled
+end)
+end
+end
+_vdi()
+if enabled then
+staminaConnection = RunService.RenderStepped:Connect(_vdi)
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiIcBQoKFCdQKhYMHBwZEBZPNQ4RDhEEFFIVChINCh8UWFg5ARMdDR0OJBsCMBsYHAIERAQGChZQAR1KERsDBREDAx5QFBADGRdQEBsKRg4fBB8GEFIZF1MACFQ="))
+Rayfield:Notify({
+Title = _dpexu("PBwWDR0GEh9QMAwLGBseBQ=="),
+Content = _dpexu("MBwRBh8KAlRQNxAPVQEEBR4GCBtQEBsYHAIERAQGChZQAR1KERsDBREDAx5QFBADGRdQEBsGFVoEDB8NGRdQDQBPCRRe"),
+Duration = (4 - 1),
+})
+else
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiIcBQoKFCdQKhYMHBwZEBZPNQ4RDhEEFFIUDQAOBBYVB0NKJgYRCRoBBzgRESsJBxsAEFMYDxYcQxoPVQAVSRYBBxgcBhxKHBRQAhwaCB5e"))
+Rayfield:Notify({
+Title = _dpexu("PBwWDR0GEh9QMAwLGBseBQ=="),
+Content = _dpexu("MRsDBREDAx5e"),
+Duration = (6 - 3),
+})
+end
+end
+
+
+local infiniteHungerEnabled = false
+local hungerConnection = nil
+local function setInfiniteHunger(enabled)
+infiniteHungerEnabled = enabled
+if hungerConnection then
+hungerConnection:Disconnect()
+hungerConnection = nil
+end
+local function _vdp()
+local _vdt = LocalPlayer:FindFirstChildOfClass(_dpexu("JR4RHRYdIQ8Z"))
+local _vdu = _vdt and _vdt:FindFirstChild(_dpexu("PQceAxYd"))
+local _vdv = _vdu and _vdu:FindFirstChild(_dpexu("PQceAxYdJBsCMBsYHAIE"), true)
+if _vdv and (_vdv:IsA(_dpexu("OR0TBR88BQgZEww=")) or _vdv:IsA(_dpexu("JhECDQMb"))) then
+pcall(function()
+_vdv.Disabled = infiniteHungerEnabled
+end)
+end
+end
+_vdp()
+if enabled then
+hungerConnection = RunService.RenderStepped:Connect(_vdp)
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiIcBQoKFCdQKhYMHBwZEBZPLg8eBB0YVRceBREDAx5LQzAfGxUVFjEOFCkTEREaAVIHDR8DRhgVQxwDBhMSCBYLRg0YChQPVQYYAVMbCR0XDx1KHAFQCx1B"))
+Rayfield:Notify({
+Title = _dpexu("PBwWDR0GEh9QKw0EEhcC"),
+Content = _dpexu("MBwRBh8KAlRQNxAPVRoFChQKFFoDAAoDBQZQExoDCloSBlgOHAERBh8KAloHCxEGEFIEDBocRg4fBB8GEFIZF1MACFQ="),
+Duration = (4 - 1),
+})
+else
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiIcBQoKFCdQKhYMHBwZEBZPLg8eBB0YVRYZFxINCh8UWFgiABwXAQEtBwgjAAoDBQZQExoDCloSBlgYEF8VChINCh8UQxEMVRQfER0LSA=="))
+Rayfield:Notify({
+Title = _dpexu("PBwWDR0GEh9QKw0EEhcC"),
+Content = _dpexu("MRsDBREDAx5e"),
+Duration = (6 - 3),
+})
+end
+end
+
+
+local infiniteSleepEnabled = false
+local sleepConnection = nil
+local function setInfiniteSleep(enabled)
+infiniteSleepEnabled = enabled
+if sleepConnection then
+sleepConnection:Disconnect()
+sleepConnection = nil
+end
+local function _vdw()
+local _vdz = LocalPlayer:FindFirstChildOfClass(_dpexu("JR4RHRYdIQ8Z"))
+local _ve0 = _vdz and _vdz:FindFirstChild(_dpexu("Jh4VAQMoExM="))
+local sleepScript = _ve0 and _ve0:FindFirstChild(_dpexu("Bh4VAQM8BQgZEww="), true)
+if sleepScript and (sleepScript:IsA(_dpexu("OR0TBR88BQgZEww=")) or sleepScript:IsA(_dpexu("JhECDQMb"))) then
+pcall(function()
+sleepScript.Disabled = infiniteSleepEnabled
+end)
+end
+end
+_vdw()
+if enabled then
+sleepConnection = RunService.RenderStepped:Connect(_vdw)
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiIcBQoKFCdQKhYMHBwZEBZPNRYVBghKEBwRBh8KAkFQEBQPEAIjBwEGFg5QFBEGGVISAVMLDwkRARQPEVIHDBoDA1oECx1KAR0XAx8KRhMDQxcEWw=="))
+Rayfield:Notify({
+Title = _dpexu("PBwWDR0GEh9QMBQPEAI="),
+Content = _dpexu("MBwRBh8KAlRQNxAPVQEcARYfRgkTEREaAVIHDR8DRhgVQxwDBhMSCBYLRg0YChQPVQYYDQBPEhUXBBQPVRsDRBwBSA=="),
+Duration = (5 - 2),
+})
+else
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiIcBQoKFCdQKhYMHBwZEBZPNRYVBghKERsDBREDAx5LQwsGEBcANxAdDwoEQw8DGR5QBhZPFB9dBhYLFx4VAFMGAFoWDA0EEVw="))
+Rayfield:Notify({
+Title = _dpexu("PBwWDR0GEh9QMBQPEAI="),
+Content = _dpexu("MRsDBREDAx5e"),
+Duration = (4 - 1),
+})
+end
+end
+
+
+local instantInteractEnabled = false
+local instantInteractConnection = nil
+local instantInteractBusy = setmetatable({}, { __mode = _dpexu("Hg==") })
+local function setInstantInteract(enabled)
+instantInteractEnabled = enabled
+if instantInteractConnection then
+instantInteractConnection:Disconnect()
+instantInteractConnection = nil
+end
+if not enabled then
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiIcBQoKFCdQKhYZARMeEFMmCA4VERkJAVIUDQAOBBYVB1Y="))
+Rayfield:Notify({
+Title = _dpexu("PBwDEBIBElo5DQwPBxMTEA=="),
+Content = _dpexu("MRsDBREDAx5e"),
+Duration = (4 - 1),
+})
+return
+end
+instantInteractConnection = ProximityPromptService.PromptButtonHoldBegan:Connect(function(prompt, player)
+if not instantInteractEnabled or player ~= LocalPlayer then return end
+if not prompt or not prompt:IsA(_dpexu("JQAfHBoCDw4JMwoFGAIE")) then return end
+if instantInteractBusy[prompt] then return end
+instantInteractBusy[prompt] = true
+task.spawn(function()
+local _ve9 = false
+if instantInteractEnabled and prompt.Parent and typeof(fireproximityprompt) == _dpexu("EwceBwcGCRQ=") then
+local ok, _vea = pcall(fireproximityprompt, prompt)
+if ok then
+_ve9 = true
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiIcBQoKFCdQKhYZARMeEFMmCA4VERkJAVIRBwcGEBsEBhxKBQAfCQMbXA=="), prompt:GetFullName())
+else
+debugLog(_dpexu("IjMiKg=="), _dpexu("LiIcBQoKFCdQBREYEAICCwsGCxMEGggYGh8AEFMJBxMcBhxQ"), tostring(_vea))
+end
+end
+
+
+if not _ve9 and instantInteractEnabled and prompt.Parent then
+local _veb
+local _vec = pcall(function()
+_veb = prompt.HoldDuration
+end)
+local ok, _vea = pcall(function()
+if _vec then prompt.HoldDuration = 0 end
+prompt:InputHoldBegin()
+task.wait()
+prompt:InputHoldEnd()
+end)
+if _vec and prompt.Parent then
+pcall(function() prompt.HoldDuration = _veb end)
+end
+if ok then
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiIcBQoKFCdQKhYZARMeEFMmCA4VERkJAVIREAcKCwoEBhxKHBwAEQdPABscDxoLFhlQAhwdXA=="), prompt:GetFullName())
+else
+debugLog(_dpexu("IjMiKg=="), _dpexu("LiIcBQoKFCdQKhYZARMeEFMmCA4VERkJAVIWBR8DBBsTCFgMFBscARdV"), tostring(_vea))
+end
+end
+instantInteractBusy[prompt] = nil
+end)
+end)
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiIcBQoKFCdQKhYZARMeEFMmCA4VERkJAVIVChINCh8UTQ=="))
+Rayfield:Notify({
+Title = _dpexu("PBwDEBIBElo5DQwPBxMTEA=="),
+Content = _dpexu("MBwRBh8KAlRQMwoFDRsdDQcWRgoCDBUaAQFQExoDCloSBlgLFgYZEhIbAx5QFBAPG1IJCwZPBB8XChZKHBwEAQEOBQ4ZDR9E"),
+Duration = (6 - 3),
+})
+end
+
+
+local noRentPayEnabled = false
+local rentPayConnection = nil
+local function setNoRentPay(enabled)
+noRentPayEnabled = enabled
+if rentPayConnection then
+rentPayConnection:Disconnect()
+rentPayConnection = nil
+end
+local function _ved()
+local _veh = LocalPlayer:FindFirstChildOfClass(_dpexu("JR4RHRYdIQ8Z"))
+local _vei = _veh and _veh:FindFirstChild(_dpexu("JxceEDQaDw=="))
+local _vej = _vei and _vei:FindFirstChild(_dpexu("OR0TBR88BQgZEww="))
+if _vej and (_vej:IsA(_dpexu("OR0TBR88BQgZEww=")) or _vej:IsA(_dpexu("JhECDQMb"))) then
+pcall(function()
+_vej.Disabled = noRentPayEnabled
+end)
+end
+end
+_ved()
+if enabled then
+rentPayConnection = RunService.RenderStepped:Connect(_ved)
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiIcBQoKFCdQMR0HGgQVRCEKCA5QMxkTVRceBREDAx5LQyoPGwY3ERpPKhUTAhQ5FgAZFAdPERMcD1gIEFIUDQAOBBYVB1gdHRscAVMbDh9QFxcNEh4VRBocRhUeTQ=="))
+Rayfield:Notify({
+Title = _dpexu("JxcdCwUKRigVDQxKJRMJ"),
+Content = _dpexu("MBwRBh8KAlRQNxAPVQAVCgdPFRkCCggeVQUZCB9PBB9QBxEZFBAcARdPERIZDx1KARoZF1MbCR0XDx1KHAFQCx1B"),
+Duration = (5 - 2),
+})
+else
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiIcBQoKFCdQMR0HGgQVRCEKCA5QMxkTVRYZFxINCh8UWFg4EBwEIwYGRjYfABkGJhECDQMbRg0ZDxRKFxdQFhZCAxQRARQPEVIZAlMJCQ8eB1Y="))
+Rayfield:Notify({
+Title = _dpexu("JxcdCwUKRigVDQxKJRMJ"),
+Content = _dpexu("MRsDBREDAx5e"),
+Duration = (5 - 2),
+})
+end
+end
+
+
+local noFallDamageEnabled = false
+local fallDamageConnection = nil
+local function setNoFallDamage(enabled)
+noFallDamageEnabled = enabled
+if fallDamageConnection then
+fallDamageConnection:Disconnect()
+fallDamageConnection = nil
+end
+local function _vek()
+local character = LocalPlayer.Character
+local _vem = character and character:FindFirstChild(_dpexu("MxMcCDcOCxsXBioLEhYfCB8="))
+if _vem and (_vem:IsA(_dpexu("OR0TBR88BQgZEww=")) or _vem:IsA(_dpexu("JhECDQMb"))) then
+pcall(function()
+_vem.Disabled = noFallDamageEnabled
+end)
+end
+end
+_vek()
+if enabled then
+fallDamageConnection = RunService.RenderStepped:Connect(_vek)
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiIcBQoKFCdQMR0HGgQVRDUOChZQJxkHFBUVRBYBBxgcBhxRVTQRCB8rBxcRBB04FBUUCx8DRg0ZDxRKFxdQABocBxgcBhxKAhoZCBZPEhIVQwwFEhUcAVMGFVofDVY="))
+Rayfield:Notify({
+Title = _dpexu("JxcdCwUKRjwRDxRKMRMdBRQK"),
+Content = _dpexu("MBwRBh8KAlRQJRkGGTYRCRIIAygRBBwFGR5QExoDCloSBlgOHAERBh8KAloHCxEGEFIEDBocRg4fBB8GEFIZF1MACFQ="),
+Duration = (6 - 3),
+})
+else
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiIcBQoKFCdQMR0HGgQVRDUOChZQJxkHFBUVRBcGFRsSDx0OTlI2BR8DIhsdAh8PJxMXABwDCloHChQGVRAVRAEKSx8eAhoGEBZQDRVPABUFDRxE"))
+Rayfield:Notify({
+Title = _dpexu("JxcdCwUKRjwRDxRKMRMdBRQK"),
+Content = _dpexu("MRsDBREDAx5e"),
+Duration = (6 - 3),
+})
+end
+end
+
+
+local respawnWhereYouDiedEnabled = false
+local respawnDeathCFrame = nil
+local respawnDiedConnection = nil
+local respawnCharacterConnection = nil
+local respawnWhereYouDiedRunId = 0
+local function hookRespawnDeath(character, _ven)
+task.spawn(function()
+local _vep = character:FindFirstChildOfClass(_dpexu("PQcdBR0ADx4=")) or character:WaitForChild(_dpexu("PQcdBR0ADx4="), (14 - 4))
+local root = character:FindFirstChild(_dpexu("PQcdBR0ADx4iDBceJRMCEA==")) or character:WaitForChild(_dpexu("PQcdBR0ADx4iDBceJRMCEA=="), (14 - 4))
+if not respawnWhereYouDiedEnabled or _ven ~= respawnWhereYouDiedRunId then return end
+if not _vep or not root then
+debugLog(_dpexu("IjMiKg=="), _dpexu("LiIcBQoKFCdQMR0ZBRMHClM4Dh8CBlgzGgdQIBoKAloTDA0GEVIeCwdPABMeB1giAB8RChwGAlpfQzAfGBMeCxoLNBUfFygLBwZQEBxPDhUfCFY="))
+return
+end
+if respawnDiedConnection then
+respawnDiedConnection:Disconnect()
+respawnDiedConnection = nil
+end
+respawnDiedConnection = _vep.Died:Connect(function()
+if respawnWhereYouDiedEnabled and _ven == respawnWhereYouDiedRunId and root.Parent then
+respawnDeathCFrame = root.CFrame
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiIcBQoKFCdQMBkcEBZQABYOEhJQExcZHAYZCx1PABUCQyoPBgIREx1PMRIVER1KLB0FRDcGAx5e"))
+end
+end)
+end)
+end
+local function setRespawnWhereYouDied(enabled)
+respawnWhereYouDiedEnabled = enabled == true
+respawnWhereYouDiedRunId += 1
+local _veq = respawnWhereYouDiedRunId
+if respawnDiedConnection then
+respawnDiedConnection:Disconnect()
+respawnDiedConnection = nil
+end
+if respawnCharacterConnection then
+respawnCharacterConnection:Disconnect()
+respawnCharacterConnection = nil
+end
+if not respawnWhereYouDiedEnabled then
+respawnDeathCFrame = nil
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiIcBQoKFCdQMR0ZBRMHClM4Dh8CBlgzGgdQIBoKAloUCgsLFx4VAF0="))
+Rayfield:Notify({
+Title = _dpexu("JxcDFBIYCFonCx0YEFIpCwZPIhMVBw=="),
+Content = _dpexu("MRsDBREDAx5e"),
+Duration = (4 - 1),
+})
+return
+end
+local _ver = LocalPlayer.Character
+if _ver then
+hookRespawnDeath(_ver, _veq)
+end
+respawnCharacterConnection = LocalPlayer.CharacterAdded:Connect(function(character)
+task.spawn(function()
+local _vey = character:FindFirstChildOfClass(_dpexu("PQcdBR0ADx4=")) or character:WaitForChild(_dpexu("PQcdBR0ADx4="), (17 - 7))
+local root = character:FindFirstChild(_dpexu("PQcdBR0ADx4iDBceJRMCEA==")) or character:WaitForChild(_dpexu("PQcdBR0ADx4iDBceJRMCEA=="), (14 - 4))
+if not respawnWhereYouDiedEnabled or _veq ~= respawnWhereYouDiedRunId then return end
+if not _vey or not root then
+debugLog(_dpexu("IjMiKg=="), _dpexu("LiIcBQoKFCdQMR0ZBRMHClM4Dh8CBlgzGgdQIBoKAloTDA0GERxXEFMJDxQUQwwCEFIeAQRPBRIRERkJARcCQwBPFBUfF1gaFAAESg=="))
+return
+end
+
+task.wait(0.35)
+if not respawnWhereYouDiedEnabled or _veq ~= respawnWhereYouDiedRunId then return end
+local _vez = respawnDeathCFrame
+if _vez and _vey.Health > 0 and root.Parent then
+local ok, _vf0 = pcall(teleportToPosition, _vez)
+if ok and _vf0 then
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiIcBQoKFCdQMR0ZAR0CARdPFRsGBhxKERcREBtPFhUDCgwDGhxQBRUbAwhQER0ZBRMHCl0="))
+Rayfield:Notify({
+Title = _dpexu("JxcDFBIYCFonCx0YEFIpCwZPIhMVBw=="),
+Content = _dpexu("JxcEEQEBAx5QFxdKDB0FFlMDBwkEQxwPFAYYRB8ABRsEChcEWw=="),
+Duration = (4 - 1),
+})
+else
+debugLog(_dpexu("IjMiKg=="), _dpexu("LiIcBQoKFCdQIBcfGRZQChwbRggVEAwFBxdQABYOEhJQExcZHAYZCx1PEBMRQwwCEFIDDBIdAx5QFx0GEAIfFgdPAA8eAAwDGhxK"), tostring(_vf0))
+Rayfield:Notify({
+Title = _dpexu("JxcDFBIYCFonCx0YEFIpCwZPIhMVBw=="),
+Content = _dpexu("Nh0FCBcBQQ5QER0ZAR0CAVMWCQ8CQxQLBgZQFBwcDw4ZDBZE"),
+Duration = (4 - 1),
+})
+end
+end
+
+hookRespawnDeath(character, _veq)
+end)
+end)
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiIcBQoKFCdQMR0ZBRMHClM4Dh8CBlgzGgdQIBoKAloVDRkIGRcUSg=="))
+Rayfield:Notify({
+Title = _dpexu("JxcDFBIYCFonCx0YEFIpCwZPIhMVBw=="),
+Content = _dpexu("MBwRBh8KAlRQOhcfB1IcBQAbRh4VAgwCVQIfFxobDxUeQw8DGR5QBhZPFRsGBhxKEx0CRAoAEwhQDR0SAVICAQAfBw0eTQ=="),
+Duration = (4 - 1),
+})
+end
+
+
+
+
+
+
+
+local setNoJumpCooldown
+do 
+local noJumpCooldownEnabled = false
+local jumpCooldownConnections = {}
+local jumpCooldownDisabled = {}
+local jumpCooldownSaved = { power = nil, height = nil }
+local jumpCooldownLastScan = 0
+local function jumpCooldownMatches(_vf1)
+if not (_vf1:IsA(_dpexu("OR0TBR88BQgZEww=")) or _vf1:IsA(_dpexu("JhECDQMb"))) then return false end
+local name = string.lower(_vf1.Name)
+local _vf2 = _vf1.Parent and string.lower(_vf1.Parent.Name) or ""
+if string.find(name, _dpexu("HwcdFBcKBBUFDRsP"), 1, true) or string.find(_vf2, _dpexu("HwcdFBcKBBUFDRsP"), 1, true) then
+return true
+end
+return string.find(name, _dpexu("HwcdFA=="), 1, true) ~= nil
+and (string.find(name, _dpexu("ERcSCwYBBR8="), 1, true) ~= nil
+or string.find(name, _dpexu("Fh0fCBcAERQ="), 1, true) ~= nil
+or string.find(name, _dpexu("ERccBQo="), 1, true) ~= nil)
+end
+local function jumpCooldownDisable(_vf3)
+if jumpCooldownMatches(_vf3) and not jumpCooldownDisabled[_vf3] then
+local _vf4 = false
+pcall(function() _vf4 = _vf3.Disabled end)
+if not _vf4 then
+local ok = pcall(function() _vf3.Disabled = true end)
+if ok then
+jumpCooldownDisabled[_vf3] = true
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LjgFCQMsCRUcBxcdGy9QIBocBxgcBhxKBhECDQMbXFo=") .. _vf3:GetFullName())
+end
+end
+end
+end
+local function jumpCooldownScan()
+local _vf5 = {}
+local _vf6 = LocalPlayer:FindFirstChildOfClass(_dpexu("JR4RHRYdIQ8Z"))
+if _vf6 then _vf5[#_vf5 + 1] = _vf6 end
+local _vf7 = LocalPlayer:FindFirstChild(_dpexu("JR4RHRYdNRkCCggeBg=="))
+if _vf7 then _vf5[#_vf5 + 1] = _vf7 end
+if LocalPlayer.Character then _vf5[#_vf5 + 1] = LocalPlayer.Character end
+for _, root in ipairs(_vf5) do
+for _, _vf8 in ipairs(root:GetDescendants()) do
+jumpCooldownDisable(_vf8)
+end
+end
+end
+local function jumpCooldownHumanoid()
+local character = LocalPlayer.Character
+return character and character:FindFirstChildOfClass(_dpexu("PQcdBR0ADx4="))
+end
+local function jumpCooldownEnforce()
+local _vf9 = jumpCooldownHumanoid()
+if not _vf9 or _vf9.Health <= 0 then return end
+pcall(function() _vf9:SetStateEnabled(Enum.HumanoidStateType.Jumping, true) end)
+pcall(function()
+local _vfb = Bronx and Bronx.JumpEnabled
+if _vf9.UseJumpPower then
+if _vf9.JumpPower > 0 then
+jumpCooldownSaved.power = _vf9.JumpPower
+elseif jumpCooldownSaved.power and not _vfb then
+_vf9.JumpPower = jumpCooldownSaved.power
+end
+else
+if _vf9.JumpHeight > 0 then
+jumpCooldownSaved.height = _vf9.JumpHeight
+elseif jumpCooldownSaved.height and not _vfb then
+_vf9.JumpHeight = jumpCooldownSaved.height
+end
+end
+end)
+end
+local function jumpCooldownStop()
+for _, _vfc in ipairs(jumpCooldownConnections) do
+pcall(function() _vfc:Disconnect() end)
+end
+jumpCooldownConnections = {}
+for _vfd in pairs(jumpCooldownDisabled) do
+pcall(function() _vfd.Disabled = false end)
+end
+jumpCooldownDisabled = {}
+end
+function setNoJumpCooldown(enabled)
+noJumpCooldownEnabled = enabled == true
+jumpCooldownStop()
+if not noJumpCooldownEnabled then
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LjgFCQMsCRUcBxcdGy9QIBocBxgcBhxRVRMeHVMcBQgZEwwZVQYFFh0KAlofBR5KFwtQEBsGFVoEDB8NGRdQExYdA1oCBlUPGxMSCBYLSA=="))
+Rayfield:Notify({ Title = _dpexu("Ox1QLgYCFlozDBcGER0HCg=="), Content = _dpexu("MRsDBREDAx5e"), Duration = (5 - 2) })
+return
+end
+jumpCooldownSaved = { power = nil, height = nil }
+jumpCooldownScan()
+jumpCooldownEnforce()
+local _vfe = jumpCooldownHumanoid()
+local found = 0
+for _ in pairs(jumpCooldownDisabled) do found += 1 end
+debugLog(_dpexu("PDw2Kw=="), string.format(_dpexu("LjgFCQMsCRUcBxcdGy9QIR0OBBYVB1ZKNh0fCBcAERRQEBsYHAIEF1MLDwkRARQPEUhQQRdPGlolEB0gAB8ANBwYAwhNRgtKPwcdFCMAER8CXl0ZVTgFCQMnAxMXCwxXUAE="),
+found, tostring(_vfe and _vfe.UseJumpPower), tostring(_vfe and _vfe.JumpPower), tostring(_vfe and _vfe.JumpHeight)))
+
+
+table.insert(jumpCooldownConnections, RunService.Stepped:Connect(function()
+jumpCooldownEnforce()
+if os.clock() - jumpCooldownLastScan > 0.5 then
+jumpCooldownLastScan = os.clock()
+jumpCooldownScan()
+end
+end))
+
+local _vff = LocalPlayer:FindFirstChildOfClass(_dpexu("JR4RHRYdIQ8Z"))
+if _vff then
+table.insert(jumpCooldownConnections, _vff.DescendantAdded:Connect(function(_vfh)
+task.defer(jumpCooldownDisable, _vfh)
+end))
+end
+
+table.insert(jumpCooldownConnections, UserInputService.JumpRequest:Connect(function()
+local _vfi = jumpCooldownHumanoid()
+if not _vfi or _vfi.Health <= 0 or _vfi.Sit or _vfi.PlatformStand then return end
+if _vfi.FloorMaterial ~= Enum.Material.Air then
+pcall(function() _vfi:ChangeState(Enum.HumanoidStateType.Jumping) end)
+end
+end))
+Rayfield:Notify({
+Title = _dpexu("Ox1QLgYCFlozDBcGER0HCg=="),
+Content = _dpexu("MBwRBh8KAlRQKh5KDB0FRAAbDxYcQx4PEB5QBVMMCRUcBxcdG15QBxwfH1oECx1KMRcSERQIDxQXQwwLF1IcCxQcRlIrKQ0HBTEfCx8LCQ0ePlgGHBwVF1pB"),
+Duration = (5 - 1),
+})
+end
+end 
+local playerToggleOptions = {
+_dpexu("PBwWDR0GEh9QMAwLGBseBQ=="),
+_dpexu("PBwWDR0GEh9QMBQPEAI="),
+_dpexu("PBwWDR0GEh9QKw0EEhcC"),
+_dpexu("PBwDEBIBElo5DQwPBxMTEA=="),
+}
+for _, featureName in ipairs(playerToggleOptions) do
+local capturedName = featureName
+
+local skipFeature = false
+if capturedName == _dpexu("PBwDEBIBElo5DQwPBxMTEA==") then
+pcall(function()
+local _vfj = identifyexecutor or getexecutorname
+if type(_vfj) == _dpexu("EwceBwcGCRQ=") then
+local _vfk = _vfj()
+if type(_vfk) == _dpexu("BgYCDR0I") and string.find(string.lower(_vfk), _dpexu("BR4FEBw="), 1, true) then
+skipFeature = true
+end
+end
+end)
+end
+if skipFeature then
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiIcBQoKFCdQKhYZARMeEFMmCA4VERkJAVICAR4AEB8UWVg6GQcEC1MKHh8TFgwFB1IUAQcKBQ4VB1Y="))
+else
+PlayerTab:CreateToggle({
+Name = capturedName,
+CurrentValue = false,
+Flag = _dpexu("JR4RHRYdMzMv") .. capturedName:gsub(_dpexu("LixVEy4="), ""),
+Callback = function(enabled)
+if capturedName == _dpexu("PBwWDR0GEh9QMAwLGBseBQ==") then
+setInfiniteStamina(enabled)
+elseif capturedName == _dpexu("PBwWDR0GEh9QKw0EEhcC") then
+setInfiniteHunger(enabled)
+elseif capturedName == _dpexu("PBwWDR0GEh9QMBQPEAI=") then
+setInfiniteSleep(enabled)
+elseif capturedName == _dpexu("PBwDEBIBElo5DQwPBxMTEA==") then
+setInstantInteract(enabled)
+end
+end,
+})
+end
+end
+PlayerTab:CreateSection(_dpexu("OBsDBw=="))
+
+
+
+
+
+local BronxLighting = game:GetService(_dpexu("ORsXDAcGCB0="))
+local BronxReplicatedStorage = game:GetService(_dpexu("JxcACBoMBw4VByseGgARAxY="))
+local BronxStarterGui = game:GetService(_dpexu("JgYRFgcKFD0FCg=="))
+local BronxTeleportService = game:GetService(_dpexu("IRccAQMAFA4jBgocHBEV"))
+local BronxHttpService = game:GetService(_dpexu("PQYEFCAKFAwZAB0="))
+local BronxCoreGui = game:GetService(_dpexu("Nh0CATQaDw=="))
+Bronx = {
+
+DisableCameraBobbing = false,
+DisableBloodEffects = false,
+DisableCameras = false,
+NoKnockback = false,
+InstantRevive = false,
+WalkSpeedEnabled = false, WalkSpeed = (34 - 12),
+JumpEnabled = false, JumpHeight = (10 - 3),
+InfiniteJump = false,
+SpectateTarget = nil,
+
+FarmConstruction = false,
+FarmDumpsters = false,
+AutoSellTrash = false,
+
+ESP = false, ESPMaxDistance = (1099 - 99),
+ESPNames = true, ESPHealth = true, ESPDistance = true, ESPTools = true, ESPChams = true,
+
+Fullbright = false,
+FogColorEnabled = false, FogColor = Color3.new(1, 1, 1),
+AmbientTint = false, AmbientColor = Color3.new(1, 1, 1),
+SaturationEnabled = false, SaturationValue = 1,
+FOVEnabled = false, FOV = (93 - 23),
+}
+Bronx.WalkSpeedEnabled = earlyWalkSpeedEnabled
+Bronx.WalkSpeed = earlyWalkSpeed
+local BronxActions = {}
+if type(getgenv) == _dpexu("EwceBwcGCRQ=") then
+pcall(function()
+getgenv().Bronx = Bronx
+getgenv().BronxActions = BronxActions
+getgenv().VeloHubExtrasLoaded = true
+end)
+end
+local function bxNotify(_vfl)
+pcall(function()
+Rayfield:Notify({Title = _dpexu("IxccC1MnExg="), Content = tostring(_vfl), Duration = (9 - 4)})
+end)
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiQVCBxPLg8SPlg=") .. tostring(_vfl))
+end
+local function bxChar() return LocalPlayer.Character end
+local function bxHumanoid()
+local _vfm = bxChar()
+return _vfm and _vfm:FindFirstChildOfClass(_dpexu("PQcdBR0ADx4="))
+end
+local function bxRoot()
+local _vfn = bxChar()
+return _vfn and _vfn:FindFirstChild(_dpexu("PQcdBR0ADx4iDBceJRMCEA=="))
+end
+local function bxAlive()
+local _vfo, r = bxHumanoid(), bxRoot()
+return _vfo ~= nil and _vfo.Health > 0 and r ~= nil
+end
+local function bxFindPath(root, ...)
+local _vfp = root
+for _, name in ipairs({...}) do
+if not _vfp then return nil end
+_vfp = _vfp:FindFirstChild(name)
+end
+return _vfp
+end
+local function bxFirePrompt(prompt)
+if not prompt or not prompt:IsA(_dpexu("JQAfHBoCDw4JMwoFGAIE")) then return false end
+if not prompt.Enabled then return false end
+if type(fireproximityprompt) ~= _dpexu("EwceBwcGCRQ=") then
+debugLog(_dpexu("IjMiKg=="), _dpexu("LiQVCBxPLg8SPlgMHAAVFAEAHhMdCgwTBQAfCQMbRhMDQw0EFAQRDR8OBBYVWFgJFBweCwdPBxkECg4LARdQ") .. prompt:GetFullName())
+return false
+end
+local ok, _vfq = pcall(fireproximityprompt, prompt)
+if not ok then debugLog(_dpexu("IjMiKg=="), _dpexu("LiQVCBxPLg8SPlg6Bx0dFAdPBxkECg4LARsfClMJBxMcBhxQVQ==") .. tostring(_vfq)) end
+return ok
+end
+local function bxTeleport(_vfr)
+
+local ok, result = pcall(teleportToPosition, _vfr)
+if not ok then
+debugLog(_dpexu("IjMiKg=="), _dpexu("LiQVCBxPLg8SPlg5HRMCARdPEh8cBggFBwZQAhIGCh8UWVg=") .. tostring(result))
+return false
+end
+return result == true
+end
+local function bxWaitUntil(_vfs, timeout)
+local started = os.clock()
+while not _vfs() do
+if os.clock() - started > (timeout or (12 - 2)) then return false end
+task.wait()
+end
+return true
+end
+local function bxLoop(_vft, handler, _vfu)
+task.spawn(function()
+while task.wait(_vfu or 1) and not Window.VeloUnloaded do
+if Bronx[_vft] and bxAlive() then
+local ok, _vfw = pcall(handler)
+if not ok then debugLog(_dpexu("IjMiKg=="), _dpexu("Lg==") .. _vft .. _dpexu("KFI=") .. tostring(_vfw)) end
+end
+end
+end)
+end
+
+
+
+local bxJumpWasApplied = false
+local bxOriginalJumpHeight = nil
+local bxWasSpectating = false
+VeloTrack(RunService.RenderStepped:Connect(function(_vfx)
+local _vfy = bxChar()
+local _vfz = LocalPlayer:FindFirstChildOfClass(_dpexu("JR4RHRYdIQ8Z"))
+local _vg0 = _vfy and _vfy:FindFirstChild(_dpexu("NhMdAQEOJBUSAREEEg=="))
+if _vg0 and (_vg0:IsA(_dpexu("OR0TBR88BQgZEww=")) or _vg0:IsA(_dpexu("JhECDQMb"))) then
+pcall(function() _vg0.Disabled = Bronx.DisableCameraBobbing end)
+end
+if _vfz then
+local _vg1 = _vfz:FindFirstChild(_dpexu("Nx4fCxcoExM="))
+if _vg1 and _vg1:IsA(_dpexu("JhECARYBIQ8Z")) then
+pcall(function() _vg1.Enabled = not Bronx.DisableBloodEffects end)
+end
+local _vg2 = _vfz:FindFirstChild(_dpexu("NhMdAQEOMh8IFws="))
+if _vg2 then
+pcall(function() _vg2.Enabled = not Bronx.DisableCameras end)
+local _vg3 = _vg2:FindFirstChild(_dpexu("OR0TBR88BQgZEww="))
+if _vg3 and (_vg3:IsA(_dpexu("OR0TBR88BQgZEww=")) or _vg3:IsA(_dpexu("JhECDQMb"))) then
+pcall(function() _vg3.Disabled = Bronx.DisableCameras end)
+end
+end
+end
+local _vg4, r = bxHumanoid(), bxRoot()
+if _vg4 and r then
+
+
+if Bronx.WalkSpeedEnabled and not State.Flying and not _vg4.Sit and _vg4.Health > 0 then
+local _vg5 = math.min(Bronx.WalkSpeed, (36 - 14), Bronx.SpeedCap or math.huge)
+local _vg6 = r.Position
+local last = Bronx.SpeedLastPos
+Bronx.SpeedLastPos = _vg6
+if last and os.clock() > (Bronx.SpeedGraceUntil or 0) and os.clock() - (State.LastScriptTeleport or 0) > (4 - 2)
+and os.clock() - (Bronx.SpeedLastPullback or 0) > 1.5 then
+local _vg7 = (_vg5 + (35 - 15)) * _vfx
+local jump = (_vg6 - last).Magnitude
+if jump > _vg7 + (14 - 2) and _vg4.MoveDirection.Magnitude > 0 then
+Bronx.SpeedLastPullback = os.clock()
+
+local _vg8 = _vg5
+Bronx.SpeedCap = math.max((24 - 4), math.floor(_vg5 * 0.7))
+_vg5 = math.min(Bronx.WalkSpeed, Bronx.SpeedCap)
+debugLog(_dpexu("IjMiKg=="), string.format(_dpexu("LiEAARYLRjgfDAseKFIjAQEZAwhQEw0GGRcURAoAE1oSAhsBVVpVSkMJRgkEFhwZXFIREFMOBBUFF1hPW0IWRAAbEx4DTAtEVSEAARYLRhMDQxYFAlITBQMfAx5QAgxKUBZQFwcaAglfEFZKORMDEDIsNhUDXl0Z"),
+jump, _vg8, Bronx.SpeedCap, tostring(LocalPlayer:GetAttribute(_dpexu("ORMDEDIsNhUD")))))
+Rayfield:Notify({
+Title = _dpexu("JgIVARdPJBUfEAw="),
+Content = string.format(_dpexu("IRoVRBQOCx9QEw0GGRcURAoAE1oSAhsBW1IjFBYKAloZEFgEGgVQBxIfFh8UQxkeVRMSCwYbRl8UQwseABYDSwBBRi4fBB8GEFIjFBYKAloyDBcZAVIfAhVPBxQUQxcEVQYfRAEKEggJTQ=="),
+Bronx.SpeedCap),
+Duration = (11 - 5),
+})
+end
+end
+
+
+local _vg9 = _vg4.MoveDirection
+if _vg9.Magnitude > 0 then
+local _vga = math.max(0, _vg5 - _vg4.WalkSpeed)
+if _vga > 0 then
+r.CFrame = r.CFrame + _vg9 * _vga * _vfx
+end
+end
+else
+Bronx.SpeedLastPos = nil
+end
+if Bronx.JumpEnabled then
+if not bxJumpWasApplied then bxOriginalJumpHeight = _vg4.JumpHeight end
+bxJumpWasApplied = true
+_vg4.JumpHeight = Bronx.JumpHeight
+elseif bxJumpWasApplied then
+_vg4.JumpHeight = bxOriginalJumpHeight or (12 - 5)
+bxOriginalJumpHeight = nil
+bxJumpWasApplied = false
+end
+local _vgb = Bronx.SpectateTarget and Players:FindFirstChild(Bronx.SpectateTarget)
+local _vgc = _vgb and _vgb.Character and _vgb.Character:FindFirstChildOfClass(_dpexu("PQcdBR0ADx4="))
+local _vgd = Workspace.CurrentCamera
+if _vgd and _vgc then
+bxWasSpectating = true
+_vgd.CameraSubject = _vgc
+elseif _vgd and bxWasSpectating then
+bxWasSpectating = false
+_vgd.CameraSubject = _vg4
+end
+end
+end))
+VeloTrack(UserInputService.InputBegan:Connect(function(input, _vge)
+
+if input.KeyCode == Enum.KeyCode.RightAlt then
+restoreMouseCursor()
+return
+end
+if _vge or not Bronx.InfiniteJump then return end
+if input.KeyCode == Enum.KeyCode.Space then
+local _vgf = bxHumanoid()
+if _vgf and _vgf.Health > 0 then _vgf:ChangeState(Enum.HumanoidStateType.Jumping) end
+end
+end))
+local function bxClearKnockbackObjects(character)
+if not character then return end
+for _, _vgg in ipairs(character:GetDescendants()) do
+if Bronx.NoKnockback and _vgg.Name ~= _dpexu("IBwZEhYdFRscJRQTIxccCxAGEgM=") and (_vgg:IsA(_dpexu("Nx0UHSUKChUTCgwT")) or _vgg:IsA(_dpexu("ORseARIdMB8cDBsDAQs=")) or _vgg:IsA(_dpexu("IxcTEBwdIBUCAB0="))) then
+pcall(function() _vgg:Destroy() end)
+end
+end
+end
+local function bxWatchKnockback(character)
+if not character then return end
+VeloTrack(character.DescendantAdded:Connect(function(_vgh)
+if Bronx.NoKnockback and _vgh.Name ~= _dpexu("IBwZEhYdFRscJRQTIxccCxAGEgM=") and (_vgh:IsA(_dpexu("Nx0UHSUKChUTCgwT")) or _vgh:IsA(_dpexu("ORseARIdMB8cDBsDAQs=")) or _vgh:IsA(_dpexu("IxcTEBwdIBUCAB0="))) then
+task.defer(function()
+if Bronx.NoKnockback and _vgh.Parent then pcall(function() _vgh:Destroy() end) end
+end)
+end
+end))
+bxClearKnockbackObjects(character)
+end
+if LocalPlayer.Character then bxWatchKnockback(LocalPlayer.Character) end
+VeloTrack(LocalPlayer.CharacterAdded:Connect(bxWatchKnockback))
+VeloTrack(RunService.PreRender:Connect(function()
+if not Bronx.InstantRevive then return end
+local _vgi = bxHumanoid()
+if not _vgi then return end
+if _vgi:GetState() == Enum.HumanoidStateType.Physics then
+local remote = BronxReplicatedStorage:FindFirstChild(_dpexu("MyEABR49AxcfFx0="))
+if remote and remote:IsA(_dpexu("JxcdCwcKIwwVDQw=")) then pcall(function() remote:FireServer() end) end
+pcall(function() _vgi:ChangeState(Enum.HumanoidStateType.GettingUp) end)
+end
+pcall(function() BronxStarterGui:SetCoreGuiEnabled(Enum.CoreGuiType.Backpack, true) end)
+end))
+local function bxPlayerToggle(_vgj, key)
+PlayerTab:CreateToggle({
+Name = _vgj, CurrentValue = Bronx[key], Flag = _dpexu("NwAfCgswNhYRGh0YKg==") .. key,
+Callback = function(enabled)
+Bronx[key] = enabled == true
+if key == _dpexu("Ox07ChwMDRgRABM=") and enabled then bxClearKnockbackObjects(bxChar()) end
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiQVCBxPLg8SQygGFAsVFi5P") .. key .. _dpexu("VU9Q") .. tostring(enabled))
+end,
+})
+end
+
+bxPlayerToggle(_dpexu("PBwDEBIBEloiBg4DAxc="), _dpexu("PBwDEBIBEigVFREcEA=="))
+bxPlayerToggle(_dpexu("JxcdCwUKRjkRDh0YFFIyCxENDxQX"), _dpexu("MRsDBREDAzkRDh0YFDAfBhEGCB0="))
+bxPlayerToggle(_dpexu("JxcdCwUKRjgcDBcOVTcWAhYMEgk="), _dpexu("MRsDBREDAzgcDBcOMBQWARAbFQ=="))
+
+
+
+
+
+
+do
+local glassState = { enabled = false, tracked = {}, remotes = {}, conn = nil, runId = 0 }
+local GLASS_REMOTE_TERMS = { _dpexu("Eh4RFwA="), _dpexu("BhoREAcKFA=="), _dpexu("Bh8RFxs=") }
+local function isGlassPart(_vgk)
+if not _vgk:IsA(_dpexu("NxMDASMOFA4=")) then return false end
+
+
+local _vgl = _vgk.Size
+if math.min(_vgl.X, _vgl.Y, _vgl.Z) > (6 - 3) then return false end
+if _vgk.Material == Enum.Material.Glass then return true end
+local _vgm = string.lower(_vgk.Name)
+return string.find(_vgm, _dpexu("Eh4RFwA="), 1, true) ~= nil or string.find(_vgm, _dpexu("AhseABwY"), 1, true) ~= nil
+end
+
+local function shouldSkip(_vgn)
+local _vgo = _vgn.Parent
+while _vgo and _vgo ~= Workspace do
+if _vgo:FindFirstChildOfClass(_dpexu("PQcdBR0ADx4=")) or _vgo:FindFirstChild(_dpexu("MQAZEhY8AxsE")) then return true end
+_vgo = _vgo.Parent
+end
+return false
+end
+local function findGlassRemotes()
+local found = {}
+for _, _vgp in ipairs(BronxReplicatedStorage:GetDescendants()) do
+if _vgp:IsA(_dpexu("JxcdCwcKIwwVDQw=")) then
+local _vgq = string.lower(_vgp.Name)
+for _, _vgr in ipairs(GLASS_REMOTE_TERMS) do
+if string.find(_vgq, _vgr, 1, true) then found[#found + 1] = _vgp; break end
+end
+end
+end
+return found
+end
+local function breakGlassLocally(part)
+if glassState.tracked[part] or part.Transparency >= 1 then return false end
+glassState.tracked[part] = {
+Transparency = part.Transparency, CanCollide = part.CanCollide, CanQuery = part.CanQuery, fired = false,
+}
+pcall(function()
+part.Transparency = 1
+part.CanCollide = false
+part.CanQuery = false
+end)
+return true
+end
+local function restoreGlass()
+for part, original in pairs(glassState.tracked) do
+if part.Parent then
+pcall(function()
+part.Transparency = original.Transparency
+part.CanCollide = original.CanCollide
+part.CanQuery = original.CanQuery
+end)
+end
+end
+glassState.tracked = {}
+end
+local function startBreakingGlass()
+glassState.runId += 1
+local _vgs = glassState.runId
+glassState.enabled = true
+task.spawn(function()
+local _vgv, scanned = 0, 0
+for _, _vgw in ipairs(Workspace:GetDescendants()) do
+if not glassState.enabled or glassState.runId ~= _vgs then return end
+scanned += 1
+if scanned % (2143 - 143) == 0 then task.wait() end 
+if isGlassPart(_vgw) and not shouldSkip(_vgw) and breakGlassLocally(_vgw) then _vgv += 1 end
+end
+if not glassState.enabled or glassState.runId ~= _vgs then return end
+
+glassState.conn = Workspace.DescendantAdded:Connect(function(_vgx)
+if glassState.enabled and isGlassPart(_vgx) and not shouldSkip(_vgx) then
+task.defer(breakGlassLocally, _vgx)
+end
+end)
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LjUcBQAcO1oyERcBEFI=") .. _vgv .. _dpexu("VRUcBQAcRgoREQwZWw=="))
+Rayfield:Notify({ Title = _dpexu("NwAVBRhPJxYcQz8GFAED"), Content = _dpexu("NwAfDxZP") .. _vgv .. _dpexu("VRUcBQAcRgoREQwZWw=="), Duration = (8 - 4) })
+end)
+end
+local function stopBreakingGlass()
+glassState.enabled = false
+glassState.runId += 1
+if glassState.conn then glassState.conn:Disconnect(); glassState.conn = nil end
+restoreGlass()
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LjUcBQAcO1oiBgseGgAVAFMIChsDEFgaFAAEF10="))
+end
+PlayerTab:CreateToggle({
+Name = _dpexu("NwAVBRhPJxYcQz8GFAED"), CurrentValue = false, Flag = _dpexu("JR4RHRYdMzMvIQoPFBkxCB8oChsDEA=="),
+Callback = function(enabled)
+if enabled then startBreakingGlass() else stopBreakingGlass() end
+end,
+})
+end
+PlayerTab:CreateToggle({
+Name = _dpexu("JxcdCwUKRjAFDghKNh0fCBcAERQ="), CurrentValue = false, Flag = _dpexu("JR4RHRYdMzMvMR0HGgQVLgYCFjkfDBQOGgUe"),
+Callback = function(enabled) setNoJumpCooldown(enabled) end,
+})
+PlayerTab:CreateToggle({
+Name = _dpexu("JxcdCwUKRigVDQxKJRMJ"), CurrentValue = false, Flag = _dpexu("JR4RHRYdMzMvMR0HGgQVNhYBEioRGg=="),
+Callback = function(enabled) setNoRentPay(enabled) end,
+})
+PlayerTab:CreateToggle({
+Name = _dpexu("JxcdCwUKRjwRDxRKMRMdBRQK"), CurrentValue = false, Flag = _dpexu("JR4RHRYdMzMvMR0HGgQVIhIDCj4RDhkNEA=="),
+Callback = function(enabled) setNoFallDamage(enabled) end,
+})
+bxPlayerToggle(_dpexu("JxcdCwUKRjEeDBsBFxMTDw=="), _dpexu("Ox07ChwMDRgRABM="))
+
+do
+local godmode, antiRagdoll = false, false
+local ragdollSince, lastSeatPart, lastSeatChange = nil, nil, 0
+local RAGDOLL_STATES = {
+[Enum.HumanoidStateType.Physics] = true,
+[Enum.HumanoidStateType.Ragdoll] = true,
+[Enum.HumanoidStateType.FallingDown] = true,
+}
+VeloTrack(RunService.Heartbeat:Connect(function()
+if not (godmode or antiRagdoll) then return end
+local character = LocalPlayer.Character
+local _vgy = character and character:FindFirstChildOfClass(_dpexu("PQcdBR0ADx4="))
+if not _vgy or _vgy.Health <= 0 then return end
+if godmode and _vgy.Health < _vgy.MaxHealth then
+_vgy.Health = _vgy.MaxHealth
+end
+if not antiRagdoll then return end
+
+
+local _vgz = _vgy.SeatPart
+if _vgz ~= lastSeatPart then
+lastSeatPart = _vgz
+lastSeatChange = os.clock()
+end
+local _vh0 = _vgz ~= nil or _vgy.Sit
+or os.clock() - lastSeatChange < (4 - 1)
+or flyConnection ~= nil
+or LocalPlayer:GetAttribute(_dpexu("ORMDEDIsNhUD")) ~= nil
+or (State.LastScriptTeleport and os.clock() - State.LastScriptTeleport < (3 - 1))
+if _vh0 then
+ragdollSince = nil
+return
+end
+
+if RAGDOLL_STATES[_vgy:GetState()] or _vgy.PlatformStand then
+ragdollSince = ragdollSince or os.clock()
+if os.clock() - ragdollSince >= 0.25 then
+_vgy.PlatformStand = false
+pcall(function() _vgy:ChangeState(Enum.HumanoidStateType.GettingUp) end)
+end
+else
+ragdollSince = nil
+end
+end))
+PlayerTab:CreateToggle({
+Name = _dpexu("Mh0UCRwLA1pYDRdKERMdBRQKTw=="), CurrentValue = false, Flag = _dpexu("JR4RHRYdMzMvJBcOGB0UAQ=="),
+Callback = function(enabled)
+godmode = enabled == true
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiIcBQoKFCdQJBcOGB0UAVNSRg==") .. tostring(godmode))
+end,
+})
+PlayerTab:CreateToggle({
+Name = _dpexu("NBwEDVM9Bx0UDBQGVVoTBQEcSloWAhQGBls="), CurrentValue = false, Flag = _dpexu("JR4RHRYdMzMvIhYeHCARAxcAChY="),
+Callback = function(enabled)
+antiRagdoll = enabled == true
+ragdollSince = nil
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiIcBQoKFCdQIhYeHFIiBRQLCRYcQ0VK") .. tostring(antiRagdoll))
+end,
+})
+end
+PlayerTab:CreateToggle({
+Name = _dpexu("JxcDFBIYCFonCx0YEFIpCwZPIhMVBw=="), CurrentValue = false, Flag = _dpexu("JR4RHRYdMzMvMR0ZBRMHCiQHAwgVOhcfMRsVAA=="),
+Callback = function(enabled) setRespawnWhereYouDied(enabled) end,
+})
+bxPlayerToggle(_dpexu("PBwWDR0GEh9QKQ0HBQ=="), _dpexu("PBwWDR0GEh86FhUa"))
+
+
+
+MiscTab:CreateSection(_dpexu("OB0eAQo="))
+MiscTab:CreateToggle({
+Name = _dpexu("NAcEC1MrFBUAQzsLBhpQTFdeVjFZ"),
+CurrentValue = false,
+Flag = _dpexu("NAcECzcdCQozAgsCREI7"),
+Callback = function(enabled)
+autoDropCashEnabled = enabled
+autoDropCashRunId += 1
+local _vh1 = autoDropCashRunId
+if enabled then
+task.spawn(function()
+while autoDropCashEnabled and _vh1 == autoDropCashRunId do
+dropCashOnce()
+task.wait(DROP_INTERVAL)
+end
+end)
+end
+end,
+})
+MiscTab:CreateButton({
+Name = _dpexu("Nh4VBR1PIhMCFwFKOB0eAQo="),
+Callback = function() BronxActions.CleanFilthyMoney() end,
+})
+MiscTab:CreateSection(_dpexu("NAcECzUOFBc="))
+local function bxGetWoodPlacement()
+local _vh2 = Workspace:FindFirstChild(_dpexu("Nh0eFwcdExkEChcEJgYFAhU="))
+if not _vh2 then return nil end
+for _, item in ipairs(_vh2:GetChildren()) do
+if item:IsA(_dpexu("JRMCEA==")) and item.Name:find(_dpexu("IhMcCA==")) then
+local prompt = item:FindFirstChild(_dpexu("JQAfCQMb"))
+if prompt and prompt:IsA(_dpexu("JQAfHBoCDw4JMwoFGAIE")) and prompt.Enabled then return item end
+end
+end
+return nil
+end
+local function bxFarmConstruction()
+local _vh3 = Workspace:FindFirstChild(_dpexu("Nh0eFwcdExkEChcEJgYFAhU="))
+if not _vh3 then return end
+if not LocalPlayer:GetAttribute(_dpexu("Ih0CDxoBATAfAQ==")) then
+bxTeleport(CFrame.new(-(1864 - 135), (438 - 67), -(1613 - 442)))
+task.wait(0.4)
+bxFirePrompt(bxFindPath(_vh3, _dpexu("JgYRFgdPLBUS"), _dpexu("JQAfCQMb")))
+bxWaitUntil(function() return LocalPlayer:GetAttribute(_dpexu("Ih0CDxoBATAfAQ==")) end, (6 - 1))
+end
+local function _vh4()
+return (LocalPlayer:FindFirstChildOfClass(_dpexu("NxMTDwMOBRE=")) and LocalPlayer.Backpack:FindFirstChild(_dpexu("JR4JMxwAAg==")))
+or (bxChar() and bxChar():FindFirstChild(_dpexu("JR4JMxwAAg==")))
+end
+if not _vh4() then
+bxTeleport(CFrame.new(-(2205 - 477), (479 - 108), -(1671 - 493)))
+local started = os.clock()
+repeat
+if not Bronx.FarmConstruction then return end
+task.wait()
+bxFirePrompt(bxFindPath(_vh3, _dpexu("MgARBlM4CRUU"), _dpexu("JQAfCQMb")))
+until _vh4() or os.clock() - started > (10 - 5)
+end
+local backpack = LocalPlayer:FindFirstChildOfClass(_dpexu("NxMTDwMOBRE="))
+local _vh5 = backpack and backpack:FindFirstChild(_dpexu("JR4JMxwAAg=="))
+local _vh6 = bxHumanoid()
+if _vh5 and _vh6 then pcall(function() _vh6:EquipTool(_vh5) end) end
+local _vh7 = bxGetWoodPlacement()
+if not _vh7 then return end
+bxTeleport(_vh7.CFrame)
+local prompt = _vh7:FindFirstChild(_dpexu("JQAfCQMb"))
+local started = os.clock()
+repeat
+if not Bronx.FarmConstruction then return end
+task.wait()
+bxFirePrompt(prompt)
+until not (bxChar() and bxChar():FindFirstChild(_dpexu("JR4JMxwAAg=="))) or not (prompt and prompt.Enabled) or os.clock() - started > (10 - 5)
+end
+local function bxFarmDumpsters()
+for _, item in ipairs(Workspace:GetChildren()) do
+if not Bronx.FarmDumpsters then break end
+if item.Name == _dpexu("MQcdFAAbAwggERcHAQ==") and item:IsA(_dpexu("NxMDASMOFA4=")) then
+local prompt = item:FindFirstChild(_dpexu("JQAfHBoCDw4JMwoFGAIE"))
+if prompt and prompt:IsA(_dpexu("JQAfHBoCDw4JMwoFGAIE")) and prompt.Enabled then
+local _vh8 = prompt.HoldDuration
+pcall(function() prompt.HoldDuration = 0 end)
+bxTeleport(CFrame.new(item.Position))
+task.wait(0.4)
+bxFirePrompt(prompt)
+task.wait(0.5)
+if prompt.Parent then pcall(function() prompt.HoldDuration = _vh8 end) end
+end
+end
+end
+end
+local function bxSellAllTrashTools()
+local backpack = LocalPlayer:FindFirstChildOfClass(_dpexu("NxMTDwMOBRE="))
+local _vh9 = BronxReplicatedStorage:FindFirstChild(_dpexu("JRMHCiEKCxUEBg=="))
+if not backpack or not _vh9 or not _vh9:IsA(_dpexu("JxcdCwcKIwwVDQw=")) then
+debugLog(_dpexu("IjMiKg=="), _dpexu("LjMFEBw8AxYcNwoLBhotRDEOBREAAhsBVR0CRCMOERQiBhUFARdQER0OEBsZDxkIGRde"))
+return
+end
+for _, tool in ipairs(backpack:GetChildren()) do
+if not Bronx.AutoSellTrash then return end
+if tool:IsA(_dpexu("IR0fCA==")) then
+local ok, _vha = pcall(function() _vh9:FireServer(tool.Name) end)
+if not ok then debugLog(_dpexu("IjMiKg=="), _dpexu("LjMFEBw8AxYcNwoLBhotRDAAExYUQxYFAVIDAR8DRg==") .. tool.Name .. _dpexu("T1I=") .. tostring(_vha)) end
+task.wait(0.15)
+end
+end
+end
+
+local function bxFarmToggle(_vhb, _vhc, _vhd)
+MiscTab:CreateToggle({
+Name = _vhb, CurrentValue = Bronx[_vhc], Flag = _dpexu("NwAfCgswJw8EDD4LBx8v") .. _vhc,
+Callback = function(enabled)
+Bronx[_vhc] = enabled == true
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LjMFEBwpBwgdPlg=") .. _vhc .. _dpexu("VU9Q") .. tostring(enabled))
+if enabled and _vhd then
+Rayfield:Notify({Title = _vhb, Content = _vhd, Duration = (9 - 3)})
+end
+end,
+})
+end
+bxFarmToggle(_dpexu("Nh0eFwcdExkEChcEVTQRFh4="), _dpexu("MxMCCTAACAkEEQ0JARsfCg=="))
+bxFarmToggle(_dpexu("MQcdFAAbAwhQJRkYGA=="), _dpexu("MxMCCTcaCwoDFx0YBg=="))
+MiscTab:CreateSection(_dpexu("OBMeERIDRjwRERU="))
+MiscTab:CreateToggle({
+Name = _dpexu("NAcEC1MsCRYcBhseVTYCCwMfAx5QIBkZHQ=="),
+CurrentValue = false,
+Flag = _dpexu("NAcECzAAChYVAAwuBx0AFBYLJRsDCw=="),
+Callback = function(enabled) setAutoPickupCash(enabled) end,
+})
+MiscTab:CreateToggle({
+Name = _dpexu("NAcEC1MsCRYcBhseVT4fCwdPJBsXEA=="),
+CurrentValue = false,
+Flag = _dpexu("NAcECzAAChYVAAwmGh0EJhIIFQ=="),
+Callback = function(enabled) setAutoLoot(enabled) end,
+})
+MiscTab:CreateSection(_dpexu("MxMCCVM8Aw4EChYNBg=="))
+local antiAFKEnabled = false
+local antiAFKConnection = nil
+local virtualUser = nil
+pcall(function() virtualUser = game:GetService(_dpexu("IxsCEAYOCi8DBgo=")) end)
+local function setAntiAFK(enabled)
+antiAFKEnabled = enabled == true
+if antiAFKConnection then
+antiAFKConnection:Disconnect()
+antiAFKConnection = nil
+end
+if antiAFKEnabled then
+antiAFKConnection = LocalPlayer.Idled:Connect(function()
+if not antiAFKEnabled or not virtualUser then return end
+pcall(function()
+virtualUser:CaptureController()
+virtualUser:ClickButton2(Vector2.new(0, 0))
+end)
+end)
+Rayfield:Notify({ Title = _dpexu("NBwEDV4uIDE="), Content = _dpexu("MBwRBh8KAloWDApKJx0SCBwXQQlQChwGEFIVEhYBElRQIlgNFB8VQwBPCQ0eQzksPlITDBYMDQlQDhkTVQEEDR8DRhsAExQTWw=="), Duration = (6 - 2) })
+else
+Rayfield:Notify({ Title = _dpexu("NBwEDV4uIDE="), Content = _dpexu("MRsDBREDAx5e"), Duration = (4 - 1) })
+end
+end
+PlayerTab:CreateToggle({
+Name = _dpexu("NBwEDV4uIDE="),
+CurrentValue = false,
+Flag = _dpexu("OBsDBywuCA4ZIj4h"),
+Callback = function(enabled) setAntiAFK(enabled) end,
+})
+bxFarmToggle(_dpexu("NAcEC1M8AxYcQywYFAEY"), _dpexu("NAcECyAKChYkERkZHQ=="), _dpexu("IjMiKjohIUBQNxADBlIREAcKCwoEEFgeGlIDAR8DRh8GBgoTVSYfCx9PDxRQGhcfB1IyBRAEFhsTCFZKIQcCClMGElofBR5KHBRQHRwaRg0RDQxKAR1QDxYKFloRDQFKHAYVCQBB"))
+MiscTab:CreateSection(_dpexu("Mic5QyA="))
+
+
+local InterfaceDefinitions = {
+{ Label = _dpexu("IQAFChhPNQ4fERkNEA=="), Root = _dpexu("ISAlKjhPNS4/MTktMA==") },
+{ Label = _dpexu("IRMEEBwARikYDAg="), Root = _dpexu("NwAfCgtPMjskNzclJg==") },
+{ Label = _dpexu("Nh4fEBsGCB1QMBAFBQ=="), Root = _dpexu("NyA/KitPJTY/NzAjOzU=") },
+{ Label = _dpexu("NwAfCgtPKxsCCB0e"), Root = _dpexu("NwAfCgtPKxsCCB0eVUA=") },
+{ Label = _dpexu("JRMHChoBAQ=="), Root = _dpexu("NyA/KitPNjsnLTEkMg==") },
+{ Label = _dpexu("NxMeDw=="), Root = _dpexu("NCY9IwYG"), CloneFrom = { _dpexu("NAEDAQcc"), _dpexu("Mic5"), _dpexu("NCY9IwYG") } },
+{ Label = _dpexu("NgARAgcGCB0="), Root = _dpexu("NgARAgcoMzM="), Child = _dpexu("OBMZCg==") },
+{ Label = _dpexu("OBcXBQMHCRQVQzQDBgY="), Root = _dpexu("NwAfCgtPKx8DEBkNED4ZFwc="), Child = _dpexu("PR0cABYd") },
+}
+local function findGuiPart(_vhe, name)
+if not _vhe then return nil end
+local _vhf = string.lower(name)
+if string.lower(_vhe.Name) == _vhf then return _vhe end
+for _, item in ipairs(_vhe:GetDescendants()) do
+if string.lower(item.Name) == _vhf then return item end
+end
+return nil
+end
+
+
+local function findInterfaceRoot(_vhg, _vhh)
+if not _vhg then return nil end
+local root = findGuiPart(_vhg, _vhh.Root)
+if root then return root end
+for _, _vhi in ipairs(_vhh.Aliases or {}) do
+root = findGuiPart(_vhg, _vhi)
+if root then return root end
+end
+if _vhh.Fuzzy then
+for _, _vhj in ipairs(_vhg:GetChildren()) do
+local _vhk = string.lower(_vhj.Name)
+for _, _vhl in ipairs(_vhh.Fuzzy) do
+if string.find(_vhk, _vhl, 1, true) then
+debugLog(_dpexu("PDw2Kw=="), _dpexu("Lj8ZFxAyRg==") .. _vhh.Label .. _dpexu("VR8REBAHAx5QJC0jVRAJRAAKBwgTC0JK") .. _vhj:GetFullName())
+return _vhj
+end
+end
+end
+end
+return nil
+end
+local function setInterfaceOpen(_vhm, open)
+local _vhn = LocalPlayer:FindFirstChildOfClass(_dpexu("JR4RHRYdIQ8Z"))
+
+
+if _vhm.CloneFrom then
+local _vho = _vhn and _vhn:FindFirstChild(_vhm.Root)
+if open then
+if _vho then
+pcall(function() _vho.Enabled = true end)
+return
+end
+local source = game:GetService(_dpexu("ORsXDAcGCB0="))
+for _, name in ipairs(_vhm.CloneFrom) do
+source = source and source:FindFirstChild(name)
+end
+if not source or not _vhn then
+debugLog(_dpexu("IjMiKg=="), _dpexu("Lj8ZFxAyRjkfFhQOG1UERBUGCB5QFxAPVQ==") .. _vhm.Label .. _dpexu("VQYVCQMDBw4VQxEEVT4ZAxsbDxQXTQ=="))
+Rayfield:Notify({
+Title = _dpexu("OBsDBw=="),
+Content = _vhm.Label .. _dpexu("VSc5RAcKCwocAgwPVQURFx1IEloWDA0EEVIZClMbDhMDQx8LGBde"),
+Duration = (7 - 3),
+})
+return
+end
+local ok, _vhp = pcall(function()
+local _vhs = source:Clone()
+_vhs.Parent = _vhn
+
+local closeBtn = _vhs:FindFirstChild(_dpexu("Fh4fFxYtEhQ="), true)
+if closeBtn and closeBtn:IsA(_dpexu("MgcZJgYbEhUe")) then
+VeloTrack(closeBtn.MouseButton1Click:Connect(function()
+pcall(function() _vhm.Toggle:Set(false) end)
+end))
+end
+end)
+if not ok then
+debugLog(_dpexu("IjMiKg=="), _dpexu("Lj8ZFxAyRjwRChQPEVIEC1MAFh8eQw==") .. _vhm.Label .. _dpexu("T1I=") .. tostring(_vhp))
+end
+elseif _vho then
+pcall(function() _vho:Destroy() end)
+end
+return
+end
+local root = findInterfaceRoot(_vhn, _vhm)
+if not root then
+debugLog(_dpexu("IjMiKg=="), _dpexu("Lj8ZFxAyRjkfFhQOG1UERBUGCB5QNjFQVQ==") .. _vhm.Root)
+Rayfield:Notify({
+Title = _dpexu("OBsDBw=="),
+Content = _vhm.Label .. _dpexu("VSc5RAQOFRRXF1gMGgceAF1PLw5QDhkTVRwVARdPEhVQAR1KGgIVChYLRhQfERULGR4JRBwBBR9QBREYBgZe"),
+Duration = (8 - 4),
+})
+return
+end
+local target = root
+if _vhm.Child then
+target = findGuiPart(root, _vhm.Child)
+if not target then
+debugLog(_dpexu("IjMiKg=="), _dpexu("Lj8ZFxAyRjkfFhQOG1UERBUGCB5QNjFKBRMCEElP") .. _vhm.Child)
+Rayfield:Notify({
+Title = _dpexu("OBsDBw=="),
+Content = _vhm.Label .. _dpexu("VSc5RBYDAxcVDQxKAhMDClQbRhwfFhYOWw=="),
+Duration = (7 - 3),
+})
+return
+end
+end
+local ok, _vhp = pcall(function()
+if target:IsA(_dpexu("JhECARYBIQ8Z")) then
+target.Enabled = open
+elseif target:IsA(_dpexu("MgcZKxEFAxkE")) then
+target.Visible = open
+else
+error(_dpexu("IRoVRB4OEhkYBhxKHBwDEBIBBR9QCgtKGx0ERBJPNRkCBh0EMgcZRBwdRj0FCjcIHxcTEA=="))
+end
+local _vht = target:IsA(_dpexu("JhECARYBIQ8Z")) and target or target:FindFirstAncestorWhichIsA(_dpexu("JhECARYBIQ8Z"))
+if _vht then _vht.Enabled = open end
+if root:IsA(_dpexu("JhECARYBIQ8Z")) then root.Enabled = open end
+end)
+if not ok then
+debugLog(_dpexu("IjMiKg=="), _dpexu("Lj8ZFxAyRjwRChQPEVIEC1MbCR0XDx1K") .. _vhm.Label .. _dpexu("T1I=") .. tostring(_vhp))
+Rayfield:Notify({
+Title = _dpexu("OBsDBw=="),
+Content = _dpexu("Nh0FCBcBQQ5QFxcNEh4VRA==") .. _vhm.Label .. _dpexu("W1IzDBYMDVoECx1KFgcCFhYBElo3NjFKGxMdAV0="),
+Duration = (5 - 1),
+})
+end
+end
+for _, definition in ipairs(InterfaceDefinitions) do
+local currentDefinition = definition
+local ok, err = pcall(function()
+currentDefinition.Toggle = MiscTab:CreateToggle({
+Name = currentDefinition.Label,
+CurrentValue = false,
+Flag = _dpexu("OBsDByYmOQ==") .. string.gsub(currentDefinition.Label, _dpexu("UCU="), ""),
+Callback = function(value)
+local _vhw, _vhx = pcall(setInterfaceOpen, currentDefinition, value)
+if not _vhw then
+debugLog(_dpexu("IjMiKg=="), _dpexu("Lj8ZFxAyRi4fBB8GEFITBR8DBBsTCFgPBwAfFklP") .. tostring(_vhx))
+end
+end,
+})
+end)
+if not ok then
+debugLog(_dpexu("IjMiKg=="), _dpexu("Lj8ZFxAyRjkfFhQOG1UERBAdAxsEBlgeGhUXCBZPABUCQw==") .. currentDefinition.Label .. _dpexu("T1I=") .. tostring(err))
+end
+end
+DebugTab:CreateSection(_dpexu("NxMeD1MoMzNQJxELEhwfFwcGBQk="))
+DebugTab:CreateButton({
+Name = _dpexu("JhERClMpCQhQIRkEHlI3MTpPThYfBAtKAR1QIBYNEx1Z"),
+Callback = function()
+local _vhy = LocalPlayer:FindFirstChildOfClass(_dpexu("JR4RHRYdIQ8Z"))
+local found = 0
+if _vhy then
+for _, item in ipairs(_vhy:GetDescendants()) do
+local _vhz = string.lower(item.Name)
+if (item:IsA(_dpexu("JhECARYBIQ8Z")) or item:IsA(_dpexu("MwARCRY="))) and (string.find(_vhz, _dpexu("FxMeDw=="), 1, true) or string.find(_vhz, _dpexu("FAYd"), 1, true)) then
+found += 1
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LjARChhPNRkRDSVK") .. item.ClassName .. _dpexu("VV9ORA==") .. item:GetFullName())
+end
+end
+end
+Rayfield:Notify({
+Title = _dpexu("NxMeD1M8BRse"),
+Content = found > 0 and (found .. _dpexu("VQIfFwAGBBYVQxoLGxlQIyYmTglZQx4FABwUSlM8Ax9QFxAPVTYVBgYIARMeBFgeFBBe"))
+or _dpexu("Ox0EDBoBAVoeAhUPEVISBR0ESTskLlgDG1IgCBIWAwg3FhFKDBcESlMgFh8eQwwCEFISBR0ERhQfERULGR4JRBwBBR9cQwwCEBxQFxAOCFoRBBkDG1w="),
+Duration = (9 - 4),
+})
+end,
+})
+local cleanFilthyMoneyRunning = false
+local function bxFindPlayerTool(_vi0)
+local character = bxChar()
+local backpack = LocalPlayer:FindFirstChildOfClass(_dpexu("NxMTDwMOBRE="))
+return (character and character:FindFirstChild(_vi0))
+or (backpack and backpack:FindFirstChild(_vi0))
+end
+local function bxWorldCFrameFor(_vi1)
+local _vi2 = _vi1
+while _vi2 and _vi2 ~= Workspace do
+if _vi2:IsA(_dpexu("NxMDASMOFA4=")) then return _vi2.CFrame end
+if _vi2:IsA(_dpexu("OB0UAR8=")) then
+local ok, _vi3 = pcall(function() return _vi2:GetPivot() end)
+if ok then return _vi3 end
+end
+_vi2 = _vi2.Parent
+end
+return nil
+end
+local function bxFindBankMoneyDepositTarget()
+local _vi4 = Locations[_dpexu("NxMeDw==")]
+if typeof(_vi4) == _dpexu("NjQCBR4K") then _vi4 = _vi4.Position end
+if typeof(_vi4) ~= _dpexu("IxcTEBwdVQ==") then _vi4 = Vector3.new(-1216.27, 253.88, -3636.91) end
+local _vi5 = {}
+local _vi6 = {_dpexu("ERcACwAGEg=="), _dpexu("FxMXCxUCCRQVGg=="), _dpexu("FxMXRBwJRhcfDR0T"), _dpexu("GRMFChcKFA=="), _dpexu("Fh4VBR0="), _dpexu("GB0eAQo="), _dpexu("FhMDDA=="), _dpexu("FAYd"), _dpexu("FxMeDw=="), _dpexu("ExscEBsW")}
+for _, item in ipairs(Workspace:GetDescendants()) do
+local prompt = item:IsA(_dpexu("JQAfHBoCDw4JMwoFGAIE")) and item or nil
+local _vi7 = item:IsA(_dpexu("Nh4ZBxgrAw4VAAwFBw==")) and item or nil
+local _vi8 = (not prompt and not _vi7 and item:IsA(_dpexu("NxMDASMOFA4="))) and item or nil
+if prompt or _vi7 or _vi8 then
+local _vi9 = (prompt and prompt.Parent) or (_vi7 and _vi7.Parent) or _vi8
+local _via = _vi9 and bxWorldCFrameFor(_vi9)
+if _via then
+local distance = (_via.Position - _vi4).Magnitude
+if distance <= (1012 - 312) then
+local _vib = ""
+pcall(function() _vib = item:GetFullName() end)
+local _vic = prompt and tostring(prompt.ActionText or "") or ""
+local _vid = prompt and tostring(prompt.ObjectText or "") or ""
+local _vie = string.lower(table.concat({tostring(item.Name), _vic, _vid, _vib}, _dpexu("VQ==")))
+local _vif = false
+for _, _vig in ipairs(_vi6) do
+if string.find(_vie, _vig, 1, true) then _vif = true; break end
+end
+local _vih = _vi8 ~= nil
+and (string.find(_vie, _dpexu("BxcU"), 1, true) ~= nil)
+and (string.find(_vie, _dpexu("EQAfFA=="), 1, true) ~= nil
+or string.find(_vie, _dpexu("ERcACwAGEg=="), 1, true) ~= nil
+or string.find(_vie, _dpexu("GB0eAQo="), 1, true) ~= nil)
+and distance <= (593 - 293)
+if _vif and (prompt or _vi7 or _vih) then
+local score = 0
+if _vih then score += (225 - 45) end
+if string.find(string.lower(_vib), _dpexu("FxMeDw=="), 1, true) then score += (105 - 5) end
+if string.find(_vie, _dpexu("ERcACwAGEg=="), 1, true) then score += (236 - 116) end
+if string.find(_vie, _dpexu("FxMXCxUCCRQVGg=="), 1, true) or string.find(_vie, _dpexu("FxMXRBwJRhcfDR0T"), 1, true) then score += (165 - 55) end
+if string.find(_vie, _dpexu("GRMFChcKFA=="), 1, true) or string.find(_vie, _dpexu("Fh4VBR0="), 1, true) then score += (153 - 63) end
+if string.find(_vie, _dpexu("GB0eAQo="), 1, true) or string.find(_vie, _dpexu("FhMDDA=="), 1, true) then score += (42 - 7) end
+if string.find(_vie, _dpexu("FAYd"), 1, true) then score += (28 - 13) end
+score -= distance / (39 - 19)
+table.insert(_vi5, {
+prompt = prompt,
+clickDetector = _vi7,
+touchPart = _vih and _vi8 or nil,
+cframe = _via,
+distance = distance,
+score = score,
+path = _vib,
+action = _vic,
+object = _vid,
+})
+end
+end
+end
+end
+end
+table.sort(_vi5, function(a, _vik) return a.score > _vik.score end)
+for _vii = 1, math.min(#_vi5, (15 - 3)) do
+local _vij = _vi5[_vii]
+debugLog(_dpexu("OD0+ISo="), string.format(
+_dpexu("NxMeD1MLAwofEBEeVRERChcGAhsEBlhJUBZKRFYcRgZQIhseHB0eWVRKFV1QLBoAEBEEWVRKFV1QH1hPW0MWRAAbEx4DQwRKBhEfFhZPQ1RBBQ=="),
+_vii, tostring(_vij.path), tostring(_vij.action), tostring(_vij.object), _vij.distance, _vij.score
+))
+end
+if _vi5[1] then return _vi5[1] end
+debugLog(_dpexu("IjMiKg=="), _dpexu("LjEcARIBRj4ZEQwTVT8fChYWO1o+DFgGHBkVCApPCxUeBgFHERcACwAGEloAERcHBQZfBx8GBRFQFxkYEhcERBUAExQUQw8DARoZClNYVkpQEAwfEQFQCxVPEhIVQzoLGxlQEBYDAwofEQxKGR0TBQcGCRRe"))
+return nil
+end
+function BronxActions.CleanFilthyMoney()
+if cleanFilthyMoneyRunning then
+
+if os.clock() - (Window.CleanStartedAt or 0) < (198 - 18) then
+bxNotify(_dpexu("Nh4VBR1PIhMCFwFKOB0eAQpPDwlQAhQYEBMUHVMdExQeChYNW1InBRobRhwfEVgDAVIEC1MJDxQZEBBE"))
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LjEcARIBRj4ZEQwTVT8fChYWO1ozDxEJHlIZAx0AFB8UWVgLVQAFClMGFVoRDwoPFBYJRBIMEhMGBlY="))
+return
+end
+debugLog(_dpexu("IjMiKg=="), _dpexu("LjEcARIBRj4ZEQwTVT8fChYWO1ogER0cHB0FF1MdExRQDxcFHhcURAAbExkbWFgYEAEEBQEbDxQXTQ=="))
+end
+cleanFilthyMoneyRunning = true
+Window.CleanStartedAt = os.clock()
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LjEcARIBRj4ZEQwTVT8fChYWO1ojFxkYARcUSg=="))
+task.spawn(function()
+if Window.AutoLockUntil > os.clock() then Window.TeleportBypass[coroutine.running()] = true end
+local _vjt = bxRoot()
+local _vju = _vjt and _vjt.CFrame or nil
+local ok, result = xpcall(function()
+local stored = LocalPlayer:FindFirstChild(_dpexu("BgYfFhYL"))
+local _vl1 = stored and stored:FindFirstChild(_dpexu("MxscEBsWNQ4RABM="))
+if _vl1 and _vl1.Value == 0 then
+return _dpexu("LB0FRBsOEB9QDRdKERsCEApPCxUeBgFKAR1QBx8KBxQ=")
+end
+if not bxAlive() then return _dpexu("Ox1QCBoZDxQXQxsCFAARBwcKFFoWDA0EEQ==") end
+local function _vl2()
+local counterInstance
+local _vm6 = Workspace:FindFirstChild(_dpexu("RFFQKRIf"))
+if _vm6 then
+for _, item in ipairs(_vm6:GetChildren()) do
+if item:FindFirstChild(_dpexu("Nh0FCgcKFDc=")) then counterInstance = item; break end
+end
+end
+local _vm7 = {}
+local _vm8 = Workspace:FindFirstChild(_dpexu("Nh0FCgcKFDgRBA=="))
+if _vm8 then table.insert(_vm7, _vm8:GetChildren()) end
+if counterInstance then table.insert(_vm7, counterInstance:GetChildren()) end
+debugLog(_dpexu("PDw2Kw=="), string.format(_dpexu("LjEcARIBRj4ZEQwTVT8fChYWO1ozDA0EARcCJhIIW18DT1gJGgceEBYdLxQDFxkEFhdNQQA="),
+tostring(_vm8 ~= nil), tostring(counterInstance and counterInstance:GetFullName())))
+for _, _vm9 in ipairs(_vm7) do
+for _, item in ipairs(_vm9) do
+local _vma = item:FindFirstChild(_dpexu("NhMDDCMdCRcAFw=="), true)
+local _vmb = item:FindFirstChild(_dpexu("MgARBiMdCRcAFw=="), true)
+debugLog(_dpexu("PDw2Kw=="), string.format(_dpexu("LjEcARIBRj4ZEQwTVT8fChYWO1ozAhYOHBYREBZPQwlQH1gpFAEYWVYcSV8DQwRKMgARBk5KFQ=="),
+item:GetFullName(),
+_vma and tostring(_vma.Enabled) or _dpexu("Gx0eAQ=="),
+_vma and _vma.ObjectText or _dpexu("WA=="),
+_vmb and tostring(_vmb.Enabled) or _dpexu("Gx0eAQ==")))
+if _vma and _vma.Enabled and _vma.ObjectText == _dpexu("Nh0FCgdPJAgVAhw=")
+and _vmb and not _vmb.Enabled then
+return item
+end
+end
+end
+
+
+local root = bxRoot()
+local _vmc, _vmd
+for _, d in ipairs(Workspace:GetDescendants()) do
+if d.Name == _dpexu("NhMDDCMdCRcAFw==") and d:IsA(_dpexu("JQAfHBoCDw4JMwoFGAIE")) and d.Enabled then
+local _vme = d.Parent
+while _vme and _vme ~= Workspace
+and not (_vme:FindFirstChild(_dpexu("MgARBiMdCRcAFw=="), true) and (_vme:IsA(_dpexu("OB0UAR8=")) or _vme:IsA(_dpexu("NxMDASMOFA4=")))) do
+_vme = _vme.Parent
+end
+local grab = _vme and _vme ~= Workspace and _vme:FindFirstChild(_dpexu("MgARBiMdCRcAFw=="), true)
+if grab and not grab.Enabled then
+local _vmf = _vme:GetPivot().Position
+local _vmg = root and (root.Position - _vmf).Magnitude or 0
+if not _vmd or _vmg < _vmd then _vmc, bestDist = _vme, _vmg end
+end
+end
+end
+if _vmc then
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LjEcARIBRj4ZEQwTVT8fChYWO1o2AhQGFxMTD1MfDxkbBhxK") .. _vmc:GetFullName())
+return _vmc
+end
+end
+local cleaner = _vl2()
+if not cleaner then return _dpexu("Nh0FCBdPCBUEQx4DGxZQBVMJFB8VQxsGEBMeAQE=") end
+local _vle = bxTeleport(cleaner:GetPivot())
+task.wait(0.4)
+do
+local r = bxRoot()
+local _vld = r and (r.Position - cleaner:GetPivot().Position).Magnitude or -1
+debugLog(_dpexu("PDw2Kw=="), string.format(_dpexu("LjEcARIBRj4ZEQwTVT8fChYWO1okBhQPBR0CEFMADUdVEFRKERsDEBIBBR9QFxdKFh4VBR0KFEdVTUkMVQEEERcc"), tostring(_vle), _vld))
+if _vld < 0 or _vld > (39 - 19) then
+debugLog(_dpexu("IjMiKg=="), _dpexu("LjEcARIBRj4ZEQwTVT8fChYWO1opDA1KFAAVRB0AEloeBgAeVQYfRAcHA1oTDx0LGxcCSFMcCVoECx1KNhMDDCMdCRcAF1gHFAtQBhZPCQ8EQxcMVQARChQKSA=="))
+end
+end
+local _vl7 = cleaner:FindFirstChild(_dpexu("NhMDDCMdCRcAFw=="), true)
+local _vlf = cleaner:FindFirstChild(_dpexu("MgARBiMdCRcAFw=="), true)
+local activated = bxFirePrompt(_vl7)
+if not activated then
+debugLog(_dpexu("IjMiKg=="), _dpexu("LjEcARIBRj4ZEQwTVT8fChYWO1ozDA0GERxXEFMOBQ4ZFRkeEFIzBQAHNggfDggeTlIVChINCh8UXg==")
+.. tostring(_vl7 and _vl7.Enabled)
+.. _dpexu("WVIAFhwCFg5N") .. tostring(_vl7 and _vl7:GetFullName()))
+end
+local function _vlg()
+local state = cleaner:FindFirstChild(_dpexu("Ohw="), true)
+if not state then return false end
+if state:IsA(_dpexu("Nx0fCCUOCg8V")) then return state.Value end
+if state:IsA(_dpexu("JgYCDR0IMBscFh0=")) then
+local value = string.lower(tostring(state.Value))
+return value == _dpexu("Ghw=") or value == _dpexu("AQAFAQ==") or value == _dpexu("BxcRAAo=") or value == _dpexu("Fh0dFB8KEh8=")
+end
+if state:IsA(_dpexu("PBwEMhIDEx8=")) or state:IsA(_dpexu("OwcdBhYdMBscFh0=")) then
+return state.Value ~= 0
+end
+if state:IsA(_dpexu("NxMDASMOFA4=")) then
+local _vmh = state.Color
+
+return _vmh.G > 0.42 and _vmh.G > _vmh.R * 1.18 and _vmh.G > _vmh.B * 1.12
+end
+return false
+end
+
+
+
+
+local sawPromptDisabled = false
+local _vli = nil
+local _vlj = bxWaitUntil(function()
+if _vl7 and not _vl7.Enabled then sawPromptDisabled = true end
+if _vlg() then _vli = _dpexu("OhxQFwcOEh8="); return true end
+if bxFindPlayerTool(_dpexu("OB0eAQo9AxsUGg==")) then _vli = _dpexu("OB0eAQo9AxsUGlgaBxcDAR0b"); return true end
+if sawPromptDisabled and _vl7 and _vl7.Enabled then
+_vli = _dpexu("NhMDDCMdCRcAF1gYEF8VChINCh8U"); return true
+end
+return false
+end, (51 - 6))
+if not _vlj then
+local _vlk = cleaner:FindFirstChild(_dpexu("Ohw="), true)
+local _vll = _dpexu("GBsDFxoBAQ==")
+if _vlk then
+if _vlk:IsA(_dpexu("NxMDASMOFA4=")) then
+local _vlh = _vlk.Color
+_vll = string.format(_dpexu("UAFQBxwDCQhNS11ERxRcRFZBVBxcQ11ERxRZ"), _vlk.ClassName, _vlh.R, _vlh.G, _vlh.B)
+elseif _vlk:IsA(_dpexu("IxMcERYtBwkV")) then
+_vll = _vlk.ClassName .. _dpexu("VQQRCAYKWw==") .. tostring(_vlk.Value)
+else
+_vll = _vlk.ClassName
+end
+end
+debugLog(_dpexu("IjMiKg=="), _dpexu("LjEcARIBRj4ZEQwTVT8fChYWO1ozDA0EAVIEDR4KCQ8ETVglG1IDEBIbA0c=") .. _vll
+.. _dpexu("TlIzBQAHNggfDggeVRceBREDAx5N") .. tostring(_vl7 and _vl7.Enabled)
+.. _dpexu("TlIDBQQ/FBUdEwwuHAERBh8KAkc=") .. tostring(sawPromptDisabled)
+.. _dpexu("TlI3FhINNggfDggeVRceBREDAx5N") .. tostring(_vlf and _vlf.Enabled))
+
+local lines = {}
+for _, d in ipairs(cleaner:GetDescendants()) do
+if #lines >= (53 - 23) then break end
+local info = d.ClassName
+if d:IsA(_dpexu("NxMDASMOFA4=")) then
+info = string.format(_dpexu("UAFQBxwDCQhNS11ERxRcRFZBVBxcQ11ERxRZRAcdBxQDE0VPW0AW"), d.ClassName, d.Color.R, d.Color.G, d.Color.B, d.Transparency)
+elseif d:IsA(_dpexu("IxMcERYtBwkV")) then
+info = d.ClassName .. _dpexu("VQQRCAYKWw==") .. tostring(d.Value)
+elseif d:IsA(_dpexu("JQAfHBoCDw4JMwoFGAIE")) then
+info = string.format(_dpexu("JQAfHBoCDw4JMwoFGAIERBYBBxgcBhxXUAFQBRAbDxUeXl9PBlVQCxEFAxkEXl9PBlU="), tostring(d.Enabled), d.ActionText, d.ObjectText)
+elseif d:IsA(_dpexu("IRcIED8OBB8c")) then
+info = _dpexu("IRcIED8OBB8cQwwPDQZNQw==") .. tostring(d.Text) .. _dpexu("Ug==")
+end
+table.insert(lines, d.Name .. _dpexu("VQ5Q") .. info)
+end
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LjEcARIBRj4ZEQwTVT8fChYWO1ozDx0LGxcCRAAbFA8TFw0YEEhQ") .. table.concat(lines, _dpexu("VUlLRA==")))
+return _dpexu("IRoVRBADAxseBgpKERsURB0AEloDCxcdVRNQFhYMCR0eCgIPEVICARILH1oDFxkeEFxQNxYKRj4VAQ0NEhseA1MbBxhQgf74VTEfFApPIh8SFh9KOR0XF10=")
+end
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LjEcARIBRj4ZEQwTVT8fChYWO1o9AhsCHBwVRAEKBx4JQw4DFEhQ") .. tostring(_vli))
+task.wait(0.5)
+if _vli ~= _dpexu("OB0eAQo9AxsUGlgaBxcDAR0b") then
+bxFirePrompt(_vl7)
+end
+task.wait(0.25)
+bxTeleport(cleaner:GetPivot())
+task.wait(0.4)
+if not bxWaitUntil(function() return bxFindPlayerTool(_dpexu("OB0eAQo9AxsUGg==")) end, (62 - 2)) then
+return _dpexu("IRsdARdPCQ8EQw8LHAYZChRPABUCQzUFGxcJNhYOAgM=")
+end
+local _vlm = bxHumanoid()
+local _vln = bxFindPlayerTool(_dpexu("OB0eAQo9AxsUGg=="))
+local backpack = LocalPlayer:FindFirstChildOfClass(_dpexu("NxMTDwMOBRE="))
+if _vlm and _vln and backpack and _vln.Parent == backpack then
+pcall(function() _vlm:EquipTool(_vln) end)
+end
+local _vl8 = cleaner:FindFirstChild(_dpexu("MgARBiMdCRcAFw=="), true)
+if not bxWaitUntil(function() return _vl8 and _vl8:IsA(_dpexu("JQAfHBoCDw4JMwoFGAIE")) and _vl8.Enabled end, (16 - 6)) then
+return _dpexu("OB0eAQo9AxsUGlgLBQIVBQEKAlZQAQ0eVQYYAVMMCh8RDR0YUgFQNAYbRjkREBBKHBxQJhIIRgoCDBUaAVIeAQUKFFoVDRkIGRcU")
+end
+if _vl8 then
+debugLog(_dpexu("OD0+ISo="), _dpexu("NxMXAxoBAVoAERcHBQZQAhwaCB5KQw==") .. tostring(_vl8:GetFullName())
+.. _dpexu("VQ5QJRAbDxUeXl8=") .. tostring(_vl8.ActionText) .. _dpexu("UlI/BhkKBQ5NRA==") .. tostring(_vl8.ObjectText) .. _dpexu("Ug=="))
+end
+local _vlo = os.clock()
+if not bxAlive() then return _dpexu("NhoRFhIMEh8CQxwDEBZQExsGCh9QExkJHhseA1MiCRQVGioPFBYJ") end
+
+
+
+
+
+
+local function _vlp()
+local _vmi = cleaner and cleaner.Parent and cleaner:FindFirstChild(_dpexu("MgARBiMdCRcAFw=="), true)
+if _vmi and _vmi:IsA(_dpexu("JQAfHBoCDw4JMwoFGAIE")) then return _vmi end
+return _vl8
+end
+local _vlr, _vls, _vlt, _vlu = 0, 0, 0, nil
+local _vlv = _vlo + (52 - 22)
+while os.clock() < _vlv do
+if not bxAlive() then return _dpexu("NhoRFhIMEh8CQxwDEBZQExsGCh9QExkJHhseA1MiCRQVGioPFBYJ") end
+local _vlw = bxFindPlayerTool(_dpexu("OB0eAQo9AxsUGg==")) ~= nil
+local _vlx = bxFindPlayerTool(_dpexu("NxMXKxUiCRQVGg==")) ~= nil
+local _vlq = _vlp()
+local _vly = _vlq ~= nil and _vlq.Enabled
+local _vlz = _vlx and not _vlw
+
+
+if _vly and os.clock() - _vlr >= 0.6
+and (not _vlz or _vlt < (3 - 1)) then
+
+local root = bxRoot()
+local _vm0 = cleaner:GetPivot().Position
+if root and (root.Position - _vm0).Magnitude > math.max(_vlq.MaxActivationDistance, (15 - 7)) then
+bxTeleport(cleaner:GetPivot())
+task.wait(0.3)
+end
+local sent = bxFirePrompt(_vlq)
+_vlr = os.clock()
+_vls += 1
+if _vlz then _vlt += 1 end
+debugLog(_dpexu("OD0+ISo="), string.format(
+_dpexu("MgARBiMdCRcAF1gLFgYZEhIbDxUeQ1tPEVIDAR0bW18DQ1AnGhwVHSEKBx4JXl0ZWVIyBRQgADcfDR0TSFcDTQ=="),
+_vls, tostring(sent), tostring(_vlw), tostring(_vlx)))
+end
+if _vlz then
+_vlu = _vlu or os.clock()
+local _vm1 = os.clock() - _vlu
+
+
+if (not _vly and _vm1 >= 1.0) or _vm1 >= (5 - 2) then break end
+else
+_vlu = nil
+end
+task.wait(0.1)
+end
+if not bxWaitUntil(function() return bxFindPlayerTool(_dpexu("NxMXKxUiCRQVGg==")) end, (18 - 6)) then
+return _dpexu("OB0eAQo9AxsUGlgdFAFQChwbRhkfDQ4PBwYVAFMGCA4fQzoLEj0WKRwBAwNLQxsCEBEbRAQHAw4YBgpKARoVRBADAxseBgpNBlI3FhINNggfDggeVREfCQMDAw4VBw==")
+end
+
+local _vm2 = bxFindBankMoneyDepositTarget()
+if not _vm2 then
+return _dpexu("NxMXKxUiCRQVGlgDBlICARILH1ZQAQ0eVRwfRB8GDR8cGlgOEAIfFxobRhcRABADGxdQExIcRhwfFhYOVRwVBQFPEhIVQzoLGxleRDAOCB4ZBxkeEFIDBxIBRg0REFgdBxsEEBYBRg4fQzwPFwcXRB8AAQle")
+end
+backpack = LocalPlayer:FindFirstChildOfClass(_dpexu("NxMTDwMOBRE="))
+local _vm3 = bxFindPlayerTool(_dpexu("NxMXKxUiCRQVGg=="))
+_vlm = bxHumanoid()
+if _vlm and _vm3 and backpack and _vm3.Parent == backpack then
+pcall(function() _vlm:EquipTool(_vm3) end)
+end
+task.wait(0.2)
+local _vm4 = _vm2.cframe
+if _vm2.touchPart then
+_vm4 = _vm4 + Vector3.new(0, math.max(_vm2.touchPart.Size.Y / (3 - 1), 1) + (4 - 2), 0)
+end
+bxTeleport(_vm4)
+task.wait(0.4)
+local activated = false
+if _vm2.prompt and _vm2.prompt.Enabled then
+activated = bxFirePrompt(_vm2.prompt)
+elseif _vm2.clickDetector and type(fireclickdetector) == _dpexu("EwceBwcGCRQ=") then
+local _vm5 = pcall(fireclickdetector, _vm2.clickDetector)
+activated = _vm5
+elseif _vm2.touchPart then
+
+task.wait(1.5)
+activated = true
+debugLog(_dpexu("OD0+ISo="), _dpexu("MBwEAQEKAloTAhYOHBYREBZPFB8UQxoLGxlQAAEAFlcfBR5KDx0eAUlP") .. tostring(_vm2.path))
+end
+if not activated then
+return _dpexu("Mx0FChdPB1oADAsZHBAcAVMLAwofEBEeVR8RBxsGCB9cQxofAVIZEABPDxQEBgoLFgYZCx1PBRUFDxwEUgZQBhZPBxkECg4LARcUSlM8Ax9QJx0IABUXDR0IRg4RAViI8+BQJxwfH1o0BhofElI8CxQcSA==")
+end
+local consumed = bxWaitUntil(function() return not bxFindPlayerTool(_dpexu("NxMXKxUiCRQVGg==")) end, (12 - 4))
+if consumed then
+return _dpexu("MRcACwAGEloZDQwPBxMTEBoACFoRABsPBQYVAElPJBsXLB4nGhwVHVMYBwlQABcEBgcdARdBRjkYBhsBVQsfEQFPBRYVAhZHGB0eAQpPBBscAhYJEFIEC1MMCRQWCgoHVQYYAVMMCRQGBgoZHB0eSg==")
+end
+return _dpexu("MRcACwAGEloZDQwPBxMTEBoACFoHAgtKAQAZAxQKFB8UT1gIAAZQJhIIKRw9DBYPDFIZF1McEhMcD1gaBxcDAR0bXVoECx1KERcACwAGEloHAgtKGx0ERBAACBwZERUPEVxQNxYKRj4VAQ0NEhseA1MbBxhQgf74VTEfFApPIh8SFh9KOR0XF10=")
+end, debug.traceback)
+
+if _vju and bxAlive() then
+local _vl0 = bxTeleport(_vju)
+if not _vl0 then debugLog(_dpexu("IjMiKg=="), _dpexu("LjEcARIBRj4ZEQwTVT8fChYWO1ozDA0GERxXEFMdAw4FERZKAR1QFxIZAx5QExcZHAYZCx1B")) end
+end
+cleanFilthyMoneyRunning = false
+if not ok then
+debugLog(_dpexu("IjMiKg=="), _dpexu("LjEcARIBRj4ZEQwTVT8fChYWO1o1EQoFB0hQ") .. tostring(result))
+bxNotify(_dpexu("Nh4VBR1PIhMCFwFKOB0eAQpPABsZDx0OW1IjARZPIh8SFh8NHBwXRAcOBFqS5epKNh0AHVMrAxgFBFgmGhUDSg=="))
+else
+bxNotify(tostring(result or _dpexu("Nh4VBR1PIhMCFwFKOB0eAQpPFR8BFh0EFhdQAhoBDwkYBhw=")))
+end
+end)
+end
+
+startNormalMoneyRun = function()
+BronxActions.CleanFilthyMoney()
+end
+
+bxLoop(_dpexu("MxMCCTAACAkEEQ0JARsfCg=="), bxFarmConstruction, 1)
+bxLoop(_dpexu("MxMCCTcaCwoDFx0YBg=="), bxFarmDumpsters, 1)
+bxLoop(_dpexu("NAcECyAKChYkERkZHQ=="), bxSellAllTrashTools, (6 - 3))
+
+
+
+do 
+local ESPTab = VisualTab
+ESPTab:CreateSection(_dpexu("JR4RHRYdRj8jMw=="))
+local function bxCreateToggle(tab, _vmj, key, _vmk)
+tab:CreateToggle({
+Name = _vmj, CurrentValue = Bronx[key], Flag = (_vmk or _dpexu("NwAfCgsw")) .. key,
+Callback = function(enabled)
+Bronx[key] = enabled == true
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiQVCBxPLg8SPlg=") .. key .. _dpexu("VU9Q") .. tostring(enabled))
+end,
+})
+end
+bxCreateToggle(ESPTab, _dpexu("MBwRBh8KRj8jMw=="), _dpexu("MCEg"), _dpexu("NwAfCgswIykgPA=="))
+bxCreateToggle(ESPTab, _dpexu("JhofE1MhBxcVEA=="), _dpexu("MCEgKhICAwk="), _dpexu("NwAfCgswIykgPA=="))
+bxCreateToggle(ESPTab, _dpexu("JhofE1MnAxscFxA="), _dpexu("MCEgLBYOCg4Y"), _dpexu("NwAfCgswIykgPA=="))
+bxCreateToggle(ESPTab, _dpexu("JhofE1MrDwkEAhYJEA=="), _dpexu("MCEgIBocEhseAB0="), _dpexu("NwAfCgswIykgPA=="))
+bxCreateToggle(ESPTab, _dpexu("JhofE1MnAxYUQywFGh4D"), _dpexu("MCEgMBwACgk="), _dpexu("NwAfCgswIykgPA=="))
+bxCreateToggle(ESPTab, _dpexu("JhofE1MsDhsdEA=="), _dpexu("MCEgJxsOCwk="), _dpexu("NwAfCgswIykgPA=="))
+ESPTab:CreateSlider({
+Name = _dpexu("MCEgRD4OHlo0CgseFBwTAQ=="), Range = {(169 - 69), (5093 - 93)}, Increment = (144 - 44), Suffix = _dpexu("VQEEERcc"),
+CurrentValue = Bronx.ESPMaxDistance, Flag = _dpexu("NwAfCgswIykgPDULDTYZFwcOCBkV"),
+Callback = function(value) Bronx.ESPMaxDistance = value end,
+})
+local bxEspParent
+pcall(function()
+if type(gethui) == _dpexu("EwceBwcGCRQ=") then bxEspParent = gethui() else bxEspParent = BronxCoreGui end
+end)
+if not bxEspParent then bxEspParent = LocalPlayer:WaitForChild(_dpexu("JR4RHRYdIQ8Z")) end
+local bxEspFolder = Instance.new(_dpexu("Mx0cABYd"))
+bxEspFolder.Name = _dpexu("IxccCzsaBD8jMw==")
+bxEspFolder.Parent = bxEspParent
+Window.BxEspFolder, Window.BxEspParent = bxEspFolder, bxEspParent
+local bxEspObjects = {}
+local function bxAddESP(player)
+if player == LocalPlayer or bxEspObjects[player] then return end
+local _vml = Instance.new(_dpexu("PRsXDB8GARIE"))
+_vml.Name = _dpexu("IxccCzsaBD8jMzADEhocDRQHEg==")
+_vml.FillColor = Color3.fromRGB((133 - 14), (181 - 61), (410 - 155))
+_vml.OutlineColor = Color3.new(1, 1, 1)
+_vml.FillTransparency = 0.8
+_vml.DepthMode = Enum.HighlightDepthMode.AlwaysOnTop
+_vml.Enabled = false
+_vml.Parent = bxEspFolder
+local _vmm = Instance.new(_dpexu("NxscCBEABwgUJA0D"))
+_vmm.Name = _dpexu("IxccCzsaBD8jMzQLFxcc")
+_vmm.Size = UDim2.fromOffset((254 - 54), (66 - 6))
+_vmm.StudsOffset = Vector3.new(0, (6 - 3), 0)
+_vmm.AlwaysOnTop = true
+_vmm.Enabled = false
+_vmm.Parent = bxEspFolder
+local _vmn = Instance.new(_dpexu("IRcIED8OBB8c"))
+_vmn.Size = UDim2.fromScale(1, 1)
+_vmn.BackgroundTransparency = 1
+_vmn.TextColor3 = Color3.new(1, 1, 1)
+_vmn.TextStrokeTransparency = 0
+_vmn.Font = Enum.Font.Code
+_vmn.TextSize = (19 - 6)
+_vmn.Parent = _vmm
+bxEspObjects[player] = {Highlight = _vml, Billboard = _vmm, Label = _vmn}
+end
+for _, player in ipairs(Players:GetPlayers()) do bxAddESP(player) end
+VeloTrack(Players.PlayerAdded:Connect(bxAddESP))
+VeloTrack(Players.PlayerRemoving:Connect(function(player)
+local item = bxEspObjects[player]
+if item then
+pcall(function() item.Highlight:Destroy() end)
+pcall(function() item.Billboard:Destroy() end)
+bxEspObjects[player] = nil
+end
+end))
+VeloTrack(RunService.RenderStepped:Connect(function()
+local _vmo = bxRoot()
+for player, item in pairs(bxEspObjects) do
+local _vmp = player.Character
+local root = _vmp and _vmp:FindFirstChild(_dpexu("PQcdBR0ADx4iDBceJRMCEA=="))
+local _vmq = _vmp and _vmp:FindFirstChildOfClass(_dpexu("PQcdBR0ADx4="))
+local distance = (root and _vmo) and (root.Position - _vmo.Position).Magnitude or math.huge
+local show = Bronx.ESP and root ~= nil and _vmq ~= nil and _vmq.Health > 0 and distance <= Bronx.ESPMaxDistance
+item.Highlight.Enabled = show and Bronx.ESPChams or false
+item.Billboard.Enabled = show or false
+if show then
+item.Highlight.Adornee = _vmp
+item.Billboard.Adornee = _vmp:FindFirstChild(_dpexu("PRcRAA==")) or root
+local _vmr = {}
+if Bronx.ESPNames then table.insert(_vmr, (player.DisplayName ~= "" and player.DisplayName) or player.Name) end
+if Bronx.ESPHealth then table.insert(_vmr, tostring(math.floor(_vmq.Health)) .. _dpexu("VTog")) end
+if Bronx.ESPTools then
+local tool = _vmp:FindFirstChildOfClass(_dpexu("IR0fCA=="))
+if tool then table.insert(_vmr, tool.Name) end
+end
+if Bronx.ESPDistance then table.insert(_vmr, tostring(math.floor(distance)) .. _dpexu("VQEEERcc")) end
+item.Label.Text = table.concat(_vmr, _dpexu("fw=="))
+end
+end
+end))
+
+
+
+local WorldTab = VisualTab
+WorldTab:CreateSection(_dpexu("ORsXDAcGCB1QRVgpFB8VFhI="))
+bxCreateToggle(WorldTab, _dpexu("MwccCBEdDx0YFw=="), _dpexu("MwccCBEdDx0YFw=="), _dpexu("NwAfCgswMRUCDxw1"))
+bxCreateToggle(WorldTab, _dpexu("NgcDEBwCRjwfBFgpGh4fFg=="), _dpexu("Mx0XJxwDCQg1DRkIGRcU"), _dpexu("NwAfCgswMRUCDxw1"))
+WorldTab:CreateColorPicker({
+Name = _dpexu("Mx0XRDAAChUC"), Color = Bronx.FogColor, Flag = _dpexu("NwAfCgswIBUXIBcGGgA="),
+Callback = function(color) Bronx.FogColor = color end,
+})
+bxCreateToggle(WorldTab, _dpexu("NB8SDRYBElokChYe"), _dpexu("NB8SDRYBEi4ZDQw="), _dpexu("NwAfCgswMRUCDxw1"))
+WorldTab:CreateColorPicker({
+Name = _dpexu("NB8SDRYBElozDBQFBw=="), Color = Bronx.AmbientColor, Flag = _dpexu("NwAfCgswJxcSCh0EATEfCBwd"),
+Callback = function(color) Bronx.AmbientColor = color end,
+})
+bxCreateToggle(WorldTab, _dpexu("JhMEEQEOEhMfDVgvGxMSCBYL"), _dpexu("JhMEEQEOEhMfDT0EFBAcARc="), _dpexu("NwAfCgswMRUCDxw1"))
+WorldTab:CreateSlider({
+Name = _dpexu("JhMEEQEOEhMfDQ=="), Range = {0, (4 - 2)}, Increment = 0.1, Suffix = _dpexu("DQ=="),
+CurrentValue = Bronx.SaturationValue, Flag = _dpexu("NwAfCgswNRsEFgoLARsfCiUOCg8V"),
+Callback = function(value) Bronx.SaturationValue = value end,
+})
+bxCreateToggle(WorldTab, _dpexu("MxsVCBdPCRxQNREPAlI1ChINCh8U"), _dpexu("Mz0mIR0OBBYVBw=="), _dpexu("NwAfCgswMRUCDxw1"))
+WorldTab:CreateSlider({
+Name = _dpexu("MxsVCBdPCRxQNREPAg=="), Range = {(54 - 14), (199 - 79)}, Increment = 1, Suffix = _dpexu("xQ=="),
+CurrentValue = Bronx.FOV, Flag = _dpexu("NwAfCgswIDUm"),
+Callback = function(value) Bronx.FOV = value end,
+})
+local bxOldLighting = {
+Brightness = BronxLighting.Brightness,
+ClockTime = BronxLighting.ClockTime,
+FogEnd = BronxLighting.FogEnd,
+GlobalShadows = BronxLighting.GlobalShadows,
+OutdoorAmbient = BronxLighting.OutdoorAmbient,
+FogColor = BronxLighting.FogColor,
+}
+local bxOriginalFOV = Workspace.CurrentCamera and Workspace.CurrentCamera.FieldOfView or (97 - 27)
+local bxColorEffect = Instance.new(_dpexu("Nh0cCwEsCQgCBhseHB0eIRUJAxkE"))
+bxColorEffect.Name = _dpexu("IxccCzsaBDkfDxcYNh0CFhYMEhMfDQ==")
+bxColorEffect.Parent = BronxLighting
+local bxFullbrightApplied, bxFogApplied, bxFOVApplied = false, false, false
+VeloTrack(RunService.PreRender:Connect(function()
+bxColorEffect.Saturation = Bronx.SaturationEnabled and (Bronx.SaturationValue - 1) or 0
+bxColorEffect.TintColor = Bronx.AmbientTint and Bronx.AmbientColor or Color3.new(1, 1, 1)
+if Bronx.Fullbright then
+bxFullbrightApplied = true
+BronxLighting.Brightness = (3 - 1)
+BronxLighting.ClockTime = (28 - 14)
+BronxLighting.FogEnd = (100319 - 319)
+BronxLighting.GlobalShadows = false
+BronxLighting.OutdoorAmbient = Color3.fromRGB((240 - 112), (202 - 74), (229 - 101))
+elseif bxFullbrightApplied then
+bxFullbrightApplied = false
+BronxLighting.Brightness = bxOldLighting.Brightness
+BronxLighting.ClockTime = bxOldLighting.ClockTime
+BronxLighting.FogEnd = bxOldLighting.FogEnd
+BronxLighting.GlobalShadows = bxOldLighting.GlobalShadows
+BronxLighting.OutdoorAmbient = bxOldLighting.OutdoorAmbient
+end
+if Bronx.FogColorEnabled then
+bxFogApplied = true
+BronxLighting.FogColor = Bronx.FogColor
+elseif bxFogApplied then
+bxFogApplied = false
+BronxLighting.FogColor = bxOldLighting.FogColor
+end
+local _vms = Workspace.CurrentCamera
+if _vms and Bronx.FOVEnabled then
+bxFOVApplied = true
+_vms.FieldOfView = Bronx.FOV
+elseif _vms and bxFOVApplied then
+bxFOVApplied = false
+_vms.FieldOfView = bxOriginalFOV
+end
+end))
+
+
+
+do 
+local labelToPlayer = {}
+local selectedPlayer = nil
+local targetDropdown
+
+local function playerLabels()
+labelToPlayer = {}
+local _vmt = {}
+local function _vmu(player)
+return (player.DisplayName and player.DisplayName ~= "") and player.DisplayName or player.Name
+end
+for _, player in ipairs(Players:GetPlayers()) do
+if player ~= LocalPlayer then
+local _vmv = _vmu(player)
+_vmt[_vmv] = (_vmt[_vmv] or 0) + 1
+end
+end
+local _vmw = {}
+for _, player in ipairs(Players:GetPlayers()) do
+if player ~= LocalPlayer then
+local _vmv = _vmu(player)
+local _vmx = _vmt[_vmv] > 1 and (_vmv .. _dpexu("VVow") .. player.Name .. _dpexu("XA==")) or _vmv
+labelToPlayer[_vmx] = player
+table.insert(_vmw, _vmx)
+end
+end
+table.sort(_vmw, function(a, _vmy) return string.lower(a) < string.lower(_vmy) end)
+return _vmw
+end
+local function labelFromOption(_vmz)
+return type(_vmz) == _dpexu("ARMSCBY=") and tostring(_vmz[1] or "") or tostring(_vmz or "")
+end
+local function nameOf(player)
+return (player.DisplayName ~= "" and player.DisplayName) or player.Name
+end
+
+local function requireTarget(_vn0)
+if not selectedPlayer or not selectedPlayer.Parent then
+Rayfield:Notify({ Title = _vn0, Content = _dpexu("JhccARAbRhtQExQLDBcCRBUGFAkETQ=="), Duration = (4 - 1) })
+return nil
+end
+return selectedPlayer
+end
+local function formatAmount(value)
+if type(value) == _dpexu("GwcdBhYd") then
+if value == math.floor(value) then
+local _vn1 = tostring(math.floor(value))
+local _vn2, _vn3 = _vn1:match(_dpexu("K1pdW1pHQx5bSlw="))
+if _vn3 then
+return _vn2 .. _vn3:reverse():gsub(_dpexu("XVcUQRdKAlM="), _dpexu("UENc")):reverse():gsub(_dpexu("K14="), "")
+end
+end
+return tostring(value)
+end
+return tostring(value)
+end
+
+
+local function viewMoney(player)
+local entries, seen = {}, {}
+local _vn4 = player:GetFullName() .. _dpexu("Ww==")
+local function _vn5(_vna, value)
+local _vnb = string.lower(_vna)
+if (string.find(_vnb, _dpexu("GB0eAQo="), 1, true) or string.find(_vnb, _dpexu("FhMDDA=="), 1, true)
+or string.find(_vnb, _dpexu("FxMeDw=="), 1, true) or string.find(_vnb, _dpexu("FxMcBR0MAw=="), 1, true))
+and not string.find(_vnb, _dpexu("GBMI"), 1, true)
+and (type(value) == _dpexu("GwcdBhYd") or type(value) == _dpexu("BgYCDR0I")) and not seen[_vna] then
+seen[_vna] = true
+table.insert(entries, _vna .. _dpexu("T1I=") .. formatAmount(value))
+end
+end
+for _, descendant in ipairs(player:GetDescendants()) do
+if descendant:IsA(_dpexu("IxMcERYtBwkV")) then
+local ok, value = pcall(function() return descendant.Value end)
+if ok then
+local _vn7 = descendant:GetFullName()
+_vn5(string.sub(_vn7, 1, #_vn4) == _vn4 and string.sub(_vn7, #_vn4 + 1) or descendant.Name, value)
+end
+end
+end
+local _vn8, _vn9 = pcall(function() return player:GetAttributes() end)
+if _vn8 and type(_vn9) == _dpexu("ARMSCBY=") then
+for name, value in pairs(_vn9) do _vn5(_dpexu("XRMEEAEGBA8EBlFK") .. name, value) end
+end
+table.sort(entries)
+if #entries == 0 then
+Rayfield:Notify({
+Title = nameOf(player) .. _dpexu("UgFQKRwBAwM="),
+Content = _dpexu("Ox1QCRwBAwNQFRkGABcDRBIdA1oGCgsDFx4VRBUAFFoECxEZVQIcBQoKFFRQNxAPVRURCRZPCxsJQxMPEAJQCRwBAwNQDBZKARoVRAAKFAwVEVgFGx4JSg=="),
+Duration = (11 - 5),
+})
+return
+end
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiQZAQRPKxUeBgE3VQ==") .. nameOf(player) .. _dpexu("VV9ORA==") .. table.concat(entries, _dpexu("VQ5Q")))
+while #entries > (16 - 8) do table.remove(entries) end
+Rayfield:Notify({
+Title = nameOf(player) .. _dpexu("UgFQKRwBAwM="),
+Content = table.concat(entries, _dpexu("fw==")),
+Duration = (12 - 4),
+})
+end
+MainTab:CreateSection(_dpexu("IRMCAxYbRiocAgEPBw=="))
+targetDropdown = MainTab:CreateDropdown({
+Name = _dpexu("JhccARAbRiocAgEPBw=="),
+Options = playerLabels(),
+CurrentOption = {},
+MultipleOptions = false,
+Flag = _dpexu("OBMZCiw7BwgXBgw6GRMJAQE="),
+Callback = function(_vnc)
+selectedPlayer = labelToPlayer[labelFromOption(_vnc)]
+end,
+})
+MainTab:CreateButton({
+Name = _dpexu("IRccAQMAFA5QNxdKJR4RHRYd"),
+Callback = function()
+local target = requireTarget(_dpexu("IRccAQMAFA5QNxdKJR4RHRYd"))
+if target then BronxActions.TeleportToPlayer(target) end
+end,
+})
+MainTab:CreateButton({
+Name = _dpexu("JgIVBwcOEh9QMxQLDBcC"),
+Callback = function()
+local target = requireTarget(_dpexu("JgIVBwcOEh9QMxQLDBcC"))
+if target and target ~= LocalPlayer then
+Bronx.SpectateTarget = target.Name
+bxNotify(_dpexu("Ox0HRAAfAxkEAgwDGxVQ") .. nameOf(target))
+end
+end,
+})
+MainTab:CreateButton({
+Name = _dpexu("JgYfFFM8Fh8TFxkeHBwX"),
+Callback = function() Bronx.SpectateTarget = nil; bxNotify(_dpexu("JgIVBwcOEhMeBFgZAR0AFBYL")) end,
+})
+MainTab:CreateButton({
+Name = _dpexu("IxsVE1MiCRQVGg=="),
+Callback = function()
+local target = requireTarget(_dpexu("IxsVE1MiCRQVGg=="))
+if target then viewMoney(target) end
+end,
+})
+local function refreshPlayerDropdowns()
+local _vnd = playerLabels()
+if targetDropdown and type(targetDropdown.Refresh) == _dpexu("EwceBwcGCRQ=") then
+pcall(function() targetDropdown:Refresh(_vnd, true) end)
+end
+end
+VeloTrack(Players.PlayerAdded:Connect(refreshPlayerDropdowns))
+VeloTrack(Players.PlayerRemoving:Connect(function(player)
+if selectedPlayer == player then selectedPlayer = nil end
+if Bronx.SpectateTarget == player.Name then Bronx.SpectateTarget = nil end
+task.defer(refreshPlayerDropdowns)
+end))
+end
+function BronxActions.TeleportToPlayer(_vne)
+local target = typeof(_vne) == _dpexu("PBwDEBIBBR8=") and _vne or Players:FindFirstChild(tostring(_vne or ""))
+local root = target and target.Character and target.Character:FindFirstChild(_dpexu("PQcdBR0ADx4iDBceJRMCEA=="))
+if root then
+task.spawn(function()
+if bxTeleport(root.CFrame) then bxNotify(_dpexu("IRccAQMAFA4VB1geGlI=") .. ((target.DisplayName ~= "" and target.DisplayName) or target.Name)) else bxNotify(_dpexu("IRccAQMAFA5QBRkDGRcU")) end
+end)
+else
+bxNotify(_dpexu("JR4RHRYdRhQfF1gMGgceAA=="))
+end
+end
+MiscTab:CreateSection(_dpexu("JhcCEhYdRi8EChQDARsVFw=="))
+local function bxListServers(_vnf)
+local _vng = string.format(
+_dpexu("HQYEFABVSVUXAhUPBlwCCxEDCQJeABcHWgRBSxQOCx8DTF0OWgEVFgUKFAlfMw0IGRsTWwAAFA4/ERwPB09VF1UDDxcZF0VbRUJWAQsMCg8UBj4fGR43BR4KFUcEEQ0P"),
+game.PlaceId, _vnf
+)
+return BronxHttpService:JSONDecode(assert(VeloHttpGet(_vng)))
+end
+function BronxActions.ServerHop()
+task.spawn(function()
+local ok, _vnk = pcall(bxListServers, _dpexu("MRcDBw=="))
+if not ok or not _vnk or type(_vnk.data) ~= _dpexu("ARMSCBY=") then return bxNotify(_dpexu("Nh0FCBdPCBUEQx4PAREYRAAKFAwVEQs=")) end
+local _vnl = {}
+for _, server in ipairs(_vnk.data) do
+if server.id ~= game.JobId and server.playing < server.maxPlayers then table.insert(_vnl, server.id) end
+end
+if #_vnl == 0 then return bxNotify(_dpexu("Ox1QCwcHAwhQEB0YAxcCF1MJCQ8eBw==")) end
+local id = _vnl[math.random(1, #_vnl)]
+local sent, _vnm = pcall(function() BronxTeleportService:TeleportToPlaceInstance(game.PlaceId, id, LocalPlayer) end)
+if not sent then bxNotify(_dpexu("JhcCEhYdRhIfE1gMFBscARdVRg==") .. tostring(_vnm)) end
+end)
+end
+function BronxActions.JoinLowestServer()
+task.spawn(function()
+local ok, _vnp = pcall(bxListServers, _dpexu("NAET"))
+if not ok or not _vnp or type(_vnp.data) ~= _dpexu("ARMSCBY=") then return bxNotify(_dpexu("Nh0FCBdPCBUEQx4PAREYRAAKFAwVEQs=")) end
+for _, server in ipairs(_vnp.data) do
+if server.id ~= game.JobId and server.playing < server.maxPlayers then
+local sent, _vnq = pcall(function() BronxTeleportService:TeleportToPlaceInstance(game.PlaceId, server.id, LocalPlayer) end)
+if not sent then bxNotify(_dpexu("Px0ZClMDCQ0VEAxKBhcCEhYdRhwRChQPEUhQ") .. tostring(_vnq)) end
+return
+end
+end
+bxNotify(_dpexu("Ox1QCwcHAwhQEw0IGRsTRAAKFAwVEVgMGgceAA=="))
+end)
+end
+function BronxActions.Rejoin()
+local ok, _vnr = pcall(function() BronxTeleportService:TeleportToPlaceInstance(game.PlaceId, game.JobId, LocalPlayer) end)
+if not ok then bxNotify(_dpexu("JxcaCxoBRhwRChQPEUhQ") .. tostring(_vnr)) end
+end
+MiscTab:CreateButton({Name = _dpexu("JhcCEhYdRjIfEw=="), Callback = function() BronxActions.ServerHop() end})
+MiscTab:CreateButton({Name = _dpexu("Px0ZClMjCQ0VEAxHJR0AER8OEhMfDVg5EAAGAQE="), Callback = function() BronxActions.JoinLowestServer() end})
+MiscTab:CreateButton({Name = _dpexu("JxcaCxoBRi4YCgtKJhcCEhYd"), Callback = function() BronxActions.Rejoin() end})
+MiscTab:CreateSection(_dpexu("Nh0fFhcGCBsEBgs="))
+MiscTab:CreateButton({
+Name = _dpexu("Nh0AHVMsCRUCBxEEFAYVFw=="),
+Callback = function()
+local _, _, _vns = getParts()
+if not _vns then
+Rayfield:Notify({ Title = _dpexu("Nh0AHVMsCRUCBxEEFAYVFw=="), Content = _dpexu("LB0FFlMMDhsCAhseEABQDQABQQ5QER0LEQtQHRYbSA=="), Duration = (5 - 2) })
+return
+end
+local _vnt = _vns.Position
+local _vnu = string.format(_dpexu("IxcTEBwdVVQeBg9CUFxCAl9PQ1RCBVRKUFxCAlo="), _vnt.X, _vnt.Y, _vnt.Z)
+local clipboard = setclipboard or toclipboard
+if type(clipboard) == _dpexu("EwceBwcGCRQ=") then
+local ok, _vnv = pcall(clipboard, _vnu)
+if ok then
+Rayfield:Notify({ Title = _dpexu("Nh0fFhcGCBsEBgtKNh0ADRYL"), Content = _vnu, Duration = (6 - 2) })
+else
+debugLog(_dpexu("IjMiKg=="), _dpexu("Lj8ZFxAyRjkcCggIGhMCAFMMCQoJQx4LHB4VAElP") .. tostring(_vnv))
+debugLog(_dpexu("PDw2Kw=="), _vnu)
+Rayfield:Notify({ Title = _dpexu("Nh0AHVMsCRUCBxEEFAYVFw=="), Content = _dpexu("Nh4ZFBEABwgUQxsFBQtQAhIGCh8UWFgJGh0CABoBBw4VEFgdEAAVRAMdDxQEBhxKAR1QEBsKRhkfDQsFGRde"), Duration = (5 - 1) })
+end
+else
+debugLog(_dpexu("PDw2Kw=="), _vnu)
+Rayfield:Notify({ Title = _dpexu("Nh0AHVMsCRUCBxEEFAYVFw=="), Content = _dpexu("Nh4ZFBEABwgUQxEZG1UERAAaFgofEQwPEVIYAQEKXVoTDBcYERseBQcKFVoHBgoPVQICDR0bAx5QFxdKARoVRBAACAkfDx1E"), Duration = (7 - 3) })
+end
+end,
+})
+end 
+
+
+
+
+
+
+
+local GunsTab = ModificationsTab
+do 
+local UIS = UserInputService
+local Aim = {
+Enabled = false, Silent = false, ShowFOV = true,
+FOV = (188 - 68), Speed = (21 - 9), Part = _dpexu("PRcRAA=="),
+WallCheck = true, TeamCheck = false,
+Root = nil, HoldingTool = false,
+SilentStuds = (16 - 8),
+Whitelist = {}, 
+}
+local silentPart = nil 
+local silentCount = { Mouse = 0, Raycast = 0, Ray = 0, Camera = 0, Snap = 0 }
+local hooksInstalled = false
+local lastSilentLog = 0
+local inOwnRay = false 
+
+
+
+local function getAimPart(character)
+local _vnw = Aim.Part
+local _vnx
+if _vnw == _dpexu("PRcRAA==") then _vnx = { _dpexu("PRcRAA==") }
+elseif _vnw == _dpexu("IAIAAQFPMhUCEBc=") then _vnx = { _dpexu("IAIAAQE7CQgDDA=="), _dpexu("IR0CFxw=") }
+elseif _vnw == _dpexu("IR0CFxw=") then _vnx = { _dpexu("IR0CFxw="), _dpexu("OR0HAQE7CQgDDA==") } 
+else _vnx = { _dpexu("PQcdBR0ADx4iDBceJRMCEA==") } end
+for _, name in ipairs(_vnx) do
+local part = character:FindFirstChild(name)
+if part and part:IsA(_dpexu("NxMDASMOFA4=")) then return part end
+end
+return character:FindFirstChild(_dpexu("PQcdBR0ADx4iDBceJRMCEA=="))
+end
+local rayParams = RaycastParams.new()
+rayParams.FilterType = Enum.RaycastFilterType.Exclude
+local function isVisible(_vny, part, character)
+rayParams.FilterDescendantsInstances = { LocalPlayer.Character }
+local _vnz = _vny.CFrame.Position
+inOwnRay = true
+local ok, result = pcall(function() return Workspace:Raycast(_vnz, part.Position - _vnz, rayParams) end)
+inOwnRay = false
+if not ok then return true end
+return result == nil or result.Instance:IsDescendantOf(character)
+end
+
+local function getTarget()
+local _vo0 = Workspace.CurrentCamera
+if not _vo0 then return nil end
+local _vo1 = UIS:GetMouseLocation()
+local _vo2, _vo3
+for _, player in ipairs(Players:GetPlayers()) do
+if player ~= LocalPlayer and not Aim.Whitelist[player.UserId] and not (Aim.TeamCheck and player.Team ~= nil and player.Team == LocalPlayer.Team) then
+local character = player.Character
+local _vo4 = character and character:FindFirstChildOfClass(_dpexu("PQcdBR0ADx4="))
+if _vo4 and _vo4.Health > 0 then
+local part = getAimPart(character)
+if part then
+local _vo5, _vo6 = _vo0:WorldToViewportPoint(part.Position)
+if _vo6 then
+local distance = (Vector2.new(_vo5.X, _vo5.Y) - _vo1).Magnitude
+if distance <= Aim.FOV and (not _vo3 or distance < _vo3)
+and (not Aim.WallCheck or isVisible(_vo0, part, character)) then
+_vo2, bestDistance = part, distance
+end
+end
+end
+end
+end
+end
+return _vo2
+end
+
+
+local function getSilentTarget()
+local _vo7 = Workspace.CurrentCamera
+if not _vo7 then return nil end
+local _vo8 = UIS:GetMouseLocation()
+local _vo9 = _vo7:ViewportPointToRay(_vo8.X, _vo8.Y)
+local _voa, _vob
+for _, player in ipairs(Players:GetPlayers()) do
+if player ~= LocalPlayer and not Aim.Whitelist[player.UserId]
+and not (Aim.TeamCheck and player.Team ~= nil and player.Team == LocalPlayer.Team) then
+local character = player.Character
+local _voc = character and character:FindFirstChildOfClass(_dpexu("PQcdBR0ADx4="))
+if _voc and _voc.Health > 0 then
+local part = getAimPart(character)
+if part then
+local _vod = part.Position - _vo9.Origin
+local _voe = _vod:Dot(_vo9.Direction)
+if _voe > 0 then
+local off = (_vod - _vo9.Direction * _voe).Magnitude 
+if off <= Aim.SilentStuds and (not _vob or off < _vob)
+and (not Aim.WallCheck or isVisible(_vo7, part, character)) then
+_voa, bestDist = part, off
+end
+end
+end
+end
+end
+end
+return _voa
+end
+
+
+
+local gui, circle
+local function ensureGui()
+if gui and gui.Parent and circle then return end
+pcall(function() if gui then gui:Destroy() end end)
+gui = Instance.new(_dpexu("JhECARYBIQ8Z"))
+gui.Name = _dpexu("IxccCzIGCzw/NQ==")
+gui.IgnoreGuiInset = true
+gui.ResetOnSpawn = false
+gui.DisplayOrder = (142 - 42)
+local _vof = false
+if type(gethui) == _dpexu("EwceBwcGCRQ=") then
+_vof = pcall(function() gui.Parent = gethui() end) and gui.Parent ~= nil
+end
+if not _vof then
+_vof = pcall(function() gui.Parent = game:GetService(_dpexu("Nh0CATQaDw==")) end) and gui.Parent ~= nil
+end
+if not _vof then gui.Parent = LocalPlayer:WaitForChild(_dpexu("JR4RHRYdIQ8Z")) end
+circle = Instance.new(_dpexu("MwARCRY="))
+circle.Name = _dpexu("NhsCBx8K")
+circle.AnchorPoint = Vector2.new(0.5, 0.5)
+circle.BackgroundTransparency = 1
+circle.BorderSizePixel = 0
+circle.Parent = gui
+local _vog = Instance.new(_dpexu("IDszCwEBAwg="))
+_vog.CornerRadius = UDim.new(1, 0)
+_vog.Parent = circle
+local _voh = Instance.new(_dpexu("IDsjEAEADR8="))
+_voh.Color = Color3.fromRGB(0, (363 - 108), 0)
+_voh.Thickness = (3 - 1)
+_voh.Parent = circle
+end
+
+
+
+local GuiService = game:GetService(_dpexu("MgcZNxYdEBMTBg=="))
+local function mouseOverMenu()
+local _voi = UIS:GetMouseLocation()
+local _voj = GuiService:GetGuiInset()
+local _vok = { game:GetService(_dpexu("Nh0CATQaDw==")) }
+if type(gethui) == _dpexu("EwceBwcGCRQ=") then
+local ok, _vol = pcall(gethui)
+if ok and _vol then table.insert(_vok, _vol) end
+end
+for _, _vom in ipairs(_vok) do
+for _, _von in ipairs({ _voi.Y, _voi.Y - _voj.Y }) do
+local ok, _voo = pcall(function() return _vom:GetGuiObjectsAtPosition(_voi.X, _von) end)
+if ok and type(_voo) == _dpexu("ARMSCBY=") then
+for _, _vop in ipairs(_voo) do
+if not (gui and _vop:IsDescendantOf(gui)) then return true end
+end
+end
+end
+end
+return false
+end
+local silentRestore = nil
+local hbState = { snapped = nil, original = nil }
+local function step(_voq)
+_voq = math.min(_voq or 0.016, 0.1)
+if Window.VeloUnloaded then
+silentPart = nil
+if gui then pcall(function() gui:Destroy() end); gui, circle = nil, nil end
+return
+end
+if hbState.snapped then
+local _vor = Workspace.CurrentCamera
+if _vor and _vor.CFrame == hbState.snapped then _vor.CFrame = hbState.original end
+hbState.snapped, hbState.original = nil, nil
+end
+local active = Aim.Enabled or Aim.Silent
+if Aim.Enabled and Aim.ShowFOV then
+ensureGui()
+local _vos = UIS:GetMouseLocation()
+circle.Visible = true
+circle.Position = UDim2.fromOffset(_vos.X, _vos.Y)
+circle.Size = UDim2.fromOffset(Aim.FOV * (4 - 2), Aim.FOV * (3 - 1))
+elseif circle then
+circle.Visible = false
+end
+local character = LocalPlayer.Character
+Aim.Root = character and character:FindFirstChild(_dpexu("PQcdBR0ADx4iDBceJRMCEA==")) or nil
+Aim.HoldingTool = character ~= nil and character:FindFirstChildOfClass(_dpexu("IR0fCA==")) ~= nil
+if not active then
+silentPart = nil
+return
+end
+local target = Aim.Enabled and getTarget() or nil
+local _vot = Aim.OldSilent and getSilentTarget() or nil
+silentPart = _vot
+if Aim.Silent and os.clock() - lastSilentLog > (9 - 4) and (silentCount.Snap > 0 or silentCount.Mouse + silentCount.Raycast + silentCount.Ray + silentCount.Camera > 0) then
+lastSilentLog = os.clock()
+debugLog(_dpexu("PDw2Kw=="), string.format(_dpexu("LiEZCBYBEloxChU3VQAVABodAxkEEFgZGlIWBQFVRjcfFgsPSFcURCEOHxkREAxXUBZQNhIWW18UQzsLGBcCBSEOH0dVB1g5GxMAWVYLRlIYDBcBBlJVF1o="),
+silentCount.Mouse, silentCount.Raycast, silentCount.Ray, silentCount.Camera, silentCount.Snap, hooksInstalled and _dpexu("Ghw=") or _dpexu("GhQW")))
+end
+if Aim.Enabled and target then
+local _vou = Workspace.CurrentCamera
+if _vou then
+
+
+local current = _vou.CFrame
+local _vov = target.Position - current.Position
+if _vov.Magnitude > 0.01 then
+local _vow = math.acos(math.clamp(current.LookVector:Dot(_vov.Unit), -1, 1))
+if _vow > 0.0005 then
+local _vox = 1 - math.exp(-Aim.Speed * _voq)
+local _voy = math.rad(Aim.Speed * (51 - 11)) * _voq 
+local _voz = math.min(_vow * _vox, _voy)
+_vou.CFrame = current:Lerp(CFrame.lookAt(current.Position, target.Position), _voz / _vow)
+end
+end
+end
+end
+
+
+if Aim.OldSilent and _vot and Aim.HoldingTool and not UIS:GetFocusedTextBox()
+and UIS:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) and not mouseOverMenu() then
+local _vou = Workspace.CurrentCamera
+if _vou then
+silentRestore = _vou.CFrame
+_vou.CFrame = CFrame.lookAt(_vou.CFrame.Position, _vot.Position)
+silentCount.Snap += 1
+end
+end
+end
+
+RunService:BindToRenderStep(_dpexu("IxccCyAGCh8eFyoPBgYfFhY="), Enum.RenderPriority.Last.Value, function()
+if silentRestore then
+local _vp0 = Workspace.CurrentCamera
+if _vp0 then _vp0.CFrame = silentRestore end
+silentRestore = nil
+end
+end)
+VeloTrack({ Disconnect = function() pcall(function() RunService:UnbindFromRenderStep(_dpexu("IxccCyAGCh8eFyoPBgYfFhY=")) end) end })
+
+
+VeloTrack(RunService.Heartbeat:Connect(function()
+local _vp1 = Workspace.CurrentCamera
+if not _vp1 or Window.VeloUnloaded then return end
+if Aim.OldSilent and silentPart and Aim.HoldingTool and not UIS:GetFocusedTextBox()
+and UIS:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) then
+local original = _vp1.CFrame
+local _vp2 = CFrame.lookAt(original.Position, silentPart.Position)
+_vp1.CFrame = _vp2
+hbState.snapped, hbState.original = _vp2, original
+end
+end))
+
+RunService:BindToRenderStep(_dpexu("IxccCzIGCxgfFw=="), Enum.RenderPriority.Camera.Value + 1, step)
+VeloTrack({ Disconnect = function() pcall(function() RunService:UnbindFromRenderStep(_dpexu("IxccCzIGCxgfFw==")) end) end })
+
+
+local redirectOn = false
+local redirectInstalled, oldNamecall = false, nil
+local function redirectHook(self, ...)
+local _vp3 = getnamecallmethod()
+local part = silentPart
+if redirectOn and part and Aim.Silent and Aim.HoldingTool and typeof(self) == _dpexu("PBwDEBIBBR8=")
+and not (type(checkcaller) == _dpexu("EwceBwcGCRQ=") and checkcaller()) then
+local root = Aim.Root
+if _vp3 == _dpexu("JxMJBxIcEg==") and self == Workspace and root then
+local _vp4, _vp5 = ...
+if typeof(_vp4) == _dpexu("IxcTEBwdVQ==") and typeof(_vp5) == _dpexu("IxcTEBwdVQ==") and _vp5.Magnitude >= (58 - 18)
+and (_vp4 - root.Position).Magnitude < (134 - 54) then
+silentCount.Raycast += 1
+if type(setnamecallmethod) == _dpexu("EwceBwcGCRQ=") then setnamecallmethod(_vp3) end
+return oldNamecall(self, _vp4, (part.Position - _vp4).Unit * _vp5.Magnitude, select((4 - 1), ...))
+end
+elseif (_vp3 == _dpexu("MxseACMOFA4/DSoLDA==") or _vp3 == _dpexu("MxseACMOFA4/DSoLDCUZEBsmARQfER0mHAEE") or _vp3 == _dpexu("MxseACMOFA4/DSoLDCUZEBs4DhMEBhQDBgY="))
+and self == Workspace and root then
+local _vp6 = ...
+if typeof(_vp6) == _dpexu("JxMJ") and _vp6.Direction.Magnitude >= (79 - 39) and (_vp6.Origin - root.Position).Magnitude < (137 - 57) then
+silentCount.Ray += 1
+if type(setnamecallmethod) == _dpexu("EwceBwcGCRQ=") then setnamecallmethod(_vp3) end
+return oldNamecall(self, Ray.new(_vp6.Origin, (part.Position - _vp6.Origin).Unit * _vp6.Direction.Magnitude), select((3 - 1), ...))
+end
+elseif (_vp3 == _dpexu("JhECARYBNhUZDQw+GiARHQ==") or _vp3 == _dpexu("IxsVEwMAFA4gDBEEASYfNhIW")) and self == Workspace.CurrentCamera then
+if type(setnamecallmethod) == _dpexu("EwceBwcGCRQ=") then setnamecallmethod(_vp3) end
+local _vp6 = oldNamecall(self, ...)
+if typeof(_vp6) == _dpexu("JxMJ") then
+silentCount.Camera += 1
+return Ray.new(_vp6.Origin, (part.Position - _vp6.Origin).Unit)
+end
+return _vp6
+end
+end
+if type(setnamecallmethod) == _dpexu("EwceBwcGCRQ=") then setnamecallmethod(_vp3) end
+return oldNamecall(self, ...)
+end
+local function installRedirect()
+if redirectInstalled then return true end
+if type(hookmetamethod) ~= _dpexu("EwceBwcGCRQ=") or type(getnamecallmethod) ~= _dpexu("EwceBwcGCRQ=") then
+return false, _dpexu("ARoZF1MKHh8TFgwFB1IYBQBPCBVQCxcFHh8VEBICAw4YDBxFEhcEChICAxkRDxQHEAYYCxc=")
+end
+local _vp7 = type(newcclosure) == _dpexu("EwceBwcGCRQ=") and newcclosure or function(f) return f end
+local ok, _vp8 = pcall(function() oldNamecall = hookmetamethod(game, _dpexu("Ki0eBR4KBRscDw=="), _vp7(redirectHook)) end)
+if not ok or not oldNamecall then return false, tostring(_vp8) end
+redirectInstalled = true
+return true
+end
+
+
+
+GunsTab:CreateSection(_dpexu("NBsdBhwb"))
+local aimToggle
+aimToggle = GunsTab:CreateToggle({
+Name = _dpexu("NBsdBhwb"), CurrentValue = false, Flag = _dpexu("NBsdOzYBBxgcBhw="),
+Callback = function(value) Aim.Enabled = value == true end,
+})
+GunsTab:CreateKeybind({
+Name = _dpexu("NBsdBhwbRi4fBB8GEFI7AQo="),
+CurrentKeybind = _dpexu("Iw=="),
+HoldToInteract = false,
+Flag = _dpexu("NBsdOycAAR0cBjMPDA=="),
+Callback = function()
+pcall(function() aimToggle:Set(not Aim.Enabled) end)
+end,
+})
+GunsTab:CreateSlider({
+Name = _dpexu("NBsdRCAfAx8UQ1ACHBUYAQFPW1oWAgseEABZ"), Range = { 1, (47 - 17) }, Increment = 1, Suffix = "",
+CurrentValue = Aim.Speed, Flag = _dpexu("NBsdOyAfAx8U"),
+Callback = function(value) Aim.Speed = value end,
+})
+
+
+
+
+
+local hitboxOrig = {} 
+local function restoreHitbox(part)
+local _vp9 = hitboxOrig[part]
+if _vp9 then
+pcall(function()
+part.Size, part.CanCollide, part.Massless = _vp9.Size, _vp9.CanCollide, _vp9.Massless
+end)
+hitboxOrig[part] = nil
+end
+end
+local function restoreAllHitboxes()
+for part in pairs(hitboxOrig) do restoreHitbox(part) end
+end
+local hitboxClock = 0
+VeloTrack(RunService.Heartbeat:Connect(function(_vpa)
+hitboxClock += _vpa
+if hitboxClock < 0.25 then return end
+hitboxClock = 0
+if Window.VeloUnloaded or not Aim.Silent then
+if next(hitboxOrig) then restoreAllHitboxes() end
+return
+end
+local _vpb = Vector3.new(Aim.SilentStuds, Aim.SilentStuds, Aim.SilentStuds)
+for _, player in ipairs(Players:GetPlayers()) do
+local character = player.Character
+local _vpc = character and character:FindFirstChild(_dpexu("PQcdBR0ADx4iDBceJRMCEA=="))
+if _vpc and player ~= LocalPlayer then
+local eligible = not Aim.Whitelist[player.UserId]
+and not (Aim.TeamCheck and player.Team ~= nil and player.Team == LocalPlayer.Team)
+if eligible then
+if not hitboxOrig[_vpc] then
+hitboxOrig[_vpc] = { Size = _vpc.Size, CanCollide = _vpc.CanCollide, Massless = _vpc.Massless }
+end
+pcall(function()
+if _vpc.Size ~= _vpb then _vpc.Size = _vpb end
+_vpc.CanCollide = false
+_vpc.Massless = true
+end)
+else
+restoreHitbox(_vpc)
+end
+end
+end
+for part in pairs(hitboxOrig) do
+if not part.Parent then hitboxOrig[part] = nil end
+end
+end))
+VeloTrack({ Disconnect = restoreAllHitboxes })
+GunsTab:CreateToggle({
+Name = _dpexu("JhscAR0bRjsZDg=="), CurrentValue = false, Flag = _dpexu("NBsdOyAGCh8eFw=="),
+Callback = function(value)
+Aim.Silent = value == true
+if not Aim.Silent then restoreAllHitboxes() end
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LiEZCBYBEloxChU3VQ==") .. (Aim.Silent and _dpexu("OhxKRBwbDh8CQwgGFAsVFgBIRhIZFxoFDRcDRBIdA1oVDRQLBxUVAFMbCVo=") .. Aim.SilentStuds .. _dpexu("VQEEERccSA==") or _dpexu("OhQWXlMHDw4SDAAPBlICAQAbCQgVB1Y=")))
+end,
+})
+GunsTab:CreateSlider({
+Name = _dpexu("JhscAR0bRjsZDlgiHAYSCwtPNRMKBg=="), Range = { (4 - 2), (53 - 13) }, Increment = 1, Suffix = _dpexu("VQEEERcc"),
+CurrentValue = Aim.SilentStuds, Flag = _dpexu("NBsdOyAGCh8eFyseABYD"),
+Callback = function(value) Aim.SilentStuds = value end,
+})
+GunsTab:CreateDropdown({
+Name = _dpexu("IRMCAxYbRioREQw="),
+Options = { _dpexu("PRcRAA=="), _dpexu("IAIAAQFPMhUCEBc="), _dpexu("IR0CFxw="), _dpexu("PQcdBR0ADx5QMRcFAVIgBQEb") },
+CurrentOption = { _dpexu("PRcRAA==") },
+MultipleOptions = false,
+Flag = _dpexu("NBsdOyMOFA4="),
+Callback = function(_vpd)
+Aim.Part = type(_vpd) == _dpexu("ARMSCBY=") and tostring(_vpd[1] or _dpexu("PRcRAA==")) or tostring(_vpd or _dpexu("PRcRAA=="))
+end,
+})
+
+local wlLabels = {} 
+local wlDropdown
+local function wlLabelFor(_vpe)
+local _vpf = (_vpe.DisplayName ~= "" and _vpe.DisplayName) or _vpe.Name
+local name = _vpf == _vpe.Name and _vpf or (_vpf .. _dpexu("VVow") .. _vpe.Name .. _dpexu("XA=="))
+return (Aim.Whitelist[_vpe.UserId] and _dpexu("Li4FH0FYV04NPlg=") or _dpexu("LlJQRC5P")) .. name
+end
+local function wlOptions()
+wlLabels = {}
+local _vpg = {}
+for _, _vph in ipairs(Players:GetPlayers()) do
+if _vph ~= LocalPlayer then
+local _vpi = wlLabelFor(_vph)
+wlLabels[_vpi] = _vph.UserId
+table.insert(_vpg, _vpi)
+end
+end
+table.sort(_vpg, function(x, _vpj) return x:sub((9 - 4)):lower() < _vpj:sub((6 - 1)):lower() end)
+return _vpg
+end
+local function wlRefresh()
+if Window.VeloUnloaded then return end
+pcall(function()
+wlDropdown:Refresh(wlOptions())
+wlDropdown:Set({})
+end)
+end
+
+wlDropdown = GunsTab:CreateDropdown({
+Name = _dpexu("IhoZEBYDDwkEQ1AJGRsTD1MORgocAgEPB1IEC1MbDxkbSg=="),
+Options = wlOptions(),
+CurrentOption = {},
+MultipleOptions = false,
+Callback = function(_vpk)
+local _vpl = type(_vpk) == _dpexu("ARMSCBY=") and _vpk[1] or _vpk
+local id = _vpl and wlLabels[tostring(_vpl)]
+if not id then return end
+if Aim.Whitelist[id] then Aim.Whitelist[id] = nil else Aim.Whitelist[id] = true end
+task.defer(wlRefresh)
+end,
+})
+GunsTab:CreateButton({ Name = _dpexu("JxcWFhYcDlonCxEeEB4ZFwdPNhYRGh0YVT4ZFwc="), Callback = wlRefresh })
+GunsTab:CreateButton({
+Name = _dpexu("Nh4VBQFPMRIZFx0GHAEE"),
+Callback = function() Aim.Whitelist = {}; wlRefresh() end,
+})
+VeloTrack(Players.PlayerAdded:Connect(function() task.delay(1, wlRefresh) end))
+VeloTrack(Players.PlayerRemoving:Connect(function() task.delay(1, wlRefresh) end))
+GunsTab:CreateToggle({
+Name = _dpexu("JhofE1MpKSxQIBEYFh4V"), CurrentValue = true, Flag = _dpexu("NBsdOyAHCQ02LC4="),
+Callback = function(value) Aim.ShowFOV = value == true end,
+})
+GunsTab:CreateSlider({
+Name = _dpexu("Mz0mRDAGFBkcBlg5HAgV"), Range = { (21 - 1), (990 - 490) }, Increment = (9 - 4), Suffix = _dpexu("VQII"),
+CurrentValue = Aim.FOV, Flag = _dpexu("NBsdOzUgMA=="),
+Callback = function(value) Aim.FOV = value end,
+})
+GunsTab:CreateToggle({
+Name = _dpexu("IhMcCFMsDh8TCFhCGhwcHVMZDwkZARQPVQIcBQoKFAlZ"), CurrentValue = true, Flag = _dpexu("NBsdOyQOChYzCx0JHg=="),
+Callback = function(value) Aim.WallCheck = value == true end,
+})
+GunsTab:CreateToggle({
+Name = _dpexu("PBUeCwEKRi4VAhUHFAYVFw=="), CurrentValue = false, Flag = _dpexu("NBsdOycKBxczCx0JHg=="),
+Callback = function(value) Aim.TeamCheck = value == true end,
+})
+end
+GunsTab:CreateSection(_dpexu("NB8dC1NJRjwZEREEEg=="))
+local GunMods = {
+
+InfiniteAmmo = false,
+InfiniteClips = false,
+Automatic = false,
+NoJam = false,
+ModifyRecoil = false, RecoilPercent = (87 - 37),
+ModifySpread = false, SpreadPercent = (82 - 32),
+ModifyFireRate = false, FireRatePercent = (51 - 1),
+ModifyReload = false, ReloadPercent = (79 - 29),
+ModifyEquip = false, EquipPercent = (72 - 22),
+}
+if type(getgenv) == _dpexu("EwceBwcGCRQ=") then
+pcall(function() getgenv().GunMods = GunMods end)
+end
+local OriginalModules = setmetatable({}, { __mode = _dpexu("Hg==") })
+local OriginalAmmoUpvalues = setmetatable({}, { __mode = _dpexu("Hg==") })
+local ReportedGunIssues = setmetatable({}, { __mode = _dpexu("Hg==") })
+local ReportedAmmoIssues = setmetatable({}, { __mode = _dpexu("Hg==") })
+local LastGunApplySignature = setmetatable({}, { __mode = _dpexu("Hg==") })
+local AmmoSupportWarned = false
+local GunWatchConnections = setmetatable({}, { __mode = _dpexu("Hg==") })
+local function reportAmmoIssue(tool, _vpm)
+if not tool then
+debugLog(_dpexu("IjMiKg=="), _vpm)
+return
+end
+
+
+if ReportedAmmoIssues[tool] ~= _vpm then
+ReportedAmmoIssues[tool] = _vpm
+debugLog(_dpexu("IjMiKg=="), _vpm)
+end
+end
+local function gunPct(original, _vpn)
+if type(original) ~= _dpexu("GwcdBhYd") then return original end
+return original * (math.clamp(tonumber(_vpn) or 0, 0, (148 - 48)) / (163 - 63))
+end
+local function getGunUpvalue(fn, _vpo)
+local _vpp = (type(debug) == _dpexu("ARMSCBY=") and debug.getupvalue) or getupvalue
+if type(_vpp) ~= _dpexu("EwceBwcGCRQ=") then return nil, nil, false end
+local ok, name, value = pcall(_vpp, fn, _vpo)
+if not ok then return nil, nil, false end
+return name, value, name ~= nil
+end
+local function setGunUpvalue(fn, _vpq, value)
+local _vpr = (type(debug) == _dpexu("ARMSCBY=") and debug.setupvalue) or setupvalue
+if type(_vpr) ~= _dpexu("EwceBwcGCRQ=") then
+return false, _dpexu("ERcSERRBFR8EFggcFB4FAVMaCBsGAhEGFBAcAQ==")
+end
+local ok, name = pcall(_vpr, fn, _vpq, value)
+if not ok or name == nil then return false, tostring(name or _dpexu("AAIGBR8aA1oHAgsEUgZQBxsOCB0VBw==")) end
+return true
+end
+local function applyAmmoUpvalues(reload, _vps)
+if type(reload) ~= _dpexu("EwceBwcGCRQ=") then return end
+local _vpt = OriginalAmmoUpvalues[reload]
+if not GunMods.InfiniteAmmo and not GunMods.InfiniteClips then
+
+
+if _vpt then
+for _vpu, item in pairs(_vpt) do
+setGunUpvalue(reload, _vpu, item.value)
+end
+end
+return
+end
+local _vpv = (type(debug) == _dpexu("ARMSCBY=") and debug.getupvalue) or getupvalue
+local _vpw = (type(debug) == _dpexu("ARMSCBY=") and debug.setupvalue) or setupvalue
+if type(_vpv) ~= _dpexu("EwceBwcGCRQ=") or type(_vpw) ~= _dpexu("EwceBwcGCRQ=") then
+if not AmmoSupportWarned then
+AmmoSupportWarned = true
+debugLog(_dpexu("IjMiKg=="), _dpexu("Lj8fABoJDxkRFxEFGwEtRCcHDwlQBgAPFgcECwFPAhUVEBZNAVIVHAMAFR9QABcHBRMEDREDA1oUBhofElwXAQcaFgwRDw0PWgEVEAYfEBscFh1RVRseAhoBDw4VQxkHGB1fBx8GFglQDhkTVRwfEFMYCQgbTQ=="))
+end
+return
+end
+if not _vpt then
+_vpt = {}
+for _vpu = 1, (86 - 6) do
+local name, value, found = getGunUpvalue(reload, _vpu)
+if not found then break end
+_vpt[_vpu] = { name = tostring(name), value = value }
+end
+OriginalAmmoUpvalues[reload] = _vpt
+end
+local _vpx, _vpy = 0, 0
+for _vpu, item in pairs(_vpt) do
+local _vpz = string.lower(item.name or "")
+if type(item.value) == _dpexu("GwcdBhYd") then
+local _vq0 = string.find(_vpz, _dpexu("FB8dCw=="), 1, true) ~= nil
+or string.find(_vpz, _dpexu("FwccCBYb"), 1, true) ~= nil
+or string.find(_vpz, _dpexu("Bx0FChc="), 1, true) ~= nil
+local _vq1 = string.find(_vpz, _dpexu("Fh4ZFA=="), 1, true) ~= nil
+or string.find(_vpz, _dpexu("GBMX"), 1, true) ~= nil
+or string.find(_vpz, _dpexu("BxcDAQEZAw=="), 1, true) ~= nil
+if GunMods.InfiniteAmmo and _vq0 then
+local ok = setGunUpvalue(reload, _vpu, 9e17)
+if ok then _vpx += 1 end
+elseif GunMods.InfiniteClips and _vq1 then
+local ok = setGunUpvalue(reload, _vpu, 9e17)
+if ok then _vpy += 1 end
+else
+setGunUpvalue(reload, _vpu, item.value)
+end
+end
+end
+if GunMods.InfiniteAmmo and _vpx == 0 then
+debugLog(_dpexu("IjMiKg=="), _dpexu("LjUlKiAsJzQtQw==") .. _vps .. _dpexu("T1IiAR8ABx5QCxkZVRwfRB0aCx8CChtKAAIGBR8aA1oHCgwCVRMeRBICCxVfAQ0GGRcESwEAExQUQxYLGBdLRBoBABMeCgwPVRMdCRxPERsDDV8eVRMAFB8GAx5QFRELVRwRCRYLRg8AFRkGABcDSg=="))
+elseif GunMods.InfiniteAmmo then
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LjUlKiAsJzQtQw==") .. _vps .. _dpexu("T1IFFBcOEh8UQw==") .. tostring(_vpx) .. _dpexu("VRMdCRxPEwoGAhQfEFoDTV0="))
+end
+if GunMods.InfiniteClips and _vpy == 0 then
+debugLog(_dpexu("IjMiKg=="), _dpexu("LjUlKiAsJzQtQw==") .. _vps .. _dpexu("T1IiAR8ABx5QCxkZVRwfRB0aCx8CChtKAAIGBR8aA1oHCgwCVRNQBx8GFlUdAh9FBxcDAQEZA1oeAhUPTlIZChUGCBMEBlgJGRsAF1MYBwkeRAxKFAIACBoKAloGChlKGxMdARdPEwoGAhQfEAFe"))
+elseif GunMods.InfiniteClips then
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LjUlKiAsJzQtQw==") .. _vps .. _dpexu("T1IFFBcOEh8UQw==") .. tostring(_vpy) .. _dpexu("VREcDQNPEwoGAhQfEFoDTV0="))
+end
+end
+local function findNamedDescendant(root, _vq2)
+if not root then return nil end
+local accepted = {}
+for _, name in ipairs(_vq2) do accepted[string.lower(name)] = true end
+if accepted[string.lower(root.Name or "")] then return root end
+for _, descendant in ipairs(root:GetDescendants()) do
+if accepted[string.lower(descendant.Name or "")] then
+return descendant
+end
+end
+return nil
+end
+local function findSettingModule(tool)
+if not tool then return nil end
+local accepted = { setting = true, settings = true }
+for _, descendant in ipairs(tool:GetDescendants()) do
+if descendant:IsA(_dpexu("OB0UER8KNRkCCgge")) and accepted[string.lower(descendant.Name or "")] then
+return descendant
+end
+end
+return nil
+end
+local function findCompatibleGunLocalScript(tool)
+if not tool then return nil end
+
+local _vq3 = findNamedDescendant(tool, {
+_dpexu("MgceNxAdDwoEPDQFFhMc"), _dpexu("MgceNxAdDwoE"), _dpexu("MgceKBwMBxYjAAoDBQY="), _dpexu("IhcRFBwBNRkCCggeKj4fBxID"),
+_dpexu("IhcRFBwBJRYZBhYe"), _dpexu("MgceJx8GAxQE"), _dpexu("MgceNxAdDwoEIBQDEBwE"), _dpexu("Nh4ZAR0bIQ8eMBsYHAIE"), _dpexu("MxsCARIdCzkcCh0EAQ==")
+})
+if _vq3 and _vq3:IsA(_dpexu("OR0TBR88BQgZEww=")) then return _vq3 end
+
+
+for _, descendant in ipairs(tool:GetDescendants()) do
+if descendant:IsA(_dpexu("OR0TBR88BQgZEww=")) then
+local name = string.lower(descendant.Name or "")
+local _vq4 = string.find(name, _dpexu("BhcCEhYd"), 1, true) ~= nil
+local _vq5 = string.find(name, _dpexu("Egce"), 1, true) ~= nil
+or string.find(name, _dpexu("AhcRFBwB"), 1, true) ~= nil
+or string.find(name, _dpexu("ExsCARIdCw=="), 1, true) ~= nil
+local _vq6 = string.find(name, _dpexu("GR0TBR8="), 1, true) ~= nil
+or string.find(name, _dpexu("Fh4ZAR0b"), 1, true) ~= nil
+or name == _dpexu("EgceFxAdDwoE")
+if not _vq4 and _vq5 and _vq6 then
+return descendant
+end
+end
+end
+return nil
+end
+local function makeAliasSet(_vq7)
+local result = {}
+for _, name in ipairs(_vq7) do result[string.lower(name)] = true end
+return result
+end
+local function scaleGunValue(value, _vq8)
+local _vq9 = math.clamp(tonumber(_vq8) or 0, 0, (150 - 50)) / (159 - 59)
+if type(value) == _dpexu("GwcdBhYd") then
+return value * _vq9
+end
+local _vqa = typeof(value)
+if _vqa == _dpexu("IxcTEBwdVA==") or _vqa == _dpexu("IxcTEBwdVQ==") then
+return value * _vq9
+end
+if type(value) == _dpexu("ARMSCBY=") then
+local copy = {}
+for key, _vqb in pairs(value) do
+copy[key] = scaleGunValue(_vqb, _vq8)
+end
+return copy
+end
+return value
+end
+local function applyAliasedSetting(module, original, _vqc, _vqd)
+local accepted = makeAliasSet(_vqc)
+local changed = 0
+for key, _vqe in pairs(original) do
+if accepted[string.lower(tostring(key))] then
+local ok = pcall(function()
+module[key] = _vqd(_vqe)
+end)
+if ok then changed += 1 end
+end
+end
+return changed
+end
+do
+
+
+local GunHelpers = {
+autoRestart = false, 
+token = setmetatable({}, { __mode = _dpexu("Hg==") }),
+restarting = setmetatable({}, { __mode = _dpexu("Hg==") }),
+reloadCache = setmetatable({}, { __mode = _dpexu("Hg==") }),
+}
+
+
+
+
+function GunHelpers.restart(tool, _vqf)
+
+
+debugLog(_dpexu("Mic+JSM/KiM="), (tool and tool.Name or _dpexu("Sg==")) .. _dpexu("T1IXER1PFRkCCggeVQAVFwcOFA5QCgtKERsDBREDAx5QSxEeVR8RDxYcRh0FDQtKERsDBQMfAxsCSlY="))
+return false
+end
+function GunHelpers.schedule(tool, _vqg)
+if not GunHelpers.autoRestart then return end
+local _vqh = (GunHelpers.token[tool] or 0) + 1
+GunHelpers.token[tool] = _vqh
+task.delay(0.6, function()
+if GunHelpers.token[tool] ~= _vqh then return end
+GunHelpers.restart(tool, _vqg)
+end)
+end
+
+
+
+function GunHelpers.findReload(_vqi)
+local _vqj = GunHelpers.reloadCache[_vqi]
+if _vqj and (_vqj.fn or os.clock() - _vqj.at < (19 - 4)) then return _vqj.fn end
+if type(getgc) ~= _dpexu("EwceBwcGCRQ=") or type(getfenv) ~= _dpexu("EwceBwcGCRQ=") then
+GunHelpers.reloadCache[_vqi] = { fn = nil, at = os.clock() + (3833 - 233) }
+return nil
+end
+local _vqk, _vql, _vqm = nil, 0, nil
+pcall(function()
+for _, candidate in ipairs(getgc(true)) do
+if type(candidate) == _dpexu("EwceBwcGCRQ=") then
+local _vqv, _vqw = pcall(function() return getfenv(candidate).script end)
+if _vqv and _vqw == _vqi then
+local _vqx, _vqy = pcall(function()
+if debug.info then return debug.info(candidate, _dpexu("Gw==")) end
+return debug.getinfo(candidate, _dpexu("Gw==")).name
+end)
+local score = 0
+if _vqx and (_vqy == _dpexu("JxccCxIL") or _vqy == _dpexu("BxccCxIL")) then score += (1066 - 66) end
+for _vqz = 1, (95 - 15) do
+local _vr0, _vr1, found = getGunUpvalue(candidate, _vqz)
+if not found then break end
+local _vr2 = string.lower(tostring(_vr0))
+if type(_vr1) == _dpexu("GwcdBhYd") and (string.find(_vr2, _dpexu("FB8dCw=="), 1, true)
+or string.find(_vr2, _dpexu("Fh4ZFA=="), 1, true) or string.find(_vr2, _dpexu("GBMX"), 1, true)) then
+score += 1
+end
+end
+if score > _vql then
+_vqk, _vql, bestName = candidate, score, _vqx and _vqy or _dpexu("Sg==")
+end
+end
+end
+end
+end)
+if _vqk then
+debugLog(_dpexu("Mic+NzAuKA=="), string.format(_dpexu("UAFKRBICCxVQBQ0EFgYZCx1PABUFDRxKAxsRRBQKEh0TQ1AEFB8VWVYcSloDABcYEE9VAFo="), _vqi:GetFullName(), tostring(_vqm), _vql))
+end
+GunHelpers.reloadCache[_vqi] = { fn = _vqk, at = os.clock() }
+return _vqk
+end
+
+
+
+
+GunHelpers.autoRegrab = false 
+GunHelpers.regrabToken = 0
+GunHelpers.regrabRunning = false
+GunHelpers.regrabAgain = false
+
+
+
+function GunHelpers.regrabTool(_vr3)
+local remote = game:GetService(_dpexu("JxcACBoMBw4VByseGgARAxY=")):FindFirstChild(_dpexu("NxMTDwMOBREiBhUFARc="))
+if not remote then return false, _dpexu("NxMTDwMOBREiBhUFARdQChwbRhwfFhYO") end
+local function _vr4()
+local character = LocalPlayer.Character
+local backpack = LocalPlayer:FindFirstChildOfClass(_dpexu("NxMTDwMOBRE="))
+return (backpack and backpack:FindFirstChild(_vr3)) or (character and character:FindFirstChild(_vr3))
+end
+local _vr5, _vr6 = pcall(function() return remote:InvokeServer(_dpexu("JgYfFhY="), _vr3) end)
+debugLog(_dpexu("Mic+JSM/KiM="), string.format(_dpexu("UAFKRCAbCQgVQ1VUVR0bWVYcRggVEA0GAU9VFw=="), _vr3, tostring(_vr5), tostring(_vr6)))
+task.wait((6 - 3))
+for attempt = 1, (11 - 5) do
+if _vr4() then return true end
+local _vr7, _vr8 = pcall(function() return remote:InvokeServer(_dpexu("MgARBg=="), _vr3) end)
+debugLog(_dpexu("Mic+JSM/KiM="), string.format(_dpexu("UAFKRDQdBxhQAgweEB8AEFNKAlpdXVgFHk9VF1MdAwkFDwxXUAE="),
+_vr3, attempt, tostring(_vr7), tostring(_vr8)))
+task.wait(1)
+end
+return _vr4() ~= nil, _dpexu("ARoVRBQaCFoUChxKGx0ERBAACx9QARkJHlIRAgcKFFpGQz8YFBBQBQcbAxcAFws=")
+end
+function GunHelpers.regrabAll()
+if GunHelpers.regrabRunning then
+GunHelpers.regrabAgain = true 
+return
+end
+GunHelpers.regrabRunning = true
+local ok, _vr9 = pcall(function()
+repeat
+GunHelpers.regrabAgain = false
+local character = LocalPlayer.Character
+local _vrh = character and character:FindFirstChildOfClass(_dpexu("PQcdBR0ADx4="))
+local backpack = LocalPlayer:FindFirstChildOfClass(_dpexu("NxMTDwMOBRE="))
+local remote = game:GetService(_dpexu("JxcACBoMBw4VByseGgARAxY=")):FindFirstChild(_dpexu("NxMTDwMOBREiBhUFARc="))
+if not (_vrh and backpack and remote) or _vrh.Health <= 0 then return end
+local held = character:FindFirstChildOfClass(_dpexu("IR0fCA=="))
+local _vri = held and held.Name
+local _vrj, seen = {}, {}
+for _, _vrk in ipairs({ character, backpack }) do
+for _, item in ipairs(_vrk:GetChildren()) do
+if item:IsA(_dpexu("IR0fCA==")) and not seen[item.Name] and findSettingModule(item) then
+seen[item.Name] = true
+table.insert(_vrj, item.Name)
+end
+end
+end
+if #_vrj == 0 then return end
+_vrh:UnequipTools()
+task.wait(0.3)
+for _, name in ipairs(_vrj) do
+local _vrl, _vrm = GunHelpers.regrabTool(name)
+if not _vrl then
+debugLog(_dpexu("IjMiKg=="), _dpexu("Lj8fABoJDxkRFxEFGwEtRA==") .. name .. _dpexu("VRYZAB1IEloTDBUPVRARBxhVRg==") .. tostring(_vrm)
+.. _dpexu("VSYRDxZPDw5QDA0eVR0WRAoAEwhQARkJHgIRBxhPFQ4fERkNEFw="))
+Rayfield:Notify({
+Title = _dpexu("IhcRFBwBRjcfBws="),
+Content = name .. _dpexu("VRYZAB1IEloTDBUPVRARBxhPAAgfDlgZAR0CBRQKSFokAhMPVRsERBwaElofBVgTGgcCRBEOBREAAhsBVQEECwEOAR9e"),
+Duration = (13 - 5),
+})
+end
+end
+if _vri and _vrh.Health > 0 then
+local _vrn = backpack:FindFirstChild(_vri)
+if _vrn then _vrh:EquipTool(_vrn) end
+end
+debugLog(_dpexu("Mic+JSM/KiM="), _dpexu("JxddAwEOBBgVB1g=") .. #_vrj .. _dpexu("VQUVBQMACFIDSlgZGlIEDBZPCB8HQxUFEQFQEBIEA1oVBR4PFgZe"))
+until not GunHelpers.regrabAgain
+end)
+GunHelpers.regrabRunning = false
+if not ok then debugLog(_dpexu("IjMiKg=="), _dpexu("Lj8fABoJDxkRFxEFGwEtRDIaEhVQER1HEgARBlMJBxMcBhxQVQ==") .. tostring(_vr9)) end
+end
+
+function GunHelpers.scheduleRegrab()
+if not GunHelpers.autoRegrab then return end
+GunHelpers.regrabToken += 1
+local _vro = GunHelpers.regrabToken
+task.delay(0.8, function()
+if GunHelpers.regrabToken ~= _vro then return end
+GunHelpers.regrabAll()
+end)
+end
+
+
+
+
+GunHelpers.savedChanges = setmetatable({}, { __mode = _dpexu("Hg==") })
+local savedGroups = {
+{ group = _dpexu("OB0UDRUWNB8TDBEG"), includes = { _dpexu("BxcTCxoD") }, excludes = { _dpexu("BxcTCwUKFA=="), _dpexu("BxcEEQEB"), _dpexu("BxcDAQc="), _dpexu("ERcTBQo="), _dpexu("BgIVARc="), _dpexu("ERMdFBYd"), _dpexu("BxcUEQcGCRQ="), _dpexu("BxcUERAbDxUe") } },
+{ group = _dpexu("OB0UDRUWNQoCBhkO"), includes = { _dpexu("BgICARIL"), _dpexu("Fx4fCx4="), _dpexu("HBwRBxAaFBs="), _dpexu("FgAfFwAKHgoRDQsDGhw=") }, excludes = {} },
+{ group = _dpexu("OB0UDRUWNB8cDBkO"), includes = { _dpexu("BxccCxILEhMdBg=="), _dpexu("BxccCxILAg8CAgwDGhw="), _dpexu("BxccCxILAh8cAgE=") }, excludes = {} },
+{ group = _dpexu("OB0UDRUWIBMCBioLARc="), includes = { _dpexu("ExsCAQEOEh8="), _dpexu("ExsCARcKChsJ"), _dpexu("BhofEBcKChsJ"), _dpexu("Fh0fCBcAERQ=") }, excludes = { _dpexu("BxccCxIL"), _dpexu("EAMFDQM=") } },
+}
+local function nameMatches(_vrp, _vrq)
+local name = string.lower(tostring(_vrp))
+return #name >= (5 - 1) and (name == _vrq or string.find(_vrq, name, 1, true) or string.find(name, _vrq, 1, true))
+end
+function GunHelpers.overwriteSaved(tool, _vrr, _vrs)
+if not (tool and tool.Parent and _vrr and _vrr.Parent and _vrs) then return end
+local _vrt = (type(debug) == _dpexu("ARMSCBY=") and debug.getupvalue) or getupvalue
+local _vru = (type(debug) == _dpexu("ARMSCBY=") and debug.setupvalue) or setupvalue
+if type(getgc) ~= _dpexu("EwceBwcGCRQ=") or type(getfenv) ~= _dpexu("EwceBwcGCRQ=") or type(_vrt) ~= _dpexu("EwceBwcGCRQ=") or type(_vru) ~= _dpexu("EwceBwcGCRQ=") then
+if not GunHelpers.warnedNoUpvalues then
+GunHelpers.warnedNoUpvalues = true
+debugLog(_dpexu("IjMiKg=="), _dpexu("Lj8fABoJDxkRFxEFGwEtRCcHDwlQBgAPFgcECwFPBRseRAxKEBYZEFMORh0FDVgZFgAZFAdIFVoDAg4PEVIGBQEGBxgcBgtKXRwVARccRh0VFx8JWVIXAQcJAxQGQxkEEVIXAQcaFgwRDw0PWgEVEAYfEBscFh1DWVIDC1MdAxkfChRFBgICARILSQgVDxcLEV0WDQEKSwgRFx1KEBYZEABPCRQcGlgJHRMeAxZPEhIVQysPAQYZChRPEhsSDx1E"))
+end
+return
+end
+
+local previous = GunHelpers.savedChanges[_vrr] or {}
+local _vrv = {}
+for _, change in ipairs(previous) do
+if GunMods[change.group] then
+table.insert(_vrv, change)
+else
+setGunUpvalue(change.fn, change.index, change.original)
+debugLog(_dpexu("JjMmITcsKSop"), tool.Name .. _dpexu("T1ICAQAbCQgVB1g=") .. change.variable .. _dpexu("VQYfRA==") .. tostring(change.original))
+end
+end
+GunHelpers.savedChanges[_vrr] = _vrv
+
+local _vrw = {}
+for key, value in pairs(_vrs) do
+if type(value) == _dpexu("GwcdBhYd") and value ~= 0 then
+local _vrx = string.lower(tostring(key))
+for _, _vry in ipairs(savedGroups) do
+if GunMods[_vry.group] then
+local hit = false
+for _, _vrz in ipairs(_vry.includes) do
+if string.find(_vrx, _vrz, 1, true) then hit = true break end
+end
+for _, _vrz in ipairs(_vry.excludes) do
+if string.find(_vrx, _vrz, 1, true) then hit = false break end
+end
+if hit then
+local _vs0 = 0
+if _vry.group == _dpexu("OB0UDRUWIBMCBioLARc=") then
+_vs0 = value >= (6 - 1) and value * (6 - 2) or math.min(value, 0.02)
+end
+table.insert(_vrw, { key = _vrx, original = value, group = _vry.group, newValue = _vs0 })
+end
+end
+end
+end
+end
+if #_vrw == 0 then return end
+local applied = 0
+pcall(function()
+for _, candidate in ipairs(getgc(true)) do
+if type(candidate) == _dpexu("EwceBwcGCRQ=") then
+local _vs5, _vs6 = pcall(function() return getfenv(candidate).script end)
+if _vs5 and _vs6 == _vrr then
+for _vs7 = 1, (85 - 5) do
+local name, value, found = getGunUpvalue(candidate, _vs7)
+if not found then break end
+if type(value) == _dpexu("GwcdBhYd") then
+for _, target in ipairs(_vrw) do
+if math.abs(value - target.original) < 1e-6 and nameMatches(name, target.key) then
+local _vs8 = setGunUpvalue(candidate, _vs7, target.newValue)
+if _vs8 then
+applied += 1
+table.insert(_vrv, { fn = candidate, index = _vs7, original = value,
+group = target.group, variable = tostring(name) })
+debugLog(_dpexu("JjMmITcsKSop"), string.format(_dpexu("UAFKRFYcRl8DQ1VUVVcD"), tool.Name, tostring(name), tostring(value), tostring(target.newValue)))
+end
+break
+end
+end
+end
+end
+end
+end
+end
+end)
+if applied == 0 then
+debugLog(_dpexu("JjMmITcsKSop"), tool.Name .. _dpexu("T1IeC1McBwwVB1gJGgIZAQBPCRxQFxAPVRMTEBoZA1oDBgweHBwXF1MYAwgVQx4FABwURBoBRhMEEFgZFgAZFAdPThMEQwgYGhARBh8WRggVAhwZVQYYAR5PFQ4CAhENHQZQAgEAC1oECx1KJhcEEBoBAVoEAhoGEF5QCwFPEhIVQx8LGBdQABYMDx4VEFgeHRcdRBwBRg4YBlgZEAAGAQFGSA=="))
+end
+end
+GunMods.Helpers = GunHelpers
+end
+local function modWeapon(tool, _vs9, _vsa)
+if not tool or not tool:IsA(_dpexu("IR0fCA==")) then return end
+local _vsb = findSettingModule(tool)
+if not _vsb then
+
+return
+end
+local ok, module = pcall(require, _vsb)
+if not ok or type(module) ~= _dpexu("ARMSCBY=") then
+if not ReportedGunIssues[_vsb] then
+ReportedGunIssues[_vsb] = true
+debugLog(_dpexu("IjMiKg=="), _dpexu("Lj8fABoJDxkRFxEFGwEtRDAAExYUDV8eVR4fBRdPNR8EFxEEElIdCxcaCh9QBRcYVQ==") .. tool.Name .. _dpexu("T1I=") .. tostring(module))
+end
+return
+end
+if not OriginalModules[module] then
+local copy = {}
+for key, value in next, module do copy[key] = value end
+OriginalModules[module] = copy
+end
+local _vsc = OriginalModules[module]
+local changed = { fireRate = 0, reload = 0, equip = 0, recoil = 0, spread = 0, auto = 0, jam = 0, clip = 0, deep = 0 }
+local applied, _vsd = pcall(function()
+
+
+if GunMods.InfiniteAmmo or GunMods.InfiniteClips then
+module.LimitedAmmoEnabled = false
+else
+
+module.LimitedAmmoEnabled = _vsc.LimitedAmmoEnabled
+end
+
+
+local _vt7 = applyAliasedSetting(module, _vsc,
+{ _dpexu("NAcECw=="), _dpexu("NAcECx4OEhMT"), _dpexu("NAcECzUGFB8="), _dpexu("NAcECx4OEhMTJREYEA=="), _dpexu("MwccCDIaEhU="),
+_dpexu("MwccCDIaEhUdAgwDFg=="), _dpexu("MwccCAouEw4fDhkeHBE="), _dpexu("PAExEQcACxsEChs="), _dpexu("PAExEQcA"),
+_dpexu("NhMeJQYbCTwZER0="), _dpexu("IAEVJQYbCRcRFxEJ") },
+function(value)
+if GunMods.Automatic and type(value) == _dpexu("Fx0fCBYOCA==") then return true end
+return value
+end)
+local _vt8 = applyAliasedSetting(module, _vsc,
+{ _dpexu("MxsCAT4AAh8="), _dpexu("MxsCDR0IKxUUBg=="), _dpexu("IQAZAxQKFDcfBx0="), _dpexu("JhofCwcGCB09DBwP"), _dpexu("MxsCAScWFh8=") },
+function(value)
+if not GunMods.Automatic or type(value) ~= _dpexu("BgYCDR0I") then return value end
+local _vtq = string.lower(value)
+if _vtq == _dpexu("BhcdDQ==") or _vtq == _dpexu("BhcdDV4OEw4f") or _vtq == _dpexu("BhcdDRIaEhU=")
+or _vtq == _dpexu("BhcdDVMOEw4fDhkeHBE=") or _vtq == _dpexu("BhcdDV4OEw4fDhkeHBE=")
+or _vtq == _dpexu("BhseAx8K") or _vtq == _dpexu("BhseAx8KSwkYDAw=") or _vtq == _dpexu("FwcCFwc=") then
+if value == string.upper(value) then return _dpexu("NCckKw==") end
+if value == string.lower(value) then return _dpexu("FAcECw==") end
+return _dpexu("NAcECw==")
+end
+return value
+end)
+changed.auto = _vt7 + _vt8
+changed.jam = applyAliasedSetting(module, _vsc,
+{ _dpexu("PxMdJxsOCBkV"), _dpexu("PxMdNAEABBsSChQDAQs="), _dpexu("NhoRChAKMhU6AhU=") },
+function(value) return GunMods.NoJam and 0 or value end)
+
+
+local function _vta(value)
+if type(value) == _dpexu("GwcdBhYd") then return 0 end
+local _vtr = typeof(value)
+if _vtr == _dpexu("IxcTEBwdVA==") then return Vector2.zero end
+if _vtr == _dpexu("IxcTEBwdVQ==") then return Vector3.zero end
+if type(value) == _dpexu("ARMSCBY=") then
+local copy = {}
+for key, _vts in pairs(value) do copy[key] = _vta(_vts) end
+return copy
+end
+return value
+end
+local function _vtd(_vtt, _vtu, _vtv)
+local _vtw = 0
+for key, _vtx in pairs(_vsc) do
+local _vty = string.lower(tostring(key))
+local hit = false
+for _, _vtz in ipairs(_vtt) do
+if string.find(_vty, _vtz, 1, true) then hit = true break end
+end
+if hit then
+for _, _vtz in ipairs(_vtu) do
+if string.find(_vty, _vtz, 1, true) then hit = false break end
+end
+end
+if hit then
+local ok = pcall(function() module[key] = _vtv(_vtx) end)
+if ok then _vtw += 1 end
+end
+end
+return _vtw
+end
+changed.fireRate = _vtd(
+{ _dpexu("ExsCAQEOEh8="), _dpexu("ExsCASwdBw4V"), _dpexu("ExsCARcKChsJ"), _dpexu("BhofEBcKChsJ"), _dpexu("BhofCwcLAxYRGg=="), _dpexu("Fh0fCBcAERQ="), _dpexu("ARsdAREKEg0VBhY="), _dpexu("BhofEBoBEh8CFRkG") },
+{ _dpexu("BxccCxIL"), _dpexu("EAMFDQM=") },
+function(value)
+if not GunMods.ModifyFireRate or type(value) ~= _dpexu("GwcdBhYd") then return value end
+if value >= (9 - 4) then return value * (7 - 3) end 
+return math.min(value, 0.02) 
+end)
+changed.reload = _vtd(
+{ _dpexu("BxccCxILEhMdBg=="), _dpexu("BxccCxILAg8CAgwDGhw="), _dpexu("BxccCxILAh8cAgE="), _dpexu("BxccCxILOQ4ZDh0=") }, {},
+function(value) return GunMods.ModifyReload and _vta(value) or value end)
+changed.equip = _vtd(
+{ _dpexu("EAMFDQM="), _dpexu("BxcRAAobDxcV"), _dpexu("ERcACBwWEhMdBg=="), _dpexu("ARMbARwaEg=="), _dpexu("BQccCBwaEg==") },
+{ _dpexu("BgIVARc="), _dpexu("FBwZCQ=="), _dpexu("Bh0FChc="), _dpexu("Ax0cER4K"), _dpexu("HBY="), _dpexu("HhcJ"), _dpexu("EBwRBh8KAg=="), _dpexu("AQsAAQ==") },
+function(value) return GunMods.ModifyEquip and _vta(value) or value end)
+changed.recoil = _vtd(
+{ _dpexu("BxcTCxoD") }, { _dpexu("BxcTCwUKFA=="), _dpexu("BxcEEQEB"), _dpexu("BxcDAQc="), _dpexu("ERcTBQo="), _dpexu("BgIVARc="), _dpexu("ERMdFBYd"), _dpexu("BxcUEQcGCRQ="), _dpexu("BxcUERAbDxUe") },
+function(value) return GunMods.ModifyRecoil and _vta(value) or value end)
+changed.spread = _vtd(
+{ _dpexu("BgICARIL"), _dpexu("Fx4fCx4="), _dpexu("HBwRBxAaFBs=") }, {},
+function(value) return GunMods.ModifySpread and _vta(value) or value end)
+
+if _vsc.CameraRecoilingEnabled ~= nil then
+module.CameraRecoilingEnabled = GunMods.ModifyRecoil and false or _vsc.CameraRecoilingEnabled
+end
+if type(_vsc.CrossExpansion) == _dpexu("GwcdBhYd") then
+module.CrossExpansion = GunMods.ModifySpread and 0 or _vsc.CrossExpansion
+end
+
+
+
+do
+local _vti = GunMods.Helpers
+_vti.deepOriginals = _vti.deepOriginals or setmetatable({}, { __mode = _dpexu("Hg==") })
+_vti.deepSkip = _vti.deepSkip or setmetatable({}, { __mode = _dpexu("Hg==") })
+local _vtj = { _dpexu("BxcTCwUKFA=="), _dpexu("BxcEEQEB"), _dpexu("BxcDAQc="), _dpexu("ERcTBQo="), _dpexu("BgIVARc="), _dpexu("ERMdFBYd"), _dpexu("BxcUEQcGCRQ="), _dpexu("BxcUERAbDxUe") }
+local function _vtk(_vu0, _vu1)
+for _, _vu2 in ipairs(_vu1) do
+if string.find(_vu0, _vu2, 1, true) then return true end
+end
+return false
+end
+local function _vtl(key)
+local _vu3 = string.lower(tostring(key))
+if _vtk(_vu3, { _dpexu("BxcTCxoD") }) and not _vtk(_vu3, _vtj) then return _dpexu("BxcTCxoD") end
+if _vtk(_vu3, { _dpexu("BgICARIL"), _dpexu("Fx4fCx4="), _dpexu("HBwRBxAaFBs=") }) then return _dpexu("BgICARIL") end
+return nil
+end
+local function _vtm(_vu4, _vu5, seen, _vu6)
+if _vu5 > (7 - 3) or seen[_vu4] then return 0 end
+seen[_vu4] = true
+local entries = {}
+for key, value in pairs(_vu4) do entries[#entries + 1] = { key, value } end
+local _vu7 = 0
+for _, _vu8 in ipairs(entries) do
+local key, value = _vu8[1], _vu8[(3 - 1)]
+local _vu9 = _vtl(key)
+local _vua = typeof(value)
+if _vu9 and (_vua == _dpexu("GwcdBhYd") or _vua == _dpexu("IxcTEBwdVA==") or _vua == _dpexu("IxcTEBwdVQ==") or _vua == _dpexu("ARMSCBY=")) then
+if not _vu6 then
+local saved = _vti.deepOriginals[_vu4]
+if not saved then saved = {}; _vti.deepOriginals[_vu4] = saved end
+if saved[key] == nil then saved[key] = value end
+local active = (_vu9 == _dpexu("BxcTCxoD") and GunMods.ModifyRecoil) or (_vu9 == _dpexu("BgICARIL") and GunMods.ModifySpread)
+if pcall(function() _vu4[key] = active and _vta(saved[key]) or saved[key] end) then
+_vu7 += 1
+end
+end
+elseif _vua == _dpexu("ARMSCBY=") then
+_vu7 += _vtm(value, _vu5 + 1, seen, false)
+end
+end
+return _vu7
+end
+
+changed.deep = _vtm(module, 0, {}, true)
+for _, descendant in ipairs(tool:GetDescendants()) do
+if descendant:IsA(_dpexu("OB0UER8KNRkCCgge")) and descendant ~= _vsb and not _vti.deepSkip[descendant] then
+local _vtp, other = pcall(require, descendant)
+if _vtp and type(other) == _dpexu("ARMSCBY=") then
+changed.deep += _vtm(other, 0, {}, false)
+else
+_vti.deepSkip[descendant] = true 
+end
+end
+end
+end
+
+changed.clip = applyAliasedSetting(module, _vsc,
+{ _dpexu("NB8dCyMKFDcRBA=="), _dpexu("NB8dCyMKFDkcCgg="), _dpexu("OBMXBQkGCB8jCgIP"), _dpexu("Nh4ZFCAGHB8="), _dpexu("OBMIJR4CCSoVETULEg=="), _dpexu("OBMIJR4CCSoVETsGHAI=") },
+function(value)
+if GunMods.InfiniteAmmo or GunMods.InfiniteClips then
+if type(value) == _dpexu("GwcdBhYd") then return (1000166 - 167) end
+end
+return value
+end)
+end)
+if not applied then
+if not ReportedGunIssues[_vsb] then
+ReportedGunIssues[_vsb] = true
+debugLog(_dpexu("IjMiKg=="), _dpexu("Lj8fABoJDxkRFxEFGwEtRDAAExYUDV8eVRMAFB8WRgkVFwwDGxUDRAcARg==") .. tool.Name .. _dpexu("T1I=") .. tostring(_vsd))
+end
+return
+end
+local _vsx = findCompatibleGunLocalScript(tool)
+
+
+if _vs9 and not _vsx and GunMods.Automatic then
+debugLog(_dpexu("IjMiKg=="), _dpexu("LjUlKjI6MjUtQw==") .. tool.Name .. _dpexu("T1IeC1MMCRcAAgwDFx4VRBADDx8eF1gNABxQKBwMBxYjAAoDBQZQExIcRhwfFhYOTlITDBIBARMeBFgeHRdQNxYbEhMeBFgeFBAcAVMCBwNQDRceVREYBR0IA1oWCgoDGxVQBhYHBwwZDApE"))
+end
+if (GunMods.InfiniteAmmo or GunMods.InfiniteClips) and not _vsa then
+if not _vsx then
+reportAmmoIssue(tool, _dpexu("LjUlKiAsJzQtQw==") .. tool.Name .. _dpexu("T1IeC1MMCRcAAgwDFx4VRBADDx8eF1gNABxQKBwMBxYjAAoDBQZQExIcRhwfFhYOVQceABYdRg4YCgtKIR0fCF1PNR8EFxEEElITDBIBAR8DQxULDFIRFAMDH1ZQAQ0eVQAFCgcGCx9QAhUHGlIYCxwEFVoTAhYEGgZQBhZPBRUeBREYGBcUSg=="))
+elseif type(getsenv) ~= _dpexu("EwceBwcGCRQ=") then
+local reload = GunMods.Helpers.findReload(_vsx)
+if type(reload) == _dpexu("EwceBwcGCRQ=") then
+ReportedAmmoIssues[tool] = nil
+applyAmmoUpvalues(reload, tool.Name)
+else
+reportAmmoIssue(tool, _dpexu("LjUlKiAsJzQtQw==") .. tool.Name .. _dpexu("T1IWCwYBAlo=") .. _vsx.Name .. _dpexu("VRAFEFMbDhMDQx0SEBEFEBwdRhIREFgEGlIXAQccAxQGQxkEEVIEDBZPAR8EBBtKExMcCBEOBRFQABcfGRYeQwdPABMeB1gDAQFQNhYDCRsUQx4fGxEEDRwBXVoCFhYeHB8VRBICCxVQCxcFHgFQBQEKRg8eAg4LHB4RBh8KSA=="))
+end
+else
+local _vsy, _vsz = pcall(getsenv, _vsx)
+local reload = _vsy and _vsz and (_vsz.Reload or _vsz.reload)
+if type(reload) ~= _dpexu("EwceBwcGCRQ=") then
+
+reload = GunMods.Helpers.findReload(_vsx)
+end
+if type(reload) == _dpexu("EwceBwcGCRQ=") then
+ReportedAmmoIssues[tool] = nil
+applyAmmoUpvalues(reload, tool.Name)
+else
+local _vt0 = _vsy and _dpexu("Gx1QNhYDCRsUTBkHGB1QAgYBBQ4ZDBZKEx0FChdPEBMRQx8PAQEVCgVPCQhQBB0eEhE=") or (_dpexu("EhcEFxYBEFoWAhEGEBZKRA==") .. tostring(_vsz))
+reportAmmoIssue(tool, _dpexu("LjUlKiAsJzQtQw==") .. tool.Name .. _dpexu("T1IWCwYBAlo=") .. _vsx.Name .. _dpexu("VRAFEFM=") .. _vt0 .. _dpexu("TlICER0bDxcVQxkHGB1QDBwADQlQFB0YEFIeCwdPBwoADxEPEVw="))
+end
+end
+else
+ReportedAmmoIssues[tool] = nil
+end
+local _vt1 = table.concat({
+GunMods.InfiniteAmmo and _dpexu("PBwWDR0GEh8xDhUF") or "",
+GunMods.InfiniteClips and _dpexu("PBwWDR0GEh8zDxEaBg==") or "",
+GunMods.Automatic and _dpexu("NAcECx4OEhMT") or "",
+GunMods.NoJam and _dpexu("Ox06BR4=") or "",
+GunMods.ModifyRecoil and _dpexu("Ox0iARAADxY=") or "",
+GunMods.ModifySpread and _dpexu("Ox0jFAEKBx4=") or "",
+GunMods.ModifyFireRate and _dpexu("MxMDEDUGFB8iAgwP") or "",
+GunMods.ModifyReload and _dpexu("PBwDEBIBEigVDxcLEQ==") or "",
+GunMods.ModifyEquip and _dpexu("PBwDEBIBEj8BFhEa") or "",
+}, _dpexu("WQ=="))
+local _vt2 = table.concat({
+_vt1,
+changed.auto, changed.jam, changed.fireRate, changed.reload, changed.equip,
+changed.recoil, changed.spread, changed.clip,
+}, _dpexu("CQ=="))
+if LastGunApplySignature[tool] ~= _vt2 then
+local _vt3 = LastGunApplySignature[tool]
+LastGunApplySignature[tool] = _vt2
+
+local _vt4 = GunMods.InfiniteAmmo or GunMods.InfiniteClips or GunMods.Automatic
+or GunMods.NoJam or GunMods.ModifyRecoil or GunMods.ModifySpread
+or GunMods.ModifyFireRate or GunMods.ModifyReload or GunMods.ModifyEquip
+if _vsx and not _vs9 and (_vt3 ~= nil or _vt4) then
+GunMods.Helpers.schedule(tool, _vsx)
+end
+if _vsx then
+for _, _vt5 in ipairs({ 0.3, 2.5, (9 - 3) }) do
+task.delay(_vt5, function()
+if not Window.VeloUnloaded then pcall(GunMods.Helpers.overwriteSaved, tool, _vsx, _vsc) end
+end)
+end
+end
+debugLog(_dpexu("Mic+JSM/KiM="), string.format(
+_dpexu("UAFKRBIMEhMGBkUxUAEtRBIaEhU2Ch0GEQFNQRdPDBsdJREPGRYDWVYLRhwZER04FAYVIhoKCh4DXl0OVQAVCBwOAjwZBhQOBk9VAFMKFw8ZEz4DEB4UF05KAloCBhsFHB42DRYDAglNRhxKBgICARILIBMVDxwZSFcURB4OARsKChYPMxsVCBccW18UQxwPEAI2DRYDAglNRhw="),
+tool.Name, _vt1 ~= "" and _vt1 or _dpexu("Gx0eAQ=="),
+changed.auto, changed.jam, changed.fireRate, changed.reload, changed.equip,
+changed.recoil, changed.spread, changed.clip, changed.deep
+))
+local _vt6 = {}
+for _, key in ipairs({ _dpexu("MAMFDQM7DxcV"), _dpexu("MxsCASEOEh8="), _dpexu("JxccCxILMhMdBg=="), _dpexu("JxcTCxoD"), _dpexu("JgICARILPg=="), _dpexu("PxMdJxsOCBkV"), _dpexu("NAcECw==") }) do
+if _vsc[key] ~= nil then
+table.insert(_vt6, key .. _dpexu("VQ==") .. tostring(_vsc[key]) .. _dpexu("WEw=") .. tostring(module[key]))
+end
+end
+if #_vt6 > 0 then
+debugLog(_dpexu("Mic+JSM/KiM="), tool.Name .. _dpexu("VQQRCAYKFVpYDAoDEhseBR9CWBQfFFFQVQ==") .. table.concat(_vt6, _dpexu("WVI=")))
+end
+end
+end
+local function modAllWeapons(_vub)
+
+if not GunMods.IsDelta then
+GunMods.InfiniteAmmo = false
+GunMods.InfiniteClips = false
+GunMods.Automatic = false
+GunMods.NoJam = false
+end
+local _vuc = { LocalPlayer:FindFirstChildOfClass(_dpexu("NxMTDwMOBRE=")), LocalPlayer.Character }
+for _, _vud in ipairs(_vuc) do
+if _vud then
+for _, item in ipairs(_vud:GetChildren()) do
+if item:IsA(_dpexu("IR0fCA==")) then
+task.spawn(modWeapon, item, _vub == true)
+end
+end
+end
+end
+end
+
+
+
+do
+GunMods.Helpers.requireHookEnabled = true
+GunMods.Helpers.inRequireHook = false
+local announced = setmetatable({}, { __mode = _dpexu("Hg==") })
+if type(hookfunction) == _dpexu("EwceBwcGCRQ=") then
+local installed, installError = pcall(function()
+local _vue
+local function _vuf(target, ...)
+local result = _vue(target, ...)
+local _vuh = GunMods.Helpers
+if _vuh.requireHookEnabled and not _vuh.inRequireHook
+and typeof(target) == _dpexu("PBwDEBIBBR8=") and target:IsA(_dpexu("OB0UER8KNRkCCgge"))
+and (target.Name == _dpexu("JhcEEBoBAQ==") or target.Name == _dpexu("JhcEEBoBAQk=")) and type(result) == _dpexu("ARMSCBY=") then
+local tool = target:FindFirstAncestorOfClass(_dpexu("IR0fCA=="))
+if tool then
+_vuh.inRequireHook = true
+pcall(modWeapon, tool, false)
+_vuh.inRequireHook = false
+if not announced[tool] then
+announced[tool] = true
+debugLog(_dpexu("Mic+JSM/KiM="), tool.Name .. _dpexu("T1IXER1PFRkCCggeVR4fBRcKAloZFwtKJhcEEBoBAVodDBwfGRdLRBAaFAgVDQxKGB0UF1MYAwgVQxkaBR4ZARdPABMCEAxE"))
+end
+end
+end
+return result
+end
+_vue = hookfunction(require, type(newcclosure) == _dpexu("EwceBwcGCRQ=") and newcclosure(_vuf) or _vuf)
+end)
+if installed then
+debugLog(_dpexu("PDw2Kw=="), _dpexu("Lj8fABoJDxkRFxEFGwEtRCEKFw8ZER1KHR0fD1MGCAkEAhQGEBZKRB4AAglQAgoPVRMAFB8GAx5QFBAPG1IRRBQaCFoDAAoDBQZQCBwOAglQCgwZVQEVEAcGCB0DTQ=="))
+else
+GunMods.Helpers.requireHookEnabled = false
+debugLog(_dpexu("IjMiKg=="), _dpexu("Lj8fABoJDxkRFxEFGwEtRDAAExYUDV8eVRofCxhPFB8BFhEYEFJY") .. tostring(installError) .. _dpexu("XElQCRwLFVoRER1KFAIACBoKAloRBQwPB1IEDBZPAQ8eQwsJBxsAEFMHBwlQDxcLERcUSg=="))
+end
+else
+GunMods.Helpers.requireHookEnabled = false
+debugLog(_dpexu("IjMiKg=="), _dpexu("Lj8fABoJDxkRFxEFGwEtRCcHDwlQBgAPFgcECwFPDhsDQxYFVRofCxgJExQTFxEFG15QFxxPCxUUEFgLBxdQBQMfChMVB1gLEwYVFlMbDh9QBA0EVQETFhofEloYAgtKGR0RABYLSA=="))
+end
+end
+local function watchGunContainer(_vui)
+if not _vui or GunWatchConnections[_vui] then return end
+GunWatchConnections[_vui] = _vui.ChildAdded:Connect(function(item)
+if item:IsA(_dpexu("IR0fCA==")) then
+
+
+pcall(modWeapon, item, false)
+task.wait(0.1)
+
+
+modWeapon(item, false)
+end
+end)
+end
+local function updateGunMod(key, value)
+GunMods[key] = value
+if type(getgenv) == _dpexu("EwceBwcGCRQ=") then
+pcall(function() getgenv().GunMods = GunMods end)
+end
+task.spawn(modAllWeapons, false)
+GunMods.Helpers.scheduleRegrab()
+debugLog(_dpexu("PDw2Kw=="), _dpexu("Lj8fABoJDxkRFxEFGwEtRA==") .. key .. _dpexu("VU9Q") .. tostring(value))
+
+
+local _vuj = key == _dpexu("OB0UDRUWNB8TDBEG") or key == _dpexu("OB0UDRUWNQoCBhkO") or key == _dpexu("OB0UDRUWIBMCBioLARc=")
+or key == _dpexu("OB0UDRUWNB8cDBkO") or key == _dpexu("OB0UDRUWIwsFCgg=")
+if value and _vuj and type(hookfunction) ~= _dpexu("EwceBwcGCRQ=") and not GunMods.Helpers.warnedNeedRegrab then
+GunMods.Helpers.warnedNeedRegrab = true
+Rayfield:Notify({
+Title = _dpexu("IhcRFBwBRjcfBws="),
+Content = _dpexu("IRoZF1MKHh8TFgwFB1ITBR1IEloTCxkEEhdQBVMIExRQFxALAVIZF1MOCggVAhwTVR4fBRcKAlRQMwoPBgFQQzIfFhYJQzUFEQFQMBxPLh8cB1gtABxQTCEKSz0CAhpDUlJYCwFPFQ4fER1KFBwURAcODR9QFxAPVRUFClMAEw5QAh8LHBxZRAAARg4YBlgEEAVQBxwfH1oDFxkYAQFQExobDloECx1KGB0USg=="),
+Duration = (18 - 9),
+})
+end
+end
+local function createGunToggle(_vuk, key)
+GunsTab:CreateToggle({
+Name = _vuk,
+Flag = _dpexu("MgceKRwLOQ==") .. key,
+CurrentValue = GunMods[key],
+Callback = function(value)
+updateGunMod(key, value)
+end,
+})
+end
+
+
+
+GunMods.IsDelta = false
+pcall(function()
+local _vul = identifyexecutor or getexecutorname
+if type(_vul) == _dpexu("EwceBwcGCRQ=") then
+local _vum = _vul()
+if type(_vum) == _dpexu("BgYCDR0I") and string.find(string.lower(_vum), _dpexu("ERccEBI="), 1, true) then
+GunMods.IsDelta = true
+end
+end
+end)
+if GunMods.IsDelta then
+createGunToggle(_dpexu("PBwWDR0GEh9QIhUHGg=="), _dpexu("PBwWDR0GEh8xDhUF"))
+createGunToggle(_dpexu("PBwWDR0GEh9QIBQDBQE="), _dpexu("PBwWDR0GEh8zDxEaBg=="))
+createGunToggle(_dpexu("NAcECx4OEhMTQz4DBxc="), _dpexu("NAcECx4OEhMT"))
+createGunToggle(_dpexu("MRsDBREDA1o6AhUHHBwX"), _dpexu("Ox06BR4="))
+else
+debugLog(_dpexu("PDw2Kw=="), _dpexu("Lj8fABoJDxkRFxEFGwEtRDoBABMeCgwPVTMdCRxAJRYZEwtGVTMFEBwCBw4ZAFgsHAAVRBIBAlo0CgsLFx4VRDkOCxcZDR9KBxcdCwUKAkBQJx0GARNQAQsKBQ8EDApKGx0ERBcKEh8TFx0OWw=="))
+end
+DebugTab:CreateSection(_dpexu("MgceRDcGBx0eDAseHBED"))
+DebugTab:CreateButton({
+Name = _dpexu("OR0XRDsKCh5QJA0EVTseAhxPThwfEVgOEBAFAxQGCB1QDhcOBls="),
+Callback = function()
+local character = LocalPlayer.Character
+local tool = character and character:FindFirstChildOfClass(_dpexu("IR0fCA=="))
+if not tool then
+Rayfield:Notify({ Title = _dpexu("IhcRFBwBRjcfBws="), Content = _dpexu("PR0cAFMbDh9QBA0EVQsfEVMYBxQEQwwFVRseFwMKBQ5e"), Duration = (5 - 1) })
+return
+end
+debugLog(_dpexu("Mic+LT0pKQ=="), string.format(_dpexu("MAoVBwYbCQhKQx8PAQEVCgVSQwlQBB0eEhFNQQBPAR8EFggcFB4FAU5KFVoDBgwfBQQRCAYKW18DQwoPBAcZFhZSQwk="),
+type(getsenv), type(getgc), type((type(debug) == _dpexu("ARMSCBY=") and debug.getupvalue) or getupvalue),
+type((type(debug) == _dpexu("ARMSCBY=") and debug.setupvalue) or setupvalue), type(require)))
+debugLog(_dpexu("Mic+LT0pKQ=="), _dpexu("IR0fCElP") .. tool:GetFullName())
+for _, d in ipairs(tool:GetDescendants()) do
+local _vun = ""
+if d:IsA(_dpexu("OQcRNxwaFBkVIBcEARMZChYd")) then
+local _vuo, _vup = pcall(function() return d.Disabled end)
+_vun = _vuo and (_dpexu("VTYZFxINCh8UXg==") .. tostring(_vup)) or ""
+end
+debugLog(_dpexu("Mic+LT0pKQ=="), _dpexu("VVI=") .. d.ClassName .. _dpexu("VQ==") .. d:GetFullName() .. _vun)
+end
+local _vuq = findSettingModule(tool)
+if not _vuq then
+debugLog(_dpexu("Mic+LT0pKQ=="), _dpexu("Ox1QNxYbEhMeBFc5EAYEDR0IFVo9DBwfGRcjBwEGFg5QBRcfGxZQDR1PEhIZEFgeGh0cSg=="))
+else
+local _vur, module = pcall(require, _vuq)
+if not _vur or type(module) ~= _dpexu("ARMSCBY=") then
+debugLog(_dpexu("Mic+LT0pKQ=="), _dpexu("BxcBERodA1IjBgweHBwXTVMJBxMcBhxQVQ==") .. tostring(module))
+else
+local frozen = false
+pcall(function() frozen = table.isfrozen(module) end)
+local _vus
+pcall(function() _vus = getrawmetatable and getrawmetatable(module) end)
+debugLog(_dpexu("Mic+LT0pKQ=="), _dpexu("JhcEEBoBAVoEAhoGEFIWFhwVAxRN") .. tostring(frozen) .. _dpexu("VRoRFz4KEhsEAhoGEE8=") .. tostring(_vus ~= nil))
+local _vut = {}
+for k in pairs(module) do table.insert(_vut, tostring(k)) end
+table.sort(_vut)
+for _, k in ipairs(_vut) do
+local v = module[k]
+local text = type(v) == _dpexu("ARMSCBY=") and _dpexu("SQYRBh8KWA==") or tostring(v)
+debugLog(_dpexu("Mic+LT0pKQ=="), _dpexu("VVIjAQcbDxQXTQ==") .. k .. _dpexu("VVo=") .. typeof(v) .. _dpexu("XFJNRA==") .. string.sub(text, 1, (152 - 72)))
+end
+end
+end
+
+
+local function _vuu(_vuy, _vuz, _vv0, seen)
+if _vv0 > (8 - 4) or seen[_vuy] then return end
+seen[_vuy] = true
+for key, value in pairs(_vuy) do
+local _vv1 = string.lower(tostring(key))
+local _vv2 = string.find(_vv1, _dpexu("BxcTCxoD"), 1, true) or string.find(_vv1, _dpexu("BgICARIL"), 1, true)
+or string.find(_vv1, _dpexu("Fx4fCx4="), 1, true) or string.find(_vv1, _dpexu("HBwRBxAaFBs="), 1, true)
+if _vv2 then
+local text = type(value) == _dpexu("ARMSCBY=") and _dpexu("SQYRBh8KWA==") or tostring(value)
+debugLog(_dpexu("Mic+LT0pKQ=="), _dpexu("VVIrFhYMCRMcTAsaBxcRAC5P") .. _vuz .. _dpexu("Ww==") .. tostring(key) .. _dpexu("VVo=") .. typeof(value) .. _dpexu("XFJNRA==") .. string.sub(text, 1, (83 - 23)))
+end
+if type(value) == _dpexu("ARMSCBY=") then _vuu(value, _vuz .. _dpexu("Ww==") .. tostring(key), _vv0 + 1, seen) end
+end
+end
+for _, descendant in ipairs(tool:GetDescendants()) do
+if descendant:IsA(_dpexu("OB0UER8KNRkCCgge")) then
+local _vux, result = pcall(require, descendant)
+if _vux and type(result) == _dpexu("ARMSCBY=") then
+_vuu(result, descendant.Name, 0, {})
+else
+debugLog(_dpexu("Mic+LT0pKQ=="), _dpexu("VVI9CxcaCh8jAAoDBQZQ") .. descendant.Name .. _dpexu("VREfER8LRhQfF1gIEFICAQIaDwgVB0JK") .. tostring(result))
+end
+end
+end
+Rayfield:Notify({
+Title = _dpexu("IhcRFBwBRjcfBws="),
+Content = _dpexu("MgceRBoBABVQFAoDAQYVClMbCVo0BhofElIcCxQcRlIcChYPBlIDEBIdEhMeBFgdHAYYRCgoMzQ5LT4lKFte"),
+Duration = (7 - 2),
+})
+end,
+})
+GunsTab:CreateSection(_dpexu("IhcRFBwBRjIRDRwGHBwX"))
+GunsTab:CreateButton({
+Name = _dpexu("NAIACApPKxUUEFg+GlI4AR8LRj0FDVhCJxddIwEOBFM="),
+Callback = function()
+local character = LocalPlayer.Character
+local tool = character and character:FindFirstChildOfClass(_dpexu("IR0fCA=="))
+local _vv3 = character and character:FindFirstChildOfClass(_dpexu("PQcdBR0ADx4="))
+if not tool or not _vv3 then
+Rayfield:Notify({ Title = _dpexu("IhcRFBwBRjcfBws="), Content = _dpexu("PR0cAFMbDh9QBA0EVQsfEVMYBxQEQwwFVRMAFB8WRg4YBlgHGhYDRAcASA=="), Duration = (8 - 4) })
+return
+end
+local _vv4 = tool.Name
+task.spawn(function()
+
+
+local remote = game:GetService(_dpexu("JxcACBoMBw4VByseGgARAxY=")):FindFirstChild(_dpexu("NxMTDwMOBREiBhUFARc="))
+if not remote then
+Rayfield:Notify({ Title = _dpexu("IhcRFBwBRjcfBws="), Content = _dpexu("NxMTDwMOBREiBhUFARdQChwbRhwfFhYOVRseRAcHDwlQBBkHEFw="), Duration = (6 - 2) })
+return
+end
+_vv3:UnequipTools()
+task.wait(0.3)
+local _vv7, _vv8 = GunMods.Helpers.regrabTool(_vv4)
+if not _vv7 then
+Rayfield:Notify({
+Title = _dpexu("IhcRFBwBRjcfBws="),
+Content = _vv4 .. _dpexu("VRYZAB1IEloTDBUPVRARBxhPTg==") .. tostring(_vv8) .. _dpexu("XFxQMBIEA1oZF1gFAAZQCxVPHxUFEVgIFBEbFBIMDVoDFxcYFBUVSg=="),
+Duration = (14 - 6),
+})
+return
+end
+Rayfield:Notify({
+Title = _dpexu("IhcRFBwBRjcfBws="),
+Content = _dpexu("JxddAwEOBBgVB1g=") .. _vv4 .. _dpexu("VQUZEBtPEhIVQxsfBwAVCgdPCxUUEFZKPBRQDQdPAhMUDV8eVREfCRZPBBsTCFRKARMbAVMGElofFgxKGhRQHRwaFFoSAhsBBRMTD1McEhUCAh8PWw=="),
+Duration = (9 - 4),
+})
+end)
+end,
+})
+local function createHandlingToggle(_vv9, _vva)
+GunsTab:CreateToggle({
+Name = _vv9,
+Flag = _dpexu("MgceKRwLOQ==") .. _vva,
+CurrentValue = GunMods[_vva],
+Callback = function(value)
+updateGunMod(_vva, value)
+end,
+})
+end
+createHandlingToggle(_dpexu("Ox1QNhYMCRMc"), _dpexu("OB0UDRUWNB8TDBEG"))
+createHandlingToggle(_dpexu("Ox1QNwMdAxsU"), _dpexu("OB0UDRUWNQoCBhkO"))
+GunsTab:CreateButton({
+Name = _dpexu("MRsDBREDA1oxDxRKOB0UF1NJRigVEAwFBxdQNxYbEhMeBAs="),
+Callback = function()
+GunMods.InfiniteAmmo = false
+GunMods.InfiniteClips = false
+GunMods.Automatic = false
+GunMods.NoJam = false
+GunMods.ModifyRecoil = false
+GunMods.ModifySpread = false
+GunMods.ModifyFireRate = false
+GunMods.ModifyReload = false
+GunMods.ModifyEquip = false
+if type(getgenv) == _dpexu("EwceBwcGCRQ=") then
+pcall(function() getgenv().GunMods = GunMods end)
+end
+
+
+modAllWeapons(false)
+GunMods.Helpers.scheduleRegrab()
+debugLog(_dpexu("PDw2Kw=="), _dpexu("Lj8fABoJDxkRFxEFGwEtRDIDCloHBhkaGhxQCRwLFVoUCgsLFx4VAEhPCQgZBBEEFB5QBxIfEg8CBhxKBhcEEBoBAQlQER0ZAR0CARdPERIVER1KFAQRDR8OBBYVTQ=="))
+Rayfield:Notify({
+Title = _dpexu("IhcRFBwBRjcfBwtKJxcDAQc="),
+Content = _dpexu("NB4cRB4AAhMWChsLARsfCgBPBwgVQxcME1xQNhZCAwsFCghKARoVRBQaCEFQCh5KHAZQFwcGChZQABkEGx0ERBUGFB9cQwoPHx0ZClMbDh9QEB0YAxcCRAcARggVEB0eVRsEF1MMChMVDQxKBhECDQMbFVQ="),
+Duration = (14 - 7),
+})
+end,
+})
+local backpackForGunMods = LocalPlayer:FindFirstChildOfClass(_dpexu("NxMTDwMOBRE="))
+watchGunContainer(backpackForGunMods)
+if LocalPlayer.Character then watchGunContainer(LocalPlayer.Character) end
+VeloTrack(LocalPlayer.CharacterAdded:Connect(function(character)
+watchGunContainer(character)
+local backpack = LocalPlayer:WaitForChild(_dpexu("NxMTDwMOBRE="))
+watchGunContainer(backpack)
+task.wait(0.25)
+modAllWeapons(false)
+end))
+task.spawn(function()
+while task.wait(1) and not Window.VeloUnloaded do
+modAllWeapons()
+end
+end)
+modAllWeapons()
+debugLog(_dpexu("PDw2Kw=="), _dpexu("LjAFDR8LO1omBhQFPQcSRBEaDxYUQ09QVQEYBQEKAloUFggPVRYVCBIWSloEFhYPEVI2CBwAAlZQBA0EVQEcDRcKFFoYChYeBl5QCx0KSw4ZDh1KMic+NzAuKFoHAgoEHBwXSg=="))
+DebugTab:CreateSection(_dpexu("MAoVBwYbCQhQRVg9EBMACx1PIhMRBBYFBgYZBwA="))
+DebugTab:CreateButton({
+Name = _dpexu("MAoVBwYbCQhQIBcHBRMEDREGChMEGlg4EAIfFgc="),
+Callback = function()
+local name, _vvb = _dpexu("ABwbChwYCA=="), ""
+pcall(function()
+local _vvh = identifyexecutor or getexecutorname
+if type(_vvh) == _dpexu("EwceBwcGCRQ=") then name, version = _vvh() end
+end)
+local _vvd = VeloCompat or {}
+local function has(f) return type(f) == _dpexu("EwceBwcGCRQ=") and _dpexu("DBcD") or _dpexu("Oz0=") end
+local _vve = (type(debug) == _dpexu("ARMSCBY=") and debug.getupvalue) or getupvalue
+local _vvf = (type(debug) == _dpexu("ARMSCBY=") and debug.setupvalue) or setupvalue
+local lines = {
+_dpexu("MAoVBwYbCQhKQw==") .. tostring(name) .. _dpexu("VQ==") .. tostring(_vvb or ""),
+_dpexu("ExsCAQMdCQIZDhEeDAICCx4fEloeAgwDAxdKRA==") .. (_vvd.nativeFireProx and _dpexu("DBcD") or _dpexu("Oz1QTAYcDxQXQxEEBQcERBUOChYSAhsBXA==")),
+_dpexu("ExsCARADDxkbBx0eEBEECwFVRg==") .. has(fireclickdetector),
+_dpexu("EhcEFxYBEEBQ") .. has(getsenv) .. _dpexu("VQ5QAxYbARlKQw==") .. has(getgc) .. _dpexu("VQ5QAxYbAB8eFUJK") .. has(getfenv),
+_dpexu("ERcSERRPEwoGAhQfEFIXAQdAFR8EWVg=") .. has(_vve) .. _dpexu("Wg==") .. has(_vvf),
+_dpexu("BhcEBx8GFhgfAgoOT1I=") .. has(setclipboard) .. _dpexu("VQ5QAxYbDg8ZWVg=") .. has(gethui),
+_dpexu("HR0fDxUaCBkEChcET1I=") .. has(hookfunction) .. _dpexu("VQ5QChYYBRkcDAsfBxdKRA==") .. has(newcclosure),
+_dpexu("HQYEFFMdAwsFBgseVRQeXlM=") .. has(_vvd.request),
+}
+for _, _vvg in ipairs(lines) do debugLog(_dpexu("Nj09NDI7"), _vvg) end
+Rayfield:Notify({
+Title = _dpexu("MAoVBwYbCQhQIBcHBRMEDREGChMEGg=="),
+Content = table.concat(lines, _dpexu("fw==")),
+Duration = (13 - 1),
+})
+end,
+})
+DebugTab:CreateButton({
+Name = _dpexu("JhERClNJRigVAggaGQtQMxYOFhUeQysPAQYZChQc"),
+Callback = function()
+modAllWeapons(false)
+task.wait(0.3)
+local backpack = LocalPlayer:FindFirstChildOfClass(_dpexu("NxMTDwMOBRE="))
+local _vvi = {backpack, LocalPlayer.Character}
+local _vvj, _vvk, _vvl, _vvm, _vvn = 0, 0, 0, 0, 0
+local _vvo = {}
+for _, _vvp in ipairs(_vvi) do
+if _vvp then
+for _, tool in ipairs(_vvp:GetChildren()) do
+if tool:IsA(_dpexu("IR0fCA==")) then
+_vvj += 1
+local _vvq = findSettingModule(tool)
+local _vvr = findCompatibleGunLocalScript(tool)
+if _vvr then _vvn += 1 end
+if _vvq and _vvq:IsA(_dpexu("OB0UER8KNRkCCgge")) then
+_vvk += 1
+local ok, module = pcall(require, _vvq)
+if ok and type(module) == _dpexu("ARMSCBY=") then
+_vvl += 1
+table.insert(_vvo, tool.Name .. _dpexu("T1IjAQcbDxQXQzchTlIxEQcAWw==") .. tostring(module.Auto)
+.. _dpexu("WVIxEQcACxsEChtX") .. tostring(module.Automatic)
+.. _dpexu("WVI2DQEKKxUUBkU=") .. tostring(module.FireMode)
+.. _dpexu("WVI2DQEGCB09DBwPSA==") .. tostring(module.FiringMode)
+.. _dpexu("WVI6BR4sDhseAB1X") .. tostring(module.JamChance)
+.. _dpexu("WVI2DQEKNBsEBkU=") .. tostring(module.FireRate)
+.. _dpexu("WVIiAR8ABx4kChUPSA==") .. tostring(module.ReloadTime)
+.. _dpexu("WVI1FQYGFi4ZDh1X") .. tostring(module.EquipTime)
+.. _dpexu("WVIjFAEKBx5N") .. tostring(module.Spread)
+.. _dpexu("WVIiARAADxZN") .. tostring(module.Recoil)
+.. _dpexu("WVI8DR4GEh8UIhUHGjceBREDAx5N") .. tostring(module.LimitedAmmoEnabled)
+.. _dpexu("WVIxCR4ANh8CLhkNSA==") .. tostring(module.AmmoPerMag)
+.. (_vvr and _dpexu("TlI3ER08BQgZEww1OR0TBR9PABUFDRw=") or _dpexu("TlI3ER08BQgZEww1OR0TBR9PCxMDEBEEEg==")))
+
+local _vvs = {}
+for key, value in pairs(module) do
+local _vvt = type(value) == _dpexu("ARMSCBY=") and _dpexu("XQYRBh8KTw==") or tostring(value)
+table.insert(_vvs, _dpexu("VVJQRCAqMi45LT9K") .. tostring(key) .. _dpexu("VU9Q") .. _vvt .. _dpexu("VSk=") .. typeof(value) .. _dpexu("KA=="))
+end
+table.sort(_vvs)
+for _, _vvu in ipairs(_vvs) do table.insert(_vvo, _vvu) end
+
+local _vvv, _vvw = {}, {}
+for _, part in ipairs(tool:GetDescendants()) do
+local _vvx = part:GetFullName()
+if not string.find(_vvx, _dpexu("PRsEIRUJAxkE"), 1, true) then
+if part:IsA(_dpexu("NBwZCRIbDxUe")) then
+table.insert(_vvv, _dpexu("VVJQRCcgKTZQIhYDGBMEDRwBRg==") .. _vvx .. _dpexu("VVo=") .. tostring(part.AnimationId) .. _dpexu("XA=="))
+elseif part:IsA(_dpexu("OQcRNxwaFBkVIBcEARMZChYd")) or part:IsA(_dpexu("IxMcERYtBwkV")) then
+table.insert(_vvw, _dpexu("VVJQRCcgKTZQ") .. part.ClassName .. _dpexu("VQ==") .. _vvx)
+end
+end
+end
+for _, _vvu in ipairs(_vvv) do table.insert(_vvo, _vvu) end
+for _vvy, _vvu in ipairs(_vvw) do
+if _vvy > (80 - 40) then break end
+table.insert(_vvo, _vvu)
+end
+if _vvr and type(getsenv) == _dpexu("EwceBwcGCRQ=") and type(debug) == _dpexu("ARMSCBY=") and type(debug.getupvalue) == _dpexu("EwceBwcGCRQ=") then
+local _vvz, _vw0 = pcall(getsenv, _vvr)
+local _vw1 = _vvz and _vw0 and _vw0.Reload
+if type(_vw1) == _dpexu("EwceBwcGCRQ=") then
+for _vw2 = 1, (158 - 78) do
+local _vw3, _vw4, _vw5 = pcall(debug.getupvalue, _vw1, _vw2)
+if not _vw3 or _vw4 == nil then break end
+table.insert(_vvo, _dpexu("VVJQRCEKChURB1gfBQQRCAYKRg==") .. tostring(_vw2) .. _dpexu("VQ==") .. tostring(_vw4) .. _dpexu("SA==") .. tostring(_vw5))
+end
+else
+table.insert(_vvo, _dpexu("VVJQRCEKChURB1gfBQQRCAYKFVoFDRkcFBscBREDA0BQMR0GGhMURBUaCBkEChcEVRwfEFMJCQ8eBw=="))
+end
+end
+else
+_vvm += 1
+table.insert(_vvo, tool.Name .. _dpexu("T1IjAQcbDxQXQwoPBAcZFhZPABsZDx0OT1I=") .. tostring(module))
+end
+else
+table.insert(_vvo, tool.Name .. _dpexu("T1IeC1MLAwkTBhYOFBwERD4AAg8cBisJBxsAEFMBBxcVB1g5EAYEDR0ISSkVFwwDGxUD"))
+end
+end
+end
+end
+end
+for _, _vvu in ipairs(_vvo) do debugLog(_dpexu("Mic+NzAuKA=="), _vvu) end
+debugLog(_dpexu("PDw2Kw=="), string.format(_dpexu("Lj8fABoJDxkRFxEFGwEtRCAMBxRKQ10OVQYfCx8cSlpVB1g5EAYEDR0IRhcfBw0GEAFcRFYLRhYfAhwPEV5QQRdPABsZDx0OWVJVAFMoExQjAAoDBQYvKBwMBxZQEBsYHAIEF10="), _vvj, _vvk, _vvl, _vvm, _vvn))
+Rayfield:Notify({
+Title = _dpexu("OB0UDRUGBRsEChcEVSETBR0="),
+Content = string.format(_dpexu("UBZQEBwACglLQ10OVSEVEAcGCB1QDhcOAB4VF1MJCQ8eB0NKUBZQCBwOAh8UWFhPEVIWBRoDAx5eQzwPARMZCABPBwgVQxEEVTYVBgYIARMeBFgeFBBQhvX9RjkfEwFKMRcSERRPKhUXEFY="), _vvj, _vvk, _vvl, _vvm),
+Duration = (9 - 3),
+})
+end,
+})
+DebugTab:CreateButton({
+Name = _dpexu("Nh0AHVMnAxYUQz8fG1IjAQcbDxQXEA=="),
+Callback = function()
+local character = LocalPlayer.Character
+local tool = character and character:FindFirstChildOfClass(_dpexu("IR0fCA=="))
+if not tool then
+Rayfield:Notify({ Title = _dpexu("MgceRCAKEg4ZDR8Z"), Content = _dpexu("PR0cAFMORh0FDVgMHAADEF0="), Duration = (4 - 1) })
+return
+end
+local _vw6 = findSettingModule(tool)
+local ok, module = false, nil
+if _vw6 and _vw6:IsA(_dpexu("OB0UER8KNRkCCgge")) then ok, module = pcall(require, _vw6) end
+if not ok or type(module) ~= _dpexu("ARMSCBY=") then
+Rayfield:Notify({ Title = _dpexu("MgceRCAKEg4ZDR8Z"), Content = _dpexu("Nh0FCBcBQQ5QER0LEVIEDBocRh0FDV8ZVSEVEAcGCB1QDhcOAB4VSg=="), Duration = (6 - 2) })
+return
+end
+local lines = {}
+for key, value in pairs(module) do
+local _vw7 = type(value) == _dpexu("ARMSCBY=") and _dpexu("XQYRBh8KTw==") or tostring(value)
+table.insert(lines, tostring(key) .. _dpexu("VU9Q") .. _vw7 .. _dpexu("VSk=") .. typeof(value) .. _dpexu("KA=="))
+end
+table.sort(lines)
+local text = tool.Name .. _dpexu("VQEVEAcGCB0DWXI=") .. table.concat(lines, _dpexu("fw=="))
+local copied = type(setclipboard) == _dpexu("EwceBwcGCRQ=") and pcall(setclipboard, text)
+for _, _vw8 in ipairs(lines) do debugLog(_dpexu("Mic+NzAuKA=="), _dpexu("VVJQRCAqMi45LT9K") .. _vw8) end
+Rayfield:Notify({
+Title = _dpexu("MgceRCAKEg4ZDR8Z"),
+Content = copied and (#lines .. _dpexu("VQEVEAcGCB0DQxsFBRsVAFMbCVoJDA0YVREcDQMNCRsCB1ZKJRMDEBZPEhIVDlgDG1IEDBZPBRIRF1Y="))
+or (#lines .. _dpexu("VQEVEAcGCB0DQw8PBxdQEwEGEg4VDVgeGlIEDBZPIh8SFh9KGR0XRFsMChMAARcLBxZQDQABQQ5QAg4LHB4RBh8KRhIVER1DWw==")),
+Duration = (10 - 4),
+})
+end,
+})
+
+
+
+VeloTrack(LocalPlayer.CharacterAdded:Connect(function()
+
+if flyConnection then flyConnection:Disconnect() flyConnection = nil end
+bodyVelocity, bodyGyro = nil, nil
+currentVelocity = Vector3.zero
+if State.Flying then
+task.wait(0.5) 
+local _, _vw9 = getParts()
+if _vw9 then
+startFly()
+else
+State.Flying = false
+FlyToggle:Set(false)
+end
+end
+end))
+
+
+
+DebugTab:CreateSection(_dpexu("JhofFFMrDxsXDRcZARsTFw=="))
+DebugTab:CreateButton({
+Name = _dpexu("JhERClMhAxsCAQFKJhofFFM/FBUdEwwZ"),
+Callback = function()
+local _vwa = getNearbyShopPromptReport((45 - 5))
+debugLog(_dpexu("Jjo/NA=="), _dpexu("OxcRFhEWRikYDAhKMRsRAx0AFQ4ZAAtQVQ==") .. tostring(_vwa))
+Rayfield:Notify({
+Title = _dpexu("JhofFFMrDxsXDRcZARsTFw=="),
+Content = _dpexu("JhERClMcBwwVB1geGlIEDBZPIh8SFh9KGR0XSlM6FR9QIBcaDFI0AREaAVo8DB8ZVQYfRBAAFgNQFxAPVQAVFwYDElQ="),
+Duration = (7 - 3),
+})
+end,
+})
+DebugTab:CreateSection(_dpexu("Nh0eFxwDAw=="))
+DebugTab:CreateToggle({
+Name = _dpexu("MRcSERRPJRUeEBcGEA=="),
+CurrentValue = false,
+Flag = _dpexu("MRcSERQsCRQDDBQPMBwRBh8KAg=="),
+Callback = function(enabled)
+DebugConsoleEnabled = enabled
+if DebugParagraph then
+if enabled then
+refreshDebugParagraph()
+else
+pcall(function()
+DebugParagraph:Set({
+Title = _dpexu("MRcSERRPJRUeEBcGEFI/EQcfEw4="),
+Content = _dpexu("Nh0eFxwDA1oYChwOEBxeRCcaFBRQDBZKMRcSERRPJRUeEBcGEFIEC1MZDx8HQxsLBQYFFhYLRhcVEAsLEhcDSg=="),
+})
+end)
+end
+end
+end,
+})
+DebugParagraph = DebugTab:CreateParagraph({
+Title = _dpexu("MRcSERRPJRUeEBcGEFI/EQcfEw4="),
+Content = _dpexu("Nh0eFxwDA1oYChwOEBxeRCcaFBRQDBZKMRcSERRPJRUeEBcGEFIEC1MZDx8HQxsLBQYFFhYLRhcVEAsLEhcDSg=="),
+})
+DebugTab:CreateButton({
+Name = _dpexu("Nh0AHVMrAxgFBFgmGhUD"),
+Callback = function()
+local source = DebugLogBuffer.Full or DebugLogBuffer
+local _vwb = #source > 0
+and table.concat(source, _dpexu("fw=="))
+or _dpexu("Ox1QCBwIRh8eFwoDEAFQHRYbSA==")
+local copied = false
+local _vwc = nil
+if type(setclipboard) == _dpexu("EwceBwcGCRQ=") then
+local ok, _vwd = pcall(setclipboard, _vwb)
+copied = ok
+_vwc = _vwd
+elseif type(toclipboard) == _dpexu("EwceBwcGCRQ=") then
+local ok, _vwd = pcall(toclipboard, _vwb)
+copied = ok
+_vwc = _vwd
+else
+_vwc = _dpexu("IRoZF1MKHh8TFgwFB1IUCxYcRhQfF1gPDQIfFxZPFR8EABQDBRAfBQELSQ4fABQDBRAfBQELSA==")
+end
+if copied then
+Rayfield:Notify({
+Title = _dpexu("MRcSERRPJRUeEBcGEA=="),
+Content = _dpexu("Nh0ADRYLRhscD1g=") .. tostring(#(DebugLogBuffer.Full or DebugLogBuffer)) .. _dpexu("VR4fA1MKCA4CCh0ZVQYfRBADDwoSDBkYEVw="),
+Duration = (5 - 2),
+})
+else
+Rayfield:Notify({
+Title = _dpexu("Nh4ZFBEABwgUQy0EFAQRDR8OBBYV"),
+Content = tostring(_vwc or _dpexu("Nh0FCBdPCBUEQxsFBQtQCBwIFVQ=")),
+Duration = (7 - 2),
+})
+debugLog(_dpexu("IjMiKg=="), _dpexu("Nh0AHVMrAxgFBFgmGhUDRBUODxYVB0JK") .. tostring(_vwc))
+end
+end,
+})
+DebugTab:CreateButton({
+Name = _dpexu("Nh4VBQFPIh8SFh9KOR0X"),
+Callback = function()
+table.clear(DebugLogBuffer)
+if DebugConsoleEnabled then
+refreshDebugParagraph()
+elseif DebugParagraph then
+pcall(function()
+DebugParagraph:Set({
+Title = _dpexu("MRcSERRPJRUeEBcGEFI/EQcfEw4="),
+Content = _dpexu("Nh0eFxwDA1oYChwOEBxeRCcaFBRQDBZKMRcSERRPJRUeEBcGEFIEC1MZDx8HQxsLBQYFFhYLRhcVEAsLEhcDSg=="),
+})
+end)
+end
+end,
+})
+MainTab:CreateSection(_dpexu("IBwcCxIL"))
+MainTab:CreateButton({
+Name = _dpexu("IBwcCxILRikTEREaAQ=="),
+Callback = function()
+task.spawn(function()
+pcall(function()
+Rayfield:Notify({ Title = _dpexu("IBwcCxIL"), Content = _dpexu("IBwcCxILDxQXQy4PGR04ERFBSFQ="), Duration = (4 - 2) })
+end)
+
+pcall(function() GunMods.Helpers.autoRegrab = false; GunMods.Helpers.requireHookEnabled = false end)
+
+pcall(function()
+State.Flying = false
+cleanupFly()
+setNoclip(false)
+end)
+pcall(function() Bronx.SpectateTarget = nil end)
+
+
+for _, toggle in ipairs(Window.VeloToggles or {}) do
+pcall(function()
+if toggle.CurrentValue then toggle:Set(false) end
+end)
+end
+pcall(function()
+for key, value in pairs(Bronx) do
+if value == true then Bronx[key] = false end
+end
+end)
+
+task.wait(0.6)
+
+Window.VeloUnloaded = true
+for _, _vwh in ipairs(Window.VeloConnections or {}) do
+pcall(function() _vwh:Disconnect() end)
+end
+pcall(function()
+for _, _vwk in pairs(GunWatchConnections) do _vwk:Disconnect() end
+end)
+
+pcall(function()
+for _, item in pairs(bxEspObjects) do
+pcall(function() item.Highlight:Destroy() end)
+pcall(function() item.Billboard:Destroy() end)
+end
+table.clear(bxEspObjects)
+end)
+pcall(function() bxEspFolder:Destroy() end)
+pcall(function() bxColorEffect:Destroy() end)
+pcall(function()
+local _vwl = Workspace.CurrentCamera
+local _, _vwm = getParts()
+if _vwl and _vwm then _vwl.CameraSubject = _vwm end
+end)
+pcall(restoreMouseCursor)
+VeloTrack, VeloHttpGet, VeloCompat = nil, nil, nil
+
+pcall(function() Rayfield:Destroy() end)
+end)
+end,
+})
+Rayfield:LoadConfiguration()
